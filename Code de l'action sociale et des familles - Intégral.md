@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-03-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L572-5)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L148-2)](#2)
@@ -170,12 +170,13 @@ Version Consolidée au 2004-02-24
       - [Titre V : Territoire des îles Wallis et Futuna (art. L551-1 à L552-5)](#167)
         - [Chapitre Ier : Accès aux origines personnelles (art. L551-1 à L551-2)](#168)
         - [Chapitre II : Statut des pupilles de l'Etat. (art. L552-1 à L552-5)](#169)
-      - [Titre VI : Polynésie française (art. L561-1 à L562-5)](#170)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L561-1 à L561-2)](#171)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L562-1 à L562-5)](#172)
-      - [Titre VII : Nouvelle-Calédonie (art. L571-1 à L572-5)](#173)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L571-1 à L571-2)](#174)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L572-1 à L572-5)](#175)
+      - [Titre VI : Polynésie française (art. L560-1 à L562-5)](#170)
+        - [Chapitre Ier A : Dispositions relatives à l'obligation alimentaire (art. L560-1 à L560-3)](#171)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L561-1 à L561-2)](#172)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L562-1 à L562-5)](#173)
+      - [Titre VII : Nouvelle-Calédonie (art. L571-1 à L572-5)](#174)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L571-1 à L571-2)](#175)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L572-1 à L572-5)](#176)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -28198,7 +28199,99 @@ _Anciens textes_:
 
 ### Titre VI : Polynésie française<a id=170></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=171></a>
+#### Chapitre Ier A : Dispositions relatives à l'obligation alimentaire<a id=171></a>
+
+###### Article L560-1
+
+Les articles L. 132-6 à L. 132-10 sont applicables en Polynésie française sous réserve des adaptations prévues au présent
+chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2004-193 du 27 février 2004 - art. 26 () JORF 2 mars 2004
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L132-6 (V)
+
+
+###### Article L560-2
+
+Dans le deuxième alinéa de l'article L. 132-6, les mots : " la commission " sont remplacés par les mots : " l'organisme ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2004-193 du 27 février 2004 - art. 26 () JORF 2 mars 2004
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L132-6 (V)
+
+
+###### Article L560-3
+
+I. - Pour l'application de l'article L. 132-7, les mots : "le représentant de l'Etat ou le président du conseil général" sont
+remplacés par les mots : "l'autorité territorialement compétente" et les mots : "selon le cas, à l'Etat ou au département"
+sont remplacés par les mots : "à la collectivité compétente".
+
+II. - Pour l'application du premier alinéa de l'article L. 132-8, les mots : "selon le cas, par l'Etat ou le département"
+sont remplacés par les mots : "par la collectivité compétente".
+
+III. - Pour l'application de l'avant-dernier alinéa de l'article L. 132-8, les mots : "de soins de ville prévus par l'article
+L. 111-2 et la prise en charge du forfait journalier," sont supprimés.
+
+IV. - Pour l'application du dernier alinéa de l'article L. 132-8, les mots : "ou de la prise en charge du forfait journalier"
+sont supprimés.
+
+V. - Pour l'application du premier alinéa de l'article L. 132-9, les mots : "le représentant de l'Etat ou le président du
+conseil général" sont remplacés par les mots : "l'autorité territorialement compétente".
+
+VI. - Pour l'application du dernier alinéa de l'article L. 132-9, les mots : "et la prise en charge du forfait journalier"
+sont supprimés.
+
+VII. - Pour l'application de l'article L. 132-10, les mots :
+
+"L'Etat ou le département sont, dans la limite des prestations allouées, subrogés" sont remplacés par les mots : "La
+collectivité compétente est, dans la limite des prestations allouées, subrogée".
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2004-193 du 27 février 2004 - art. 26 () JORF 2 mars 2004
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L132-10 (V)
+  - Code de l'action sociale et des familles - art. L132-7 (V)
+  - Code de l'action sociale et des familles - art. L132-8 (M)
+  - Code de l'action sociale et des familles - art. L132-9 (M)
+
+
+#### Chapitre Ier : Accès aux origines personnelles<a id=172></a>
 
 ###### Article L561-1
 
@@ -28302,7 +28395,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L562-2 (M)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=172></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=173></a>
 
 ###### Article L562-1
 
@@ -28542,9 +28635,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L561-5 (T)
 
 
-### Titre VII : Nouvelle-Calédonie<a id=173></a>
+### Titre VII : Nouvelle-Calédonie<a id=174></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=174></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=175></a>
 
 ###### Article L571-1
 
@@ -28648,7 +28741,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L572-2 (M)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=175></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=176></a>
 
 ###### Article L572-1
 
