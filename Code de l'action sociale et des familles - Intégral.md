@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2003-04-01
+Version Consolidée au 2003-08-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L572-5)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L148-2)](#2)
@@ -1008,9 +1008,9 @@ _Cite_:
 
 ###### Article L121-2
 
-Dans les lieux où se manifestent des risques d'inadaptation sociale, le département participe aux actions visant à prévenir
-la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et des familles, qui peuvent prendre une ou
-plusieurs des formes suivantes :
+Dans les zones urbaines sensibles et dans les lieux où se manifestent des risques d'inadaptation sociale le département
+participe aux actions visant à prévenir la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et
+des familles, qui peuvent prendre une ou plusieurs des formes suivantes :
 
 1° Actions tendant à permettre aux intéressés d'assurer leur propre prise en charge et leur insertion sociale ;
 
@@ -1030,7 +1030,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
+  - Loi n°2003-710 du 1 août 2003 - art. 57 () JORF 2 août 2003
 
 _Cité par_:
 
