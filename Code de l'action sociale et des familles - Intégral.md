@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2001-12-26
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L571-5)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L145-4)](#2)
@@ -34,7 +34,7 @@ Version Consolidée au 2001-12-26
         - [Chapitre Ier : Associations familiales. (art. L211-1 à L211-14)](#31)
         - [Chapitre II : Aide sociale aux familles. (art. L212-1 à L212-2)](#32)
         - [Chapitre III : Education et conseil familial. (art. L213-1 à L213-2)](#33)
-        - [Chapitre IV : Accueil des jeunes enfants. (art. L214-2 à L214-4)](#34)
+        - [Chapitre IV : Accueil des jeunes enfants. (art. L214-1 à L214-4)](#34)
         - [Chapitre V : Dispositions diverses en faveur des familles. (art. L215-1 à L215-3)](#35)
       - [Titre II : Enfance (art. L221-1 à L228-6)](#36)
         - [Chapitre Ier : Service de l'aide sociale à l'enfance. (art. L221-1 à L221-9)](#37)
@@ -52,108 +52,114 @@ Version Consolidée au 2001-12-26
         - [Chapitre VI : Protection des mineurs maltraités. (art. L226-1 à L226-13)](#49)
         - [Chapitre VII : Mineurs accueillis hors du domicile parental. (art. L227-1 à L227-12)](#50)
         - [Chapitre VIII : Dispositions financières. (art. L228-1 à L228-6)](#51)
-      - [Titre III : Personnes âgées (art. L231-1 à L232-25)](#52)
+      - [Titre III : Personnes âgées (art. L231-1 à L232-28)](#52)
         - [Chapitre Ier : Aide à domicile et placement. (art. L231-1 à L231-6)](#53)
-        - [Chapitre II : Aide aux personnes dépendantes (art. L232-1 à L232-25)](#54)
-          - [Section 1 : Dispositions générales. (art. L232-1 à L232-16)](#55)
-          - [Section 2 : Prestation spécifique dépendance à domicile. (art. L232-17 à L232-22)](#56)
-          - [Section 3 : Prestation spécifique dépendance en établissement. (art. L232-23)](#57)
-          - [Section 4 : Dispositions communes. (art. L232-24 à L232-25)](#58)
-      - [Titre IV : Personnes handicapées (art. L241-1 à L246-1)](#59)
-        - [Chapitre Ier : Dispositions générales. (art. L241-1 à L241-4)](#60)
-        - [Chapitre II : Education spéciale (art. L242-1 à L242-15)](#61)
-          - [Section 1 : Commission d'éducation spéciale. (art. L242-1 à L242-9)](#62)
-          - [Section 2 : Prise en charge. (art. L242-10 à L242-13)](#63)
-          - [Section 3 : Allocation d'éducation spéciale. (art. L242-14)](#64)
-          - [Section 4 : Dispositions communes. (art. L242-15)](#65)
-        - [Chapitre III : Travailleurs handicapés (art. L243-1 à L243-7)](#66)
-          - [Section 1 : Commission technique d'orientation et de reclassement professionnel. (art. L243-1 à L243-2)](#67)
-          - [Section 2 : Dispositions favorisant le travail. (art. L243-3 à L243-7)](#68)
-        - [Chapitre IV : Allocation aux adultes handicapés. (art. L244-1)](#69)
-        - [Chapitre V : Allocation compensatrice. (art. L245-1 à L245-11)](#70)
-        - [Chapitre VI : Personnes atteintes de syndrome autistique. (art. L246-1)](#71)
-      - [Titre V : Personnes non bénéficiaires de la couverture maladie universelle (art. L251-1 à L253-4)](#72)
-        - [Chapitre Ier : Droit à l'aide médicale de l'Etat. (art. L251-1 à L251-3)](#73)
-        - [Chapitre II : Modalités d'admission. (art. L252-1 à L252-5)](#74)
-        - [Chapitre III : Dispositions financières. (art. L253-1 à L253-4)](#75)
-      - [Titre VI : Lutte contre la pauvreté et les exclusions (art. L261-1 à L263-19)](#76)
-        - [Chapitre Ier : Logement (art. L261-1 à L261-6)](#77)
-          - [Section 1 : Aides générales au logement. (art. L261-1 à L261-3)](#78)
-          - [Section 2 : Fourniture d'eau et d'énergie. (art. L261-4)](#79)
-          - [Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées. (art. L261-5 à L261-6)](#80)
-        - [Chapitre II : Revenu minimum d'insertion (art. L262-1 à L262-47)](#81)
-          - [Section 1 : Dispositions générales (art. L262-1 à L262-6)](#82)
-          - [Section 2 : Conditions d'ouverture du droit à l'allocation. (art. L262-7 à L262-12)](#83)
-          - [Section 3 : Attribution de l'allocation (art. L262-13 à L262-36)](#84)
-          - [Section 4 : Contrat d'insertion (art. L262-37 à L262-38)](#85)
-          - [Section 5 : Recours et récupération (art. L262-39 à L262-47)](#86)
-        - [Chapitre III : Actions d'insertion (art. L263-1 à L263-19)](#87)
-          - [Section 1 : Dispositif départemental d'insertion. (art. L263-1 à L263-9)](#88)
-          - [Section 2 : Dispositif local d'insertion. (art. L263-10 à L263-14)](#89)
-          - [Section 4 : Fonds d'aide aux jeunes en difficulté. (art. L263-15 à L263-16)](#90)
-          - [Section 5 : Personnes bénéficiaires de l'allocation de parent isolé. (art. L263-18 à L263-19)](#91)
-    - [Livre III : Etablissements (art. L311-1 à L351-7)](#92)
-      - [Titre Ier : Etablissements soumis à autorisation (art. L311-1 à L315-15)](#93)
-        - [Chapitre Ier : Dispositions générales. (art. L311-1 à L311-6)](#94)
-        - [Chapitre II : Statut des établissements (art. L312-1 à L312-14)](#95)
-          - [Section 1 : Création, extension et transformation. (art. L312-1 à L312-6)](#96)
-          - [Section 2 : Organisation et fonctionnement. (art. L312-7 à L312-8)](#97)
-          - [Section 3 : Droits des personnes accueillies. (art. L312-9 à L312-11)](#98)
-          - [Section 4 : Dispositions pénales. (art. L312-12 à L312-13)](#99)
-          - [Section 5 : Dispositions communes. (art. L312-14)](#100)
-        - [Chapitre III : Etablissements privés. (art. L313-1 à L313-13)](#101)
-        - [Chapitre IV : Etablissements relevant des collectivités publiques. (art. L314-1 à L314-14)](#102)
-        - [Chapitre V : Dispositions financières (art. L315-1 à L315-15)](#103)
-          - [Section 1 : Compétences. (art. L315-1)](#104)
-          - [Section 2 : Fixation des tarifs. (art. L315-2 à L315-11)](#105)
-          - [Section 3 : Dispositions diverses. (art. L315-12 à L315-15)](#106)
-      - [Titre II : Etablissements soumis à déclaration (art. L321-1 à L322-9)](#107)
-        - [Chapitre Ier : Accueil de mineurs. (art. L321-1 à L321-4)](#108)
-        - [Chapitre II : Accueil d'adultes. (art. L322-1 à L322-9)](#109)
-      - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration (art. L331-1 à L331-9)](#110)
-        - [Chapitre unique. (art. L331-1 à L331-9)](#111)
-      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. L342-1 à L346-1)](#112)
-        - [Chapitre II : Hébergement de personnes âgées. (art. L342-1 à L342-6)](#113)
-        - [Chapitre III : Centres d'action médico-sociale précoce. (art. L343-1 à L343-2)](#114)
-        - [Chapitre IV : Centres pour handicapés adultes. (art. L344-1 à L344-7)](#115)
-        - [Chapitre V : Centres d'hébergement et de réinsertion sociale. (art. L345-1 à L345-4)](#116)
-        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. L346-1)](#117)
-      - [Titre V : Contentieux de la tarification sanitaire et sociale (art. L351-1 à L351-7)](#118)
-        - [Chapitre unique. (art. L351-1 à L351-7)](#119)
-    - [Livre IV : Professions et activités d'accueil (art. L411-1 à L451-4)](#120)
-      - [Titre Ier : Assistants de service social (art. L411-1 à L411-6)](#121)
-        - [Chapitre unique. (art. L411-1 à L411-6)](#122)
-      - [Titre II : Assistants maternels et assistants familiaux (art. L421-1 à L422-8)](#123)
-        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-12)](#124)
-        - [Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public. (art. L422-1 à L422-8)](#125)
-      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. L441-1 à L443-11)](#126)
-        - [Chapitre Ier : Accueil des personnes âgées. (art. L441-1 à L441-3)](#127)
-        - [Chapitre II : Accueil des personnes handicapées adultes. (art. L442-1 à L442-3)](#128)
-        - [Chapitre III : Dispositions communes. (art. L443-1 à L443-11)](#129)
-      - [Titre V : Formation des travailleurs sociaux (art. L451-1 à L451-4)](#130)
-        - [Chapitre Ier : Dispositions générales. (art. L451-1 à L451-4)](#131)
-    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. L511-1 à L571-5)](#132)
-      - [Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L511-1 à L512-2)](#133)
-        - [Chapitre Ier : Dispositions générales. (art. L511-1 à L511-2)](#134)
-        - [Chapitre II : Revenu minimum d'insertion. (art. L512-1 à L512-2)](#135)
-      - [Titre II : Départements d'outre-mer (art. L521-1 à L523-2)](#136)
-        - [Chapitre Ier : Dispositions générales. (art. L521-1)](#137)
-        - [Chapitre II : Revenu minimum d'insertion. (art. L522-1 à L522-17)](#138)
-        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. L523-1 à L523-2)](#139)
-          - [Section unique : Service d'accueil téléphonique. (art. L523-1 à L523-2)](#140)
-      - [Titre III : Saint-Pierre-et-Miquelon (art. L531-1 à L531-6)](#141)
-        - [Chapitre unique : Dispositions générales. (art. L531-1 à L531-6)](#142)
-      - [Titre IV : Mayotte (art. L541-1 à L544-5)](#143)
-        - [Chapitre Ier : Aide sociale. (art. L541-1 à L541-9)](#144)
-        - [Chapitre II : Familles et aide sociale à l'enfance. (art. L542-1 à L542-13)](#145)
-        - [Chapitre III : Pupilles de l'Etat et procédures administratives en vue de l'adoption. (art. L543-1 à L543-3)](#146)
-        - [Chapitre IV : Dispositions communes. (art. L544-1 à L544-5)](#147)
-      - [Titre V : Territoire des îles Wallis et Futuna (art. L551-1 à L551-5)](#148)
-        - [Chapitre unique : Statut des pupilles de l'Etat. (art. L551-1 à L551-5)](#149)
-      - [Titre VI : Polynésie française (art. L561-1 à L561-5)](#150)
-        - [Chapitre unique : Statut des pupilles de l'Etat. (art. L561-1 à L561-5)](#151)
-      - [Titre VII : Nouvelle-Calédonie (art. L571-1 à L571-5)](#152)
-        - [Chapitre unique : Statut des pupilles de l'Etat. (art. L571-1 à L571-5)](#153)
+        - [Chapitre II : Allocation personnalisée d'autonomie (art. L232-1 à L232-28)](#54)
+          - [Section 1 : Allocation personnalisée d'autonomie et qualité des services aux personnes âgées. (art. L232-1 à L232-11)](#55)
+            - [Sous-section 1 : Prise en charge et allocation personnalisée d'autonomie à domicile (art. L232-3 à L232-7)](#56)
+            - [Sous-section 2 : Allocation personnalisée d'autonomie en établissement (art. L232-8 à L232-11)](#57)
+          - [Section 2 : Gestion de l'allocation personnalisée d'autonomie (art. L232-12 à L232-20)](#58)
+          - [Section 3 : Financement de l'allocation personnalisée d'autonomie (art. L232-21)](#59)
+          - [Section 4 : Dispositions communes. (art. L232-22 à L232-28)](#60)
+      - [Titre IV : Personnes handicapées (art. L241-1 à L246-1)](#61)
+        - [Chapitre Ier : Dispositions générales. (art. L241-1 à L241-4)](#62)
+        - [Chapitre II : Education spéciale (art. L242-1 à L242-15)](#63)
+          - [Section 1 : Commission d'éducation spéciale. (art. L242-1 à L242-9)](#64)
+          - [Section 2 : Prise en charge. (art. L242-10 à L242-13)](#65)
+          - [Section 3 : Allocation d'éducation spéciale. (art. L242-14)](#66)
+          - [Section 4 : Dispositions communes. (art. L242-15)](#67)
+        - [Chapitre III : Travailleurs handicapés (art. L243-1 à L243-7)](#68)
+          - [Section 1 : Commission technique d'orientation et de reclassement professionnel. (art. L243-1 à L243-2)](#69)
+          - [Section 2 : Dispositions favorisant le travail. (art. L243-3 à L243-7)](#70)
+        - [Chapitre IV : Allocation aux adultes handicapés. (art. L244-1)](#71)
+        - [Chapitre V : Allocation compensatrice. (art. L245-1 à L245-11)](#72)
+        - [Chapitre VI : Personnes atteintes de syndrome autistique. (art. L246-1)](#73)
+      - [Titre V : Personnes non bénéficiaires de la couverture maladie universelle (art. L251-1 à L253-4)](#74)
+        - [Chapitre Ier : Droit à l'aide médicale de l'Etat. (art. L251-1 à L251-3)](#75)
+        - [Chapitre II : Modalités d'admission. (art. L252-1 à L252-5)](#76)
+        - [Chapitre III : Dispositions financières. (art. L253-1 à L253-4)](#77)
+      - [Titre VI : Lutte contre la pauvreté et les exclusions (art. L261-1 à L263-19)](#78)
+        - [Chapitre Ier : Logement (art. L261-1 à L261-6)](#79)
+          - [Section 1 : Aides générales au logement. (art. L261-1 à L261-3)](#80)
+          - [Section 2 : Fourniture d'eau et d'énergie. (art. L261-4)](#81)
+          - [Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées. (art. L261-5 à L261-6)](#82)
+        - [Chapitre II : Revenu minimum d'insertion (art. L262-1 à L262-47)](#83)
+          - [Section 1 : Dispositions générales (art. L262-1 à L262-6)](#84)
+          - [Section 2 : Conditions d'ouverture du droit à l'allocation. (art. L262-7 à L262-12)](#85)
+          - [Section 3 : Attribution de l'allocation (art. L262-13 à L262-36)](#86)
+          - [Section 4 : Contrat d'insertion (art. L262-37 à L262-38)](#87)
+          - [Section 5 : Recours et récupération (art. L262-39 à L262-47)](#88)
+        - [Chapitre III : Actions d'insertion (art. L263-1 à L263-19)](#89)
+          - [Section 1 : Dispositif départemental d'insertion. (art. L263-1 à L263-9)](#90)
+          - [Section 2 : Dispositif local d'insertion. (art. L263-10 à L263-14)](#91)
+          - [Section 4 : Fonds d'aide aux jeunes en difficulté. (art. L263-15 à L263-16)](#92)
+          - [Section 5 : Personnes bénéficiaires de l'allocation de parent isolé. (art. L263-18 à L263-19)](#93)
+    - [Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services (art. L321-4 à L322-8)](#94)
+      - [Titre II : Etablissements soumis à déclaration (art. L321-4 à L322-8)](#95)
+        - [Chapitre Ier : Accueil de mineurs. (art. L321-4)](#96)
+        - [Chapitre II : Accueil d'adultes. (art. L322-8)](#97)
+    - [Livre III : Etablissements (art. L311-1 à L351-7)](#98)
+      - [Titre Ier : Etablissements soumis à autorisation (art. L311-1 à L315-15)](#99)
+        - [Chapitre Ier : Dispositions générales. (art. L311-1 à L311-6)](#100)
+        - [Chapitre II : Statut des établissements (art. L312-1 à L312-14)](#101)
+          - [Section 1 : Création, extension et transformation. (art. L312-1 à L312-6)](#102)
+          - [Section 2 : Organisation et fonctionnement. (art. L312-7 à L312-8)](#103)
+          - [Section 3 : Droits des personnes accueillies. (art. L312-9 à L312-11)](#104)
+          - [Section 4 : Dispositions pénales. (art. L312-12 à L312-13)](#105)
+          - [Section 5 : Dispositions communes. (art. L312-14)](#106)
+        - [Chapitre III : Etablissements privés. (art. L313-1 à L313-13)](#107)
+        - [Chapitre IV : Etablissements relevant des collectivités publiques. (art. L314-1 à L314-14)](#108)
+        - [Chapitre V : Dispositions financières (art. L315-1 à L315-15)](#109)
+          - [Section 1 : Compétences. (art. L315-1)](#110)
+          - [Section 2 : Fixation des tarifs. (art. L315-2 à L315-11)](#111)
+          - [Section 3 : Dispositions diverses. (art. L315-12 à L315-15)](#112)
+      - [Titre II : Etablissements soumis à déclaration (art. L321-1 à L322-9)](#113)
+        - [Chapitre Ier : Accueil de mineurs. (art. L321-1 à L321-3)](#114)
+        - [Chapitre II : Accueil d'adultes. (art. L322-1 à L322-9)](#115)
+      - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration (art. L331-1 à L331-9)](#116)
+        - [Chapitre unique. (art. L331-1 à L331-9)](#117)
+      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. L342-1 à L346-1)](#118)
+        - [Chapitre II : Hébergement de personnes âgées. (art. L342-1 à L342-6)](#119)
+        - [Chapitre III : Centres d'action médico-sociale précoce. (art. L343-1 à L343-2)](#120)
+        - [Chapitre IV : Centres pour handicapés adultes. (art. L344-1 à L344-7)](#121)
+        - [Chapitre V : Centres d'hébergement et de réinsertion sociale. (art. L345-1 à L345-4)](#122)
+        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. L346-1)](#123)
+      - [Titre V : Contentieux de la tarification sanitaire et sociale (art. L351-1 à L351-7)](#124)
+        - [Chapitre unique. (art. L351-1 à L351-7)](#125)
+    - [Livre IV : Professions et activités d'accueil (art. L411-1 à L451-4)](#126)
+      - [Titre Ier : Assistants de service social (art. L411-1 à L411-6)](#127)
+        - [Chapitre unique. (art. L411-1 à L411-6)](#128)
+      - [Titre II : Assistants maternels et assistants familiaux (art. L421-1 à L422-8)](#129)
+        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-12)](#130)
+        - [Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public. (art. L422-1 à L422-8)](#131)
+      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. L441-1 à L443-11)](#132)
+        - [Chapitre Ier : Accueil des personnes âgées. (art. L441-1 à L441-3)](#133)
+        - [Chapitre II : Accueil des personnes handicapées adultes. (art. L442-1 à L442-3)](#134)
+        - [Chapitre III : Dispositions communes. (art. L443-1 à L443-11)](#135)
+      - [Titre V : Formation des travailleurs sociaux (art. L451-1 à L451-4)](#136)
+        - [Chapitre Ier : Dispositions générales. (art. L451-1 à L451-4)](#137)
+    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. L511-1 à L571-5)](#138)
+      - [Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L511-1 à L512-2)](#139)
+        - [Chapitre Ier : Dispositions générales. (art. L511-1 à L511-2)](#140)
+        - [Chapitre II : Revenu minimum d'insertion. (art. L512-1 à L512-2)](#141)
+      - [Titre II : Départements d'outre-mer (art. L521-1 à L523-2)](#142)
+        - [Chapitre Ier : Dispositions générales. (art. L521-1)](#143)
+        - [Chapitre II : Revenu minimum d'insertion. (art. L522-1 à L522-17)](#144)
+        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. L523-1 à L523-2)](#145)
+          - [Section unique : Service d'accueil téléphonique. (art. L523-1 à L523-2)](#146)
+      - [Titre III : Saint-Pierre-et-Miquelon (art. L531-1 à L531-6)](#147)
+        - [Chapitre unique : Dispositions générales. (art. L531-1 à L531-6)](#148)
+      - [Titre IV : Mayotte (art. L541-1 à L544-5)](#149)
+        - [Chapitre Ier : Aide sociale. (art. L541-1 à L541-9)](#150)
+        - [Chapitre II : Familles et aide sociale à l'enfance. (art. L542-1 à L542-13)](#151)
+        - [Chapitre III : Pupilles de l'Etat et procédures administratives en vue de l'adoption. (art. L543-1 à L543-3)](#152)
+        - [Chapitre IV : Dispositions communes. (art. L544-1 à L544-5)](#153)
+      - [Titre V : Territoire des îles Wallis et Futuna (art. L551-1 à L551-5)](#154)
+        - [Chapitre unique : Statut des pupilles de l'Etat. (art. L551-1 à L551-5)](#155)
+      - [Titre VI : Polynésie française (art. L561-1 à L561-5)](#156)
+        - [Chapitre unique : Statut des pupilles de l'Etat. (art. L561-1 à L561-5)](#157)
+      - [Titre VII : Nouvelle-Calédonie (art. L571-1 à L571-5)](#158)
+        - [Chapitre unique : Statut des pupilles de l'Etat. (art. L571-1 à L571-5)](#159)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -423,7 +429,9 @@ Ces conventions doivent être conformes à un cahier des charges arrêté par le
 des représentants des présidents de conseils généraux et des organismes nationaux de sécurité sociale.
 
 Un comité national de la coordination gérontologique est chargé du suivi de la mise en oeuvre de ces conventions et, le cas
-échéant, d'une fonction de médiation pour leur conclusion.
+échéant, d'une fonction de médiation pour leur conclusion. Ce comité a également pour mission d'évaluer le développement
+qualitatif et quantitatif du dispositif d'allocation personnalisée d'autonomie au terme des deux ans d'application. Cette
+mission ne comprend pas la réforme de la grille mentionnée à l'article L. 232-2.
 
 Un décret précise les modalités de fonctionnement et la composition du comité mentionné à l'alinéa précédent qui comprend,
 notamment, des représentants des présidents de conseils généraux, des organismes de sécurité sociale et du comité national
@@ -456,6 +464,14 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L232-2 (M)
 
 
 ###### Article L113-3
@@ -2254,29 +2270,23 @@ _Anciens textes_:
 
 ###### Article L132-8
 
-Des recours sont exercés, selon le cas, par l'Etat ou le département :
+Des recours sont exercés, selon le cas, par l'Etat ou le département : 
 
-1° Contre le bénéficiaire revenu à meilleure fortune ou contre la succession du bénéficiaire ;
+1° Contre le bénéficiaire revenu à meilleure fortune ou contre la succession du bénéficiaire ; 
 
 2° Contre le donataire, lorsque la donation est intervenue postérieurement à la demande d'aide sociale ou dans les dix ans
-qui ont précédé cette demande ;
+qui ont précédé cette demande ; 
 
-3° Contre le légataire.
+3° Contre le légataire. 
 
-En ce qui concerne les prestations d'aide sociale à domicile, de soins de ville prévus par l'article L. 111-2, la prestation
-spécifique dépendance et la prise en charge du forfait journalier, les conditions dans lesquelles les recours sont exercés,
-en prévoyant, le cas échéant, l'existence d'un seuil de dépenses supportées par l'aide sociale, en deçà duquel il n'est pas
-procédé à leur recouvrement, sont fixées par voie réglementaire.
+En ce qui concerne les prestations d'aide sociale à domicile, de soins de ville prévus par l'article L. 111-2 et la prise en
+charge du forfait journalier, les conditions dans lesquelles les recours sont exercés, en prévoyant, le cas échéant,
+l'existence d'un seuil de dépenses supportées par l'aide sociale, en deçà duquel il n'est pas procédé à leur recouvrement,
+sont fixées par voie réglementaire. 
 
-Le recouvrement sur la succession du bénéficiaire de l'aide sociale à domicile, de la prestation spécifique dépendance ou de
-la prise en charge du forfait journalier s'exerce sur la partie de l'actif net successoral, défini selon les règles de droit
-commun, qui excède un seuil fixé par voie réglementaire.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L132-8 et L132-9 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Le recouvrement sur la succession du bénéficiaire de l'aide sociale à domicile ou de la prise en charge du forfait journalier
+s'exerce sur la partie de l'actif net successoral, défini selon les règles de droit commun, qui excède un seuil fixé par voie
+réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -2302,6 +2312,11 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 2001-07-20 art. 2 II 1°, 2° JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Anciens textes_:
 
   - Code de la famille et de l'aide sociale. - art. 146 (M)
@@ -2309,7 +2324,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L111-2 (M)
+  - Code de l'action sociale et des familles - art. L111-2 (V)
 
 
 ###### Article L132-9
@@ -2328,14 +2343,8 @@ par voie réglementaire.
 Les formalités relatives à l'inscription de l'hypothèque mentionnée ci-dessus, ainsi qu'à sa radiation, ne donnent lieu à
 aucune perception au profit du Trésor.
 
-Les prestations d'aide sociale à domicile, la prestation spécifique dépendance et la prise en charge du forfait journalier
-mentionnées à l'article L. 132-8 ne sont pas garanties par l'inscription d'une hypothèque légale.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L132-8 et L132-9 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Les prestations d'aide sociale à domicile et la prise en charge du forfait journalier mentionnées à l'article L. 132-8 ne
+sont pas garanties par l'inscription d'une hypothèque légale.
 
 **Liens relatifs à cet article**
 
@@ -2354,6 +2363,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -3828,6 +3841,88 @@ _Codifié par_:
 
 
 #### Chapitre IV : Accueil des jeunes enfants.<a id=34></a>
+
+###### Article L214-1
+
+Les règles relatives à l'accueil des enfants de moins de six ans sont fixées par les dispositions des articles L. 2324-1, L.
+2324-2, L. 2324-3, L. 2324-4 et L. 2326-4 du code de la santé publique ci-après reproduites :
+
+" Art. L. 2324-1. - Si elles ne sont pas soumises à un régime d'autorisation en vertu d'une autre disposition législative, la
+création, l'extension et la transformation des établissements et services gérés par une personne physique ou morale de droit
+privé accueillant des enfants de moins de six ans sont subordonnées à une autorisation délivrée par le président du conseil
+général, après avis du maire de la commune d'implantation.
+
+Sous la même réserve, la création, l'extension et la transformation des établissements et services publics accueillant des
+enfants de moins de six ans sont décidées par la collectivité publique intéressée, après avis du président du conseil
+général.
+
+La création, l'extension ou la transformation des centres de vacances, de loisirs ou de placement de vacances, publics ou
+privés, qui accueillent des enfants de moins de six ans est subordonnée à une autorisation délivrée par le représentant de
+l'Etat dans le département, après avis du médecin responsable du service départemental de protection maternelle et infantile.
+
+Les conditions de qualification ou d'expérience professionnelle, de moralité et d'aptitude physique requises des personnes
+exerçant leur activité dans les établissements ou services mentionnés aux alinéas précédents ainsi que les conditions
+d'installation et de fonctionnement de ces établissements ou services sont fixées par voie réglementaire.
+
+" Art. L. 2324-2. - " Les établissements et services mentionnés à l'article L. 2324-1 sont soumis au contrôle et à la
+surveillance du médecin responsable du service départemental de protection maternelle et infantile. "
+
+" Art. L. 2324-3. - Lorsqu'il estime que la santé physique ou mentale ou l'éducation des enfants sont compromises ou
+menacées :
+
+1° Le représentant de l'Etat dans le département ou le président du conseil général peut adresser des injonctions aux
+établissements et services mentionnés au premier alinéa de l'article L. 2324-1 ;
+
+2° Le représentant de l'Etat dans le département peut adresser des injonctions aux établissements et services mentionnés aux
+alinéas 2 et 3 de l'article L. 2324-1.
+
+Dans le cas où il n'a pas été satisfait aux injonctions, le représentant de l'Etat dans le département peut prononcer la
+fermeture totale ou partielle, provisoire ou définitive, des établissements ou services mentionnés à l'article L. 2324-1,
+après avis du président du conseil général en ce qui concerne les établissements et services mentionnés aux deux premiers
+alinéas de cet article.
+
+La fermeture définitive vaut retrait des autorisations instituées aux alinéas 1 et 3 de l'article L. 2324-1.
+
+En cas d'urgence, le représentant de l'Etat dans le département peut prononcer, par arrêté motivé, la fermeture immédiate, à
+titre provisoire, des établissements mentionnés à l'article L. 2324-1. Il en informe le président du conseil général. "
+
+" Art. L. 2324-4. - Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret
+en Conseil d'Etat. "
+
+" Art. L. 2326-4. - " La création, l'extension ou la transformation des établissements et services privés mentionnés à
+l'article L. 2324-1 sans l'autorisation mentionnée aux alinéas premier et troisième de l'article L. 2324-1 est punie de trois
+mois d'emprisonnement et de 3750 euros d'amende.
+
+Les personnes physiques coupables de l'infraction mentionnée à l'alinéa précédent encourent également les peines
+complémentaires suivantes :
+
+1° L'interdiction, temporaire ou définitive, de diriger tout établissement ou service mentionné à l'article L. 2324-1 ;
+
+2° La fermeture, temporaire ou définitive, des établissements ou services. "
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Cite_:
+
+  - Code de la santé publique - art. L2324-1 (M)
+  - Code de la santé publique - art. L2324-2 (V)
+  - Code de la santé publique - art. L2324-3 (V)
+  - Code de la santé publique - art. L2324-4 (V)
+  - Code de la santé publique - art. L2326-4 (M)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L133-6-1 (Ab)
+
 
 ###### Article L214-2
 
@@ -5873,6 +5968,64 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L225-18 (V)
 
 
+###### Article L225-17
+
+Est puni d'un an d'emprisonnement et d'une amende de 15000 euros le fait d'exercer l'activité d'intermédiaire pour l'adoption
+ou le placement en vue de l'adoption de mineurs de quinze ans sans avoir obtenu l'autorisation préalable prévue au premier
+alinéa de l'article L. 225-11 ou malgré une interdiction d'exercer.
+
+Les personnes physiques coupables des infractions prévues au présent article encourent également la peine complémentaire
+d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exercer l'activité professionnelle d'accueil,
+d'hébergement ou de placement de mineurs.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°85-986 du 16 septembre 1985 - art. 47 (V)
+  - Décret n°86-68 du 13 janvier 1986 - art. 34-1 (V)
+  - Décret n°86-83 du 17 janvier 1986 - art. 19 bis (V)
+  - Décret n°88-145 du 15 février 1988 - art. 14-1 (V)
+  - Décret n°91-155 du 6 février 1991 - art. 18-1 (V)
+  - Décret n°2002-575 du 18 avril 2002 - art. 7 (Ab)
+  - Décret n°2006-882 du 17 juillet 2006 - art. 5 (Ab)
+  - Code de l'action sociale et des familles - art. Annexe 2-6 (V)
+  - Code de l'action sociale et des familles - art. R225-20 (V)
+  - Code de la défense. - art. R4138-6 (V)
+  - Code de la sécurité sociale. - art. L512-4 (V)
+  - Code du travail - art. L122-28-10 (AbD)
+  - Code du travail - art. L1225-41 (V)
+  - Code du travail - art. L1225-46 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Transféré par_:
+
+  - Loi n°2005-744 du 4 juillet 2005 - art. 2 () JORF 5 juillet 2005
+
+_Cite_:
+
+  - Code pénal - art. 131-27 (V)
+  - Code de l'action sociale et des familles - art. L225-11 (M)
+
+_Anciens textes_:
+
+  - Code de la famille et de l'aide sociale. - art. 100-2 (M)
+  - Code de l'action sociale et des familles - art. L225-15 (T)
+  - Code de la famille et de l'aide sociale. - art. 100-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L225-19 (V)
+
+
 ###### Article L225-18
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre et notamment des articles L. 225-1 à L.
@@ -7310,28 +7463,19 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L231-3 (V)
 
 
-#### Chapitre II : Aide aux personnes dépendantes<a id=54></a>
+#### Chapitre II : Allocation personnalisée d'autonomie<a id=54></a>
 
-##### Section 1 : Dispositions générales.<a id=55></a>
+##### Section 1 : Allocation personnalisée d'autonomie et qualité des services aux personnes âgées.<a id=55></a>
 
 ###### Article L232-1
 
-Toute personne résidant en France et remplissant les conditions d'âge, de degré de dépendance et de ressources fixées par
-voie réglementaire a droit, sur sa demande, à une prestation en nature dite prestation spécifique dépendance.
+Toute personne âgée résidant en France qui se trouve dans l'incapacité d'assumer les conséquences du manque ou de la perte
+d'autonomie liés à son état physique ou mental a droit à une allocation personnalisée d'autonomie permettant une prise en
+charge adaptée à ses besoins.
 
-Le bénéfice de la prestation spécifique dépendance est ouvert, dans les conditions prévues au premier alinéa, aux personnes
-de nationalité étrangère qui séjournent régulièrement en France et remplissent également la condition de résidence prévue au
-4° de l'article L. 111-2.
-
-La dépendance mentionnée au premier alinéa est définie comme l'état de la personne qui, nonobstant les soins qu'elle est
-susceptible de recevoir, a besoin d'être aidée pour l'accomplissement des actes essentiels de la vie ou requiert une
-surveillance régulière.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Cette allocation, définie dans des conditions identiques sur l'ensemble du territoire national, est destinée aux personnes
+qui, nonobstant les soins qu'elles sont susceptibles de recevoir, ont besoin d'une aide pour l'accomplissement des actes
+essentiels de la vie ou dont l'état nécessite une surveillance régulière.
 
 **Liens relatifs à cet article**
 
@@ -7343,6 +7487,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -7397,24 +7545,17 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3334-16-3 (V)
   - Code général des collectivités territoriales - art. L3335-3 (V)
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L111-2 (M)
-
 
 ###### Article L232-2
 
-La demande de prestation spécifique dépendance est adressée au président du conseil général du département de résidence du
-demandeur qui informe du dépôt de celle-ci le maire de la commune de résidence. Elle est instruite par une équipe médico-
-sociale qui comprend au moins un médecin et un travailleur social et dont l'un au moins des membres se rend auprès de
-l'intéressé. Pour apprécier le besoin d'aide de celui-ci, le président du conseil général compétent en application des
-dispositions de l'article L. 232-6 se fonde notamment sur les conclusions de l'équipe médico-sociale.
+L'allocation personnalisée d'autonomie, qui a le caractère d'une prestation en nature, est accordée, sur sa demande, dans les
+limites de tarifs fixés par voie réglementaire, à toute personne attestant d'une résidence stable et régulière et remplissant
+les conditions d'âge et de perte d'autonomie, évaluée à l'aide d'une grille nationale, également définies par voie
+réglementaire.
 
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Les personnes sans résidence stable doivent, pour prétendre au bénéfice de l'allocation personnalisée d'autonomie, élire
+domicile auprès de l'un des organismes mentionnés à l'article L. 232-13, agréé à cette fin conjointement par le représentant
+de l'Etat dans le département et par le président du conseil général.
 
 **Liens relatifs à cet article**
 
@@ -7426,6 +7567,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -7503,19 +7648,18 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 199 sexdecies (V)
 
 
+##### Sous-section 1 : Prise en charge et allocation personnalisée d'autonomie à domicile<a id=56></a>
+
 ###### Article L232-3
 
-La prestation spécifique dépendance est accordée par décision motivée du président du conseil général, après avis du maire de
-la commune de résidence du demandeur. Si cet avis n'a pas été rendu dans un délai de quinze jours après transmission de la
-demande par le président du conseil général, il est réputé être favorable. Si la décision du président du conseil général n'a
-pas été notifiée à l'intéressé dans un délai de deux mois à compter du dépôt de son dossier complet, la prestation spécifique
-dépendance est réputée lui être accordée à compter du terme de ce délai.
+Lorsque l'allocation personnalisée d'autonomie est accordée à une personne résidant à domicile, elle est affectée à la
+couverture des dépenses de toute nature relevant d'un plan d'aide élaboré par une équipe médico-sociale.
 
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+L'allocation personnalisée d'autonomie est égale au montant de la fraction du plan d'aide que le bénéficiaire utilise,
+diminué d'une participation à la charge de celui-ci. Le montant maximum du plan d'aide est fixé par un tarif national en
+fonction du degré de perte d'autonomie déterminé à l'aide de la grille mentionnée à l'article L. 232-2 et revalorisé au 1er
+janvier de chaque année, au moins conformément à l'évolution des prix à la consommation hors tabac prévue dans le rapport
+économique et financier annexé au projet de loi de finances pour l'année civile à venir.
 
 **Liens relatifs à cet article**
 
@@ -7564,18 +7708,28 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L232-2 (M)
+
 
 ###### Article L232-4
 
-En cas d'urgence, le président du conseil général peut attribuer, à titre provisoire, la prestation mentionnée à l'article L.
-232-1 jusqu'à l'expiration du délai de deux mois mentionné à l'article L. 232-3, dans des conditions fixées par le règlement
-départemental d'aide sociale.
+La participation du bénéficiaire de l'allocation personnalisée d'autonomie est calculée en fonction de ses ressources
+déterminées dans les conditions fixées aux articles L. 132-1 et L. 132-2, selon un barème national revalorisé au 1er janvier
+de chaque année comme les pensions aux termes de la loi de financement de la sécurité sociale.
 
-**Nota:**
+Les rentes viagères ne sont pas prises en compte pour le calcul des ressources de l'intéressé lorsqu'elles ont été
+constituées en sa faveur par un ou plusieurs de ses enfants ou lorsqu'elles ont été constituées par lui-même ou son conjoint
+pour se prémunir contre le risque de perte d'autonomie.
 
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+De même, ne sont pas pris en compte, pour le calcul des ressources de l'intéressé, les concours financiers apportés par les
+enfants pour les prises en charge nécessitées par la perte d'autonomie de leurs parents, ainsi que certaines prestations
+sociales à objet spécialisé dont la liste est fixée par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -7608,21 +7762,20 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L232-1 (M)
-  - Code de l'action sociale et des familles - art. L232-3 (M)
+  - Code de l'action sociale et des familles - art. L132-1 (V)
+  - Code de l'action sociale et des familles - art. L132-2 (V)
 
 
 ###### Article L232-5
 
-La décision mentionnée à l'article L. 232-3 fait l'objet d'une révision périodique instruite selon les mêmes modalités.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Pour l'application de l'article L. 232-3, sont considérées comme résidant à domicile les personnes accueillies dans les
+conditions fixées par les articles L. 441-1 à L. 443-10 ou hébergées dans un établissement visé au II de l'article L. 312-8.
 
 **Liens relatifs à cet article**
 
@@ -7635,6 +7788,10 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Loi n°2001-647 du 20 juillet 2001 - art. 19 (V)
@@ -7642,19 +7799,23 @@ _Cité par_:
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L232-3 (M)
+  - Code de l'action sociale et des familles - art. L312-8 (M)
+  - Code de l'action sociale et des familles L232-3, L441-1 à L443-10, L312-8
 
 
 ###### Article L232-6
 
-La prestation spécifique dépendance est servie et gérée par le département où le bénéficiaire possède son domicile de secours
-acquis conformément aux articles L. 122-1 à L. 122-4. En cas d'absence de domicile de secours, la prestation est servie et
-gérée par le département de résidence. Toutefois, les dépenses ainsi engagées sont à la charge de l'Etat.
+L'équipe médico-sociale recommande, dans le plan d'aide mentionné à l'article L. 232-3, les modalités d'intervention qui lui
+paraissent les plus appropriées compte tenu du besoin d'aide et de l'état de perte d'autonomie du bénéficiaire.
 
-**Nota:**
+Dans les cas de perte d'autonomie les plus importants déterminés par voie réglementaire, lorsque le plan d'aide prévoit
+l'intervention d'une tierce personne à domicile, l'allocation personnalisée d'autonomie est, sauf refus exprès du
+bénéficiaire, affectée à la rémunération d'un service prestataire d'aide à domicile agréé dans les conditions fixées à
+l'article L. 129-1 du code du travail.
 
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Quel que soit le degré de perte d'autonomie du bénéficiaire de l'allocation personnalisée d'autonomie, le montant de celle-ci
+est modulé, dans des conditions fixées par voie réglementaire, suivant l'expérience et le niveau de qualification de la
+tierce personne ou du service d'aide à domicile auquel il fait appel.
 
 **Liens relatifs à cet article**
 
@@ -7699,24 +7860,35 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code de l'action sociale et des familles L122-1 à L122-4
+  - Code du travail - art. L129-1 (M)
 
 
 ###### Article L232-7
 
-Pour l'instruction et le suivi de la prestation spécifique dépendance, le département peut conclure des conventions avec des
-institutions et organismes publics sociaux ou médico-sociaux, notamment les centres communaux ou intercommunaux d'action
-sociale, des organismes régis par le code de la mutualité ou des associations. Ces conventions doivent être conformes à une
-convention-cadre fixée par arrêté conjoint du ministre chargé des personnes âgées et du ministre chargé des collectivités
-territoriales, pris après avis des représentants des présidents de conseils généraux et des maires.
+Dans le délai d'un mois à compter de la notification de la décision d'attribution de la prestation, le bénéficiaire doit
+déclarer au président du conseil général le ou les salariés ou le service d'aide à domicile à la rémunération desquels est
+utilisée l'allocation personnalisée d'autonomie. Tout changement ultérieur de salarié ou de service doit être déclaré dans
+les mêmes conditions.
 
-**Nota:**
+Si le bénéficiaire choisit de recourir à un service d'aide à domicile agréé dans les conditions fixées à l'article L. 129-1
+du code du travail, l'allocation personnalisée d'autonomie destinée à le rémunérer peut être versée sous forme de titre
+emploi-service.
 
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Le bénéficiaire de l'allocation personnalisée d'autonomie peut employer un ou plusieurs membres de sa famille, à l'exception
+de son conjoint ou de son concubin ou de la personne avec laquelle il a conclu un pacte civil de solidarité. Le lien de
+parenté éventuel avec son salarié est mentionné dans sa déclaration.
+
+Le versement de l'allocation personnalisée d'autonomie peut être suspendu à défaut de la déclaration mentionnée au premier
+alinéa dans le délai d'un mois, si le bénéficiaire n'acquitte pas la participation mentionnée à l'article L. 232-4, ou, sur
+rapport de l'équipe médico-sociale mentionnée à l'article L. 232-3, soit en cas de non-respect des dispositions de l'article
+L. 232-6, soit si le service rendu présente un risque pour la santé, la sécurité ou le bien-être physique ou moral de son
+bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -7741,30 +7913,54 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code du travail - art. L129-1 (M)
+  - Code de l'action sociale et des familles - art. L232-3 (M)
+  - Code de l'action sociale et des familles - art. L232-4 (M)
+  - Code de l'action sociale et des familles - art. L232-6 (M)
+
+
+##### Sous-section 2 : Allocation personnalisée d'autonomie en établissement<a id=57></a>
 
 ###### Article L232-8
 
-Le montant de la prestation accordée est modulé en fonction du besoin de surveillance et d'aide requis par l'état de
-dépendance de l'intéressé, tel qu'il est évalué par l'équipe médico-sociale mentionnée à l'article L. 232-2 à l'aide d'une
-grille nationale fixée par décret. Ce montant varie également selon que l'intéressé réside à domicile ou est hébergé dans un
-établissement mentionné à l'article L. 232-23.
+I. - Lorsque l'allocation personnalisée d'autonomie est accordée à une personne hébergée dans un établissement visé à
+l'article L. 312-8, elle est égale au montant des dépenses correspondant à son degré de perte d'autonomie dans le tarif de
+l'établissement afférent à la dépendance, diminué d'une participation du bénéficiaire de l'allocation personnalisée
+d'autonomie.
 
-Les montants maximum et minimum de la prestation pour chaque niveau de dépendance défini par la grille nationale visée à
-l'alinéa précédent sont fixés, d'une part, pour les personnes hébergées en établissement, d'autre part, pour les personnes
-âgées résidant à leur domicile, par le règlement départemental d'aide sociale. Le montant maximal de la prestation pour le
-niveau de dépendance le plus élevé ne peut être inférieur à un pourcentage, fixé par décret, de la majoration pour aide
-constante d'une tierce personne mentionnée à l'article L. 355-1 du code de la sécurité sociale.
+La participation du bénéficiaire de l'allocation personnalisée d'autonomie est calculée en fonction de ses ressources,
+déterminées dans les conditions fixées aux articles L. 132-1 et L. 132-2, selon un barème national revalorisé au 1er janvier
+de chaque année comme les pensions aux termes de la loi de financement de la sécurité sociale.
 
-Compte tenu des règles de tarification des établissements mentionnés à l'article L. 232-23, un décret peut fixer, pour chaque
-niveau de dépendance, des seuils minima pour les montants visés à l'alinéa précédent de la prestation accordée aux personnes
-hébergées dans ces établissements, par référence à la majoration pour aide constante d'une tierce personne, mentionnée à
-l'article L. 355-1 du code de la sécurité sociale.
+Les rentes viagères ne sont pas prises en compte pour le calcul des ressources de l'intéressé lorsqu'elles ont été
+constituées en sa faveur par un ou plusieurs de ses enfants ou lorsqu'elles ont été constituées par lui-même ou son conjoint
+pour se prémunir contre le risque de perte d'autonomie.
 
-**Nota:**
+De même, ne sont pas pris en compte, pour le calcul des ressources de l'intéressé, les concours financiers apportés par les
+enfants pour les prises en charge nécessitées par la perte d'autonomie de leurs parents, ainsi que certaines prestations
+sociales à objet spécialisé dont la liste est fixée par voie réglementaire.
 
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+II. - Par dérogation aux dispositions de l'article L. 232-15 et dans le cadre de la convention pluriannuelle prévue à
+l'article L. 312-8, l'allocation personnalisée d'autonomie en établissement peut, à titre expérimental, être versée par le
+président du conseil général qui assure la tarification de l'établissement volontaire sous forme d'une dotation budgétaire
+globale afférente à la dépendance qui prend en compte le niveau de perte d'autonomie moyen des résidents de l'établissement.
+
+Cette dotation budgétaire globale n'inclut pas la participation des résidents prévue au I du présent article.
+
+Les tarifs afférents à la dépendance pour les résidents bénéficiaires de l'allocation personnalisée d'autonomie en
+établissement relevant d'autres départements que celui du président du conseil général qui a le pouvoir de tarification sont
+calculés conformément aux articles L. 315-1 et L. 315-6 et versés directement à l'établissement, le cas échéant, sous forme
+de dotation globale. Ces versements sont pris en compte pour le calcul de la dotation globale afférente à la dépendance.
+
+Les modalités d'application du présent article sont fixées par voie réglementaire. L'évaluation des résultats de
+l'expérimentation intervient dans le cadre du bilan prévu à l'article 15 de la loi n° 2001-647 du 20 juillet 2001 relative à
+la prise en charge de la perte d'autonomie des personnes âgées et à l'allocation personnalisée d'autonomie.
 
 **Liens relatifs à cet article**
 
@@ -7806,40 +8002,25 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L355-1 (V)
-  - Code de l'action sociale et des familles - art. L232-2 (M)
-  - Code de l'action sociale et des familles - art. L232-23 (M)
+  - Loi n°2001-647 du 20 juillet 2001 - art. 15 (M)
+  - Code de l'action sociale et des familles - art. L132-1 (V)
+  - Code de l'action sociale et des familles - art. L132-2 (V)
+  - Code de l'action sociale et des familles - art. L232-15 (T)
+  - Code de l'action sociale et des familles - art. L312-8 (M)
+  - Code de l'action sociale et des familles - art. L315-1 (M)
+  - Code de l'action sociale et des familles - art. L315-6 (M)
+
+_Modifié par_:
+
+  - Loi n°2001-1246 du 21 décembre 2001 - art. 30 () JORF 26 décembre 2001
 
 
 ###### Article L232-9
 
-La prestation spécifique dépendance se cumule avec les ressources de l'intéressé et, le cas échéant, de son conjoint ou de
-son concubin, dans la limite de plafonds fixés par décret.
-
-Pour l'appréciation des ressources de l'intéressé et, le cas échéant, de son conjoint ou de son concubin, il est tenu compte
-de l'ensemble des revenus et de la valeur en capital des biens non productifs de revenus qui sera évaluée dans des conditions
-fixées par voie réglementaire.
-
-La retraite du combattant et les pensions attachées aux distinctions honorifiques n'entrent pas en ligne de compte pour
-l'appréciation de ces ressources.
-
-Si les deux membres du couple remplissent les conditions mentionnées à l'article L. 232-1, ils peuvent chacun prétendre au
-bénéfice de la prestation spécifique dépendance.
-
-Les rentes viagères ne sont pas prises en compte pour le calcul des ressources de l'intéressé lorsqu'elles ont été
-constituées en sa faveur par un ou plusieurs de ses enfants ou lorsqu'elles ont été constituées par lui-même ou son conjoint
-pour le prémunir contre le risque de dépendance.
-
-Lorsque le bénéficiaire de la prestation spécifique dépendance réside en établissement, il est déduit, le cas échéant, de ses
-ressources une somme minimale maintenue à la disposition de son conjoint ou de son concubin demeurant à domicile.
-
-Les conditions d'application de cet article sont fixées par décret.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Il est garanti aux personnes accueillies dans les établissements visés à l'article L. 232-8 habilités à recevoir des
+bénéficiaires de l'aide sociale départementale, un montant minimum tenu à leur disposition après paiement des prestations à
+leur charge mentionnées aux 2° et 3° de l'article L. 315-1 dont le montant, réévalué chaque année, est fixé par voie
+réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -7864,6 +8045,10 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 18 mars 2003
@@ -7872,23 +8057,21 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L232-1 (M)
+  - Code de l'action sociale et des familles - art. L232-8 (M)
+  - Code de l'action sociale et des familles - art. L315-1 (M)
 
 
 ###### Article L232-10
 
-Lorsque le bénéficiaire de la prestation spécifique dépendance est hébergé dans un établissement de santé pour recevoir des
-soins de courte durée, de suite ou de réadaptation mentionnés au a et au b du 1° de l'article L. 6111-2 du code de la santé
-publique, le président du conseil général en est informé par le bénéficiaire, le cas échéant son tuteur, ou l'équipe médico-
-sociale mentionnée à l'article L. 232-2. En fonction de la nouvelle situation de l'intéressé, le président du conseil général
-peut réduire le montant de la prestation spécifique dépendance ou en suspendre le versement dans des conditions fixées par
-voie réglementaire.
+Lorsque les conjoints, les concubins ou les personnes ayant conclu un pacte civil de solidarité résident, l'un à domicile,
+l'autre dans un établissement, le montant des prestations mentionnés aux 2° et 3° de l'article L. 315-1 restant à la charge
+de ce dernier est fixé de manière qu'une partie des ressources du couple correspondant aux dépenses courantes de celui des
+conjoints, concubins ou personnes ayant conclu un pacte civil de solidarité restant à domicile lui soit réservée par
+priorité.
 
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Cette somme ne peut être inférieure à un montant fixé par décret. Elle est déduite des ressources du couple pour calculer les
+droits à l'allocation personnalisée d'autonomie et à l'aide sociale visée à l'article L. 231-4 auxquels peut prétendre celui
+des conjoints, des concubins ou des personnes ayant conclu un pacte civil de solidarité qui est accueilli en établissement.
 
 **Liens relatifs à cet article**
 
@@ -7901,9 +8084,9 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Transféré par_:
+_Modifié par_:
 
-  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -7913,27 +8096,22 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la santé publique - art. L6111-2 (V)
-  - Code de l'action sociale et des familles - art. L232-2 (M)
+  - Code de l'action sociale et des familles - art. L231-4 (V)
+  - Code de l'action sociale et des familles - art. L315-1 (M)
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. L232-22 (M)
   - Code de l'action sociale et des familles - art. L232-22 (V)
 
 
 ###### Article L232-11
 
-La prestation spécifique dépendance n'est cumulable ni avec l'allocation représentative de services ménagers, ni avec l'aide
-en nature accordée sous forme de services ménagers, mentionnées, respectivement, aux deuxième et troisième alinéas de
-l'article L. 231-1, ni avec l'allocation compensatrice instituée par l'article L. 245-1, ni avec la majoration pour aide
-constante d'une tierce personne prévue à l'article L. 355-1 du code de la sécurité sociale.
+Les droits à prestation de la personne accueillie en établissement sont examinés au regard de l'allocation personnalisée
+d'autonomie puis au titre de l'aide sociale prévue à l'article L. 231-4. 
 
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Si la participation au titre de l'allocation personnalisée d'autonomie mentionnée au premier alinéa du I de l'article L.
+232-8 ne peut être acquittée par un résident, celle-ci peut être prise en charge par l'aide sociale prévue à l'article L.
+231-4 dans les conditions prévues au livre Ier.
 
 **Liens relatifs à cet article**
 
@@ -7946,19 +8124,17 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Transféré par_:
+_Modifié par_:
 
-  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L355-1 (V)
-  - Code de l'action sociale et des familles - art. L231-1 (V)
-  - Code de l'action sociale et des familles - art. L245-1 (M)
+  - Code de l'action sociale et des familles - art. L231-4 (V)
+  - Code de l'action sociale et des familles - art. L232-8 (V)
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. L232-23 (M)
   - Code de l'action sociale et des familles - art. L232-23 (V)
 
 _Cité par_:
@@ -7966,19 +8142,22 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L542-3 (V)
 
 
+##### Section 2 : Gestion de l'allocation personnalisée d'autonomie<a id=58></a>
+
 ###### Article L232-12
 
-L'attribution de la prestation spécifique dépendance n'est pas subordonnée à la mise en oeuvre de l'obligation alimentaire
-définie par les articles 205 à 211 du code civil.
+L'allocation personnalisée d'autonomie est accordée par décision du président du conseil général et servie par le département
+sur proposition d'une commission présidée par le président du conseil général ou son représentant.
 
-Tous les recouvrements relatifs au service de la prestation spécifique dépendance sont opérés comme en matière de
-contributions directes.
+Un décret précise les modalités de fonctionnement et la composition de cette commission qui réunit notamment des
+représentants du département et des organismes de sécurité sociale.
 
-**Nota:**
+En cas d'urgence attestée, d'ordre médical ou social, le président du conseil général attribue l'allocation personnalisée
+d'autonomie à titre provisoire, et pour un montant forfaitaire fixé par décret, à dater du dépôt de la demande et jusqu'à
+l'expiration du délai de deux mois prévu au troisième alinéa de l'article L. 232-14.
 
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+L'allocation personnalisée d'autonomie est servie aux personnes sans résidence stable par le département où elles sont
+domiciliées en application du dernier alinéa de l'article L. 232-2.
 
 **Liens relatifs à cet article**
 
@@ -7991,9 +8170,9 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Transféré par_:
+_Modifié par_:
 
-  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -8007,32 +8186,32 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil 205 à 211
+  - Code de l'action sociale et des familles - art. L232-2 (M)
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. L232-24 (T)
   - Code de l'action sociale et des familles - art. L232-24 (V)
 
 
 ###### Article L232-13
 
-Les recours contre les décisions du président du conseil général mentionnées aux articles L. 232-2, L. 232-10 et L. 232-22
-sont formés devant les commissions départementales mentionnées à l'article L. 134-6 dans des conditions et selon les
-modalités applicables aux prestations d'aide sociale.
+Une convention, dont les clauses respectent un cahier des charges fixé par arrêté interministériel, est conclue entre le
+département et les organismes de sécurité sociale pour organiser les modalités de leur coopération pour la mise en oeuvre de
+l'allocation personnalisée d'autonomie à domicile.
 
-Lorsque le recours est relatif à l'appréciation du degré de dépendance, la commission départementale mentionnée à l'article
-L. 134-6 précité recueille l'avis d'un médecin titulaire d'un diplôme universitaire de gériatrie ou d'une capacité en
-gérontologie et gériatrie, choisi par son président sur une liste établie par le conseil départemental de l'ordre des
-médecins.
+Des conventions portant sur tout ou partie de cette mise en oeuvre, et particulièrement sur celle des plans d'aide, peuvent
+également être conclues entre le département et des institutions et organismes publics sociaux et médico-sociaux, notamment
+des centres communaux ou intercommunaux d'action sociale, des centres locaux d'information et de coordination ou des
+organismes régis par le code de la mutualité ou des services d'aide à domicile agréés dans les conditions prévues à l'article
+L. 129-1 du code du travail. Toutefois, dans ce dernier cas, les institutions et organismes précédemment mentionnés ne
+peuvent participer à la mise en oeuvre du plan d'aide qu'ils ont défini.
 
-Les décisions des commissions départementales sont susceptibles d'appel, dans les conditions fixées par l'article L. 134-2.
+Les départements assurent la coordination de l'action gérontologique dans le cadre d'un schéma arrêté conjointement par le
+président du conseil général et le représentant de l'Etat dans le département.
 
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Le schéma définit les territoires de coordination de l'action gérontologique de proximité et établit des modalités
+d'information du public et de coordination des prestataires s'appuyant notamment sur des centres locaux d'information et de
+coordination.
 
 **Liens relatifs à cet article**
 
@@ -8068,32 +8247,34 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L134-2 (M)
-  - Code de l'action sociale et des familles - art. L134-6 (M)
-  - Code de l'action sociale et des familles - art. L232-10 (T)
-  - Code de l'action sociale et des familles - art. L232-22 (M)
+  - Code du travail - art. L129-1 (M)
 
 
 ###### Article L232-14
 
-Les recours, tant devant une commission départementale que devant la commission centrale d'aide sociale, peuvent être exercés
-par le demandeur ou le bénéficiaire de la prestation ou, le cas échéant, son tuteur, par le maire de la commune de résidence,
-par le représentant de l'Etat dans le département, ou par le débiteur des avantages de vieillesse de l'intéressé. Afin de
-pouvoir exercer son droit de recours, le maire concerné est informé des décisions relatives à la prestation spécifique
-dépendance dans les mêmes délais que l'intéressé. La possibilité de faire appel des décisions des commissions départementales
-est également ouverte au président du conseil général.
+L'instruction de la demande d'allocation personnalisée d'autonomie comporte l'évaluation du degré de perte d'autonomie du
+demandeur et, s'il y a lieu, l'élaboration d'un plan d'aide par l'équipe médico-sociale mentionnée à l'article L. 232-3.
 
-Le ministre chargé des personnes âgées peut faire usage de la voie de recours fixée par l'article L. 134-5 contre les
-décisions prises soit par le président du conseil général, soit par les commissions départementales mentionnées à l'article
-L. 232-13. Le délai de recours est fixé à deux mois à compter de la notification de la décision.
+Lorsqu'il n'y a pas lieu d'élaborer un plan d'aide, un compte rendu de visite comportant des conseils est établi.
 
-**Nota:**
+Les droits à l'allocation personnalisée d'autonomie sont ouverts à compter de la date du dépôt d'un dossier de demande
+complet. Dans un délai de deux mois à compter de cette date, le président du conseil général notifie la décision relative à
+l'allocation personnalisée d'autonomie au bénéficiaire. A défaut d'une notification dans ce délai, l'allocation personnalisée
+d'autonomie est réputée accordée pour un montant forfaitaire fixé par décret à compter du dépôt du dossier complet, jusqu'à
+la notification d'une décision expresse.
 
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+L'allocation personnalisée d'autonomie fait l'objet d'une révision périodique. Elle peut être révisée à tout moment en cas de
+modification de la situation du bénéficiaire.
+
+L'allocation personnalisée d'autonomie est versée mensuellement à son bénéficiaire. Toutefois, une partie de son montant
+peut, compte tenu de la nature des dépenses, être versée selon une périodicité différente dans des conditions fixées par
+décret.
 
 **Liens relatifs à cet article**
 
@@ -8121,30 +8302,21 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L134-5 (M)
-  - Code de l'action sociale et des familles - art. L232-13 (M)
+  - Code de l'action sociale et des familles - art. L232-3 (M)
 
 
 ###### Article L232-15
 
-L'action du bénéficiaire pour le versement de la prestation spécifique dépendance se prescrit par deux ans. Ledit
-bénéficiaire doit apporter la preuve de l'effectivité de l'aide qu'il a reçue ou des frais qu'il a dû acquitter pour que son
-action soit recevable.
-
-Cette prescription est également applicable, sauf en cas de fraude ou de fausse déclaration, à l'action intentée par le
-président du conseil général ou le représentant de l'Etat, pour la mise en recouvrement des sommes indûment versées.
-
-Un décret précise les montants minimaux en deçà desquels la prestation n'est pas versée ou recouvrée.
-
-La prestation spécifique dépendance est incessible, en tant qu'elle est versée directement au bénéficiaire, et insaisissable.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+L'allocation personnalisée d'autonomie est, le cas échéant, avec l'accord de son bénéficiaire, versée directement aux
+services prestataires d'aide à domicile visés à l'article L. 129-1 du code du travail ou aux établissements visés au 5° de
+l'article L. 312-1 du présent code et au 2° de l'article L. 6111-2 du code de la santé publique. Cet accord peut être repris
+à tout moment par le bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -8157,9 +8329,9 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Transféré par_:
+_Modifié par_:
 
-  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -8171,28 +8343,25 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L232-8 (VD)
   - Code de l'action sociale et des familles - art. L542-3 (V)
 
+_Cite_:
+
+  - Code du travail - art. L129-1 (M)
+  - Code de la santé publique - art. L6111-2 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (M)
+
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. L232-25 (M)
   - Code de l'action sociale et des familles - art. L232-25 (V)
 
 
 ###### Article L232-16
 
-Les dispositions du chapitre VII du titre VI du livre Ier du code de la sécurité sociale relatives à la tutelle aux
-prestations sociales sont applicables à la prestation spécifique dépendance, y compris lorsque la prestation est versée
-directement aux services prestataires selon les modalités prévues au deuxième alinéa des articles L. 232-19 et L. 232-23.
-
-Les dispositions des articles L. 133-3 et L. 133-5 sont applicables pour la prestation spécifique dépendance.
-
-Les agents mentionnés à l'article L. 133-2 ont compétence pour contrôler le respect des dispositions relatives à la
-prestation spécifique dépendance par les bénéficiaires de celle-ci et les institutions ou organismes intéressés.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Pour vérifier les déclarations des intéressés, les services chargés de l'évaluation des droits à l'allocation personnalisée
+d'autonomie peuvent demander toutes les informations nécessaires aux administrations publiques, notamment aux administrations
+fiscales, aux collectivités territoriales, aux organismes de sécurité sociale et de retraite complémentaire qui sont tenus de
+les leur communiquer. Lesdites informations doivent être limitées aux données nécessaires à l'identification de la situation
+du demandeur en vue de l'attribution de l'allocation personnalisée d'autonomie. Elles sont transmises et utilisées dans les
+conditions garantissant leur confidentialité.
 
 **Liens relatifs à cet article**
 
@@ -8205,9 +8374,9 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Transféré par_:
+_Modifié par_:
 
-  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -8216,46 +8385,19 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R232-43 (V)
   - Livre des procédures fiscales - art. L162 B (V)
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L133-2 (M)
-  - Code de l'action sociale et des familles - art. L133-3 (M)
-  - Code de l'action sociale et des familles - art. L133-5 (M)
-  - Code de l'action sociale et des familles - art. L232-19 (M)
-  - Code de l'action sociale et des familles - art. L232-23 (M)
-
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. L232-26 (AbD)
   - Code de l'action sociale et des familles - art. L232-26 (VD)
 
 
-##### Section 2 : Prestation spécifique dépendance à domicile.<a id=56></a>
-
 ###### Article L232-17
 
-Le degré de dépendance de l'intéressé détermine son besoin d'aide et de surveillance évalué par l'équipe médico-sociale
-mentionnée à l'article L. 232-2. Le plan d'aide élaboré par ladite équipe pour répondre à ce besoin tient compte de
-l'environnement de la personne et, le cas échéant, des aides publiques ou à titre gracieux dont elle disposera.
-
-Le plan d'aide ainsi établi, valorisé par le coût de référence déterminé par le président du conseil général pour les
-différentes aides prévues, permet de déterminer, en fonction de l'importance du besoin, le montant de la prestation accordée.
-
-Au cours de la visite à domicile effectuée par l'un au moins des membres de l'équipe médico-sociale, l'intéressé et, le cas
-échéant, son tuteur ou ses proches, reçoivent tous conseils et informations en rapport avec son état de dépendance. Ils sont,
-notamment, informés que l'équipe médico-sociale doit avoir connaissance de tout changement de situation de l'intéressé. Dans
-un délai fixé par décret, l'équipe médico-sociale propose le plan d'aide mentionné au premier alinéa qui peut être refusé par
-l'intéressé ou, le cas échéant, son tuteur.
-
-Au cours de son instruction, l'équipe médico-sociale consulte, lorsque le demandeur l'a choisi, le médecin que ce dernier
-désigne. Si l'intéressé le souhaite, ce médecin assiste à la visite prévue à l'alinéa précédent. L'équipe médico-sociale
-procède à la même consultation à l'occasion de la révision périodique de la demande de l'intéressé.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Chaque département transmet, dans des conditions fixées par décret, au fonds institué par l'article L. 232-21, à la fois des
+données comptables relatives aux dépenses nettes d'allocation personnalisée d'autonomie et des données statistiques et
+comptables relatives au développement du dispositif d'allocation personnalisée d'autonomie, à ses principales
+caractéristiques et notamment à celles de ses bénéficiaires ainsi qu'à l'activité des équipes médico-sociales et au suivi des
+conventions visées respectivement aux articles L. 232-3 et L. 232-13, de façon à alimenter un système d'information organisé
+par décret pris après avis de la Commission nationale de l'informatique et des libertés.
 
 **Liens relatifs à cet article**
 
@@ -8279,31 +8421,26 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L232-2 (M)
+  - Code de l'action sociale et des familles - art. L232-13 (M)
+  - Code de l'action sociale et des familles - art. L232-3 (M)
 
 
 ###### Article L232-18
 
-La prestation spécifique dépendance à domicile doit être utilisée à la rémunération du ou des salariés que le bénéficiaire
-emploie pour lui venir en aide, du service d'aide à domicile qui a fait l'objet d'un agrément dans les conditions fixées par
-l'article L. 129-1 du code du travail ou des services rendus par la personne qui accueille ledit bénéficiaire tels que
-définis au 1° de l'article L. 443-1.
+Le demandeur, le bénéficiaire de l'allocation personnalisée d'autonomie ou, le cas échéant, son représentant, le maire de la
+commune de résidence ou le représentant de l'Etat dans le département peut saisir la commission mentionnée à l'article L.
+232-12 pour qu'elle formule des propositions en vue du règlement des litiges relatifs à l'allocation personnalisée
+d'autonomie.
 
-Les salariés rémunérés pour assurer un service d'aide à domicile auprès d'une personne allocataire de la prestation
-spécifique dépendance bénéficient d'une formation selon des modalités définies par décret.
-
-Toutefois, la prestation spécifique dépendance peut être utilisée par toute personne remplissant les conditions prévues à
-l'article L. 232-1 et à laquelle son état de dépendance impose des dépenses autres que de personnel dont la nécessité a été
-constatée dans le cadre de la visite mentionnée à l'article L. 232-17, pour acquitter celles-ci dans la limite d'un plafond
-et selon des modalités d'attribution et de contrôle déterminés par décret.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Pour l'exercice de cette attribution, la commission s'adjoint des représentants des usagers ainsi que des personnalités
+qualifiées, dont des représentants des organisations de retraités et personnes âgées désignés par les comités départementaux
+des retraités et personnes âgées.
 
 **Liens relatifs à cet article**
 
@@ -8319,32 +8456,26 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+  - Rapport au Président de la République relatif à l'ordonnance n°2000-1249 du 21 décembre 2000
+  - Loi n°2002-2 du 2 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2015-1776 du 28 décembre 2015 - art. 41
 
 _Cite_:
 
-  - Code du travail - art. L129-1 (M)
-  - Code de l'action sociale et des familles - art. L232-1 (M)
-  - Code de l'action sociale et des familles - art. L232-17 (M)
-  - Code de l'action sociale et des familles - art. L443-1 (Ab)
+  - Code de l'action sociale et des familles - art. L232-12
 
 
 ###### Article L232-19
 
-La prestation spécifique dépendance est versée à son bénéficiaire dans des conditions qui lui permettent de ne pas faire
-l'avance du montant de celle-ci pour les frais autres que de personnel ou pour rémunérer son ou ses salariés ou le
-particulier qui l'accueille et accomplit les services mentionnés au 1° de l'article L. 443-1.
-
-Le cas échéant, elle est versée directement au service d'aide à domicile.
-
-Les modalités d'application du présent article sont fixées par décret.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Les sommes servies au titre de l'allocation personnalisée d'autonomie ne font pas l'objet d'un recouvrement sur la succession
+du bénéficiaire, sur le légataire ou sur le donataire.
 
 **Liens relatifs à cet article**
 
@@ -8357,33 +8488,25 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. L232-16 (T)
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L443-1 (Ab)
-
 
 ###### Article L232-20
 
-Dans le délai d'un mois à compter de la notification de l'attribution de la prestation, le bénéficiaire doit déclarer au
-président du conseil général le ou les salariés ou le service d'aide à domicile à la rémunération desquels est utilisée la
-prestation spécifique dépendance. Tout changement ultérieur de salarié ou de service doit être déclaré dans les mêmes
-conditions.
+Les recours contre les décisions relatives à l'allocation personnalisée d'autonomie sont formés devant les commissions
+départementales mentionnées à l'article L. 134-6, dans des conditions et selon les modalités prévues aux articles L. 134-1 à
+L. 134-10. 
 
-Il peut employer un ou plusieurs membres de sa famille à l'exception de son conjoint ou de son concubin. Il fait mention du
-lien de parenté avec son salarié dans sa déclaration et précise que ledit salarié n'est ni son conjoint ni son concubin.
-
-Le bénéficiaire de la prestation spécifique dépendance est informé qu'à défaut de la déclaration mentionnée au premier
-alinéa, dans le délai fixé au même alinéa, le versement de la prestation est suspendu.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Lorsque le recours est relatif à l'appréciation du degré de perte d'autonomie, la commission départementale mentionnée à
+l'article L. 134-6 recueille l'avis d'un médecin titulaire d'un diplôme universitaire de gériatrie ou d'une capacité en
+gérontologie et gériatrie, choisi par son président sur une liste établie par le conseil départemental de l'ordre des
+médecins.
 
 **Liens relatifs à cet article**
 
@@ -8403,17 +8526,99 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L134-1 (V)
+  - Code de l'action sociale et des familles - art. L134-6 (V)
+
+
+##### Section 3 : Financement de l'allocation personnalisée d'autonomie<a id=59></a>
 
 ###### Article L232-21
 
-La prestation spécifique dépendance ne peut être allouée afin de rémunérer une personne qui bénéficie déjà elle-même d'un
-avantage personnel de vieillesse.
+I. - Il est créé un fonds dont la mission est de contribuer au financement de l'allocation personnalisée d'autonomie. Ce
+fonds, dénommé "Fonds de financement de l'allocation personnalisée d'autonomie", est un établissement public national à
+caractère administratif.
 
-**Nota:**
+Les conditions de fonctionnement et de gestion du fonds, la composition de son conseil d'administration, constitué de
+représentants de l'Etat, et la composition de son conseil de surveillance, comprenant notamment des membres du Parlement et
+des représentants des départements, des régimes obligatoires de base d'assurance vieillesse et des personnes âgées, sont
+déterminées par voie réglementaire.
 
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Le conseil d'administration du fonds transmet chaque année au Parlement et au Gouvernement, au plus tard le 15 octobre, un
+rapport présentant ses comptes prévisionnels pour l'année en cours et l'année suivante. Un rapport du conseil de
+surveillance, transmis selon les mêmes modalités, rend compte de la mise en oeuvre du dispositif d'allocation personnalisée
+d'autonomie à partir des données statistiques mentionnées à l'article L. 232-17.
+
+II. - Les dépenses du fonds sont constituées par :
+
+1° Un concours versé aux départements, destiné à prendre en charge une partie du coût de l'allocation.
+
+Le montant de ce concours est réparti annuellement entre les départements, en fonction de la part des dépenses réalisées par
+chaque département au titre de l'allocation personnalisée d'autonomie dans le montant total des dépenses au titre de
+l'allocation personnalisée d'autonomie constaté l'année précédente pour l'ensemble des départements ; il est modulé en
+fonction du potentiel fiscal déterminé selon les modalités définies à l'article L. 3334-6 du code général des collectivités
+territoriales et du nombre de bénéficiaires du revenu minimum d'insertion de chaque département.
+
+Toutefois, au titre des deux premières années de fonctionnement du fonds, ce concours est réparti entre les départements en
+fonction du nombre de personnes âgées de plus de soixante-quinze ans, du potentiel fiscal déterminé selon les mêmes modalités
+et du nombre de bénéficiaires du revenu minimum d'insertion de chaque département.
+
+Le montant ainsi réparti :
+
+- ne peut excéder par département la moitié des dépenses d'allocation personnalisée d'autonomie dudit département. Le cas
+échéant, l'excédent constaté fait l'objet d'une régularisation au cours de l'exercice suivant ;
+
+- est majoré pour les départements dont les dépenses d'allocation personnalisée d'autonomie rapportées au nombre de personnes
+âgées du département de plus de soixante-quinze ans excèdent d'au moins 30 % les dépenses d'allocation personnalisée
+d'autonomie de l'ensemble des départements rapportées au nombre total de personnes âgées de plus de soixante-quinze ans sur
+l'ensemble du territoire national.
+
+Cette majoration, égale à 80 % de la fraction de dépenses excédant le seuil de 30 %, est prise en charge par le fonds et
+minore, à due concurrence, les montants à répartir en fonction des trois critères visés ci-dessus.
+
+Des acomptes sont versés aux départements. Ils sont établis sur la base des trois critères visés ci-dessus, dans la limite de
+80 % des recettes disponibles du fonds après prise en compte des dépenses visées au 2° et au 3° . Ils sont régularisés au
+cours de l'exercice suivant par application de l'ensemble des critères ainsi définis, dans la limite des recettes de
+l'exercice au titre duquel est effectuée la régularisation.
+
+En aucun cas, les dépenses relatives à l'allocation personnalisée d'autonomie de chaque département ne peuvent excéder un
+montant moyen par bénéficiaire égal à 80 % du montant au 1er janvier 2001 de la majoration pour tierce personne mentionnée à
+l'article L. 335-1 du code de la sécurité sociale revalorisée, chaque année, comme les prix à la consommation hors tabac aux
+termes du rapport économique et financier annexé au projet de loi de finances pour l'année civile à venir. Les dépenses
+effectuées en dépassement de ce seuil sont prises en charge en totalité par le fonds et minorent, à due concurrence, les
+montants à répartir.
+
+L'ensemble de ces dispositions sera réexaminé avant la fin de l'exercice 2003, en fonction du bilan mentionné à l'article 15
+de la loi n° 2001-647 du 20 juillet 2001 précitée ;
+
+2° Les dépenses de modernisation des services qui apportent au domicile des personnes âgées dépendantes une assistance dans
+les actes quotidiens de la vie, afin notamment de promouvoir des actions innovantes, de renforcer la professionnalisation et
+de développer la qualité de ces services.
+
+Ces dépenses sont retracées dans une section spécifique du Fonds de financement de l'allocation personnalisée d'autonomie,
+dénommée "Fonds de modernisation de l'aide à domicile", abondée par une fraction de la recette mentionnée au 2° du III ;
+cette fraction, fixée par arrêté des ministres chargés de la sécurité sociale et du budget, ne peut être inférieure à 3 % ni
+supérieure à 10 % des sommes en cause.
+
+Les projets de modernisation de l'aide à domicile sont agréés par le ministre chargé de l'action sociale et financés par le
+fonds dans la limite des crédits disponibles ;
+
+3° Le remboursement des frais de gestion du fonds.
+
+III. - Les recettes affectées au financement des dépenses prévues au II sont constituées par :
+
+1° Une participation des régimes obligatoires de base d'assurance vieillesse, représentative d'une fraction identique pour
+tous les régimes, déterminée par voie réglementaire, des sommes consacrées par chacun de ceux-ci en 2000 aux dépenses d'aide
+ménagère à domicile au bénéfice des personnes âgées dépendantes remplissant la condition de perte d'autonomie mentionnée à
+l'article L. 232-2 ; cette fraction ne peut être inférieure à la moitié ni supérieure aux trois quarts des sommes en cause ;
+
+2° Une fraction du produit des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1 du
+code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -8425,6 +8630,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -8463,26 +8672,27 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L136-8 (M)
   - Code général des collectivités territoriales - art. L3332-2 (M)
 
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L3334-6 (M)
+  - Code de la sécurité sociale L335-1, L136-1, L136-6, L136-7, L136-7-1
+  - Code de la sécurité sociale. - art. L136-1 (M)
+  - Code de la sécurité sociale. - art. L136-6 (M)
+  - Code de la sécurité sociale. - art. L136-7 (M)
+  - Code de la sécurité sociale. - art. L136-7-1 (M)
+  - Code de l'action sociale et des familles - art. L232-2 (M)
+
+
+##### Section 4 : Dispositions communes.<a id=60></a>
 
 ###### Article L232-22
 
-L'un au moins des membres de l'équipe médico-sociale mentionnée à l'article L. 232-2 assure à la résidence du bénéficiaire de
-la prestation spécifique dépendance un suivi de l'aide qui comporte, notamment, au moins une fois par an, un contrôle de
-l'effectivité de celle-ci, de son adéquation aux besoins de la personne et de la qualité du service rendu.
-
-Dans des conditions déterminées par voie réglementaire, sur le rapport de l'équipe médico-sociale mentionnée au premier
-alinéa, le service de la prestation spécifique dépendance est suspendu par le président du conseil général lorsqu'il est
-manifeste que son bénéficiaire ne reçoit pas d'aide effective ou que le service rendu présente un risque pour la santé, la
-sécurité ou le bien-être physique et moral de celui-ci.
-
-En ce cas, après avis de l'équipe médico-sociale, le président du conseil général propose au bénéficiaire ou, le cas échéant,
-à son tuteur des solutions de substitution.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Lorsque le bénéficiaire de l'allocation personnalisée d'autonomie est hébergé dans un établissement de santé pour recevoir
+des soins de courte durée, de suite ou de réadaptation mentionnés au a et au b du 1° de l'article L. 6111-2 du code de la
+santé publique, le président du conseil général en est informé par le bénéficiaire, le cas échéant son tuteur, ou l'équipe
+médico-sociale mentionnée à l'article L. 232-3. En fonction de la nouvelle situation de l'intéressé, le président du conseil
+général peut réduire le montant de l'allocation personnalisée d'autonomie ou en suspendre le versement dans des conditions
+fixées par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -8502,28 +8712,23 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 2001-07-20 art. 2 I, II 3°, 5° JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cite_:
 
+  - Code de la santé publique - art. L6111-2 (V)
   - Code de l'action sociale et des familles - art. L232-2 (M)
 
 
-##### Section 3 : Prestation spécifique dépendance en établissement.<a id=57></a>
-
 ###### Article L232-23
 
-L'évaluation de l'état de dépendance des personnes accueillies dans un établissement hébergeant des personnes âgées,
-conformément au 5° de l'article L. 312-1, ou dans un établissement de santé mentionné au 2° de l'article L. 6111-2 du code de
-la santé publique est effectuée lors de la demande de prestation ou lors de l'admission en établissement puis périodiquement
-par l'équipe médico-sociale prévue à l'article L. 232-2. Cette évaluation détermine, en fonction de la tarification en
-vigueur, le montant de la prise en charge dont peut bénéficier la personne âgée.
-
-La prestation spécifique dépendance est versée directement à l'établissement qui accueille son bénéficiaire.
-
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+L'allocation personnalisée d'autonomie n'est cumulable ni avec l'allocation représentative de services ménagers, ni avec
+l'aide en nature accordée sous forme de services ménagers, mentionnées, respectivement, aux deuxième et troisième alinéas de
+l'article L. 231-1, ni avec l'allocation compensatrice instituée par l'article L. 245-1, ni avec la majoration pour aide
+constante d'une tierce personne prévue à l'article L. 355-1 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -8544,26 +8749,25 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 2001-07-20 art. 2 I, II 3° JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code de la santé publique - art. L6111-2 (V)
-  - Code de l'action sociale et des familles - art. L232-2 (M)
-  - Code de l'action sociale et des familles - art. L312-1 (M)
+  - Code de la sécurité sociale. - art. L355-1 (V)
+  - Code de l'action sociale et des familles - art. L231-1 (V)
+  - Code de l'action sociale et des familles - art. L245-1 (M)
 
-
-##### Section 4 : Dispositions communes.<a id=58></a>
 
 ###### Article L232-24
 
-Sans préjudice des actions en recouvrement des sommes indûment versées mentionnées au deuxième alinéa de l'article L. 232-15,
-le fait d'avoir frauduleusement perçu la prestation instituée par le présent chapitre est puni des peines prévues par les
-articles 313-1 à 313-3 du code pénal.
+L'attribution de l'allocation personnalisée d'autonomie n'est pas subordonnée à la mise en oeuvre de l'obligation alimentaire
+définie par les articles 205 à 211 du code civil. 
 
-**Nota:**
-
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+Tous les recouvrements relatifs au service de l'allocation personnalisée d'autonomie sont opérés comme en matière de
+contributions directes.
 
 **Liens relatifs à cet article**
 
@@ -8572,41 +8776,41 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Transféré par_:
+_Modifié par_:
 
+  - Loi n°2001-647 2001-07-20 art. 2 I, II 3° JORF 21 juillet 2001 en vigueur le 1er janvier 2002
   - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cite_:
 
-  - Code pénal 313-1 à 313-3
-  - Code de l'action sociale et des familles - art. L232-15 (T)
+  - Code civil - art. 205 (V)
 
 _Anciens textes_:
 
-  - Code de la famille et de l'aide sociale. - art. 13 (T)
   - Code de l'action sociale et des familles - art. L232-12 (T)
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L232-27 (Ab)
-  - Code de l'action sociale et des familles - art. L232-27 (V)
 
 
 ###### Article L232-25
 
-Sont déterminées par décret en Conseil d'Etat :
+L'action du bénéficiaire pour le versement de l'allocation personnalisée d'autonomie se prescrit par deux ans. Ledit
+bénéficiaire doit apporter la preuve de l'effectivité de l'aide qu'il a reçue ou des frais qu'il a dû acquitter pour que son
+action soit recevable.
 
-1° Les modalités d'évaluation des revenus et de la valeur en capital des biens non productifs de revenu selon les
-dispositions de l'article L. 232-9 ;
+Cette prescription est également applicable, sauf en cas de fraude ou de fausse déclaration, à l'action intentée par le
+président du conseil général ou le représentant de l'Etat, pour la mise en recouvrement des sommes indûment versées.
 
-2° Les conditions dans lesquelles est mise en oeuvre la procédure de suspension de la prestation prévue à l'article L.
-232-22.
+Un décret précise les montants minimaux en deçà desquels l'allocation n'est pas versée ou recouvrée.
+
+L'allocation personnalisée d'autonomie est incessible, en tant qu'elle est versée directement au bénéficiaire, et
+insaisissable.
 
 **Nota:**
 
-Loi 2001-647 2001-07-20 art. 21 II : les articles L232-1 à L232-25 du code de l'action sociale et des familles, dans leur
-rédaction applicable avant l'entrée en vigueur de la présente loi, demeurent applicables aux personnes auxquelles le bénéfice
-de la prestation spécifique dépendance a été reconnu avant sa date d'entrée en vigueur.
+
 
 **Liens relatifs à cet article**
 
@@ -8615,14 +8819,14 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 2001-07-20 art. 2 I, II 3°, 4° JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Anciens textes_:
 
   - Code de l'action sociale et des familles - art. L232-15 (T)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L232-22 (M)
-  - Code de l'action sociale et des familles - art. L232-9 (M)
 
 _Cité par_:
 
@@ -8631,9 +8835,100 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R131-3 (V)
 
 
-### Titre IV : Personnes handicapées<a id=59></a>
+###### Article L232-26
 
-#### Chapitre Ier : Dispositions générales.<a id=60></a>
+Les dispositions du chapitre VII du titre VI du livre Ier du code de la sécurité sociale relatives à la tutelle aux
+prestations sociales sont applicables à l'allocation personnalisée d'autonomie, y compris lorsque l'allocation est versée
+directement aux services prestataires selon les modalités prévues à l'article L. 232-15.
+
+Les dispositions des articles L. 133-3 et L. 133-5 sont applicables pour l'allocation personnalisée d'autonomie.
+
+Les agents mentionnés à l'article L. 133-2 ont compétence pour contrôler le respect des dispositions relatives à l'allocation
+personnalisée d'autonomie par les bénéficiaires de celle-ci et les institutions ou organismes intéressés.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2001-647 2001-07-20 art. 2 I, II 3°, 4°, 6° JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L133-2 (M)
+  - Code de l'action sociale et des familles - art. L133-3 (M)
+  - Code de l'action sociale et des familles - art. L133-5 (M)
+  - Code de l'action sociale et des familles - art. L232-15 (T)
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. L232-16 (T)
+
+
+###### Article L232-27
+
+Sans préjudice des actions en recouvrement des sommes indûment versées mentionnées au deuxième alinéa de l'article L. 232-25,
+le fait d'avoir frauduleusement perçu l'allocation instituée par le présent chapitre est puni des peines prévues par les
+articles 313-1 à 313-3 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 du 2 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2001-647 2001-07-20 art. 2 I, II 4°, 7° JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2013-1203 du 23 décembre 2013 - art. 86
+
+_Cite_:
+
+  - Code pénal
+  - Code de l'action sociale et des familles - art. L232-25
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. L232-24 (T)
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L114-16-2 (V)
+
+
+###### Article L232-28
+
+Sauf disposition contraire, les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
+
+### Titre IV : Personnes handicapées<a id=61></a>
+
+#### Chapitre Ier : Dispositions générales.<a id=62></a>
 
 ###### Article L241-1
 
@@ -8858,9 +9153,9 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre II : Education spéciale<a id=61></a>
+#### Chapitre II : Education spéciale<a id=63></a>
 
-##### Section 1 : Commission d'éducation spéciale.<a id=62></a>
+##### Section 1 : Commission d'éducation spéciale.<a id=64></a>
 
 ###### Article L242-1
 
@@ -9185,7 +9480,7 @@ _Abrogé par_:
   - Loi n°2005-102 du 11 février 2005 - art. 67 () JORF 12 février 2005
 
 
-##### Section 2 : Prise en charge.<a id=63></a>
+##### Section 2 : Prise en charge.<a id=65></a>
 
 ###### Article L242-10
 
@@ -9316,7 +9611,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L111-2 (M)
 
 
-##### Section 3 : Allocation d'éducation spéciale.<a id=64></a>
+##### Section 3 : Allocation d'éducation spéciale.<a id=66></a>
 
 ###### Article L242-14
 
@@ -9369,7 +9664,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R241-6 (V)
 
 
-##### Section 4 : Dispositions communes.<a id=65></a>
+##### Section 4 : Dispositions communes.<a id=67></a>
 
 ###### Article L242-15
 
@@ -9393,9 +9688,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L242-8 (Ab)
 
 
-#### Chapitre III : Travailleurs handicapés<a id=66></a>
+#### Chapitre III : Travailleurs handicapés<a id=68></a>
 
-##### Section 1 : Commission technique d'orientation et de reclassement professionnel.<a id=67></a>
+##### Section 1 : Commission technique d'orientation et de reclassement professionnel.<a id=69></a>
 
 ###### Article L243-1
 
@@ -9528,7 +9823,7 @@ _Abrogé par_:
   - Loi n°2005-102 du 11 février 2005 - art. 67 () JORF 12 février 2005
 
 
-##### Section 2 : Dispositions favorisant le travail.<a id=68></a>
+##### Section 2 : Dispositions favorisant le travail.<a id=70></a>
 
 ###### Article L243-3
 
@@ -9708,7 +10003,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre IV : Allocation aux adultes handicapés.<a id=69></a>
+#### Chapitre IV : Allocation aux adultes handicapés.<a id=71></a>
 
 ###### Article L244-1
 
@@ -9845,7 +10140,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R241-7 (V)
 
 
-#### Chapitre V : Allocation compensatrice.<a id=70></a>
+#### Chapitre V : Allocation compensatrice.<a id=72></a>
 
 ###### Article L245-1
 
@@ -9986,9 +10281,9 @@ _Cite_:
 ###### Article L245-3
 
 Toute personne qui a obtenu le bénéfice de l'allocation compensatrice avant l'âge mentionné à l'article L. 245-1 et qui
-remplit les conditions prévues par l'article L. 232-1 peut choisir, dans des conditions fixées par décret, lorsqu'elle
-atteint cet âge, et à chaque renouvellement de l'attribution de cette allocation, le maintien de celle-ci ou le bénéfice de
-la prestation spécifique dépendance.
+remplit les conditions prévues par l'article L. 232-2 peut choisir, dans des conditions fixées par décret, lorsqu'elle
+atteint cet âge et à chaque renouvellement de l'attribution de cette allocation, le maintien de celle-ci ou le bénéfice de
+l'allocation personnalisée d'autonomie.
 
 **Liens relatifs à cet article**
 
@@ -10067,9 +10362,13 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 3 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L232-1 (M)
+  - Code de l'action sociale et des familles - art. L232-2 (M)
 
 
 ###### Article L245-4
@@ -10318,7 +10617,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L245-9 (M)
 
 
-#### Chapitre VI : Personnes atteintes de syndrome autistique.<a id=71></a>
+#### Chapitre VI : Personnes atteintes de syndrome autistique.<a id=73></a>
 
 ###### Article L246-1
 
@@ -10340,9 +10639,9 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-### Titre V : Personnes non bénéficiaires de la couverture maladie universelle<a id=72></a>
+### Titre V : Personnes non bénéficiaires de la couverture maladie universelle<a id=74></a>
 
-#### Chapitre Ier : Droit à l'aide médicale de l'Etat.<a id=73></a>
+#### Chapitre Ier : Droit à l'aide médicale de l'Etat.<a id=75></a>
 
 ###### Article L251-1
 
@@ -10481,7 +10780,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre II : Modalités d'admission.<a id=74></a>
+#### Chapitre II : Modalités d'admission.<a id=76></a>
 
 ###### Article L252-1
 
@@ -10624,7 +10923,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre III : Dispositions financières.<a id=75></a>
+#### Chapitre III : Dispositions financières.<a id=77></a>
 
 ###### Article L253-1
 
@@ -10710,11 +11009,11 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 202 (Ab)
 
 
-### Titre VI : Lutte contre la pauvreté et les exclusions<a id=76></a>
+### Titre VI : Lutte contre la pauvreté et les exclusions<a id=78></a>
 
-#### Chapitre Ier : Logement<a id=77></a>
+#### Chapitre Ier : Logement<a id=79></a>
 
-##### Section 1 : Aides générales au logement.<a id=78></a>
+##### Section 1 : Aides générales au logement.<a id=80></a>
 
 ###### Article L261-1
 
@@ -10767,7 +11066,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L831-1 (V)
 
 
-##### Section 2 : Fourniture d'eau et d'énergie.<a id=79></a>
+##### Section 2 : Fourniture d'eau et d'énergie.<a id=81></a>
 
 ###### Article L261-4
 
@@ -10813,7 +11112,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L115-3 (M)
 
 
-##### Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées.<a id=80></a>
+##### Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées.<a id=82></a>
 
 ###### Article L261-5
 
@@ -10874,9 +11173,9 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre II : Revenu minimum d'insertion<a id=81></a>
+#### Chapitre II : Revenu minimum d'insertion<a id=83></a>
 
-##### Section 1 : Dispositions générales<a id=82></a>
+##### Section 1 : Dispositions générales<a id=84></a>
 
 ###### Article L262-1
 
@@ -11370,7 +11669,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L816-1 (V)
 
 
-##### Section 2 : Conditions d'ouverture du droit à l'allocation.<a id=83></a>
+##### Section 2 : Conditions d'ouverture du droit à l'allocation.<a id=85></a>
 
 ###### Article L262-7
 
@@ -11633,7 +11932,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R262-49 (VD)
 
 
-##### Section 3 : Attribution de l'allocation<a id=84></a>
+##### Section 3 : Attribution de l'allocation<a id=86></a>
 
 ###### Article L262-13
 
@@ -12587,7 +12886,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-##### Section 4 : Contrat d'insertion<a id=85></a>
+##### Section 4 : Contrat d'insertion<a id=87></a>
 
 ###### Article L262-37
 
@@ -12692,7 +12991,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-##### Section 5 : Recours et récupération<a id=86></a>
+##### Section 5 : Recours et récupération<a id=88></a>
 
 ###### Article L262-39
 
@@ -13035,9 +13334,9 @@ _Cite_:
   - Code de la sécurité sociale. - art. L554-2 (M)
 
 
-#### Chapitre III : Actions d'insertion<a id=87></a>
+#### Chapitre III : Actions d'insertion<a id=89></a>
 
-##### Section 1 : Dispositif départemental d'insertion.<a id=88></a>
+##### Section 1 : Dispositif départemental d'insertion.<a id=90></a>
 
 ###### Article L263-1
 
@@ -13363,7 +13662,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L263-7 (Ab)
 
 
-##### Section 2 : Dispositif local d'insertion.<a id=89></a>
+##### Section 2 : Dispositif local d'insertion.<a id=91></a>
 
 ###### Article L263-10
 
@@ -13535,7 +13834,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L263-4 (M)
 
 
-##### Section 4 : Fonds d'aide aux jeunes en difficulté.<a id=90></a>
+##### Section 4 : Fonds d'aide aux jeunes en difficulté.<a id=92></a>
 
 ###### Article L263-15
 
@@ -13593,7 +13892,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R263-9 (Ab)
 
 
-##### Section 5 : Personnes bénéficiaires de l'allocation de parent isolé.<a id=91></a>
+##### Section 5 : Personnes bénéficiaires de l'allocation de parent isolé.<a id=93></a>
 
 ###### Article L263-18
 
@@ -13655,11 +13954,146 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L263-5 (VD)
 
 
-## Livre III : Etablissements<a id=92></a>
+## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services<a id=94></a>
 
-### Titre Ier : Etablissements soumis à autorisation<a id=93></a>
+### Titre II : Etablissements soumis à déclaration<a id=95></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=94></a>
+#### Chapitre Ier : Accueil de mineurs.<a id=96></a>
+
+###### Article L321-4
+
+Est puni d'un emprisonnement de trois mois et d'une amende de 3750 euros :
+
+1° Le fait d'héberger ou de recevoir collectivement et de manière habituelle des mineurs dans un établissement mentionné à
+l'article L. 321-1, sans avoir effectué la déclaration préalable auprès du président du conseil général ;
+
+2° Le fait d'apporter un changement important à l'établissement, sans avoir effectué la déclaration préalable auprès du
+président du conseil général ou de procéder à l'ouverture ou à la transformation de l'établissement malgré l'opposition du
+président du conseil général ;
+
+3° Le fait de diriger, d'exploiter ou d'être employé au sein de l'établissement, malgré les incapacités prévues à l'article
+L. 321-1 ;
+
+4° Le fait, pour le responsable de l'établissement, de ne pas se conformer aux injonctions préfectorales ou du président du
+conseil général ou de ne pas respecter l'arrêté préfectoral de fermeture de l'établissement prévu à l'article L. 331-7 ou
+d'ouvrir à nouveau l'établissement, après fermeture administrative, sans solliciter l'autorisation préfectorale prévue à
+l'article L. 322-6 ;
+
+5° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ou de faire obstacle aux demandes de renseignements et au
+droit d'entrée des agents chargés de la surveillance prévus aux articles L. 331-1 et L. 331-3.
+
+Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
+d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger un établissement soumis
+aux dispositions du présent chapitre ou d'effectuer des placements d'enfants ou de recevoir des enfants.
+
+En cas de récidive, les peines prévues au présent article peuvent être portées au double.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Cite_:
+
+  - Code pénal - art. 131-27 (V)
+  - Code de l'action sociale et des familles - art. L321-1 (M)
+  - Code de l'action sociale et des familles - art. L322-6 (M)
+  - Code de l'action sociale et des familles - art. L331-1 (M)
+  - Code de l'action sociale et des familles - art. L331-2 (M)
+  - Code de l'action sociale et des familles - art. L331-3 (M)
+  - Code de l'action sociale et des familles - art. L331-7 (M)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L421-12 (V)
+  - Code de l'action sociale et des familles - art. L421-8 (T)
+  - Code de l'action sociale et des familles - art. L443-9 (V)
+
+_Anciens textes_:
+
+  - Code de la famille et de l'aide sociale. - art. 99 (Ab)
+
+
+#### Chapitre II : Accueil d'adultes.<a id=97></a>
+
+###### Article L322-8
+
+Est puni d'un emprisonnement de trois mois et d'une amende de 3750 euros :
+
+1° La création d'un établissement prévu à l'article L. 322-1 sans avoir effectué la déclaration préalable auprès de
+l'autorité administrative compétente ;
+
+2° L'ouverture de cet établissement malgré l'opposition de l'autorité administrative prévue à l'article L. 322-4 ;
+
+3° Le fait, pour le responsable d'un établissement mentionné à l'article L. 322-1 d'apporter une modification à cet
+établissement sans effectuer la déclaration auprès de l'autorité administrative prévue à l'article L. 322-3 ou malgré
+l'opposition prévue à l'article L. 322-4, de ne pas se conformer aux injonctions préfectorales ou de ne pas respecter
+l'arrêté préfectoral de fermeture de l'établissement prévu à l'article L. 331-5 ;
+
+4° Le fait d'ouvrir à nouveau l'établissement, après fermeture administrative, sans solliciter l'autorisation préfectorale
+prévue à l'article L. 322-6 ;
+
+5° Le fait de diriger, d'exploiter ou d'être employé au sein de l'établissement, malgré l'incapacité prévue à l'article L.
+322-5 ;
+
+6° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ;
+
+7° Le fait de faire obstacle aux demandes de renseignements et au droit d'entrée des agents chargés de la surveillance prévus
+aux articles L. 331-1 et L. 331-3.
+
+Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
+d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger un établissement soumis
+aux dispositions du présent chapitre.
+
+En cas de récidive, les peines prévues au présent article peuvent être portées au double.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Cite_:
+
+  - Code pénal - art. 131-27 (V)
+  - Code de l'action sociale et des familles - art. L322-1 (M)
+  - Code de l'action sociale et des familles - art. L322-3 (M)
+  - Code de l'action sociale et des familles - art. L322-4 (M)
+  - Code de l'action sociale et des familles - art. L322-5 (M)
+  - Code de l'action sociale et des familles - art. L322-6 (M)
+  - Code de l'action sociale et des familles - art. L331-1 (M)
+  - Code de l'action sociale et des familles - art. L331-2 (M)
+  - Code de l'action sociale et des familles - art. L331-3 (M)
+  - Code de l'action sociale et des familles - art. L331-5 (M)
+
+_Anciens textes_:
+
+  - Code de la famille et de l'aide sociale. - art. 213 (M)
+  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L133-2 (M)
+
+
+## Livre III : Etablissements<a id=98></a>
+
+### Titre Ier : Etablissements soumis à autorisation<a id=99></a>
+
+#### Chapitre Ier : Dispositions générales.<a id=100></a>
 
 ###### Article L311-1
 
@@ -13981,9 +14415,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
 
 
-#### Chapitre II : Statut des établissements<a id=95></a>
+#### Chapitre II : Statut des établissements<a id=101></a>
 
-##### Section 1 : Création, extension et transformation.<a id=96></a>
+##### Section 1 : Création, extension et transformation.<a id=102></a>
 
 ###### Article L312-1
 
@@ -15108,7 +15542,7 @@ _Cité par_:
   - Code de la santé publique - art. R1423-10 (Ab)
 
 
-##### Section 2 : Organisation et fonctionnement.<a id=97></a>
+##### Section 2 : Organisation et fonctionnement.<a id=103></a>
 
 ###### Article L312-7
 
@@ -15178,18 +15612,21 @@ _Cite_:
 
 ###### Article L312-8
 
-Les établissements assurant l'hébergement des personnes âgées mentionnées au 5° de l'article L. 312-1 et les établissements
-de santé mentionnés au 2° de l'article L. 6111-2 du code de la santé publique ne peuvent accueillir des personnes âgées
-remplissant les conditions de dépendance mentionnées au premier alinéa de l'article L. 232-1 que s'ils ont passé une
-convention pluriannuelle avec le président du conseil général et l'autorité compétente pour l'assurance maladie, qui respecte
-le cahier des charges établi par arrêté conjoint du ministre chargé des personnes âgées et du ministre chargé des
-collectivités territoriales, après avis des organismes nationaux d'assurance maladie et des représentants des conseils
-généraux.
+I. - Les établissements assurant l'hébergement des personnes âgées mentionnés au 5° de l'article L. 312-1 et les
+établissements de santé dispensant des soins de longue durée visés au 2° de l'article L. 6111-2 du code de la santé publique
+qui accueillent un nombre de personnes âgées dépendantes dans une proportion supérieure à un seuil fixé par décret ne peuvent
+accueillir des personnes âgées remplissant les conditions de perte d'autonomie mentionnées à l'article L. 232-2 du présent
+code que s'ils ont passé avant le 31 décembre 2003 une convention pluriannuelle avec le président du conseil général et
+l'autorité compétente de l'Etat, qui respecte le cahier des charges établi par arrêté interministériel, après avis des
+organismes nationaux d'assurance maladie et des représentants des présidents de conseils généraux.
 
-Cette convention définit les conditions de fonctionnement de l'établissement tant au plan financier qu'à celui de la qualité
-de la prise en charge des personnes et des soins qui sont prodigués à ces dernières, en accordant une attention particulière
-au niveau de formation du personnel d'accueil. Elle précise les objectifs d'évolution de l'établissement et les modalités de
-son évaluation.
+II. - Les établissements mentionnés au I dont la capacité est inférieure à un seuil fixé par décret ont la possibilité de
+déroger aux règles mentionnées au 1° de l'article L. 315-1. Dans ces établissements, les modalités de tarification des
+prestations remboursables aux assurés sociaux sont fixées par décret.
+
+III. - Les établissements accueillant un nombre de personnes âgées dépendantes inférieur au seuil mentionné au I doivent
+répondre à des critères de fonctionnement, notamment de qualité, définis par un cahier des charges fixé par arrêté du
+ministre chargé des personnes âgées.
 
 **Liens relatifs à cet article**
 
@@ -15283,14 +15720,18 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 4 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code de la santé publique - art. L6111-2 (V)
-  - Code de l'action sociale et des familles - art. L232-1 (M)
+  - Code de l'action sociale et des familles - art. L232-2 (M)
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Section 3 : Droits des personnes accueillies.<a id=98></a>
+##### Section 3 : Droits des personnes accueillies.<a id=104></a>
 
 ###### Article L312-9
 
@@ -15413,7 +15854,7 @@ _Cite_:
   - Code de l'action sociale et des familles L312-1, L312-9, L342-1 à L342-6
 
 
-##### Section 4 : Dispositions pénales.<a id=99></a>
+##### Section 4 : Dispositions pénales.<a id=105></a>
 
 ###### Article L312-12
 
@@ -15498,7 +15939,7 @@ _Cite_:
   - Code de l'action sociale et des familles L412-1, L232-1, L312-8, L312-1
 
 
-##### Section 5 : Dispositions communes.<a id=100></a>
+##### Section 5 : Dispositions communes.<a id=106></a>
 
 ###### Article L312-14
 
@@ -15542,7 +15983,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-#### Chapitre III : Etablissements privés.<a id=101></a>
+#### Chapitre III : Etablissements privés.<a id=107></a>
 
 ###### Article L313-1
 
@@ -16534,7 +16975,7 @@ _Cité par_:
   - Code du tourisme. - art. L412-2 (V)
 
 
-#### Chapitre IV : Etablissements relevant des collectivités publiques.<a id=102></a>
+#### Chapitre IV : Etablissements relevant des collectivités publiques.<a id=108></a>
 
 ###### Article L314-1
 
@@ -17208,9 +17649,9 @@ _Cité par_:
   - Code de la consommation - art. L141-1 (VT)
 
 
-#### Chapitre V : Dispositions financières<a id=103></a>
+#### Chapitre V : Dispositions financières<a id=109></a>
 
-##### Section 1 : Compétences.<a id=104></a>
+##### Section 1 : Compétences.<a id=110></a>
 
 ###### Article L315-1
 
@@ -17219,19 +17660,28 @@ l'aide sociale du département est arrêtée chaque année par le président du 
 suivantes.
 
 La tarification des prestations remboursables aux assurés sociaux est arrêtée dans les conditions fixées par l'article L.
-315-5, après avis du président du conseil général. Au vu de cette décision, le président du conseil général fixe la
-tarification des prestations fournies par les établissements et services habilités à recevoir des bénéficiaires de l'aide
-sociale du département.
+162-24-1 du code de la sécurité sociale. Au vu de cette décision, le président du conseil général fixe la tarification des
+prestations fournies par les établissements et services habilités à recevoir des bénéficiaires de l'aide sociale du
+département.
 
-La tarification des établissements qui peuvent accueillir des personnes âgées conformément à l'article L. 312-8 est arrêtée,
-pour les prestations remboursables aux assurés sociaux, par l'autorité compétente pour l'assurance maladie après avis du
-président du conseil général, et pour les prestations pouvant être prises en charge par la prestation spécifique dépendance,
-prévue par l'article L. 232-1, par le président du conseil général après avis de l'autorité compétente pour l'assurance
-maladie.
+La tarification des établissements mentionnés à l'article L. 312-8 est arrêtée :
 
-Cette tarification est notifiée aux établissements au plus tard le 31 janvier de l'exercice en cours, lorsque les documents
-nécessaires à la fixation de cette tarification ont été transmis aux autorités compétentes dans les conditions et les délais
-déterminés par voie réglementaire.
+1° Pour les prestations de soins remboursables aux assurés sociaux, par l'autorité compétente de l'Etat, après avis du
+président du conseil général et de la caisse régionale d'assurance maladie ;
+
+2° Pour les prestations relatives à la dépendance acquittées par l'usager ou, si celui-ci remplit les conditions mentionnées
+à l'article L. 232-2, prises en charge par l'allocation personnalisée d'autonomie, par le président du conseil général, après
+avis de l'autorité compétente de l'Etat ;
+
+3° Pour les prestations relatives à l'hébergement, dans les établissements habilités à recevoir des bénéficiaires de l'aide
+sociale, par le président du conseil général.
+
+Cette tarification est notifiée aux établissements au plus tard soixante jours à compter de la date de notification des
+dotations régionales limitatives mentionnées à l'article L. 315-9, pour l'exercice en cours, lorsque les documents
+nécessaires à la fixation de cette tarification ont été transmis aux autorités compétentes.
+
+Pour les établissements visés à l'article L. 342-1, les prix des prestations mentionnées au 3° ci-dessus sont fixés dans les
+conditions prévues par les articles L. 342-2 à L. 342-6.
 
 La tarification des prestations fournies par les établissements ou services auxquels l'autorité judiciaire confie directement
 et habituellement des mineurs est arrêtée conjointement par le président du conseil général et le représentant de l'Etat.
@@ -17249,13 +17699,17 @@ pouvoir de tarification pourra être confié à un autre département que ce der
 
 _Anciens textes_:
 
-  - Loi n°75-535 du 30 juin 1975 - art. 26 (M)
   - Loi n°75-535 du 30 juin 1975 - art. 26 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+  - Loi n°2001-647 du 20 juillet 2001 - art. 6 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17276,11 +17730,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L232-1 (M)
-  - Code de l'action sociale et des familles - art. L315-5 (Ab)
+  - Code de la sécurité sociale. - art. L162-24-1 (M)
+  - Code de l'action sociale et des familles - art. L232-2 (M)
+  - Code de l'action sociale et des familles - art. L315-9 (M)
+  - Code de l'action sociale et des familles - art. L342-1 (M)
+  - Code de l'action sociale et des familles L312-8, L232-2, L315-9, L342-1, L342-2 à L342-6
 
 
-##### Section 2 : Fixation des tarifs.<a id=105></a>
+##### Section 2 : Fixation des tarifs.<a id=111></a>
 
 ###### Article L315-2
 
@@ -17456,65 +17913,23 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L315-9 (M)
 
 
-###### Article L315-5
-
-Le forfait prévu à l'article L. 315-2 est fixé par l'autorité administrative compétente après avis des organismes d'assurance
-maladie pour chaque établissement public ou privé habilités à recevoir des bénéficiaires de l'aide sociale. Dans les autres
-établissements privés, des conventions sont conclues avec les organismes d'assurance maladie. Un décret en Conseil d'Etat
-fixe les conditions dans lesquelles les conventions ainsi conclues sont homologuées par l'autorité administrative. Les
-commissions interrégionales de la tarification sanitaire et sociale sont compétentes en premier ressort pour statuer en
-matière contentieuse sur les recours contre les décisions de l'autorité administrative compétente.
-
-Les caisses du régime de l'assurance maladie des travailleurs salariés sont habilitées à assurer le versement de la totalité
-des sommes dues aux établissements de leur circonscription territoriale, au titre des assurés sociaux qu'ils hébergent.
-Toutefois, lorsque dans un établissement le nombre de ressortissants d'un autre régime obligatoire d'assurance maladie est le
-plus élevé, ce rôle peut être rempli par la caisse de ce régime dans la circonscription de laquelle se trouve
-l'établissement.
-
-Les caisses du régime de l'assurance maladie des travailleurs salariés sont également habilitées à centraliser les documents
-comptables afférents à ces paiements et à procéder, après concertation, à la répartition des charges entre les différents
-régimes d'assurance maladie. Cette répartition est déterminée de manière forfaitaire, en fonction du nombre de bénéficiaires
-de chaque régime présents dans les établissements.
-
-Un décret fixe les modalités d'application des deux alinéas ci-dessus.
-
-La participation de l'assuré social aux dépenses relatives aux soins compris dans le forfait ci-dessus peut être réduite ou
-supprimée dans les conditions fixées par voie réglementaire.
-
-Les organismes d'assurance maladie et l'aide sociale versent directement à l'établissement leur participation aux dépenses de
-soins non compris dans le forfait lorsque ceux-ci sont demandés par le ou les médecins attachés audit établissement et que ce
-dernier en a assuré le paiement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°75-535 du 30 juin 1975 - art. 27-2 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Abrogé par_:
-
-  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L315-1 (M)
-  - Code de l'action sociale et des familles - art. L315-15 (M)
-  - Code de l'action sociale et des familles - art. L543-1 (V)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L315-2 (M)
-
-
 ###### Article L315-6
 
-Les montants des prestations mentionnées au troisième alinéa de l'article L. 315-1 sont modulés selon l'état de la personne
-accueillie et déterminés dans des conditions fixées par voie réglementaire.
+Les montants des éléments de tarification afférents à la dépendance et aux soins mentionnés aux 1° et 2° de l'article L.
+315-1 sont modulés selon l'état de la personne accueillie au moyen de la grille nationale mentionnée à l'article L. 232-2.
+
+La convention mentionnée à l'article L. 312-8 précise la périodicité de la révision du niveau de perte d'autonomie des
+résidents selon la grille nationale mentionnée à l'article L. 232-2.
+
+L'évaluation de la perte d'autonomie des résidents de chaque établissement est transmise, pour contrôle et validation, à un
+médecin appartenant à une équipe médico-sociale du département et à un praticien-conseil de la caisse d'assurance maladie. En
+cas de désaccord entre les deux médecins précités sur cette validation, une commission départementale de coordination
+médicale dont la composition, les missions et les modalités d'organisation et de fonctionnement sont définies par un arrêté
+des ministres chargés des affaires sociales et des collectivités territoriales, détermine le classement définitif.
+
+Lorsqu'un établissement hébergeant des personnes âgées dépendantes conteste la répartition des résidents qu'il accueille
+selon les niveaux de perte d'autonomie arrêtée dans les conditions mentionnées ci-dessus, il peut introduire un recours
+devant la commission interrégionale de la tarification sanitaire et sociale mentionnée à l'article L. 351-1.
 
 **Liens relatifs à cet article**
 
@@ -17527,6 +17942,10 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 7 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Décret n°2007-1573 du 6 novembre 2007 - art. 21 (V)
@@ -17534,7 +17953,10 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de l'action sociale et des familles - art. L232-2 (M)
+  - Code de l'action sociale et des familles - art. L312-8 (M)
   - Code de l'action sociale et des familles - art. L315-1 (M)
+  - Code de l'action sociale et des familles - art. L351-1 (M)
 
 
 ###### Article L315-7
@@ -17764,7 +18186,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L315-3 (M)
 
 
-##### Section 3 : Dispositions diverses.<a id=106></a>
+##### Section 3 : Dispositions diverses.<a id=112></a>
 
 ###### Article L315-12
 
@@ -17918,8 +18340,7 @@ _Cité par_:
 ###### Article L315-15
 
 Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat et
-notamment celles prises en application des articles L. 315-12, L. 315-2, L. 315-8, L. 315-14, L. 315-5, L. 315-13 et L.
-315-3.
+notamment celles prises en application des articles L. 315-12, L. 315-2, L. 315-8, L. 315-14, L. 315-13 et L. 315-3.
 
 **Liens relatifs à cet article**
 
@@ -17927,6 +18348,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -17945,13 +18370,12 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L315-14 (M)
   - Code de l'action sociale et des familles - art. L315-2 (M)
   - Code de l'action sociale et des familles - art. L315-3 (M)
-  - Code de l'action sociale et des familles - art. L315-5 (Ab)
   - Code de l'action sociale et des familles - art. L315-8 (M)
 
 
-### Titre II : Etablissements soumis à déclaration<a id=107></a>
+### Titre II : Etablissements soumis à déclaration<a id=113></a>
 
-#### Chapitre Ier : Accueil de mineurs.<a id=108></a>
+#### Chapitre Ier : Accueil de mineurs.<a id=114></a>
 
 ###### Article L321-1
 
@@ -18068,64 +18492,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L322-7 (M)
 
 
-###### Article L321-4
-
-Est puni d'un emprisonnement de trois mois et d'une amende de 25000 F :
-
-1° Le fait d'héberger ou de recevoir collectivement et de manière habituelle des mineurs dans un établissement mentionné à
-l'article L. 321-1, sans avoir effectué la déclaration préalable auprès du président du conseil général ;
-
-2° Le fait d'apporter un changement important à l'établissement, sans avoir effectué la déclaration préalable auprès du
-président du conseil général ou de procéder à l'ouverture ou à la transformation de l'établissement malgré l'opposition du
-président du conseil général ;
-
-3° Le fait de diriger, d'exploiter ou d'être employé au sein de l'établissement, malgré les incapacités prévues à l'article
-L. 321-1 ;
-
-4° Le fait, pour le responsable de l'établissement, de ne pas se conformer aux injonctions préfectorales ou du président du
-conseil général ou de ne pas respecter l'arrêté préfectoral de fermeture de l'établissement prévu à l'article L. 331-7 ou
-d'ouvrir à nouveau l'établissement, après fermeture administrative, sans solliciter l'autorisation préfectorale prévue à
-l'article L. 322-6 ;
-
-5° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ou de faire obstacle aux demandes de renseignements et au
-droit d'entrée des agents chargés de la surveillance prévus aux articles L. 331-1 et L. 331-3.
-
-Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
-d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger un établissement soumis
-aux dispositions du présent chapitre ou d'effectuer des placements d'enfants ou de recevoir des enfants.
-
-En cas de récidive, les peines prévues au présent article peuvent être portées au double.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Cite_:
-
-  - Code pénal - art. 131-27 (V)
-  - Code de l'action sociale et des familles - art. L321-1 (M)
-  - Code de l'action sociale et des familles - art. L322-6 (M)
-  - Code de l'action sociale et des familles - art. L331-1 (M)
-  - Code de l'action sociale et des familles - art. L331-2 (M)
-  - Code de l'action sociale et des familles - art. L331-3 (M)
-  - Code de l'action sociale et des familles - art. L331-7 (M)
-
-_Anciens textes_:
-
-  - Code de la famille et de l'aide sociale. - art. 99 (M)
-  - Code de la famille et de l'aide sociale. - art. 99 (Ab)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L421-12 (V)
-  - Code de l'action sociale et des familles - art. L421-8 (T)
-  - Code de l'action sociale et des familles - art. L443-9 (V)
-
-
-#### Chapitre II : Accueil d'adultes.<a id=109></a>
+#### Chapitre II : Accueil d'adultes.<a id=115></a>
 
 ###### Article L322-1
 
@@ -18335,67 +18702,6 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L322-6 (M)
 
 
-###### Article L322-8
-
-Est puni d'un emprisonnement de trois mois et d'une amende de 25 000 F :
-
-1° La création d'un établissement prévu à l'article L. 322-1 sans avoir effectué la déclaration préalable auprès de
-l'autorité administrative compétente ;
-
-2° L'ouverture de cet établissement malgré l'opposition de l'autorité administrative prévue à l'article L. 322-4 ;
-
-3° Le fait, pour le responsable d'un établissement mentionné à l'article L. 322-1 d'apporter une modification à cet
-établissement sans effectuer la déclaration auprès de l'autorité administrative prévue à l'article L. 322-3 ou malgré
-l'opposition prévue à l'article L. 322-4, de ne pas se conformer aux injonctions préfectorales ou de ne pas respecter
-l'arrêté préfectoral de fermeture de l'établissement prévu à l'article L. 331-5 ;
-
-4° Le fait d'ouvrir à nouveau l'établissement, après fermeture administrative, sans solliciter l'autorisation préfectorale
-prévue à l'article L. 322-6 ;
-
-5° Le fait de diriger, d'exploiter ou d'être employé au sein de l'établissement, malgré l'incapacité prévue à l'article L.
-322-5 ;
-
-6° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ;
-
-7° Le fait de faire obstacle aux demandes de renseignements et au droit d'entrée des agents chargés de la surveillance prévus
-aux articles L. 331-1 et L. 331-3.
-
-Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
-d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger un établissement soumis
-aux dispositions du présent chapitre.
-
-En cas de récidive, les peines prévues au présent article peuvent être portées au double.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Cite_:
-
-  - Code pénal - art. 131-27 (V)
-  - Code de l'action sociale et des familles - art. L322-1 (M)
-  - Code de l'action sociale et des familles - art. L322-3 (M)
-  - Code de l'action sociale et des familles - art. L322-4 (M)
-  - Code de l'action sociale et des familles - art. L322-5 (M)
-  - Code de l'action sociale et des familles - art. L322-6 (M)
-  - Code de l'action sociale et des familles - art. L331-1 (M)
-  - Code de l'action sociale et des familles - art. L331-2 (M)
-  - Code de l'action sociale et des familles - art. L331-3 (M)
-  - Code de l'action sociale et des familles - art. L331-5 (M)
-
-_Anciens textes_:
-
-  - Code de la famille et de l'aide sociale. - art. 213 (M)
-  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L133-2 (M)
-
-
 ###### Article L322-9
 
 Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat,
@@ -18432,9 +18738,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L322-3 (M)
 
 
-### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration<a id=110></a>
+### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration<a id=116></a>
 
-#### Chapitre unique.<a id=111></a>
+#### Chapitre unique.<a id=117></a>
 
 ###### Article L331-1
 
@@ -18750,9 +19056,9 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 215 (Ab)
 
 
-### Titre IV : Dispositions spécifiques à certaines catégories d'établissements<a id=112></a>
+### Titre IV : Dispositions spécifiques à certaines catégories d'établissements<a id=118></a>
 
-#### Chapitre II : Hébergement de personnes âgées.<a id=113></a>
+#### Chapitre II : Hébergement de personnes âgées.<a id=119></a>
 
 ###### Article L342-1
 
@@ -19025,7 +19331,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. Annexe 3-3 (Ab)
 
 
-#### Chapitre III : Centres d'action médico-sociale précoce.<a id=114></a>
+#### Chapitre III : Centres d'action médico-sociale précoce.<a id=120></a>
 
 ###### Article L343-1
 
@@ -19088,7 +19394,7 @@ _Cite_:
   - Code de la santé publique - art. L2132-4 (V)
 
 
-#### Chapitre IV : Centres pour handicapés adultes.<a id=115></a>
+#### Chapitre IV : Centres pour handicapés adultes.<a id=121></a>
 
 ###### Article L344-1
 
@@ -19360,7 +19666,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L344-1 (M)
 
 
-#### Chapitre V : Centres d'hébergement et de réinsertion sociale.<a id=116></a>
+#### Chapitre V : Centres d'hébergement et de réinsertion sociale.<a id=122></a>
 
 ###### Article L345-1
 
@@ -19558,7 +19864,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L301-5-1 (V)
 
 
-#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=117></a>
+#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=123></a>
 
 ###### Article L346-1
 
@@ -19607,9 +19913,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L345-1 (M)
 
 
-### Titre V : Contentieux de la tarification sanitaire et sociale<a id=118></a>
+### Titre V : Contentieux de la tarification sanitaire et sociale<a id=124></a>
 
-#### Chapitre unique.<a id=119></a>
+#### Chapitre unique.<a id=125></a>
 
 ###### Article L351-1
 
@@ -19874,11 +20180,11 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 201-2 (Ab)
 
 
-## Livre IV : Professions et activités d'accueil<a id=120></a>
+## Livre IV : Professions et activités d'accueil<a id=126></a>
 
-### Titre Ier : Assistants de service social<a id=121></a>
+### Titre Ier : Assistants de service social<a id=127></a>
 
-#### Chapitre unique.<a id=122></a>
+#### Chapitre unique.<a id=128></a>
 
 ###### Article L411-1
 
@@ -20107,9 +20413,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L411-1 (M)
 
 
-### Titre II : Assistants maternels et assistants familiaux<a id=123></a>
+### Titre II : Assistants maternels et assistants familiaux<a id=129></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=124></a>
+#### Chapitre Ier : Dispositions générales.<a id=130></a>
 
 ###### Article L421-1
 
@@ -20664,7 +20970,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L421-2 (T)
 
 
-#### Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public.<a id=125></a>
+#### Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public.<a id=131></a>
 
 ###### Article L422-1
 
@@ -20865,9 +21171,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L422-3 (M)
 
 
-### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=126></a>
+### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=132></a>
 
-#### Chapitre Ier : Accueil des personnes âgées.<a id=127></a>
+#### Chapitre Ier : Accueil des personnes âgées.<a id=133></a>
 
 ###### Article L441-1
 
@@ -21040,7 +21346,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L443-9 (V)
 
 
-#### Chapitre II : Accueil des personnes handicapées adultes.<a id=128></a>
+#### Chapitre II : Accueil des personnes handicapées adultes.<a id=134></a>
 
 ###### Article L442-1
 
@@ -21184,7 +21490,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L441-3 (M)
 
 
-#### Chapitre III : Dispositions communes.<a id=129></a>
+#### Chapitre III : Dispositions communes.<a id=135></a>
 
 ###### Article L443-1
 
@@ -21540,9 +21846,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L315-14-1 (Ab)
 
 
-### Titre V : Formation des travailleurs sociaux<a id=130></a>
+### Titre V : Formation des travailleurs sociaux<a id=136></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=131></a>
+#### Chapitre Ier : Dispositions générales.<a id=137></a>
 
 ###### Article L451-1
 
@@ -21735,11 +22041,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L451-1 (V)
 
 
-## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=132></a>
+## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=138></a>
 
-### Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=133></a>
+### Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=139></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=134></a>
+#### Chapitre Ier : Dispositions générales.<a id=140></a>
 
 ###### Article L511-1
 
@@ -21791,7 +22097,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L512-1 (VD)
 
 
-#### Chapitre II : Revenu minimum d'insertion.<a id=135></a>
+#### Chapitre II : Revenu minimum d'insertion.<a id=141></a>
 
 ###### Article L512-1
 
@@ -21829,9 +22135,9 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-### Titre II : Départements d'outre-mer<a id=136></a>
+### Titre II : Départements d'outre-mer<a id=142></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=137></a>
+#### Chapitre Ier : Dispositions générales.<a id=143></a>
 
 ###### Article L521-1
 
@@ -21869,7 +22175,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre II : Revenu minimum d'insertion.<a id=138></a>
+#### Chapitre II : Revenu minimum d'insertion.<a id=144></a>
 
 ###### Article L522-1
 
@@ -22517,9 +22823,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L263-5 (M)
 
 
-#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=139></a>
+#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=145></a>
 
-##### Section unique : Service d'accueil téléphonique.<a id=140></a>
+##### Section unique : Service d'accueil téléphonique.<a id=146></a>
 
 ###### Article L523-1
 
@@ -22573,9 +22879,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L226-10 (V)
 
 
-### Titre III : Saint-Pierre-et-Miquelon<a id=141></a>
+### Titre III : Saint-Pierre-et-Miquelon<a id=147></a>
 
-#### Chapitre unique : Dispositions générales.<a id=142></a>
+#### Chapitre unique : Dispositions générales.<a id=148></a>
 
 ###### Article L531-1
 
@@ -22729,9 +23035,9 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-### Titre IV : Mayotte<a id=143></a>
+### Titre IV : Mayotte<a id=149></a>
 
-#### Chapitre Ier : Aide sociale.<a id=144></a>
+#### Chapitre Ier : Aide sociale.<a id=150></a>
 
 ###### Article L541-1
 
@@ -23068,7 +23374,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L542-9 (T)
 
 
-#### Chapitre II : Familles et aide sociale à l'enfance.<a id=145></a>
+#### Chapitre II : Familles et aide sociale à l'enfance.<a id=151></a>
 
 ###### Article L542-1
 
@@ -23518,7 +23824,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L543-13 (V)
 
 
-#### Chapitre III : Pupilles de l'Etat et procédures administratives en vue de l'adoption.<a id=146></a>
+#### Chapitre III : Pupilles de l'Etat et procédures administratives en vue de l'adoption.<a id=152></a>
 
 ###### Article L543-1
 
@@ -23627,7 +23933,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L544-3 (V)
 
 
-#### Chapitre IV : Dispositions communes.<a id=147></a>
+#### Chapitre IV : Dispositions communes.<a id=153></a>
 
 ###### Article L544-1
 
@@ -23795,9 +24101,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L545-5 (V)
 
 
-### Titre V : Territoire des îles Wallis et Futuna<a id=148></a>
+### Titre V : Territoire des îles Wallis et Futuna<a id=154></a>
 
-#### Chapitre unique : Statut des pupilles de l'Etat.<a id=149></a>
+#### Chapitre unique : Statut des pupilles de l'Etat.<a id=155></a>
 
 ###### Article L551-1
 
@@ -23979,9 +24285,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L552-5 (V)
 
 
-### Titre VI : Polynésie française<a id=150></a>
+### Titre VI : Polynésie française<a id=156></a>
 
-#### Chapitre unique : Statut des pupilles de l'Etat.<a id=151></a>
+#### Chapitre unique : Statut des pupilles de l'Etat.<a id=157></a>
 
 ###### Article L561-1
 
@@ -24156,9 +24462,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L562-5 (V)
 
 
-### Titre VII : Nouvelle-Calédonie<a id=152></a>
+### Titre VII : Nouvelle-Calédonie<a id=158></a>
 
-#### Chapitre unique : Statut des pupilles de l'Etat.<a id=153></a>
+#### Chapitre unique : Statut des pupilles de l'Etat.<a id=159></a>
 
 ###### Article L571-1
 
