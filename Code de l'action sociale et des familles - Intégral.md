@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2002-01-23
+Version Consolidée au 2002-02-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L572-5)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L148-2)](#2)
@@ -161,21 +161,19 @@ Version Consolidée au 2002-01-23
         - [Chapitre unique : Dispositions générales. (art. L531-1 à L531-6)](#158)
       - [Titre IV : Mayotte (art. L541-1 à L545-5)](#159)
         - [Chapitre Ier : Accès aux origines personnelles (art. L541-1 à L541-2)](#160)
-        - [Chapitre Ier : Aide sociale. (art. L541-3 à L541-4)](#161)
-        - [Chapitre II : Aide sociale. (art. L542-1 à L542-9)](#162)
-        - [Chapitre III : Familles et aide sociale à l'enfance. (art. L543-1 à L543-14)](#163)
-        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption. (art. L544-1 à L544-4)](#164)
-        - [Chapitre IV : Dispositions communes. (art. L544-5)](#165)
-        - [Chapitre V : Dispositions communes. (art. L545-1 à L545-5)](#166)
-      - [Titre V : Territoire des îles Wallis et Futuna (art. L551-1 à L552-5)](#167)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L551-1 à L551-2)](#168)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L552-1 à L552-5)](#169)
-      - [Titre VI : Polynésie française (art. L561-1 à L562-5)](#170)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L561-1 à L561-2)](#171)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L562-1 à L562-5)](#172)
-      - [Titre VII : Nouvelle-Calédonie (art. L571-1 à L572-5)](#173)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L571-1 à L571-2)](#174)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L572-1 à L572-5)](#175)
+        - [Chapitre II : Aide sociale. (art. L542-1 à L542-9)](#161)
+        - [Chapitre III : Familles et aide sociale à l'enfance. (art. L543-1 à L543-14)](#162)
+        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption. (art. L544-1 à L544-4)](#163)
+        - [Chapitre V : Dispositions communes. (art. L545-1 à L545-5)](#164)
+      - [Titre V : Territoire des îles Wallis et Futuna (art. L551-1 à L552-5)](#165)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L551-1 à L551-2)](#166)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L552-1 à L552-5)](#167)
+      - [Titre VI : Polynésie française (art. L561-1 à L562-5)](#168)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L561-1 à L561-2)](#169)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L562-1 à L562-5)](#170)
+      - [Titre VII : Nouvelle-Calédonie (art. L571-1 à L572-5)](#171)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L571-1 à L571-2)](#172)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L572-1 à L572-5)](#173)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -11273,7 +11271,7 @@ Une allocation compensatrice est accordée à tout handicapé dont l'âge est in
 bénéficie pas d'un avantage analogue au titre d'un régime de sécurité sociale lorsque son incapacité permanente est au moins
 égale au pourcentage fixé par le décret prévu à l'article L. 821-1 du code de la sécurité sociale, soit que son état
 nécessite l'aide effective d'une tierce personne pour les actes essentiels de l'existence, soit que l'exercice d'une activité
-professionnelle lui impose des frais supplémentaires.
+professionnelle ou d'une fonction élective lui impose des frais supplémentaires.
 
 **Liens relatifs à cet article**
 
@@ -11367,6 +11365,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2002-276 du 27 février 2002 - art. 88 () JORF 28 février 2002
 
 _Cite_:
 
@@ -25797,87 +25799,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 243 (Ab)
 
 
-#### Chapitre Ier : Aide sociale.<a id=161></a>
-
-###### Article L541-3
-
-La commission d'admission comprend, outre le représentant du Gouvernement ou son suppléant choisi par lui parmi les
-fonctionnaires de l'Etat, président, le conseiller général du canton dont fait partie la commune où la demande a été déposée
-ou un conseiller général suppléant désigné par le conseil général, le maire de la commune concernée ou un conseiller
-municipal de cette commune, suppléant désigné par le conseil municipal.
-
-En cas de partage égal des voix, celle du président est prépondérante.
-
-Peuvent être appelées à siéger avec voix consultative des personnes compétentes en matière d'aide sociale, désignées par le
-représentant du Gouvernement sur avis conforme du conseil général.
-
-Le demandeur, accompagné, le cas échéant, d'une personne de son choix, est entendu à sa demande par la commission.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Transféré par_:
-
-  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-_Anciens textes_:
-
-  - Code de la famille et de l'aide sociale. - art. 244 (Ab)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L541-1 (T)
-  - Code de l'action sociale et des familles - art. L541-8 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L542-3 (M)
-  - Code de l'action sociale et des familles - art. L542-3 (V)
-
-
-###### Article L541-4
-
-Un recours peut être formé devant une commission territoriale de l'aide sociale contre les décisions de la commission
-d'admission.
-
-La commission territoriale, présidée par le président du tribunal de première instance ou le magistrat désigné par lui pour
-le remplacer, comprend trois conseillers généraux désignés par le conseil général et trois fonctionnaires de l'Etat en
-activité ou à la retraite désignés par le représentant du Gouvernement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Transféré par_:
-
-  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-_Anciens textes_:
-
-  - Code de la famille et de l'aide sociale 245 al. 1, 2
-  - Code de la famille et de l'aide sociale. - art. 2 (Ab)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L241-6 (V)
-  - Code de l'action sociale et des familles - art. L541-6 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L542-4 (V)
-  - Code de l'action sociale et des familles - art. L542-4 (VD)
-
-
-#### Chapitre II : Aide sociale.<a id=162></a>
+#### Chapitre II : Aide sociale.<a id=161></a>
 
 ###### Article L542-1
 
@@ -26236,7 +26158,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L543-9 (V)
 
 
-#### Chapitre III : Familles et aide sociale à l'enfance.<a id=163></a>
+#### Chapitre III : Familles et aide sociale à l'enfance.<a id=162></a>
 
 ###### Article L543-1
 
@@ -26687,7 +26609,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L224-5 (M)
 
 
-#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption.<a id=164></a>
+#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption.<a id=163></a>
 
 ###### Article L544-1
 
@@ -26824,47 +26746,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 254 (Ab)
 
 
-#### Chapitre IV : Dispositions communes.<a id=165></a>
-
-###### Article L544-5
-
-Pour l'application des dispositions des autres livres du présent code, les mots énumérés ci-dessous sont respectivement
-remplacés par les mots suivants :
-
-- " département " par " collectivité territoriale " ;
-
-- " président du conseil général " par " représentant du Gouvernement " ;
-
-- " représentant de l'Etat dans le département " par " représentant du Gouvernement ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Transféré par_:
-
-  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1° JORF 23 janvier 2002
-  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-_Cité par_:
-
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 39 (V)
-  - Ordonnance n°2012-785 du 31 mai 2012 - art. 9 (V)
-
-_Anciens textes_:
-
-  - Code de la famille et de l'aide sociale. - art. 255 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L545-5 (Ab)
-  - Code de l'action sociale et des familles - art. L545-5 (V)
-
-
-#### Chapitre V : Dispositions communes.<a id=166></a>
+#### Chapitre V : Dispositions communes.<a id=164></a>
 
 ###### Article L545-1
 
@@ -27066,9 +26948,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L544-5 (T)
 
 
-### Titre V : Territoire des îles Wallis et Futuna<a id=167></a>
+### Titre V : Territoire des îles Wallis et Futuna<a id=165></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=168></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=166></a>
 
 ###### Article L551-1
 
@@ -27171,7 +27053,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L224-5 (V)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=169></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=167></a>
 
 ###### Article L552-1
 
@@ -27386,9 +27268,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L551-5 (T)
 
 
-### Titre VI : Polynésie française<a id=170></a>
+### Titre VI : Polynésie française<a id=168></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=171></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=169></a>
 
 ###### Article L561-1
 
@@ -27492,7 +27374,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L562-2 (M)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=172></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=170></a>
 
 ###### Article L562-1
 
@@ -27732,9 +27614,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L561-5 (T)
 
 
-### Titre VII : Nouvelle-Calédonie<a id=173></a>
+### Titre VII : Nouvelle-Calédonie<a id=171></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=174></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=172></a>
 
 ###### Article L571-1
 
@@ -27838,7 +27720,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L572-2 (M)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=175></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=173></a>
 
 ###### Article L572-1
 
