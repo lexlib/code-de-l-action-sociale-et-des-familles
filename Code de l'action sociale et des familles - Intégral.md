@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2003-09-06
+Version Consolidée au 2003-12-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L572-5)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L148-2)](#2)
@@ -19413,7 +19413,10 @@ en matière de tarification.
 
 Les ministres chargés de la sécurité sociale et de l'action sociale établissent annuellement, avant le 1er mars de l'année en
 cours, un rapport relatif aux agréments des conventions et accords mentionnés à l'alinéa précédent, pour l'année écoulée, et
-aux orientations en matière d'agrément des accords et d'évolution de la masse salariale pour l'année en cours.
+aux orientations en matière d'agrément des accords pour l'année en cours. Ils fixent, dans des conditions fixées par décret
+en Conseil d'Etat, les paramètres d'évolution de la masse salariale pour l'année en cours, liés notamment à la diversité des
+financeurs et aux modalités de prise en charge des personnes, qui sont opposables aux parties négociant les conventions
+susmentionnées.
 
 Ce rapport est transmis au Parlement, au comité des finances locales et aux partenaires sociaux concernés selon des modalités
 fixées par décret.
@@ -19455,9 +19458,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 54 () JORF 3 janvier 2002
+  - Loi n°2003-1199 du 18 décembre 2003 - art. 52 () JORF 19 décembre 2003
 
 
 ###### Article L314-7
@@ -23380,7 +23381,7 @@ _Nouveaux textes_:
 ###### Article L421-5
 
 Le président du conseil général informe du retrait, de la suspension ou de la modification du contenu de l'agrément de
-l'assistant maternel les organismes débiteurs de l'aide à la famille instituée par l'article L. 841-1 du code de la sécurité
+l'assistant maternel les organismes débiteurs de l'aide à la famille instituée par l'article L. 531-1 du code de la sécurité
 sociale et les représentants légaux du ou des mineurs accueillis par celle-ci.
 
 **Liens relatifs à cet article**
@@ -23390,13 +23391,21 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1199 2003-12-18 art. 60 V 5° JORF 19 décembre 2003
+
+_Transféré par_:
+
+  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+
 _Anciens textes_:
 
   - Code de la famille et de l'aide sociale. - art. 123-1-4 (Ab)
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L841-1 (M)
+  - Code de la sécurité sociale. - art. L531-1 (M)
 
 _Cité par_:
 
@@ -23405,6 +23414,7 @@ _Cité par_:
 
 _Nouveaux textes_:
 
+  - Code de l'action sociale et des familles - art. L421-9 (T)
   - Code de l'action sociale et des familles - art. L421-9 (VD)
 
 
