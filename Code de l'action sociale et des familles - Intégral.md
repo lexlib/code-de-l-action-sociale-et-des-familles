@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-10-26
+Version Consolidée au 2004-10-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L572-5)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L149-1)](#2)
@@ -636,7 +636,7 @@ Version Consolidée au 2004-10-26
         - [Chapitre Ier : Accès aux origines personnelles (art. R561-1)](#633)
       - [Titre VII : Nouvelle-Calédonie (art. R571-1)](#634)
         - [Chapitre Ier : Accès aux origines personnelles (art. R571-1)](#635)
-  - [Annexe (art. Annexe 2-4)](#636)
+  - [Annexe (art. Annexe 2-4 à Annexe 3-4)](#636)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -79672,5 +79672,4038 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°2007-1574 du 6 novembre 2007 - art. 1 (V)
+
+
+###### Article Annexe 3-1
+
+ÉLÉMENTS ET MODES DE CALCUL DES TARIFS JOURNALIERS D'UN ÉTABLISSEMENT HÉBERGEANT DES PERSONNES ÂGÉES DÉPENDANTES 
+
+a) Calcul du prix de journée "hébergement" : 
+
+D1 / I 
+
+b) Calcul du tarif journalier " dépendance " pour les GIR 1 et 2 : 
+
+(D2 X H1) / K1 
+
+c) Calcul du tarif journalier " dépendance " pour les GIR 3 et 4 : 
+
+(D2 X H2) / K2 
+
+d) Calcul du tarif journalier " dépendance " pour les GIR 5 et 6 : 
+
+(D2 X H3) / K3 
+
+e) Calcul du tarif journalier " soins " pour les GIR 1 et 2 : 
+
+[(E X H1) + [(D3-E) X L1]] / K1 
+
+f) Calcul du tarif journalier " soins " pour les GIR 3 et 4 : 
+
+[(E X H2) + [(D3-E) X L2]] / K2 
+
+g) Calcul du tarif journalier " soins " pour les GIR 5 et 6 : 
+
+[(E X H3) + [(D3-E) X L3]] / K3 
+
+h) Calcul du tarif journalier dépendance nécessaire à la détermination de la participation journalière prévue au premier
+alinéa du I de l'article L. 232-8 en cas soit de versement de la dotation budgétaire globale afférente à la dépendance prévue
+au premier alinéa du II de l'article L. 232-8, soit d'absence de résidents classés dans les groupes iso-ressources 5 et 6 : 
+
+[(D2 / F) X 280 points GIR X nombre de résidents de plus de 60 ans] / J 
+
+i) Signification des éléments du calcul : 
+
+<table cellspacing="1" border="1" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="top">
+
+A 1 : 
+
+</td>
+      <td valign="top">
+
+Total des charges d'exploitation de la section tarifaire " hébergement " 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+B 1 : 
+
+</td>
+      <td valign="top">
+
+Recettes attenuatives de la section tarifaire " hébergement " 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+C 1 : 
+
+</td>
+      <td valign="top">
+
+Incorporation des résultats des exercices antérieurs de la section tarifaire " hébergement " 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+D 1 : = 
+
+</td>
+      <td valign="top">
+
+A 1-B 1 + C 1 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+A 2 : 
+
+</td>
+      <td valign="top">
+
+Total des charges d'exploitation de la section tarifaire " dépendance " 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+B 2 : 
+
+</td>
+      <td valign="top">
+
+Recettes atténuatives de la section tarifaire " dépendance " 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+B 4 : 
+
+</td>
+      <td valign="top">
+
+Contribution de l'assurance maladie au titre de l'article R. 314-188
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+C 2 : 
+
+</td>
+      <td valign="top">
+
+Incorporation des résultats des exercices antérieurs de la section tarifaire " dépendance " 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+D 2 : = 
+
+</td>
+      <td valign="top">
+
+[A 2-(B 2 + B 4)] + C 2 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+A 3 : 
+
+</td>
+      <td valign="top">
+
+Total des charges d'exploitation de la section tarifaire " soins " 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+B 3 : 
+
+</td>
+      <td valign="top">
+
+Recettes atténuatives de la section tarifaire " soins " 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+C 3 : 
+
+</td>
+      <td valign="top">
+
+Incorporation des résultats des exercices antérieurs de la section tarifaire " soins " 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+D 3 : = 
+
+</td>
+      <td valign="top">
+
+[A 3-B 3 + C 3 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+E : 
+
+</td>
+      <td valign="top">
+
+Quote-part des charges relatives aux aides-soignantes et aux AMP à imputer sur la section d'imputation tarifaire " soins " 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+F : 
+
+</td>
+      <td valign="top">
+
+Production total en points GIR de l'établissement 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+G 1 : 
+
+</td>
+      <td valign="top">
+
+Production en points GIR de l'établissement dans les groupes iso-Ressources 1 et 2 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+G 2 : 
+
+</td>
+      <td valign="top">
+
+Production en points GIR de l'établissement dans les groupes iso-Ressources 3 et 4 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+G 3 : 
+
+</td>
+      <td valign="top">
+
+Production en points GIR de l'établissement dans les groupes iso-Ressources 5 et 6 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+G 1 / F = H 1 : 
+
+</td>
+      <td valign="top">
+
+Pourcentage de la production en points GIR dans l'établissement dans les groupes iso-Ressources 1 et 2 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+G 2 / F = H 2 : 
+
+</td>
+      <td valign="top">
+
+Pourcentage de la production en points GIR dans l'établissement dans les groupes iso-Ressources 3 et 4 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+G 3 / F = H 3 : 
+
+</td>
+      <td valign="top">
+
+Pourcentage de la production en points GIR dans l'établissement dans les groupes iso-Ressources 5 et 6 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+I : 
+
+</td>
+      <td valign="top">
+
+Nombre de journées prévisionnelles " hébergement " pour les personnes classées dans les groupes iso-Ressources 1 à 6 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+J : 
+
+</td>
+      <td valign="top">
+
+Nombre de journées prévisionnelles " soins et dépendance " pour les personnes classées dans les groupes iso-Ressources 1 à 6 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+K 1 : 
+
+</td>
+      <td valign="top">
+
+Nombre des journées prévisionnelles " soins et dépendance " des personnes classées dans les groupes iso-Ressources 1 et 2 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+K 2 : 
+
+</td>
+      <td valign="top">
+
+Nombre des journées prévisionnelles " soins et dépendance " des personnes classées dans les groupes iso-Ressources 3 et 4 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+K 3 : 
+
+</td>
+      <td valign="top">
+
+Nombre de journées prévisionnelles " soins et dépendance " des personnes classées dans les groupes iso-Ressources 5 et 6 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+K 1 / J = L 1 : 
+
+</td>
+      <td valign="top">
+
+Pourcentage du nombre des journées prévisionnelles " soins et dépendance " des personnes classées dans les groupes iso-
+Ressources 1 et 2 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+K 2 / J = L 2 : 
+
+</td>
+      <td valign="top">
+
+Pourcentage du nombre des journées prévisionnelles " soins et dépendance " des personnes classées dans les groupes iso-
+Ressources 3 et 4 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+K 3 / J = L 3 : 
+
+</td>
+      <td valign="top">
+
+Pourcentage du nombre des journées prévisionnelles " soins et dépendance " des personnes classées dans les groupes iso-
+Ressources 5 et 6
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2004-1136 du 21 octobre 2004 (V)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D232-21 (V)
+  - Code de l'action sociale et des familles - art. R314-166 (M)
+  - Code de l'action sociale et des familles - art. R314-183-1 (M)
+  - Code de l'action sociale et des familles - art. R314-184 (V)
+  - Code de l'action sociale et des familles - art. R314-186 (M)
+  - Code de l'action sociale et des familles - art. R543-1 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L232-8 (V)
+  - Code de l'action sociale et des familles - art. R314-188 (V)
+
+
+###### Article Annexe 3-3
+
+Tableau de calcul des tarifs journaliers dépendance et soins d'un établissement hébergeant des personnes âgées dépendantes et
+relevant des articles L. 342-1 A L. 342-6
+
+<pre>
+┏━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━┓
+┃                │                                                           │ SECTIONS D'IMPUTATION                 │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ RAPPEL N° de   │ INTITULE                                                  │ HÉBERGEMENT pour   │ DÉPEN-   │ SOINS │ TO-  ┃
+┃ compte         │                                                           │ information        │ DANCE    │       │ TAL  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 6021           │ Produits pharmaceutiques et produits à usage médical      │ ●                  │ ●        │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 60226          │ Fournitures hôtelières sauf 602261 "couches, alèses et    │ 70%                │ 30%      │ ●     │      ┃
+┃                │ produits absorbants"                                      │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 602261         │ Couches, alèses et produits absorbants                    │ ●                  │ 100%     │ ●     │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 60321          │ Produits pharmaceutiques et produits à usage médical      │ ●                  │ ●        │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 603226         │ Fournitures hôtelières sauf 6032261"couches, alèses et    │ 70%                │ 30%      │ ●     │      ┃
+┃                │ produits absorbants"                                      │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 6032261        │ Couches, alèses et produits absorbants                    │ ●                  │ 100%     │ ●     │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 60622          │ Produits d'entretien                                      │ 70%                │ 30%      │ ●     │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 60626          │ Fournitures hôtelières sauf compte 606261"couches, alèses │ 70%                │ 30%      │ ●     │      ┃
+┃                │ et produits absorbants"                                   │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 606261         │ Couches, alèses et produits absorbants                    │ ●                  │ 100%     │ ●     │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 6066           │ Fournitures médicales                                     │ ●                  │ ●        │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 6111           │ Prestations à caractère médical                           │ ●                  │ ●        │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 61121          │ Ergothérapie                                              │ ●                  │ ●        │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 61551          │ Entretien et réparation sur biens mobiliers: matériel et  │ ●                  │ ●        │       │      ┃
+┃                │ outillage médicaux                                        │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 61562          │ Maintenance du matériel médical                           │ ●                  │ ●        │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 61681          │ Primes d'assurance maladie, maternité, accident du tra-   │                    │          │       │      ┃
+┃                │ vail                                                      │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 621            │ PERSONNEL EXTERIEUR A L'ETABLISSEMENT                     │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 62113          │ Personnel et paramédical Personnel intérimaire: médical   │ ●                  │ ●        │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 6223           │ Médecins                                                  │ ●                  │ ●        │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 6281           │ Blanchissage à l'extérieur                                │ 70%                │ 30%      │ ●     │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 6283           │ Nettoyage à l'extérieur                                   │ 70%                │ 30%      │ ●     │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 631            │ IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS   │                    │          │       │      ┃
+┃                │ (administrations des impôts)                              │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 633            │ IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS   │                    │          │       │      ┃
+┃                │ (autres organismes)                                       │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 635            │ AUTRES IMPÔTS, TAXES ET VERSEMENTS ASSIMILES (administra- │                    │ ●        │ ●     │      ┃
+┃                │ tions des impôts)                                         │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 637            │ autres impôts, taxes et versements assimilés (autres or-  │                    │ ●        │ ●     │      ┃
+┃                │ ganismes)                                                 │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 64             │ CHARGES DE PERSONNEL                                      │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 68: Dotations aux amortissements et aux provisions sauf matériel médi-     │                    │          │ ●     │      ┃
+┃ cal                                                                        │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ Dotations aux amortissements du matériel médical                           │ ●                  │ ●        │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 681518: Dotations aux provisions: autres provisions pour risques (pa-      │ ●                  │ ●        │       │      ┃
+┃ thologies lourdes)                                                         │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ TOTAL DES CHARGES D'EXPLOITATION : "dépendance" = A 2, "soins" = A 3       │ ●                  │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION                        │ ●                  │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ "dépendance" = B 2, "soins" = C 3                                          │ ●                  │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ 734-3: Contribution de l'assurance maladie au titre de l'article R.        │ ●                  │          │ ●     │      ┃
+┃ 314-188 = B 4                                                              │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ BASE DE CALCUL DES TARIFS JOURNALIERS / "dépendance" = D 2 soit A 2 -      │ ●                  │ ●        │ ●     │ ●    ┃
+┃ (B 2 + B4) "soins" = D 3 soit A3 - B 3                                     │                    └┈┈┈┈┈┈┈┈┈┈┘       │      ┃
+┃                                                                            │                    ┌┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┤      ┃
+┃                                                                            │                    │ ●        │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ QUOTE PART DES CHARGES NETTES RELATIVES AUX AIDES-SOIGNANTES ET AUX AMP    │ ●                  │ ●        │       │ ●    ┃
+┃ IMPUTEE SUR LA SECTION TARIFAIRE "SOINS" = E                               │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ PRODUCTION TOTALE DE POINTS GIR DE L'ETABLISSEMENT = F                     │ ●                  │ ●        │ ●     │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ VALEUR NETTE DU POINT GIR "Aides soignantes et AMP" = E /(GMP multiplié    │ ●                  │ ●        │       │ ●    ┃
+┃ par la capacité occupée)                                                   │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ VALEUR NETTE DU POINT GIR "Dépendance" = (A 2 - B 2) / F                   │ ●                  │          │ ●     │ ●    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-RESSOURCES 1 ET 2 = G 1      │ ●                  │ ●        │ ●     │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-RESSOURCES 3 ET 4 = G 2      │ ●                  │ ●        │ ●     │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-RESSOURCES 5 ET 6 = G 3      │ ●                  │ ●        │ ●     │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ PROPORTION DE LA PRODUCTION EN POINTS GIR DANS LES GROUPES ISO-RES-        │ ●                  │ ●        │ ●     │      ┃
+┃ SOURCES 1 ET 2 = G 1 / F = H 1                                             │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ PROPORTION DE LA PRODUCTION EN POINTS GIR DANS LE GROUPES ISO-RES-         │ ●                  │ ●        │ ●     │      ┃
+┃ SOURCES 3 ET 4 = G 2 / F = H 2                                             │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ PROPORTION DE LA PRODUCTION EN POINTS GIR DANS LE GROUPES ISO-RES-         │ ●                  │ ●        │ ●     │      ┃
+┃ SOURCES 5 ET 6 = IG 3/ F = H 3                                             │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et "soins" pour les        │ ●                  │          │       │ ●    ┃
+┃ PERSONNES CLASSEES DANS LES GROUPES ISO-RESSOURCES 1 à 6 = J               │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et "soins" pour les        │ ●                  │          │       │ ●    ┃
+┃ PERSONNES CLASSEES DANS LES GROUPES ISO-RESSOURCES 1 ET 2 = K 1            │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et "soins" pour les        │ ●                  │          │       │ ●    ┃
+┃ PERSONNES CLASSEES DANS LES GROUPES ISO-RESSOURCES 3 ET 4 = K 2            │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et "soins" pour les        │ ●                  │          │       │ ●    ┃
+┃ PERSONNES CLASSEES DANS LES GROUPES ISO-RESSOURCES 5 ET 6 = K 3            │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ Pourcentage du nombre de journées prévisionnelles "dépendance" et          │ ●                  │          │       │ ●    ┃
+┃ "soins" des personnes classées dans les groupes iso-ressources 1 et 2 :    │                    │          │       │      ┃
+┃ K 1/J = L 1                                                                │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ Pourcentage du nombre de journées prévisionnelles "dépendance" et          │ ●                  │          │       │ ●    ┃
+┃ "soins" des personnes classées dans les groupes iso-ressources 3 et 4 :    │                    │          │       │      ┃
+┃ K 2/J = L 2                                                                │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ Pourcentage du nombre de journées prévisionnelles "dépendance" et          │ ●                  │          │       │ ●    ┃
+┃ "soins" des personnes classées dans les groupes iso-ressources 5 et 6 :    │                    │          │       │      ┃
+┃ K 3/J = L 3                                                                │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ CALCUL DU TARIF JOURNALIER "DEPENDANCE" POUR LES GIR 1 et 2 D 2 X H 1 /    │ ●                  │          │ ●     │ ●    ┃
+┃ K 1                                                                        │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ CALCUL DU TARIF JOURNALIER "DEPENDANCE" POUR LES GIR 3 ET 4 D 2 X H 2 /    │ ●                  │          │ ●     │ ●    ┃
+┃ K 2                                                                        │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ CALCUL DU TARIF JOURNALIER "DEPENDANCE" POUR LES GIR 5 ET 6 D 2 X H 3 /    │ ●                  │          │ ●     │ ●    ┃
+┃ K 3                                                                        │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ CALCUL DU TARIF JOURNALIER "SOINS" POUR LES GIR 1 ET 2 (E X H 1 ) +        │ ●                  │ ●        │       │ ●    ┃
+┃ [ (D 3 - E ) X L 1] / K 1                                                  │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ CALCUL DU TARIF JOURNALIER "SOINS" POUR LES GIR 3 ET 4 (E X H 2 ) +        │ ●                  │ ●        │       │ ●    ┃
+┃ [ (D 3 - E ) X L 2] / K 2                                                  │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ CALCUL DU TARIF JOURNALIER "SOINS" POUR LES GIR 5 ET 6 (E X H 3 ) +        │ ●                  │ ●        │       │ ●    ┃
+┃ [ (D 3 - E ) X L 3] / K 3                                                  │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ DOTATION GLOBALE DE FINANCEMENT "SOINS" = D3 + B 4                         │ ●                  │ ●        │       │ ●    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━┷━━━━━━━┷━━━━━━┛
+</pre>
+
+
+Répartition des charges de personnel salarie dans un établissement relevant des articles L. 342-1 A L. 342-6
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━┓
+┃ PERSONNEL                    │ NOMBRE  │ HÉBER-  │ DÉPEN-  │ SOINS  │ VALORISATION   │ IMPUTA-   │ IMPUTATION │ IMPUTA-   ┃
+┃                              │ d'ETP   │ GEMENT  │ DANCE   │ en ETP │ salaires et    │ TION à la │ à la sec-  │ TION à la ┃
+┃                              │         │ en ETP  │ en ETP  │        │ charges so-    │ section   │ tion dé-   │ section   ┃
+┃                              │         │ 100%    │         │        │ ciales et fis- │ héberge-  │ pendance   │ soins     ┃
+┃                              │         │         │         │        │ cales          │ ment      │            │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Direction administration     │         │ 100 %   │ ●       │ ●      │ ●              │ ●         │ ●          │ ●         ┃
+┃ (pour information)           │         │         │         │        │                │           │            │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Diététicien cuisine-services │         │ 100 %   │ ●       │ ●      │ ●              │ ●         │ ●          │ ●         ┃
+┃ généraux (pour information)  │         │         │         │        │                │           │            │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Animation- service social    │         │ 100 %   │ ●       │ ●      │ ●              │ ●         │ ●          │ ●         ┃
+┃ (pour information)           │         │         │         │        │                │           │            │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ ASH-agent de service affec-  │         │ 70 %    │ 30 %    │ ●      │                │           │            │ ●         ┃
+┃ tés aux fonctions de blan-   │         │         │         │        │                │           │            │           ┃
+┃ chissage, nettoyage et ser-  │         │         │         │        │                │           │            │           ┃
+┃ vice des repas               │         │         │         │        │                │           │            │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aide soignante-AMP           │         │ ●       │ 30 %    │ 70 %   │                │ ●         │            │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Psychologue                  │         │ ●       │ 100 %   │ ●      │                │ ●         │            │ ●         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Infirmière                   │         │ ●       │ ●       │ 100 %  │                │ ●         │ ●          │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Autres auxiliaires médicaux  │         │ ●       │ ●       │ 100 %  │                │ ●         │ ●          │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pharmacien préparateur en    │         │ ●       │ ●       │ 100 %  │                │ ●         │ ●          │           ┃
+┃ pharmacie                    │         │         │         │        │                │           │            │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Médecin                      │         │ ●       │ ●       │ 100 %  │                │ ●         │ ●          │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Total                        │         │         │         │        │                │ ●         │            │           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━┷━━━━━━━━━━━━━━━━┷━━━━━━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━━━┛
+</pre>
+
+
+Tableau de répartition des charges relatives au personnel extérieur dans un établissement relevant des articles L. 342-1 A L.
+342-6
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━━┓
+┃ PERSONNEL            │ NOMBRE  │ HÉBER- │ DÉPEN-  │ SOINS  │ CHARGES relatives au per-  │ IMPUTA-  │ IMPUTA-   │ IMPUTA-  ┃
+┃                      │ d'ETP   │ GEMENT │ DANCE   │ en ETP │ sonnel extérieur à l'éta-  │ TION à   │ TION à la │ TION à   ┃
+┃                      │         │ en ETP │ en ETP  │        │ blissement (compte 621) :  │ la sec-  │ section   │ la sec-  ┃
+┃                      │         │        │         │        │ personnel intérimaire, dé- │ tion hé- │ dépen-    │ tion     ┃
+┃                      │         │        │         │        │ taché ou affecté           │ berge-   │ dance     │ soins    ┃
+┃                      │         │        │         │        │                            │ ment     │           │          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ ASH-agent de service │         │ 70 %   │ 30 %    │ ●      │                            │          │           │ ●        ┃
+┃ affectés aux fonc-   │         │        │         │        │                            │          │           │          ┃
+┃ tions de blanchis-   │         │        │         │        │                            │          │           │          ┃
+┃ sage, nettoyage et   │         │        │         │        │                            │          │           │          ┃
+┃ service des repas    │         │        │         │        │                            │          │           │          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ Aide soignante-AMP   │         │ ●      │ 30 %    │ 70 %   │                            │ ●        │           │          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ Psychologue          │         │ ●      │ 100 %   │ ●      │                            │ ●        │           │ ●        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ Infirmière           │         │ ●      │ ●       │ 100 %  │                            │ ●        │ ●         │          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ Autres auxiliaires   │         │ ●      │ ●       │ 100 %  │                            │ ●        │ ●         │          ┃
+┃ médicaux             │         │        │         │        │                            │          │           │          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ Pharmacien prépara-  │         │ ●      │ ●       │ 100 %  │                            │ ●        │ ●         │          ┃
+┃ teur en pharmacie    │         │        │         │        │                            │          │           │          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ Médecin              │         │ ●      │ ●       │ 100 %  │                            │ ●        │ ●         │          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┨
+┃ Total                │         │        │         │        │                            │ ●        │           │          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━┷━━━━━━━━━┷━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━━┷━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2007-828 du 11 mai 2007 - art. 5
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L342-1 (V)
+  - Code de l'action sociale et des familles - art. L342-6 (V)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R314-163 (M)
+
+
+###### Article Annexe 3-4
+
+Tableau de détermination et d'affectation des résultats de chaque section d'imputation tarifaire 
+
+d'un établissement hébergeant des personnes âgées dépendantes
+
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2" width="53">
+
+</td>
+      <td colspan="2" width="89">
+
+EXERCICE 
+
+DE L'ANNEE
+
+</td>
+      <td colspan="15" width="538">
+
+SECTIONS D'IMPUTATION
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53" rowspan="2">
+
+Rappel n° de Compte
+
+</td>
+      <td colspan="2" rowspan="2" width="89">
+
+Intitulé
+
+</td>
+      <td width="153" colspan="4">
+
+Hébergement
+
+</td>
+      <td colspan="4" width="143">
+
+Dépendance
+
+</td>
+      <td width="137" colspan="4">
+
+Soins
+
+</td>
+      <td width="107" colspan="3">
+
+Total
+
+</td>
+    </tr>
+    <tr>
+      <td width="54">
+
+Exé-cutoire
+
+</td>
+      <td width="42">
+
+Réa-lisé
+
+</td>
+      <td width="43">
+
+Rete-nu
+
+</td>
+      <td colspan="2" width="55">
+
+Exé-cutoire
+
+</td>
+      <td width="43">
+
+Réa-lisé
+
+</td>
+      <td width="38">
+
+Rete-nu
+
+</td>
+      <td width="53" colspan="2">
+
+Exé-cutoire
+
+</td>
+      <td width="41">
+
+Réa-lisé
+
+</td>
+      <td width="38">
+
+Rete-nu
+
+</td>
+      <td colspan="2" width="53">
+
+Exé-cutoire
+
+</td>
+      <td width="38">
+
+Réa-lisé
+
+</td>
+      <td width="39">
+
+Rete-nu
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+602
+
+</td>
+      <td valign="top" width="89" colspan="2">
+
+ACHATS STOCKES ; AUTRES APPROVISIONNEMENTS sauf 6021et 60226 
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53">
+
+6021
+
+</td>
+      <td width="89" valign="top" colspan="2">
+
+Produits pharmaceutiques et produits à usage médical 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53">
+
+60226
+
+</td>
+      <td colspan="2" valign="top" width="89">
+
+Fournitures hôtelières sauf 602261 
+
+</td>
+      <td width="54">
+
+70%
+
+</td>
+      <td width="42">
+
+70%
+
+</td>
+      <td width="43">
+
+70%
+
+</td>
+      <td width="55" colspan="2">
+
+30%
+
+</td>
+      <td width="43">
+
+30%
+
+</td>
+      <td width="38">
+
+30%
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+602261
+
+</td>
+      <td colspan="2" valign="top" width="89">
+
+Couches, alèses et produits absorbants 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td colspan="2" width="55">
+
+100%
+
+</td>
+      <td width="43">
+
+100%
+
+</td>
+      <td width="38">
+
+100%
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+603
+
+</td>
+      <td colspan="2" valign="top" width="89">
+
+VARIATION DES STOCKS sauf 60321 et 603226 
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+60321
+
+</td>
+      <td valign="top" width="89" colspan="2">
+
+Produits pharmaceutiques et produits à usage médical 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53">
+
+603226
+
+</td>
+      <td width="89" colspan="2" valign="top">
+
+Fournitures hôtelières sauf 6032261 
+
+</td>
+      <td width="54">
+
+70%
+
+</td>
+      <td width="42">
+
+70%
+
+</td>
+      <td width="43">
+
+70%
+
+</td>
+      <td colspan="2" width="55">
+
+30%
+
+</td>
+      <td width="43">
+
+30%
+
+</td>
+      <td width="38">
+
+30%
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53">
+
+6032261
+
+</td>
+      <td colspan="2" width="89" valign="top">
+
+Couches, alèses et produits absorbants 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+100%
+
+</td>
+      <td width="43">
+
+100%
+
+</td>
+      <td width="38">
+
+100%
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53">
+
+606
+
+</td>
+      <td colspan="2" valign="top" width="89">
+
+ACHATS NON STOCKES DE MATIERES ET FOURNITURES sauf 60622, 60626 et 6066 
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+60622
+
+</td>
+      <td valign="top" width="89" colspan="2">
+
+Produits d'entretien 
+
+</td>
+      <td width="54">
+
+70%
+
+</td>
+      <td width="42">
+
+70%
+
+</td>
+      <td width="43">
+
+70%
+
+</td>
+      <td width="55" colspan="2">
+
+30%
+
+</td>
+      <td width="43">
+
+30%
+
+</td>
+      <td width="38">
+
+30%
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+60626
+
+</td>
+      <td colspan="2" valign="top" width="89">
+
+Fournitures hôtelières sauf compte 606261 
+
+</td>
+      <td width="54">
+
+70%
+
+</td>
+      <td width="42">
+
+70%
+
+</td>
+      <td width="43">
+
+70%
+
+</td>
+      <td width="55" colspan="2">
+
+30%
+
+</td>
+      <td width="43">
+
+30%
+
+</td>
+      <td width="38">
+
+30%
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+606261
+
+</td>
+      <td valign="top" width="89" colspan="2">
+
+Couches, alèses et produits absorbants 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+100%
+
+</td>
+      <td width="43">
+
+100%
+
+</td>
+      <td width="38">
+
+100%
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53">
+
+6066
+
+</td>
+      <td valign="top" width="89" colspan="2">
+
+Fournitures médicales 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+61
+
+</td>
+      <td colspan="2" width="89" valign="top">
+
+SERVICES EXTERIEUR sauf 6111, 61121, 61551, 61562 et 61681 
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+6111
+
+</td>
+      <td valign="top" colspan="2" width="89">
+
+Prestations à caractère médical 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53">
+
+61121
+
+</td>
+      <td valign="top" width="89" colspan="2">
+
+Ergothérapie 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53">
+
+61551
+
+</td>
+      <td width="89" colspan="2" valign="top">
+
+Entretien et réparation sur biens mobiliers : matériel et outillage médicaux 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+61562
+
+</td>
+      <td width="89" valign="top" colspan="2">
+
+Maintenance du matériel médical 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+61681
+
+</td>
+      <td colspan="2" valign="top" width="89">
+
+Primes d'assurance maladie, maternité, accident du travail 
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+62
+
+</td>
+      <td width="89" valign="top" colspan="2">
+
+AUTRES SERVICES EXTERIEUR sauf 621, 62113, 6223, 6281, 6283 et 6287 pour les budgets annexes hospitaliers 
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="53" colspan="2">
+
+621
+
+</td>
+      <td colspan="2" valign="top" width="89">
+
+PERSONNEL EXTERIEUR A L'ETABLISSEMENT 
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53">
+
+62113
+
+</td>
+      <td colspan="2" valign="top" width="89">
+
+Personnel intérimaire : personnel médical et para­médical 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="53">
+
+6223
+
+</td>
+      <td width="89" valign="top" colspan="2">
+
+Médecins 
+
+</td>
+      <td width="54">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="142" colspan="4">
+
+628 sauf 6281 et 6282
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+6281
+
+</td>
+      <td colspan="3" width="90">
+
+Blanchissage à l'extérieur
+
+</td>
+      <td width="54">
+
+70%
+
+</td>
+      <td width="42">
+
+70%
+
+</td>
+      <td width="43">
+
+70%
+
+</td>
+      <td colspan="2" width="55">
+
+30%
+
+</td>
+      <td width="43">
+
+30%
+
+</td>
+      <td width="38">
+
+30%
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+6283
+
+</td>
+      <td width="90" colspan="3">
+
+Nettoyage à l'extérieur
+
+</td>
+      <td width="54">
+
+70%
+
+</td>
+      <td width="42">
+
+70%
+
+</td>
+      <td width="43">
+
+70%
+
+</td>
+      <td width="55" colspan="2">
+
+30%
+
+</td>
+      <td width="43">
+
+30%
+
+</td>
+      <td width="38">
+
+30%
+
+</td>
+      <td colspan="2" width="53">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+631
+
+</td>
+      <td colspan="3" width="90">
+
+IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (administrations des impôts)
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+633
+
+</td>
+      <td width="90" colspan="3">
+
+IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (autres organismes)
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+635
+
+</td>
+      <td colspan="3" width="90">
+
+AUTRES IMPÔTS, TAXES ET VERSEMENTS ASSIMILES (administrations des impôts)
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+637
+
+</td>
+      <td colspan="3" width="90">
+
+Autres impôts, taxes et versements assimilés (autres organismes)
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+64
+
+</td>
+      <td width="90" colspan="3">
+
+CHARGES DE PERSONNEL
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+65
+
+</td>
+      <td colspan="3" width="90">
+
+AUTRES CHARGES DE GESTION COURANTE
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+66
+
+</td>
+      <td colspan="3" width="90">
+
+CHARGES FINANCIERES
+
+</td>
+      <td width="54">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="52">
+
+67
+
+</td>
+      <td colspan="3" width="90">
+
+CHARGES EXCEPTIONNELLES
+
+</td>
+      <td valign="top" width="54">
+      </td><td valign="top" width="42">
+
+</td>
+      <td valign="top" width="43">
+
+</td>
+      <td width="55" valign="top" colspan="2">
+      </td><td width="43" valign="top">
+
+</td>
+      <td width="38" valign="top">
+
+</td>
+      <td colspan="2" width="53" valign="top">
+      </td><td width="41" valign="top">
+      </td><td width="38" valign="top">
+      </td><td width="53" colspan="2" valign="top">
+      </td><td valign="top" width="38">
+      </td><td valign="top" width="39">
+    </td></tr>
+    <tr>
+      <td colspan="3" width="142">
+
+68: Dotations aux amortissements et aux provisions sauf matériel médical
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="42" valign="top">
+
+</td>
+      <td valign="top" width="43">
+      </td><td width="55" valign="top" colspan="2">
+
+</td>
+      <td width="43" valign="top">
+
+</td>
+      <td width="38" valign="top">
+      </td><td width="53" colspan="2" valign="top">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td valign="top" width="38">
+      </td><td width="39" valign="top">
+    </td></tr>
+    <tr>
+      <td colspan="3" width="142">
+
+Dotations aux amortissements du matériel médical
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+●
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+681518 : Dotations aux provisions: autres provisions pour risques (pathologies lourdes)
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+●
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+CHARGES BRUTES = A
+
+</td>
+      <td width="55" colspan="2">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="142" colspan="3">
+
+PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION sauf 734-4 = B 1
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="142" colspan="3">
+
+734-3 : Contribution de l'assurance maladie au titre de l'article R. 314-188 = B 2
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+PRODUITS DE LA TARIFICATION = C
+
+</td>
+      <td width="55" colspan="2">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="142" colspan="3">
+
+NOMBRE DE POINTS GIR DANS L'ETABLISSEMENT AU 30 septembre = D
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td colspan="2" width="53">
+
+●
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+VALEUR NETTE DU POINT GIR "dépendance" = (A - B) / D = E
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+●
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+QUOTE PART DES CHARGES RELATIVES AUX AIDES­ SOIGNANTES ET AUX AMP IMPUTEE SUR LA SECTION TARIFAIRE "SOINS" = F (cf: annexes)
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+●
+
+</td>
+    </tr>
+    <tr>
+      <td width="142" colspan="3">
+
+VALEUR NETTE DU POINT GIR "Aides soignantes et AMP" = F / (GMP multiplié par la capacité occupée)
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+●
+
+</td>
+    </tr>
+    <tr>
+      <td width="142" colspan="3">
+
+NOMBRE DE JOURNEES REALISEES = G
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+CALCUL DE LA VALEUR NETTE DU POINT GIR "SOINS" charges de la section "soins" - produits autres que ceux de la tarification /
+GMP X capacité moyenne de l'exercice
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="53" colspan="2">
+
+●
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+●
+
+</td>
+    </tr>
+    <tr>
+      <td width="142" colspan="3">
+
+RESULTATS DE L'EXERCICE = 
+
+(B 1 + B 2 + C ) - A = H
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+REPRISE DES RESULTATS EXERCICES ANTERIEURS : I
+
+</td>
+      <td width="55" colspan="2">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="142" colspan="3">
+
+RESULTATS A AFFECTER = H + I
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="142" colspan="3">
+
+Résultat affecté au compte 1064 : réserve des plus values nettes
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+Résultat affecté au compte 10682 : excédent affecté à l'investissement
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td width="142" colspan="3">
+
+Résultat affecté au compte 10685 : excédent affecté à la réserve de trésorerie
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+Résultat affecté au compte 10686 : excédent affecté à la réserve de compensation
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+Résultat affecté au compte 110 : excédent affecté à la réduction des charges d'exploitation
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+Résultat affecté au compte 111 : excédent affecté au financement des mesures d'exploitation
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+Résultat affecté au compte 119 : Report à nouveau déficitaire
+
+</td>
+      <td colspan="2" width="55">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2007-828 du 11 mai 2007 - art. 5
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R314-163 (M)
 
 
