@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2001-07-18
+Version Consolidée au 2001-11-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L571-5)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L145-4)](#2)
@@ -126,10 +126,10 @@ Version Consolidée au 2001-07-18
       - [Titre II : Assistants maternels et assistants familiaux (art. L421-1 à L422-8)](#123)
         - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-12)](#124)
         - [Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public. (art. L422-1 à L422-8)](#125)
-      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. L441-1 à L443-10)](#126)
+      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. L441-1 à L443-11)](#126)
         - [Chapitre Ier : Accueil des personnes âgées. (art. L441-1 à L441-3)](#127)
         - [Chapitre II : Accueil des personnes handicapées adultes. (art. L442-1 à L442-3)](#128)
-        - [Chapitre III : Dispositions communes. (art. L443-1 à L443-10)](#129)
+        - [Chapitre III : Dispositions communes. (art. L443-1 à L443-11)](#129)
       - [Titre V : Formation des travailleurs sociaux (art. L451-1 à L451-4)](#130)
         - [Chapitre Ier : Dispositions générales. (art. L451-1 à L451-4)](#131)
     - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. L511-1 à L571-5)](#132)
@@ -17729,6 +17729,40 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R315-48 (V)
 
 
+###### Article L315-14-1
+
+Dans les établissements et services mentionnés à l'article L. 312-1, le fait qu'un salarié ou un agent a témoigné de mauvais
+traitements ou privations infligés à une personne accueillie ou relaté de tels agissements ne peut être pris en considération
+pour décider de mesures défavorables le concernant en matière d'embauche, de rémunération, de formation, d'affectation, de
+qualification, de classification, de promotion professionnelle, de mutation ou de renouvellement du contrat de travail, ou
+pour décider la résiliation du contrat de travail ou une sanction disciplinaire.
+
+En cas de licenciement, le juge peut prononcer la réintégration du salarié concerné si celui-ci le demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2001-1066 du 16 novembre 2001 - art. 8 () JORF 17 novembre 2001
+
+_Abrogé par_:
+
+  - Loi n°2002-2 du 2 janvier 2002 - art. 69 () JORF 3 janvier 2002
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L443-11 (Ab)
+
+
 ###### Article L315-15
 
 Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat et
@@ -21310,6 +21344,35 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L441-1 (M)
   - Code de l'action sociale et des familles - art. L442-1 (M)
   - Code de l'action sociale et des familles - art. L443-1 (Ab)
+
+
+###### Article L443-11
+
+Les dispositions de l'article L. 315-14-1 sont applicables aux salariés d'une personne ou d'un couple accueillant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2001-1066 du 16 novembre 2001 - art. 8 () JORF 17 novembre 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
+
+_Cité par_:
+
+  - Loi n°2015-1776 du 28 décembre 2015 - art. 96 (V)
+  - Code de l'action sociale et des familles - art. R14-10-49 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L315-14-1 (Ab)
 
 
 ### Titre V : Formation des travailleurs sociaux<a id=130></a>
