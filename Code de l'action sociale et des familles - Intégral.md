@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L572-5)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L148-2)](#2)
@@ -87,93 +87,95 @@ Version Consolidée au 2003-12-31
           - [Section 1 : Aides générales au logement. (art. L261-1 à L261-3)](#84)
           - [Section 2 : Fourniture d'eau et d'énergie. (art. L261-4)](#85)
           - [Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées. (art. L261-5 à L261-6)](#86)
-        - [Chapitre II : Revenu minimum d'insertion (art. L262-1 à L262-47)](#87)
-          - [Section 1 : Dispositions générales (art. L262-1 à L262-6)](#88)
-          - [Section 2 : Conditions d'ouverture du droit à l'allocation. (art. L262-7 à L262-12)](#89)
+        - [Chapitre II : Revenu minimum d'insertion (art. L262-1 à L262-55)](#87)
+          - [Section 1 : Dispositions générales (art. L262-1 à L262-6-1)](#88)
+          - [Section 2 : Conditions d'ouverture du droit à l'allocation. (art. L262-7 à L262-12-1)](#89)
           - [Section 3 : Attribution de l'allocation (art. L262-13 à L262-36)](#90)
-          - [Section 4 : Contrat d'insertion (art. L262-37 à L262-38)](#91)
+          - [Section 4 : Contrat d'insertion (art. L262-37 à L262-38-1)](#91)
           - [Section 5 : Recours et récupération (art. L262-39 à L262-47)](#92)
-        - [Chapitre III : Actions d'insertion (art. L263-1 à L263-19)](#93)
-          - [Section 1 : Dispositif départemental d'insertion. (art. L263-1 à L263-9)](#94)
-          - [Section 2 : Dispositif local d'insertion. (art. L263-10 à L263-14)](#95)
-          - [Section 4 : Fonds d'aide aux jeunes en difficulté. (art. L263-15 à L263-16)](#96)
-          - [Section 5 : Personnes bénéficiaires de l'allocation de parent isolé. (art. L263-18 à L263-19)](#97)
-    - [Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services (art. L311-1 à L351-8)](#98)
-      - [Titre Ier : Etablissements et services soumis à autorisation (art. L311-1 à L315-19)](#99)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-9)](#100)
-          - [Section 1 : Missions (art. L311-1 à L311-2)](#101)
-          - [Section 2 : Droits des usagers (art. L311-3 à L311-9)](#102)
-        - [Chapitre II : Organisation de l'action sociale et médico-sociale (art. L312-1 à L312-9)](#103)
-          - [Section 1 : Etablissements et services sociaux et médico-sociaux (art. L312-1)](#104)
-          - [Section 2 : Organismes consultatifs (art. L312-3)](#105)
-          - [Section 3 : Schémas d'organisation sociale et médico-sociale (art. L312-4 à L312-5)](#106)
-          - [Section 4 : Coordination des interventions (art. L312-6 à L312-7)](#107)
-          - [Section 5 : Evaluation et systèmes d'information (art. L312-8 à L312-9)](#108)
-        - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. L313-1 à L313-25)](#109)
-          - [Section 1 : Autorisations (art. L313-1 à L313-9)](#110)
-          - [Section 2 : Habilitation à recevoir des mineurs confiés par l'autorité judiciaire (art. L313-10)](#111)
-          - [Section 3 : Contrats ou conventions pluriannuels (art. L313-11 à L313-12)](#112)
-          - [Section 4 : Contrôle (art. L313-13 à L313-20)](#113)
-          - [Section 5 : Dispositions pénales (art. L313-21 à L313-23)](#114)
-          - [Section 6 : Dispositions communes (art. L313-24 à L313-25)](#115)
-        - [Chapitre IV : Dispositions financières (art. L314-1 à L314-13)](#116)
-          - [Section 1 : Règles de compétences en matière tarifaire (art. L314-1 à L314-2)](#117)
-          - [Section 2 : Règles budgétaires et de financement (art. L314-3 à L314-9)](#118)
-          - [Section 3 : Dispositions diverses (art. L314-10 à L314-13)](#119)
-        - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public (art. L315-1 à L315-19)](#120)
-          - [Section 1 : Dispositions générales (art. L315-1 à L315-8)](#121)
-          - [Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique (art. L315-9 à L315-19)](#122)
-      - [Titre II : Etablissements soumis à déclaration (art. L321-1 à L322-9)](#123)
-        - [Chapitre Ier : Accueil de mineurs. (art. L321-1 à L321-4)](#124)
-        - [Chapitre II : Accueil d'adultes. (art. L322-1 à L322-9)](#125)
-      - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration (art. L331-1 à L331-9)](#126)
-        - [Chapitre unique. (art. L331-1 à L331-9)](#127)
-      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. L342-1 à L346-1)](#128)
-        - [Chapitre II : Hébergement de personnes âgées. (art. L342-1 à L342-6)](#129)
-        - [Chapitre III : Centres d'action médico-sociale précoce. (art. L343-1 à L343-2)](#130)
-        - [Chapitre IV : Centres pour handicapés adultes. (art. L344-1 à L344-7)](#131)
-        - [Chapitre V : Centres d'hébergement et de réinsertion sociale. (art. L345-1 à L345-4)](#132)
-        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. L346-1)](#133)
-      - [Titre V : Contentieux de la tarification sanitaire et sociale (art. L351-1 à L351-8)](#134)
-        - [Chapitre unique. (art. L351-1 à L351-8)](#135)
-    - [Livre IV : Professions et activités d'accueil (art. L411-1 à L451-4)](#136)
-      - [Titre Ier : Assistants de service social (art. L411-1 à L411-6)](#137)
-        - [Chapitre unique. (art. L411-1 à L411-6)](#138)
-      - [Titre II : Assistants maternels et assistants familiaux (art. L421-1 à L422-8)](#139)
-        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-12)](#140)
-        - [Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public. (art. L422-1 à L422-8)](#141)
-      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. L441-1 à L443-12)](#142)
-        - [Chapitre Ier : Accueillants familiaux et modalités d'agrément. (art. L441-1 à L441-4)](#143)
-        - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial. (art. L442-1)](#144)
-        - [Chapitre III : Dispositions communes. (art. L443-2 à L443-12)](#145)
-      - [Titre V : Formation des travailleurs sociaux (art. L451-1 à L451-4)](#146)
-        - [Chapitre Ier : Dispositions générales. (art. L451-1 à L451-4)](#147)
-    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. L511-1 à L572-5)](#148)
-      - [Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L511-1 à L512-2)](#149)
-        - [Chapitre Ier : Aide sociale communale (art. L511-1 à L511-10)](#150)
-        - [Chapitre II : Revenu minimum d'insertion. (art. L512-1 à L512-2)](#151)
-      - [Titre II : Départements d'outre-mer (art. L521-1 à L523-2)](#152)
-        - [Chapitre Ier : Dispositions générales. (art. L521-1)](#153)
-        - [Chapitre II : Revenu minimum d'insertion. (art. L522-1 à L522-17)](#154)
-        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. L523-1 à L523-2)](#155)
-          - [Section unique : Service d'accueil téléphonique. (art. L523-1 à L523-2)](#156)
-      - [Titre III : Saint-Pierre-et-Miquelon (art. L531-1 à L531-6)](#157)
-        - [Chapitre unique : Dispositions générales. (art. L531-1 à L531-6)](#158)
-      - [Titre IV : Mayotte (art. L541-1 à L545-5)](#159)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L541-1 à L541-2)](#160)
-        - [Chapitre II : Aide sociale. (art. L542-1 à L542-9)](#161)
-        - [Chapitre III : Familles et aide sociale à l'enfance. (art. L543-1 à L543-14)](#162)
-        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption. (art. L544-1 à L544-4)](#163)
-        - [Chapitre V : Dispositions communes. (art. L545-1 à L545-5)](#164)
-      - [Titre V : Territoire des îles Wallis et Futuna (art. L551-1 à L552-5)](#165)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L551-1 à L551-2)](#166)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L552-1 à L552-5)](#167)
-      - [Titre VI : Polynésie française (art. L561-1 à L562-5)](#168)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L561-1 à L561-2)](#169)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L562-1 à L562-5)](#170)
-      - [Titre VII : Nouvelle-Calédonie (art. L571-1 à L572-5)](#171)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L571-1 à L571-2)](#172)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L572-1 à L572-5)](#173)
+          - [Section 6 : Suivi statistique, évaluation et contrôle (art. L262-48 à L262-54)](#93)
+          - [Section 7 : Dispositions communes (art. L262-55)](#94)
+        - [Chapitre III : Actions d'insertion (art. L263-1 à L263-19)](#95)
+          - [Section 1 : Dispositif départemental d'insertion. (art. L263-1 à L263-5)](#96)
+          - [Section 2 : Dispositif local d'insertion. (art. L263-10 à L263-14)](#97)
+          - [Section 4 : Fonds d'aide aux jeunes en difficulté. (art. L263-15 à L263-16)](#98)
+          - [Section 5 : Personnes bénéficiaires de l'allocation de parent isolé. (art. L263-18 à L263-19)](#99)
+    - [Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services (art. L311-1 à L351-8)](#100)
+      - [Titre Ier : Etablissements et services soumis à autorisation (art. L311-1 à L315-19)](#101)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-9)](#102)
+          - [Section 1 : Missions (art. L311-1 à L311-2)](#103)
+          - [Section 2 : Droits des usagers (art. L311-3 à L311-9)](#104)
+        - [Chapitre II : Organisation de l'action sociale et médico-sociale (art. L312-1 à L312-9)](#105)
+          - [Section 1 : Etablissements et services sociaux et médico-sociaux (art. L312-1)](#106)
+          - [Section 2 : Organismes consultatifs (art. L312-3)](#107)
+          - [Section 3 : Schémas d'organisation sociale et médico-sociale (art. L312-4 à L312-5)](#108)
+          - [Section 4 : Coordination des interventions (art. L312-6 à L312-7)](#109)
+          - [Section 5 : Evaluation et systèmes d'information (art. L312-8 à L312-9)](#110)
+        - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. L313-1 à L313-25)](#111)
+          - [Section 1 : Autorisations (art. L313-1 à L313-9)](#112)
+          - [Section 2 : Habilitation à recevoir des mineurs confiés par l'autorité judiciaire (art. L313-10)](#113)
+          - [Section 3 : Contrats ou conventions pluriannuels (art. L313-11 à L313-12)](#114)
+          - [Section 4 : Contrôle (art. L313-13 à L313-20)](#115)
+          - [Section 5 : Dispositions pénales (art. L313-21 à L313-23)](#116)
+          - [Section 6 : Dispositions communes (art. L313-24 à L313-25)](#117)
+        - [Chapitre IV : Dispositions financières (art. L314-1 à L314-13)](#118)
+          - [Section 1 : Règles de compétences en matière tarifaire (art. L314-1 à L314-2)](#119)
+          - [Section 2 : Règles budgétaires et de financement (art. L314-3 à L314-9)](#120)
+          - [Section 3 : Dispositions diverses (art. L314-10 à L314-13)](#121)
+        - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public (art. L315-1 à L315-19)](#122)
+          - [Section 1 : Dispositions générales (art. L315-1 à L315-8)](#123)
+          - [Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique (art. L315-9 à L315-19)](#124)
+      - [Titre II : Etablissements soumis à déclaration (art. L321-1 à L322-9)](#125)
+        - [Chapitre Ier : Accueil de mineurs. (art. L321-1 à L321-4)](#126)
+        - [Chapitre II : Accueil d'adultes. (art. L322-1 à L322-9)](#127)
+      - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration (art. L331-1 à L331-9)](#128)
+        - [Chapitre unique. (art. L331-1 à L331-9)](#129)
+      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. L342-1 à L346-1)](#130)
+        - [Chapitre II : Hébergement de personnes âgées. (art. L342-1 à L342-6)](#131)
+        - [Chapitre III : Centres d'action médico-sociale précoce. (art. L343-1 à L343-2)](#132)
+        - [Chapitre IV : Centres pour handicapés adultes. (art. L344-1 à L344-7)](#133)
+        - [Chapitre V : Centres d'hébergement et de réinsertion sociale. (art. L345-1 à L345-4)](#134)
+        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. L346-1)](#135)
+      - [Titre V : Contentieux de la tarification sanitaire et sociale (art. L351-1 à L351-8)](#136)
+        - [Chapitre unique. (art. L351-1 à L351-8)](#137)
+    - [Livre IV : Professions et activités d'accueil (art. L411-1 à L451-4)](#138)
+      - [Titre Ier : Assistants de service social (art. L411-1 à L411-6)](#139)
+        - [Chapitre unique. (art. L411-1 à L411-6)](#140)
+      - [Titre II : Assistants maternels et assistants familiaux (art. L421-1 à L422-8)](#141)
+        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-12)](#142)
+        - [Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public. (art. L422-1 à L422-8)](#143)
+      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. L441-1 à L443-12)](#144)
+        - [Chapitre Ier : Accueillants familiaux et modalités d'agrément. (art. L441-1 à L441-4)](#145)
+        - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial. (art. L442-1)](#146)
+        - [Chapitre III : Dispositions communes. (art. L443-2 à L443-12)](#147)
+      - [Titre V : Formation des travailleurs sociaux (art. L451-1 à L451-4)](#148)
+        - [Chapitre Ier : Dispositions générales. (art. L451-1 à L451-4)](#149)
+    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. L511-1 à L572-5)](#150)
+      - [Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L511-1 à L512-2)](#151)
+        - [Chapitre Ier : Aide sociale communale (art. L511-1 à L511-10)](#152)
+        - [Chapitre II : Revenu minimum d'insertion. (art. L512-1 à L512-2)](#153)
+      - [Titre II : Départements d'outre-mer (art. L521-1 à L523-2)](#154)
+        - [Chapitre Ier : Dispositions générales. (art. L521-1)](#155)
+        - [Chapitre II : Revenu minimum d'insertion. (art. L522-1 à L522-18)](#156)
+        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. L523-1 à L523-2)](#157)
+          - [Section unique : Service d'accueil téléphonique. (art. L523-1 à L523-2)](#158)
+      - [Titre III : Saint-Pierre-et-Miquelon (art. L531-1 à L531-6)](#159)
+        - [Chapitre unique : Dispositions générales. (art. L531-1 à L531-6)](#160)
+      - [Titre IV : Mayotte (art. L541-1 à L545-5)](#161)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L541-1 à L541-2)](#162)
+        - [Chapitre II : Aide sociale. (art. L542-1 à L542-9)](#163)
+        - [Chapitre III : Familles et aide sociale à l'enfance. (art. L543-1 à L543-14)](#164)
+        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption. (art. L544-1 à L544-4)](#165)
+        - [Chapitre V : Dispositions communes. (art. L545-1 à L545-5)](#166)
+      - [Titre V : Territoire des îles Wallis et Futuna (art. L551-1 à L552-5)](#167)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L551-1 à L551-2)](#168)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L552-1 à L552-5)](#169)
+      - [Titre VI : Polynésie française (art. L561-1 à L562-5)](#170)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L561-1 à L561-2)](#171)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L562-1 à L562-5)](#172)
+      - [Titre VII : Nouvelle-Calédonie (art. L571-1 à L572-5)](#173)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L571-1 à L571-2)](#174)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L572-1 à L572-5)](#175)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -272,6 +274,8 @@ Les personnes dont la présence sur le territoire métropolitain résulte de cir
 choisir librement leur lieu de résidence, ou les personnes pour lesquelles aucun domicile fixe ne peut être déterminé, ont
 droit aux prestations d'aide sociale sur décision de la commission mentionnée à l'article L. 131-5.
 
+Les dispositions du présent article ne sont pas opposables au dépôt d'une demande d'allocation de revenu minimum d'insertion.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -293,6 +297,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 13 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Anciens textes_:
 
@@ -1187,7 +1195,7 @@ Sont à la charge de l'Etat au titre de l'aide sociale :
 
 2° Les frais d'aide médicale de l'Etat, mentionnée au titre V du livre II ;
 
-3° L'allocation de revenu minimum d'insertion, mentionnée au chapitre II du titre VI du livre II ;
+3° Alinéa abrogé.
 
 4° L'allocation simple aux personnes âgées, mentionnée à l'article L. 231-1 ;
 
@@ -1204,6 +1212,11 @@ rééducation professionnelle, mentionnés aux articles L. 344-3 à L. 344-6 ;
 9° L'allocation aux familles dont les soutiens indispensables accomplissent le service national, mentionnée à l'article L.
 212-1.
 
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -1214,6 +1227,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 2003-12-18 art. 2 1° JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -1990,6 +2007,9 @@ Le président du conseil général décide :
 3° De l'octroi de l'allocation compensatrice aux personnes handicapées, mentionnée à l'article L. 245-1, dans les conditions
 prévues par les articles L. 245-2 à L. 245-9.
 
+4° De l'octroi de l'allocation de revenu minimum d'insertion dans les conditions prévues au chapitre II du titre VI du livre
+II.
+
 Ces prestations peuvent être améliorées dans les conditions prévues à l'article L. 121-4.
 
 La commission d'admission à l'aide sociale décide, selon une procédure fixée par voie réglementaire :
@@ -2005,6 +2025,11 @@ Ces prestations peuvent être améliorées dans les conditions prévues à l'art
 La commission d'admission décide en outre de la prise en charge, au titre de l'aide sociale, des personnes mentionnées à
 l'article L. 111-3.
 
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -2019,6 +2044,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 3 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Anciens textes_:
 
@@ -12552,7 +12581,12 @@ _Cite_:
 ###### Article L262-2
 
 Le revenu minimum d'insertion varie dans des conditions fixées par voie réglementaire selon la composition du foyer et le
-nombre de personnes à charge. Son montant est fixé par décret et révisé deux fois par an en fonction de l'évolution des prix.
+nombre de personnes à charge. Son montant est fixé par décret et révisé une fois par an en fonction de l'évolution des prix.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -12745,6 +12779,10 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°2002-1617 du 31 décembre 2002 - art. 1 (V)
   - TXT_SOURCE: Décret n°2002-1617 du 31 décembre 2002 - art. 2 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 1 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ###### Article L262-3
 
@@ -12936,6 +12974,38 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L816-1 (V)
 
 
+###### Article L262-6-1
+
+Pendant la durée du contrat insertion-revenu minimum d'activité conclu en application des articles L. 322-4-15 et L.
+322-4-15-1 du code du travail, chacun des membres du foyer, y compris l'allocataire, et chacune des personnes à charge
+conserve les droits garantis au bénéficiaire du revenu minimum d'insertion.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 45 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cité par_:
+
+  - Décret n°2007-1433 du 5 octobre 2007 - art. 15 (VT)
+
+_Cite_:
+
+  - Code du travail - art. L322-4-15 (M)
+  - Code du travail - art. L322-4-15-1 (M)
+
+
 ##### Section 2 : Conditions d'ouverture du droit à l'allocation.<a id=89></a>
 
 ###### Article L262-7
@@ -13007,6 +13077,14 @@ Pour être pris en compte pour la détermination du montant du revenu minimum d'
 de seize ans doivent être nés en France ou être entrés en France avant le 3 décembre 1988 ou y séjourner dans des conditions
 régulières à compter de cette même date.
 
+Les dispositions du présent article ne sont pas applicables aux ressortissants des Etats membres de l'Union européenne et des
+autres Etats parties à l'accord sur l'Espace économique européen.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -13054,6 +13132,37 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 7 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+
+###### Article L262-9-1
+
+Pour le bénéfice du revenu minimum d'insertion, les ressortissants des Etats membres de l'Union européenne et des autres
+Etats parties à l'accord sur l'Espace économique européen doivent remplir les conditions exigées pour bénéficier d'un droit
+au séjour.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 2003-12-18 art. 7 2° JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L816-1 (V)
 
 
 ###### Article L262-10
@@ -13199,12 +13308,61 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R262-49 (VD)
 
 
+###### Article L262-12-1
+
+Pendant la durée du contrat insertion-revenu minimum d'activité conclu en application des articles L. 322-4-15 et L.
+322-4-15-1 du code du travail, le bénéficiaire de ce contrat continue de bénéficier de l'allocation de revenu minimum
+d'insertion. Son montant est alors égal à celui résultant de l'application des dispositions de la présente section, diminué
+du montant de l'aide à l'employeur définie à l'article L. 322-4-15-6 du même code.
+
+En cas de rupture de ce contrat pour un motif autre que celui visé à l'article L. 322-4-15-5 du code du travail ou lorsque ce
+contrat n'est pas renouvelé et que son bénéficiaire n'exerce pas d'activité professionnelle rémunérée, celui-ci continue de
+percevoir l'allocation de revenu minimum d'insertion à hauteur du montant de l'aide du département versée à l'employeur
+jusqu'à son réexamen sur le fondement des dispositions de la présente section.
+
+Les organismes chargés du service de l'allocation de revenu minimum d'insertion sont destinataires des informations relatives
+au contrat insertion-revenu minimum d'activité, dans des conditions fixées par décret.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 45 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cité par_:
+
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 142 (VT)
+
+_Cite_:
+
+  - Code du travail - art. L322-4-15 (M)
+  - Code du travail - art. L322-4-15-1 (M)
+  - Code du travail - art. L322-4-15-5 (M)
+  - Code du travail - art. L322-4-15-6 (M)
+
+
 ##### Section 3 : Attribution de l'allocation<a id=90></a>
 
 ###### Article L262-13
 
-Lors du dépôt de sa demande, l'intéressé doit souscrire l'engagement de participer aux activités ou actions d'insertion dont
-il sera convenu avec lui dans les conditions fixées à l'article L. 262-37.
+Lors du dépôt de sa demande, l'intéressé reçoit une information complète sur les droits et obligations de l'allocataire du
+revenu minimum d'insertion et doit souscrire l'engagement de participer aux activités ou actions d'insertion dont il sera
+convenu avec lui dans les conditions fixées à l'article L. 262-37.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13217,6 +13375,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 8 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -13239,8 +13401,14 @@ La demande d'allocation peut être, au choix du demandeur, déposée :
 
 - auprès du service départemental d'action sociale défini à l'article L. 123-2 ;
 
-- auprès des associations ou organismes à but non lucratif agréés à cet effet par décision du représentant de l'Etat dans le
-département.
+- auprès des associations ou organismes à but non lucratif agréés à cet effet par décision du président du conseil général.
+
+- auprès des organismes payeurs mentionnés à l'article L. 262-30 et ayant reçu l'agrément du président du conseil général.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13265,23 +13433,28 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 10 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L123-2 (V)
+  - Code de l'action sociale et des familles - art. L262-30 (M)
 
 
 ###### Article L262-15
 
-L'instruction administrative et sociale du dossier est effectuée par l'organisme devant lequel la demande a été déposée. Cet
-organisme assume également la responsabilité de l'élaboration du contrat d'insertion mentionné à l'article L. 262-37 et en
-suit la mise en oeuvre. Il désigne en son sein, à cet effet, pour chaque bénéficiaire de contrat d'insertion, une personne
-chargée de coordonner la mise en oeuvre de différents aspects sociaux, économiques, éducatifs et sanitaires de ce contrat.
+L'instruction administrative du dossier est effectuée par l'organisme auprès duquel la demande a été déposée. Lorsque la
+demande n'est pas formulée directement auprès d'eux, les organismes payeurs mentionnés à l'article L. 262-30 et les services
+départementaux en charge de l'action sociale apportent leur concours à l'instruction administrative, en particulier pour ce
+qui concerne l'appréciation des ressources.
 
-Lorsque, pour l'application des dispositions de l'alinéa précédent, l'organisme instructeur n'a pas désigné, pour chaque
-bénéficiaire d'un contrat d'insertion, un accompagnateur chargé de coordonner la mise en oeuvre de différents aspects
-sociaux, économiques, éducatifs et sanitaires du contrat ou, en cas de difficulté, le président de la commission locale
-d'insertion formule des propositions pour cette désignation. Les organismes payeurs mentionnés à l'article L. 262-30
-apportent leur concours à l'instruction administrative, en particulier pour ce qui concerne l'appréciation des ressources.
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13294,6 +13467,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 11 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -13310,14 +13487,17 @@ _Cité par_:
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L262-30 (M)
-  - Code de l'action sociale et des familles - art. L262-37 (M)
 
 
 ###### Article L262-16
 
-Les demandes recueillies enregistrées au secrétariat de la commission locale d'insertion dans le ressort de laquelle réside
-l'intéressé sont immédiatement transmises au président du centre communal ou intercommunal d'action sociale de la commune de
-résidence, si la demande n'a pas été déposée auprès de ce centre.
+Le président du conseil général transmet au président du centre communal ou intercommunal d'action sociale compétent les
+demandes qui n'ont pas été déposées auprès de ce centre.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13330,6 +13510,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 12 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -13359,9 +13543,14 @@ _Cité par_:
 ###### Article L262-17
 
 Le président du centre communal ou intercommunal d'action sociale de la commune de résidence transmet, à tout moment, au
-représentant de l'Etat dans le département les éléments d'information dont il dispose sur les ressources et la situation de
-famille de l'intéressé, ainsi que sur sa situation au regard de l'insertion. L'intéressé est tenu informé des éléments le
-concernant, transmis par le président du centre communal ou intercommunal d'action sociale de sa commune de résidence.
+président du conseil général les éléments d'information dont il dispose sur les ressources et la situation de famille de
+l'intéressé, ainsi que sur sa situation au regard de l'insertion. L'intéressé est tenu informé des éléments le concernant,
+transmis par le président du centre communal ou intercommunal d'action sociale de sa commune de résidence.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13375,20 +13564,35 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ###### Article L262-18
 
 Une personne sans résidence stable doit, pour demander le bénéfice de l'allocation, élire domicile auprès d'un organisme
-agréé à cette fin conjointement par le représentant de l'Etat dans le département et par le président du conseil général.
+agréé à cette fin par le président du conseil général ou auprès d'un centre communal ou intercommunal d'action sociale.
+
+Les personnes circulant en France sans domicile ni résidence fixe, au sens de la loi n° 69-3 du 3 janvier 1969 relative à
+l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence
+fixe, élisent domicile auprès d'un organisme agréé ou d'un centre communal ou intercommunal d'action sociale, situé ou non
+dans leur commune de rattachement.
 
 L'agrément précise les conditions dans lesquelles les organismes peuvent, le cas échéant, refuser de recevoir la déclaration
 d'élection de domicile.
 
-Un organisme au moins dans le ressort de chaque commission locale d'insertion est tenu de recevoir toute déclaration.
+Un organisme au moins dans le ressort de chaque commission locale d'insertion, désigné par le président du conseil général
+ou, au cas où celui-ci n'y aurait pas pourvu et après une mise en demeure restée sans résultat, par le représentant de l'Etat
+dans le département, est tenu de recevoir toute déclaration.
 
 La demande d'allocation qui y est déposée est réputée valoir élection de domicile auprès de cet organisme.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°69-3 1969-01-03
 
 _Anciens textes_:
 
@@ -13406,21 +13610,26 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 13 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ###### Article L262-19
 
-Lors de la demande initiale, l'allocation est attribuée pour une durée de trois mois par le représentant de l'Etat dans le
-département dans les conditions prévues à l'article L. 262-3.
+Lors de la demande initiale, l'allocation est attribuée pour une durée de trois mois par le président du conseil général du
+département de résidence du demandeur ou, le cas échéant, de celui dans lequel il a élu domicile, dans les conditions prévues
+à l'article L. 262-3.
 
-Le droit à l'allocation est prorogé pour une durée de trois mois à un an par le représentant de l'Etat dans le département au
-vu du contrat d'insertion établi dans les conditions fixées à l'article L. 262-37.
+Le droit à l'allocation est prorogé pour une durée de trois mois à un an par le président du conseil général au vu du contrat
+d'insertion établi dans les conditions fixées à l'article L. 262-37.
 
 Le défaut de communication du contrat d'insertion dans le délai de trois mois mentionné au premier alinéa ne peut conduire à
 l'interruption du versement de l'allocation lorsque la responsabilité est imputable aux services chargés de conclure ledit
 contrat avec l'intéressé.
 
 Si, du fait de l'intéressé et sans motif légitime, le contrat d'insertion n'est pas établi dans le délai de trois mois
-mentionné au premier alinéa, le versement de l'allocation est suspendu par le représentant de l'Etat après avis de la
+mentionné au premier alinéa, le versement de l'allocation est suspendu par le président du conseil général après avis de la
 commission locale d'insertion prévue à l'article L. 263-10, après que l'intéressé, assisté, le cas échéant, de la personne de
 son choix, a été mis en mesure de faire connaître ses observations.
 
@@ -13448,6 +13657,11 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 14 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L262-3 (V)
@@ -13456,17 +13670,13 @@ _Cite_:
 
 ###### Article L262-20
 
-Le droit à l'allocation est renouvelable, par périodes comprises entre trois mois et un an, par décision du représentant de
-l'Etat dans le département, après avis de la commission locale d'insertion sur la mise en oeuvre du contrat d'insertion
-mentionné à l'article L. 262-37 et, le cas échéant, au vu du nouveau contrat d'insertion.
+Sans préjudice des dispositions prévues aux articles L. 262-21 et L. 262-23, le droit à l'allocation est renouvelable, par
+périodes comprises entre trois mois et un an, par décision du président du conseil général.
 
-A défaut de transmission de l'avis de la commission locale d'insertion avant le terme imparti au renouvellement, le versement
-de l'allocation est maintenu et la décision de renouvellement différée jusqu'à réception de cet avis par le représentant de
-l'Etat dans le département.
+**Nota:**
 
-Le versement de l'allocation peut être suspendu par le représentant de l'Etat si la commission locale d'insertion est dans
-l'impossibilité de donner son avis du fait de l'intéressé et sans motif légitime de la part de ce dernier. L'intéressé peut
-faire connaître ses observations, assisté, le cas échéant, de la personne de son choix.
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13487,19 +13697,35 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 15 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L262-37 (M)
+  - Code de l'action sociale et des familles - art. L262-21 (M)
+  - Code de l'action sociale et des familles - art. L262-23 (M)
 
 
 ###### Article L262-21
 
 Dans le cas où le contrat est arrivé à échéance si, du fait de l'intéressé et sans motif légitime, le contrat n'a pas été
-renouvelé ou un nouveau contrat n'a pas pu être établi, le versement de l'allocation peut être suspendu par le représentant
-de l'Etat, après avis de la commission locale d'insertion, après que l'intéressé, assisté, le cas échéant, de la personne de
-son choix, a été mis en mesure de faire connaître ses observations. La suspension ne peut pas être prononcée lorsque la
-responsabilité du défaut de communication du contrat d'insertion est imputable aux services chargés de le conclure avec
-l'intéressé.
+renouvelé ou un nouveau contrat n'a pas pu être établi, le versement de l'allocation peut être suspendu par le président du
+conseil général, après avis de la commission locale d'insertion, après que l'intéressé, assisté, le cas échéant, de la
+personne de son choix, a été mis en mesure de faire connaître ses observations. La suspension ne peut pas être prononcée
+lorsque la responsabilité du défaut de communication du contrat d'insertion est imputable aux services chargés de le conclure
+avec l'intéressé.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X).
 
 **Liens relatifs à cet article**
 
@@ -13524,6 +13750,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L262-22
@@ -13555,15 +13785,26 @@ _Cité par_:
 ###### Article L262-23
 
 Si le contrat d'insertion mentionné à l'article L. 262-37 n'est pas respecté, il peut être procédé à sa révision à la demande
-du président de la commission locale d'insertion, du représentant de l'Etat dans le département ou des bénéficiaires du
-revenu minimum d'insertion.
+du président du conseil général ou des bénéficiaires du revenu minimum d'insertion, ainsi qu'à la demande de la personne
+mentionnée au deuxième alinéa de l'article L. 262-37.
 
-Si le non-respect du contrat incombe au bénéficiaire de la prestation, le versement de l'allocation peut être suspendu. Dans
-ce cas, le service de la prestation est rétabli lorsqu'un nouveau contrat a pu être conclu.
+Si, sans motif légitime, le non-respect du contrat incombe au bénéficiaire de la prestation, le versement de l'allocation
+peut être suspendu. Dans ce cas, le service de la prestation est rétabli lorsqu'un nouveau contrat a pu être conclu.
 
-La décision de suspension est prise par le représentant de l'Etat dans le département, sur avis motivé de la commission
-locale d'insertion, après que l'intéressé, assisté, le cas échéant, de la personne de son choix, a été mis en mesure de faire
-connaître ses observations.
+La décision de suspension est prise par le président du conseil général, sur avis motivé de la commission locale d'insertion,
+après que l'intéressé, assisté, le cas échéant, de la personne de son choix, a été mis en mesure de faire connaître ses
+observations.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X).
 
 **Liens relatifs à cet article**
 
@@ -13576,6 +13817,11 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 16 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -13596,9 +13842,14 @@ _Cite_:
 
 ###### Article L262-24
 
-Lorsqu'il y a eu suspension de l'allocation au titre des articles L. 262-19, L. 262-20, L. 262-21 et L. 262-23, son versement
-est repris par l'organisme payeur sur décision du représentant de l'Etat dans le département à compter de la date de
-conclusion du contrat d'insertion ou de l'avis de la commission locale d'insertion.
+Lorsqu'il y a eu suspension de l'allocation au titre des articles L. 262-19, L. 262-21 et L. 262-23, son versement est repris
+par l'organisme payeur sur décision du président du conseil général à compter de la date de conclusion du contrat
+d'insertion.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13610,6 +13861,11 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 2003-12-18 art. 6, art. 17 1° JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -13651,7 +13907,6 @@ _Cité par_:
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L262-19 (M)
-  - Code de l'action sociale et des familles - art. L262-20 (M)
   - Code de l'action sociale et des familles - art. L262-21 (M)
   - Code de l'action sociale et des familles - art. L262-23 (M)
 
@@ -13718,9 +13973,14 @@ _Codifié par_:
 
 Il est procédé au réexamen périodique du montant de l'allocation.
 
-Les décisions déterminant le montant de l'allocation peuvent être révisées à la demande de l'intéressé, du représentant de
-l'Etat dans le département ou de l'organisme payeur, dès lors que des éléments nouveaux modifient la situation au vu de
-laquelle ces décisions sont intervenues.
+Les décisions déterminant le montant de l'allocation peuvent être révisées à la demande de l'intéressé, du président du
+conseil général ou de l'organisme payeur, dès lors que des éléments nouveaux modifient la situation au vu de laquelle ces
+décisions sont intervenues.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13756,16 +14016,25 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ###### Article L262-28
 
-En cas de suspension de l'allocation au titre des articles L. 262-19, L. 262-20, L. 262-21, L. 262-23 ou L. 522-13, ou en cas
-d'interruption du versement de l'allocation, le représentant de l'Etat dans le département met fin au droit au revenu minimum
-d'insertion dans des conditions fixées par voie réglementaire.
+En cas de suspension de l'allocation au titre des articles L. 262-19, L. 262-21, L. 262-23 ou L. 522-13, ou en cas
+d'interruption du versement de l'allocation, le président du conseil général met fin au droit au revenu minimum d'insertion
+dans des conditions fixées par voie réglementaire.
 
-Lorsque cette décision fait suite à une mesure de suspension prise en application des articles L. 262-19, L. 262-20, L.
-262-21 ou L. 262-23, l'ouverture d'un nouveau droit, dans l'année qui suit la décision de suspension, est subordonnée à la
-signature d'un contrat d'insertion.
+Lorsque cette décision fait suite à une mesure de suspension prise en application des articles L. 262-19, L. 262-21 ou L.
+262-23, l'ouverture d'un nouveau droit, dans l'année qui suit la décision de suspension, est subordonnée à la signature d'un
+contrat d'insertion.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13778,6 +14047,11 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 2003-12-18 art. 6, art. 17 2° JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -13802,7 +14076,6 @@ _Cité par_:
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L262-19 (M)
-  - Code de l'action sociale et des familles - art. L262-20 (M)
   - Code de l'action sociale et des familles - art. L262-21 (M)
   - Code de l'action sociale et des familles - art. L262-23 (M)
   - Code de l'action sociale et des familles - art. L522-13 (M)
@@ -13850,8 +14123,27 @@ _Cité par_:
 
 ###### Article L262-30
 
-Le service de l'allocation est assuré dans chaque département par les caisses d'allocations familiales et, le cas échéant,
-les caisses de mutualité sociale agricole, avec lesquelles le représentant de l'Etat passe, à cet effet, convention.
+Le service de l'allocation est assuré dans chaque département par les caisses d'allocations familiales et, pour leurs
+ressortissants, par les caisses de mutualité sociale agricole, avec lesquelles le département passe, à cet effet, convention.
+
+Ces conventions, dont les règles générales sont déterminées par décret, fixent les conditions dans lesquelles le service de
+l'allocation est assuré et les compétences sont déléguées en application de l'article L. 262-32.
+
+En l'absence de cette convention, le service de l'allocation et ses modalités de financement sont assurés dans des conditions
+définies par décret.
+
+Dans la période qui précède l'entrée en vigueur du décret visé à l'alinéa précédent, les organismes payeurs assurent le
+service de l'allocation, pour le compte du président du conseil général, dans les conditions qui prévalaient avant le 1er
+janvier 2004. Pendant cette même période, le département verse chaque mois à chacun de ces organismes un acompte provisionnel
+équivalant au tiers des dépenses comptabilisées par l'organisme au titre de l'allocation de revenu minimum d'insertion au
+cours du dernier trimestre civil connu. Ce versement est effectué, au plus tard, le dernier jour du mois. Dans le mois qui
+suit l'entrée en vigueur du décret visé à l'alinéa précédent, la différence entre les acomptes versés et les dépenses
+effectivement comptabilisées au cours de la période donne lieu à régularisation.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13899,12 +14191,20 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 18 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ###### Article L262-31
 
-Une convention entre, d'une part, l'Etat et, d'autre part, la Caisse nationale des allocations familiales et la Caisse
-centrale de mutualité sociale agricole peut préciser les conditions dans lesquelles est assuré le service de l'allocation. Sa
-conclusion dispense des conventions mentionnées à l'article L. 262-30.
+La convention mentionnée à l'article L. 262-30 assure la neutralité des flux financiers de chacune des parties, dans des
+conditions définies par décret.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13916,6 +14216,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 19 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -13929,9 +14233,16 @@ _Cite_:
 
 ###### Article L262-32
 
-Le représentant de l'Etat dans le département peut, par convention avec les organismes payeurs mentionnés à l'article L.
-262-30, déléguer aux directeurs de ces organismes, dans les conditions fixées par voie réglementaire, certaines des
-compétences qui lui sont dévolues par la présente section.
+Le département peut déléguer aux organismes payeurs mentionnés à l'article L. 262-30 tout ou partie des compétences du
+président du conseil général à l'égard des décisions individuelles relatives à l'allocation, à l'exception des décisions de
+suspension du versement de celle-ci prises en application des articles L. 262-19, L. 262-21 et L. 262-23.
+
+La convention prévue à l'article L. 262-30 détermine les conditions de mise en oeuvre et de contrôle de cette délégation.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -13943,6 +14254,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 20 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -13961,6 +14276,12 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R326-69 (Ab)
   - Code du travail applicable à Mayotte. - art. R326-71 (Ab)
 
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L262-19 (M)
+  - Code de l'action sociale et des familles - art. L262-21 (M)
+  - Code de l'action sociale et des familles - art. L262-23 (M)
+
 
 ###### Article L262-33
 
@@ -13975,8 +14296,7 @@ organismes payeurs mentionnés à l'article L. 262-30 doivent être limitées au
 situation du demandeur en vue de l'attribution de l'allocation et de la conduite des actions d'insertion.
 
 Les personnels des organismes précités ne peuvent communiquer les informations recueillies dans l'exercice de leur mission
-qu'au représentant de l'Etat dans le département, au président du conseil général et au président de la commission locale
-d'insertion définie à l'article L. 263-10.
+qu'au président du conseil général et au président de la commission locale d'insertion définie à l'article L. 263-10.
 
 Les organismes payeurs transmettent à ceux-ci ainsi qu'aux présidents des centres communaux d'action sociale et aux
 organismes instructeurs concernés la liste des personnes percevant une allocation de revenu minimum d'insertion.
@@ -13986,9 +14306,10 @@ de transmission entre les organismes susmentionnés, dans les conditions prévue
 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Un décret fixe les modalités d'information des
 bénéficiaires qui font l'objet d'un contrôle défini dans le présent article.
 
-La nature des informations que les collectivités publiques et les organismes associés à la gestion du revenu minimum
-d'insertion sont tenus de fournir, aux fins d'établissement des statistiques, à l'Etat et aux autres collectivités et
-organismes associés est déterminée par décret.
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14018,6 +14339,11 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 21 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L262-34
@@ -14069,18 +14395,27 @@ prestation compensatoire due au titre de l'article 270 dudit code et aux pension
 l'époux ayant obtenu le divorce dont la requête initiale a été présentée avant l'entrée en vigueur de la loi n° 75-617 du 11
 juillet 1975 portant réforme du divorce.
 
+Les organismes payeurs mentionnés à l'article L. 262-30 veillent à la mise en oeuvre des obligations instituées par le
+deuxième alinéa. Si l'intéressé ne fait pas valoir ses droits, les organismes payeurs saisissent le président du conseil
+général qui, en l'absence de motif légitime, pourra mettre en oeuvre la procédure mentionnée au dernier alinéa.
+
 Les organismes instructeurs mentionnés aux articles L. 262-14 et L. 262-15 et les organismes payeurs mentionnés à l'article
 L. 262-30 assistent les demandeurs dans les démarches rendues nécessaires pour la réalisation des conditions mentionnées aux
 premier et deuxième alinéas du présent article.
 
 L'allocation est versée à titre d'avance. Dans la limite des prestations allouées, l'organisme payeur est subrogé, pour le
-compte de l'Etat, dans les droits du bénéficiaire vis-à-vis des organismes sociaux ou de ses débiteurs.
+compte du département, dans les droits du bénéficiaire vis-à-vis des organismes sociaux ou de ses débiteurs.
 
 L'intéressé peut demander à être dispensé de satisfaire aux conditions mentionnées au deuxième alinéa du présent article. Le
-représentant de l'Etat dans le département statue sur cette demande, compte tenu de la situation du débiteur défaillant et
-après que l'intéressé, assisté le cas échéant de la personne de son choix, a été en mesure de faire connaître ses
-observations. Il peut assortir sa décision d'une réduction de l'allocation de revenu minimum d'un montant au plus égal à
-celui de la créance alimentaire lorsqu'elle est fixée ou à celui de l'allocation de soutien familial.
+président du conseil général statue sur cette demande, compte tenu de la situation du débiteur défaillant et après que
+l'intéressé, assisté le cas échéant de la personne de son choix, a été en mesure de faire connaître ses observations. Il peut
+assortir sa décision d'une réduction de l'allocation de revenu minimum d'un montant au plus égal à celui de la créance
+alimentaire lorsqu'elle est fixée ou à celui de l'allocation de soutien familial.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14124,11 +14459,20 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 22 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ###### Article L262-36
 
-Le représentant de l'Etat dans le département peut décider de faire procéder au versement d'acomptes ou d'avances sur droits
-supposés.
+Le président du conseil général peut décider de faire procéder au versement d'acomptes ou d'avances sur droits supposés.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14152,23 +14496,35 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ##### Section 4 : Contrat d'insertion<a id=91></a>
 
 ###### Article L262-37
 
-Dans les trois mois qui suivent la mise en paiement de l'allocation de revenu minimum d'insertion et au vu des éléments
-utiles à l'appréciation de la situation sanitaire, sociale, professionnelle, financière des intéressés et de leurs conditions
-d'habitat, il est établi entre l'allocataire et les personnes prises en compte pour la détermination du montant de cette
-allocation qui satisfont à une condition d'âge, d'une part, et la commission locale d'insertion dans le ressort de laquelle
-réside l'allocataire, d'autre part, un contrat d'insertion faisant apparaître :
+Dans les trois mois qui suivent la mise en paiement de l'allocation de revenu minimum d'insertion, l'allocataire et les
+personnes prises en compte pour la détermination du montant de cette allocation qui satisfont à une condition d'âge doivent
+conclure un contrat d'insertion avec le département, représenté par le président du conseil général.
 
-1° La nature du projet d'insertion qu'ils sont susceptibles de former ou qui peut leur être proposé ;
+Le président du conseil général désigne, dès la mise en paiement de l'allocation, une personne chargée d'élaborer le contrat
+d'insertion avec l'allocataire et les personnes mentionnées au premier alinéa et de coordonner la mise en oeuvre de ses
+différents aspects économiques, sociaux, éducatifs et sanitaires.
 
-2° La nature des facilités qui peuvent leur être offertes pour les aider à réaliser ce projet ;
+Le contenu du contrat d'insertion est débattu entre la personne chargée de son élaboration et l'allocataire. Le contrat est
+librement conclu par les parties et repose sur des engagements réciproques de leur part.
 
-3° La nature des engagements réciproques et le calendrier des démarches et activités d'insertion qu'implique la réalisation
-de ce projet et les conditions d'évaluation, avec l'allocataire, des différents résultats obtenus.
+Le président du conseil général peut aussi, par convention, confier la mission définie au deuxième alinéa à une autre
+collectivité territoriale ou à un organisme, notamment l'un de ceux mentionnés à l'article L. 262-14.
+
+Dans tous les cas, il informe sans délai l'allocataire de sa décision.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14212,28 +14568,49 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 23 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L262-14 (M)
+
 
 ###### Article L262-38
 
-L'insertion proposée aux bénéficiaires du revenu minimum d'insertion et définie avec eux peut, notamment, prendre une ou
-plusieurs des formes suivantes :
+Le contrat d'insertion prévu à l'article L. 262-37 est établi au vu des éléments utiles à l'appréciation de la situation
+professionnelle, sociale, financière et de santé de l'allocataire et des personnes mentionnées au premier alinéa de cet
+article, et de leurs conditions d'habitat. Il comporte, selon la nature du parcours d'insertion qu'ils sont susceptibles
+d'envisager ou qui peut leur être proposé, une ou plusieurs des actions concrètes suivantes :
 
-1° Actions d'évaluation, d'orientation et de remobilisation ;
+1° Des prestations d'accompagnement social ou permettant aux bénéficiaires de retrouver ou de développer leur autonomie
+sociale ;
 
-2° Activités d'intérêt général ou emplois, avec ou sans aide publique ;
+2° Une orientation, précédée le cas échéant d'un bilan d'évaluation des capacités de l'intéressé, vers le service public de
+l'emploi ;
 
-3° Actions permettant aux bénéficiaires de retrouver ou de développer leur autonomie sociale, moyennant un accompagnement
-social approprié, la participation à la vie familiale et civique ainsi qu'à la vie sociale, notamment du quartier ou de la
-commune, et à des activités de toute nature, notamment de loisir, de culture et de sport ;
+3° Des activités ou stages destinés à acquérir ou à améliorer leurs compétences professionnelles ou à favoriser leur
+insertion en milieu de travail ;
 
-4° Actions permettant l'accès à un logement, le relogement ou l'amélioration de l'habitat ;
+4° Un emploi aidé, notamment un contrat insertion-revenu minimum d'activité, ou une mesure d'insertion par l'activité
+économique ;
 
-5° Activités ou stages destinés à acquérir ou à améliorer les compétences professionnelles, la connaissance et la maîtrise de
-l'outil de travail et les capacités d'insertion en milieu professionnel, éventuellement dans le cadre de conventions avec des
-entreprises, des organismes de formation professionnelle ou des associations ;
+5° Une assistance à la réalisation d'un projet de création ou de reprise d'une activité non salariée.
 
-6° Actions visant à faciliter l'accès aux soins, les soins de santé envisagés ne pouvant pas, en tant que tels, être l'objet
-du contrat d'insertion.
+Le contrat d'insertion comporte également, en fonction des besoins des bénéficiaires, des dispositions concernant :
+
+a) Des actions permettant l'accès à un logement, au relogement ou l'amélioration de l'habitat ;
+
+b) Des actions visant à faciliter l'accès aux soins, les soins de santé envisagés ne pouvant pas, en tant que tels, être
+l'objet du contrat d'insertion.
+
+Il fait l'objet d'une évaluation régulière donnant lieu éventuellement à un réajustement des actions précédemment définies.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14257,6 +14634,45 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 24 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L262-37 (M)
+
+
+###### Article L262-38-1
+
+Des conventions passées entre le département et chacun des organismes chargés de l'emploi et de la formation professionnelle
+fixent les modalités de mise en oeuvre des actions mentionnées aux 2°, 3° et, le cas échéant, 5° de l'article L. 262-38 et
+déterminent la nature des informations nominatives échangées sur la situation des bénéficiaires.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 25 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Abrogé par_:
+
+  - Loi n°2008-1249 du 1er décembre 2008 - art. 3
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L262-38
+
 
 ##### Section 5 : Recours et récupération<a id=92></a>
 
@@ -14266,14 +14682,19 @@ Un recours contentieux contre les décisions relatives à l'allocation de revenu
 y a intérêt devant la commission départementale d'aide sociale, mentionnée à l'article L. 134-6, dans le ressort de laquelle
 a été prise la décision.
 
-Cette commission est alors complétée par deux représentants du conseil départemental d'insertion défini à l'article L. 263-2.
-Ces deux personnes sont désignées conjointement par le représentant de l'Etat dans le département et le président du conseil
-général.
-
 La décision de la commission départementale est susceptible d'appel devant la commission centrale d'aide sociale instituée
 par l'article L. 134-2.
 
 Les dispositions de l'article L. 133-3 sont applicables.
+
+Les associations régulièrement constituées depuis cinq ans au moins pour oeuvrer dans le domaine de l'insertion et de la
+lutte contre la pauvreté et l'exclusion peuvent exercer les recours et appels prévus au présent article en faveur d'un
+demandeur ou bénéficiaire de l'allocation de revenu minimum d'insertion, sous réserve de l'accord écrit de l'intéressé.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14285,6 +14706,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 26 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -14306,7 +14731,6 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L133-3 (M)
   - Code de l'action sociale et des familles - art. L134-2 (M)
   - Code de l'action sociale et des familles - art. L134-6 (M)
-  - Code de l'action sociale et des familles - art. L263-2 (M)
 
 
 ###### Article L262-40
@@ -14421,7 +14845,7 @@ Les sommes servies au titre de l'allocation sont récupérées en cas de décès
 Toutefois, la récupération n'est opérée que sur la fraction de l'actif net qui excède un seuil dont le montant est fixé par
 décret.
 
-Le recouvrement est fait par les services de l'Etat dans des conditions et selon des modalités fixées par décret.
+Le recouvrement est fait dans les conditions prévues à l'article L. 132-11.
 
 Les sommes recouvrables peuvent être garanties par une hypothèque légale prenant rang à la date de son inscription et pour
 laquelle il n'est pas perçu de frais. Lorsque le bénéficiaire est propriétaire d'un fonds de commerce, il s'engage à
@@ -14429,6 +14853,11 @@ accepter, en garantie des sommes recouvrables, un nantissement sur fonds de comm
 livre premier du code de commerce.
 
 L'action en récupération se prescrit par cinq ans à compter du jour du décès du bénéficiaire ou de la cession de son actif.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14440,6 +14869,14 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 27 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L132-11 (V)
 
 _Cité par_:
 
@@ -14459,15 +14896,20 @@ Nonobstant toute opposition, les allocataires dont le revenu minimum d'insertion
 de dépôts ou d'avances peuvent effectuer mensuellement des retraits de ce compte dans la limite du montant de l'allocation de
 revenu minimum d'insertion.
 
-Toutefois, le représentant de l'Etat dans le département peut demander à l'organisme payeur, après avis de la commission
-locale d'insertion et avec l'accord du bénéficiaire, de mandater l'allocation au nom d'un organisme agréé à cet effet, à
-charge pour celui-ci de la reverser au bénéficiaire, éventuellement de manière fractionnée, et le cas échéant d'acquitter le
-montant du loyer restant imputable à l'allocataire.
+Toutefois, le président du conseil général peut demander à l'organisme payeur, le cas échéant après avis de la personne
+mentionnée au deuxième alinéa de l'article L. 262-37 et avec l'accord du bénéficiaire, de mandater l'allocation au nom d'un
+organisme agréé à cet effet, à charge pour celui-ci de la reverser au bénéficiaire, éventuellement de manière fractionnée, et
+le cas échéant d'acquitter le montant du loyer restant imputable à l'allocataire.
 
 Sur demande de l'allocataire, les cotisations d'assurance maladie mentionnées à l'article L. 731-35 du code rural ou à
 l'article L. 612-4 du code de la sécurité sociale sont recouvrées sur l'allocation de revenu minimum d'insertion.
 
 Un décret précise les conditions d'application du présent article.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14475,6 +14917,7 @@ _Cite_:
 
   - Code rural L731-35
   - Code de la sécurité sociale. - art. L612-4 (M)
+  - Code de l'action sociale et des familles - art. L262-37 (M)
 
 _Anciens textes_:
 
@@ -14485,6 +14928,11 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 28 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L262-45
@@ -14601,16 +15049,298 @@ _Cite_:
   - Code de la sécurité sociale. - art. L554-2 (M)
 
 
-#### Chapitre III : Actions d'insertion<a id=93></a>
+##### Section 6 : Suivi statistique, évaluation et contrôle<a id=93></a>
 
-##### Section 1 : Dispositif départemental d'insertion.<a id=94></a>
+###### Article L262-48
+
+Le président du conseil général transmet au représentant de l'Etat dans le département, dans des conditions fixées par voie
+réglementaire, toute information relative au dispositif d'insertion lié à l'allocation de revenu minimum d'insertion et au
+contrat insertion-revenu minimum d'activité régi par les articles L. 322-4-15 et suivants du code du travail.
+
+Ces informations comprennent notamment :
+
+- les données comptables concernant les crédits consacrés aux prestations ;
+
+- les données agrégées portant sur les caractéristiques des bénéficiaires et sur les prestations fournies ;
+
+- les informations sur la gestion de ces prestations dans le département et sur l'activité des organismes qui y concourent.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°88-1088 1988-12-01 art. 51 al. 1
+  - Loi n°88-1088 du 1 décembre 1988 - art. 51 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cite_:
+
+  - Code du travail - art. L322-4-15 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L262-55 (V)
+
+
+###### Article L262-49
+
+La Caisse nationale des allocations familiales et la Caisse centrale de mutualité sociale agricole transmettent au ministre
+chargé de l'action sociale, dans des conditions fixées par voie réglementaire, toute information relative aux dépenses liées
+à l'allocation de revenu minimum d'insertion et à l'exécution des contrats d'insertion.
+
+Ces informations comprennent notamment :
+
+- les données comptables relatives aux dépenses ;
+
+- les données agrégées portant sur les caractéristiques des demandeurs, des personnes entrées ou sorties du dispositif, des
+allocataires et des ayants droit.
+
+Les caisses d'allocations familiales et les caisses de mutualité sociale agricole transmettent aux départements, dans des
+conditions fixées par voie réglementaire, toute information nécessaire à l'actualisation des fichiers sociaux départementaux.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cité par_:
+
+  - Décret n°2004-301 du 29 mars 2004 - art. 5 (Ab)
+  - Code de l'action sociale et des familles - art. L262-52 (V)
+  - Code de l'action sociale et des familles - art. R262-22-7 (VT)
+
+
+###### Article L262-50
+
+Les organismes associés à la gestion du revenu minimum d'activité transmettent au ministre chargé de l'action sociale, dans
+des conditions fixées par voie réglementaire, toute information relative au montant du revenu minimum d'activité et à
+l'exécution des contrats insertion-revenu minimum d'activité.
+
+Ces informations comprennent notamment :
+
+- les données comptables relatives aux dépenses ;
+
+- les données agrégées portant sur les caractéristiques des demandeurs, des personnes entrées ou sorties du dispositif et les
+bénéficiaires.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L262-52 (V)
+  - Code de la sécurité sociale. - art. L114-16-2 (V)
+
+
+###### Article L262-51
+
+Les départements, la Caisse nationale des allocations familiales, la Caisse centrale de mutualité sociale agricole et les
+autres organismes associés à la gestion du revenu minimum d'insertion ou du revenu minimum d'activité transmettent à
+l'autorité compétente de l'Etat, dans des conditions fixées par voie réglementaire, les informations relatives aux personnes
+physiques destinées, dans le respect des dispositions de l'article 7 bis de la loi n° 51-711 du 7 juin 1951 sur l'obligation,
+la coordination et le secret en matière de statistiques et des dispositions de l'article 15 de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés, à la constitution d'échantillons statistiquement représentatifs
+en vue de l'étude des situations et des parcours d'insertion des personnes physiques figurant dans ces échantillons.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°51-711 1951-06-07 art. 7 bis
+  - Loi n°78-17 du 6 janvier 1978 - art. 15 (M)
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+
+###### Article L262-52
+
+Pour l'application des articles L. 262-49 et L. 262-50, la Caisse nationale des allocations familiales et la Caisse centrale
+de mutualité sociale agricole consolident les données fournies par les organismes payeurs mentionnés à l'article L. 262-30.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L262-30 (M)
+  - Code de l'action sociale et des familles - art. L262-49 (M)
+  - Code de l'action sociale et des familles - art. L262-50 (V)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L262-53 (VT)
+  - Code de l'action sociale et des familles - art. R262-85 (VD)
+  - Code de la sécurité sociale. - art. L114-17 (VT)
+
+
+###### Article L262-53
+
+Le ministre chargé de l'action sociale transmet aux départements les résultats de l'exploitation des données recueillies en
+application des dispositions des articles L. 262-48 à L. 262-51 et en assure la publication régulière.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L542-6 (V)
+  - Code de l'action sociale et des familles - art. L549-1 (T)
+  - Code de l'action sociale et des familles - art. R262-71 (VT)
+  - Code de la sécurité sociale. - art. L114-17 (VD)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles L262-48 à L262-51
+
+
+###### Article L262-54
+
+L'inspection générale des affaires sociales est compétente pour contrôler l'application des dispositions du présent code et
+du code du travail relatives au revenu minimum d'insertion et au revenu minimum d'activité.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L549-1 (T)
+  - Code de l'action sociale et des familles - art. R262-81 (V)
+
+
+##### Section 7 : Dispositions communes<a id=94></a>
+
+###### Article L262-55
+
+Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D262-98 (V)
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. L262-48 (MMN)
+
+
+#### Chapitre III : Actions d'insertion<a id=95></a>
+
+##### Section 1 : Dispositif départemental d'insertion.<a id=96></a>
 
 ###### Article L263-1
 
-Le représentant de l'Etat dans le département et le président du conseil général conduisent ensemble l'action d'insertion
-sociale et professionnelle des bénéficiaires du revenu minimum d'insertion, avec le concours des autres collectivités
-territoriales et des autres personnes morales de droit public ou privé, notamment les associations, concourant à l'insertion
-et à la lutte contre la pauvreté et l'exclusion.
+Le président du conseil général conduit l'action d'insertion sociale et professionnelle des bénéficiaires du revenu minimum
+d'insertion. Il bénéficie à cette fin du concours de l'Etat, des autres collectivités territoriales, des organismes chargés
+de l'emploi et de la formation professionnelle et des autres personnes morales de droit public ou privé, notamment des
+associations, oeuvrant dans le domaine de l'insertion et de la lutte contre la pauvreté et l'exclusion.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14624,6 +15354,10 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 30 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cité par_:
 
   - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
@@ -14636,17 +15370,26 @@ _Cité par_:
 
 ###### Article L263-2
 
-Le conseil départemental d'insertion est coprésidé par le représentant de l'Etat dans le département et le président du
-conseil général ou leurs délégués. Les membres du conseil départemental d'insertion sont nommés conjointement par le
-président du conseil général et le représentant de l'Etat dans le département. Le conseil comprend notamment des
-représentants de la région, du département et des communes, des représentants d'institutions, d'entreprises, d'organismes ou
-d'associations intervenant dans le domaine économique et social ou en matière de formation professionnelle et des membres des
-commissions locales d'insertion.
+Un conseil départemental d'insertion, composé notamment de représentants des services de l'Etat, des collectivités
+territoriales, des organismes chargés de l'emploi et de la formation professionnelle et des autres personnes de droit public
+ou privé, notamment des associations, oeuvrant dans le domaine de l'insertion et de la lutte contre l'exclusion, est placé
+auprès du président du conseil général.
+
+Le conseil départemental d'insertion émet un avis sur le programme départemental d'insertion. Il est informé de son
+exécution.
+
+Le président du conseil général préside le conseil départemental d'insertion et arrête la liste de ses membres. Les membres
+mentionnés au premier alinéa sont désignés par les personnes morales qu'ils représentent.
 
 Le président de chaque commission locale d'insertion ou le représentant qu'il désigne est membre de droit du conseil
 départemental d'insertion.
 
 Le conseil est réuni au minimum deux fois par an.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14659,6 +15402,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 31 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -14678,20 +15425,19 @@ _Cité par_:
 
 ###### Article L263-3
 
-Le conseil départemental d'insertion élabore et adopte, avant le 31 mars, le programme départemental d'insertion de l'année
-en cours.
+Le programme départemental d'insertion recense les besoins de la population et l'offre locale d'insertion et planifie les
+actions d'insertion correspondantes.
 
-Avant le 31 décembre, le représentant de l'Etat dans le département et le président du conseil général transmettent au
-conseil départemental d'insertion, chacun en ce qui le concerne, les prévisions qu'ils ont établies pour l'insertion des
-bénéficiaires du revenu minimum d'insertion au titre de l'année suivante.
+Il est adopté chaque année par le conseil général, après avis du conseil départemental d'insertion, avant le 31 mars de
+l'année en cours.
 
-Au cours d'une réunion tenue six mois au plus tard après l'adoption du programme, le conseil départemental d'insertion en
-examine les conditions de mise en oeuvre et peut proposer des mesures d'adaptation susceptibles de le soutenir et de
-l'améliorer.
+Le président du conseil général met en oeuvre le programme départemental d'insertion soit directement, soit en passant
+convention avec les personnes publiques et les organismes mentionnés à l'article L. 263-1.
 
-Le conseil est tenu informé de l'avancement du programme départemental d'insertion, et de la conclusion et des conditions
-d'exécution des conventions mentionnées à l'article L. 263-7. Le représentant de l'Etat et le président du conseil général
-lui soumettent un rapport annuel, y compris financier, au plus tard quinze jours avant l'adoption du programme annuel.
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14704,6 +15450,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 32 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -14718,13 +15468,25 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L263-7 (Ab)
+  - Code de l'action sociale et des familles - art. L263-1 (M)
 
 
 ###### Article L263-4
 
-Le conseil départemental d'insertion examine les programmes locaux d'insertion, et propose le cas échéant d'affecter des
-moyens à leur exécution, dans les conditions prévues au deuxième alinéa de l'article L. 263-14.
+Le conseil général examine et approuve les programmes locaux d'insertion. Il affecte, le cas échéant, des moyens à leur
+exécution.
+
+Le département peut déléguer à une commune ou à un établissement public de coopération intercommunale compétent la mise en
+oeuvre de tout ou partie d'un programme local d'insertion. Une convention entre les parties fixe les modalités de cette
+délégation et du suivi de son exécution, en particulier quand les collectivités locales ou, par délégation, les
+établissements publics de coopération intercommunale exercent une compétence en matière d'insertion, de retour à l'emploi et
+de développement local en partenariat avec l'Etat et les autres collectivités locales, conseil régional et conseil général,
+au travers des plans locaux d'insertion et d'emploi et des maisons de l'emploi.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14738,9 +15500,9 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'action sociale et des familles - art. L263-14 (M)
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 33 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -14749,10 +15511,19 @@ _Cité par_:
 
 ###### Article L263-5
 
-Pour le financement des actions inscrites au programme départemental d'insertion et des dépenses de structure
-correspondantes, le département est tenu d'inscrire annuellement, dans un chapitre individualisé de son budget, un crédit au
-moins égal à 17 % des sommes versées, au cours de l'exercice précédent, par l'Etat dans le département au titre de
-l'allocation de revenu minimum d'insertion.
+Pendant une durée d'un an à compter de la date d'entrée en vigueur de la loi n° 2003-1200 du 18 décembre 2003 portant
+décentralisation en matière de revenu minimum d'insertion et créant un revenu minimum d'activité, pour le financement des
+actions inscrites au programme départemental d'insertion et des dépenses de structure correspondantes, le département est
+tenu d'inscrire, dans un chapitre individualisé de son budget, un crédit au moins égal à 17 % des sommes versées, au cours de
+l'exercice précédent, au titre de l'allocation de revenu minimum d'insertion.
+
+Les crédits inscrits au budget du département pour l'année 2003 n'ayant pas fait l'objet d'un engagement de dépenses,
+constaté au compte administratif, peuvent être, en tout ou partie, reportés sur les crédits de l'année 2004.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14766,6 +15537,14 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Cite_:
+
+  - Loi n°2003-1200 2003-12-18
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 34 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. L262-6 (Ab)
@@ -14778,158 +15557,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R263-1 (VT)
 
 
-###### Article L263-6
-
-Le département peut imputer sur les crédits d'insertion prévus à l'article L. 263-5, dans les conditions prévues à l'alinéa
-suivant, la contribution qu'il apporte au financement d'un poste de travail créé en application d'une convention mentionnée à
-l'article L. 322-4-18 du code du travail et occupé par un jeune, qui, à la date d'embauche, bénéficiait du revenu minimum
-d'insertion.
-
-Cette imputation est limitée à une durée d'un an à compter de la signature du contrat de travail conclu lors de la création
-du poste mentionné à l'alinéa précédent. Son montant ne peut excéder un cinquième de l'aide forfaitaire versée par l'Etat et
-mentionnée à l'article L. 332-4-19 du code du travail.
-
-Les engagements du département au titre du présent article sont inscrits au programme départemental d'insertion.
-
-Les modalités d'application du présent article sont fixées par décret.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1088 du 1 décembre 1988 - art. 38-1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Abrogé par_:
-
-  - Loi n°2003-1200 du 18 décembre 2003 - art. 34 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-
-_Cite_:
-
-  - Code du travail - art. L322-4-18 (AbD)
-  - Code du travail L322-4-18, L332-4-19
-  - Code de l'action sociale et des familles - art. L263-5 (M)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L522-9 (M)
-
-
-###### Article L263-7
-
-L'Etat et le département passent une convention définissant les conditions, notamment financières, de mise en oeuvre du
-programme départemental d'insertion. Cette convention peut être complétée par des conventions avec la région, les communes,
-les associations et les autres personnes morales de droit public ou privé concourant à l'insertion, à la formation
-professionnelle et à la lutte contre la pauvreté et l'exclusion. Les conventions précisent les objectifs et les moyens des
-dispositifs d'insertion financés ainsi que les modalités d'évaluation des résultats.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1088 du 1 décembre 1988 - art. 39 (P)
-  - Loi n°88-1088 du 1 décembre 1988 - art. 39 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Abrogé par_:
-
-  - Loi n°2003-1200 du 18 décembre 2003 - art. 34 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L263-3 (M)
-  - Code de l'action sociale et des familles - art. L263-9 (Ab)
-
-
-###### Article L263-8
-
-Lorsque le représentant de l'Etat dans le département et le président du conseil général ne parviennent pas à un accord pour
-exercer les compétences qui leur sont dévolues conjointement par la présente section ou lorsque le conseil départemental
-d'insertion n'a pas adopté le programme départemental d'insertion de l'année en cours avant le 31 mars, les décisions
-relevant de leurs compétences sont prises par arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'action
-sociale et du ministre chargé de l'emploi.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1088 du 1 décembre 1988 - art. 40 (P)
-  - Loi n°88-1088 du 1 décembre 1988 - art. 40 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Abrogé par_:
-
-  - Loi n°2003-1200 du 18 décembre 2003 - art. 34 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-
-
-###### Article L263-9
-
-Les crédits résultant de l'obligation prévue à l'article L. 263-5 sont engagés dans le cadre des conventions mentionnées à
-l'article L. 263-7.
-
-Le montant des crédits n'ayant pas fait l'objet d'un engagement de dépenses, constaté au compte administratif, est reporté
-intégralement sur les crédits de l'année suivante. Toutefois, le montant de ces crédits pour la partie qui dépasse 65 % de
-l'obligation prévue à l'article L. 263-5 est affecté par le représentant de l'Etat dans le département, après avis du conseil
-départemental d'insertion, à des actions d'insertion en faveur des bénéficiaires du revenu minimum d'insertion présentées par
-les communes. En l'absence de report ou de l'affectation de ces crédits, le représentant de l'Etat dans le département met en
-oeuvre la procédure prévue à l'article L. 232-22 du code des juridictions financières.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1088 du 1 décembre 1988 - art. 41 (P)
-  - Loi n°88-1088 du 1 décembre 1988 - art. 41 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Abrogé par_:
-
-  - Loi n°2003-1200 du 18 décembre 2003 - art. 34 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-
-_Cite_:
-
-  - Code des juridictions financières - art. L232-22 (Ab)
-  - Code de l'action sociale et des familles - art. L263-5 (M)
-  - Code de l'action sociale et des familles - art. L263-7 (Ab)
-
-
-##### Section 2 : Dispositif local d'insertion.<a id=95></a>
+##### Section 2 : Dispositif local d'insertion.<a id=97></a>
 
 ###### Article L263-10
 
@@ -14940,23 +15568,25 @@ ressort ;
 
 2° De recenser l'offre disponible d'insertion et d'évaluer les possibilités d'évolution et de diversification ;
 
-3° D'adresser des propositions au conseil départemental d'insertion en vue de l'élaboration par ce dernier du programme
-départemental d'insertion ;
+3° D'adresser des propositions au président du conseil général en vue de l'élaboration du programme départemental
+d'insertion ;
 
-4° D'élaborer un programme local d'insertion destiné à assurer l'offre d'insertion adaptée aux bénéficiaires du revenu
-minimum d'insertion ;
+4° De proposer au conseil général un programme local d'insertion ;
 
 5° D'animer la politique locale d'insertion ;
 
-6° D'approuver les contrats d'insertion prévus par l'article L. 262-37.
+6° De proposer les mesures propres à favoriser ou à conforter l'insertion ;
+
+7° De donner un avis sur les suspensions du versement de l'allocation envisagées au titre des articles L. 262-19, L. 262-21
+et L. 262-23.
 
 La commission locale d'insertion peut formuler des propositions relatives à l'ensemble de la lutte contre la pauvreté et
 l'exclusion et de l'action en faveur de l'insertion dans son ressort.
 
-Le nombre et le ressort des commissions locales d'insertion sont fixés conjointement par le représentant de l'Etat dans le
-département et le président du conseil général, après consultation des maires des communes chefs-lieux de canton, et après
-avis du conseil départemental d'insertion. Le ressort tient compte des limites d'agglomérations, le cas échéant des modalités
-de regroupement intercommunal existantes, ainsi que des bassins d'emploi et des données relatives à l'habitat.
+Le nombre et le ressort des commissions locales d'insertion sont fixés par le président du conseil général, après
+consultation des maires des communes chefs-lieux de canton, et après avis du conseil départemental d'insertion. Le ressort
+tient compte des limites d'agglomérations, le cas échéant des modalités de regroupement intercommunal existantes, ainsi que
+des bassins d'emploi et des données relatives à l'habitat.
 
 **Nota:**
 
@@ -14973,6 +15603,10 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 35 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. L262-19 (VT)
@@ -14985,28 +15619,24 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L262-37 (M)
+  - Code de l'action sociale et des familles - art. L262-21 (M)
+  - Code de l'action sociale et des familles - art. L262-23 (M)
 
 
 ###### Article L263-11
 
-La commission locale d'insertion comprend :
+La commission locale d'insertion comprend notamment des représentants des services de l'Etat, des communes et des
+établissements publics de coopération intercommunale compétents situés dans le ressort de la commission, des organismes
+chargés de l'emploi et de la formation professionnelle et des personnes de droit public ou privé oeuvrant dans le domaine de
+l'insertion et de la lutte contre la pauvreté et l'exclusion.
 
-- en nombre égal, des représentants des services de l'Etat désignés par le représentant de l'Etat dans le département, dont
-au moins un au titre du service public de l'emploi, et des représentants du conseil général désignés par le président du
-conseil général, dont au moins un conseiller général élu dans le ressort de la commission ;
-
-- des représentants des communes du ressort de la commission, dont au moins un de la commune siège, nommés conjointement par
-le représentant de l'Etat dans le département et le président du conseil général, sur proposition des maires des communes
-concernées ;
-
-- des représentants du système éducatif, d'institutions, d'entreprises, d'organismes ou d'associations intervenant dans le
-domaine économique et social ou en matière de formation professionnelle, nommés conjointement par le représentant de l'Etat
-dans le département et par le président du conseil général.
+Le président du conseil général arrête la liste des membres de la commission, désignés le cas échéant par la collectivité ou
+la personne morale qu'ils représentent, et en désigne le président.
 
 **Nota:**
 
-Code de l'action sociale et des familles L522-7 : le présent article n'est pas applicable dans les départements d'outre-mer.
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -15021,42 +15651,22 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
 
-###### Article L263-12
-
-Le représentant de l'Etat et le président du conseil général, conjointement, arrêtent la liste des membres de la commission
-locale d'insertion et désignent son président. Les modalités d'établissement de la liste sont fixées par voie réglementaire.
-
-**Nota:**
-
-Code de l'action sociale et des familles L522-7 : le présent article n'est pas applicable dans les départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1088 1988-12-01 art. 42-2 al. 5
-  - Loi n°88-1088 du 1 décembre 1988 - art. 42-2 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 36 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Abrogé par_:
 
-  - Loi n°2003-1200 du 18 décembre 2003 - art. 37 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Loi n°2008-1249 du 1er décembre 2008 - art. 15
 
 
 ###### Article L263-13
 
-Le bureau de la commission locale d'insertion est composé du président de la commission, d'un représentant de l'Etat, d'un
-représentant du conseil général, du maire de la commune siège et de trois membres désignés par la commission, dont au moins
-un représentant des associations concourant à l'insertion et à la lutte contre la pauvreté et l'exclusion.
+La commission locale d'insertion peut constituer un bureau en son sein.
 
 Le bureau prépare les dossiers soumis à la commission, notamment le programme local d'insertion.
 
-Le bureau peut, par délégation de la commission, approuver les contrats d'insertion.
+Le bureau peut, par délégation de la commission, émettre l'avis mentionné aux articles L. 262-19, L. 262-21 et L. 262-23.
 
 **Nota:**
 
@@ -15075,15 +15685,31 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 38 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Abrogé par_:
+
+  - Loi n°2008-1249 du 1er décembre 2008 - art. 15
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L262-19
+  - Code de l'action sociale et des familles - art. L262-21
+  - Code de l'action sociale et des familles - art. L262-23
+
 
 ###### Article L263-14
 
 Le programme local d'insertion définit les orientations et prévoit les actions d'insertion. Il recense les moyens
-correspondants.
+correspondants. Il est transmis par la commission locale d'insertion au conseil général qui en vérifie la conformité avec le
+programme départemental d'insertion.
 
-Après son adoption, la commission locale d'insertion transmet le programme local d'insertion au conseil départemental
-d'insertion qui en vérifie la cohérence avec le programme départemental d'insertion ; le conseil départemental prévoit, s'il
-y a lieu, les moyens à affecter à l'exécution du programme local d'insertion.
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -15096,12 +15722,20 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 39 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Abrogé par_:
+
+  - Loi n°2008-1249 du 1er décembre 2008 - art. 15
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. L263-4 (M)
 
 
-##### Section 4 : Fonds d'aide aux jeunes en difficulté.<a id=96></a>
+##### Section 4 : Fonds d'aide aux jeunes en difficulté.<a id=98></a>
 
 ###### Article L263-15
 
@@ -15159,7 +15793,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R263-9 (Ab)
 
 
-##### Section 5 : Personnes bénéficiaires de l'allocation de parent isolé.<a id=97></a>
+##### Section 5 : Personnes bénéficiaires de l'allocation de parent isolé.<a id=99></a>
 
 ###### Article L263-18
 
@@ -15221,13 +15855,13 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L263-5 (VD)
 
 
-## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services<a id=98></a>
+## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services<a id=100></a>
 
-### Titre Ier : Etablissements et services soumis à autorisation<a id=99></a>
+### Titre Ier : Etablissements et services soumis à autorisation<a id=101></a>
 
-#### Chapitre Ier : Dispositions générales<a id=100></a>
+#### Chapitre Ier : Dispositions générales<a id=102></a>
 
-##### Section 1 : Missions<a id=101></a>
+##### Section 1 : Missions<a id=103></a>
 
 ###### Article L311-1
 
@@ -15329,7 +15963,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L315-4 (M)
 
 
-##### Section 2 : Droits des usagers<a id=102></a>
+##### Section 2 : Droits des usagers<a id=104></a>
 
 ###### Article L311-3
 
@@ -15743,9 +16377,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-#### Chapitre II : Organisation de l'action sociale et médico-sociale<a id=103></a>
+#### Chapitre II : Organisation de l'action sociale et médico-sociale<a id=105></a>
 
-##### Section 1 : Etablissements et services sociaux et médico-sociaux<a id=104></a>
+##### Section 1 : Etablissements et services sociaux et médico-sociaux<a id=106></a>
 
 ###### Article L312-1
 
@@ -16701,7 +17335,7 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°2003-1010 du 22 octobre 2003 - art. 99 (Ab)
 
 
-##### Section 2 : Organismes consultatifs<a id=105></a>
+##### Section 2 : Organismes consultatifs<a id=107></a>
 
 ###### Article L312-3
 
@@ -16797,7 +17431,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D412-79 (V)
 
 
-##### Section 3 : Schémas d'organisation sociale et médico-sociale<a id=106></a>
+##### Section 3 : Schémas d'organisation sociale et médico-sociale<a id=108></a>
 
 ###### Article L312-4
 
@@ -16998,7 +17632,7 @@ _Modifié par_:
   - Ordonnance n°2003-850 du 4 septembre 2003 - art. 29 () JORF 6 septembre 2003
 
 
-##### Section 4 : Coordination des interventions<a id=107></a>
+##### Section 4 : Coordination des interventions<a id=109></a>
 
 ###### Article L312-6
 
@@ -17138,7 +17772,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Section 5 : Evaluation et systèmes d'information<a id=108></a>
+##### Section 5 : Evaluation et systèmes d'information<a id=110></a>
 
 ###### Article L312-8
 
@@ -17317,9 +17951,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-#### Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux<a id=109></a>
+#### Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux<a id=111></a>
 
-##### Section 1 : Autorisations<a id=110></a>
+##### Section 1 : Autorisations<a id=112></a>
 
 ###### Article L313-1
 
@@ -18088,7 +18722,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-8 (M)
 
 
-##### Section 2 : Habilitation à recevoir des mineurs confiés par l'autorité judiciaire<a id=111></a>
+##### Section 2 : Habilitation à recevoir des mineurs confiés par l'autorité judiciaire<a id=113></a>
 
 ###### Article L313-10
 
@@ -18132,7 +18766,7 @@ _Modifié par_:
   - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 
-##### Section 3 : Contrats ou conventions pluriannuels<a id=112></a>
+##### Section 3 : Contrats ou conventions pluriannuels<a id=114></a>
 
 ###### Article L313-11
 
@@ -18481,7 +19115,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L633-1 (M)
 
 
-##### Section 4 : Contrôle<a id=113></a>
+##### Section 4 : Contrôle<a id=115></a>
 
 ###### Article L313-13
 
@@ -18840,7 +19474,7 @@ _Cite_:
   - Code de l'action sociale et des familles L313-3, L133-2, 312-1
 
 
-##### Section 5 : Dispositions pénales<a id=114></a>
+##### Section 5 : Dispositions pénales<a id=116></a>
 
 ###### Article L313-21
 
@@ -18955,7 +19589,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-12 (M)
 
 
-##### Section 6 : Dispositions communes<a id=115></a>
+##### Section 6 : Dispositions communes<a id=117></a>
 
 ###### Article L313-24
 
@@ -19023,9 +19657,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-61 (V)
 
 
-#### Chapitre IV : Dispositions financières<a id=116></a>
+#### Chapitre IV : Dispositions financières<a id=118></a>
 
-##### Section 1 : Règles de compétences en matière tarifaire<a id=117></a>
+##### Section 1 : Règles de compétences en matière tarifaire<a id=119></a>
 
 ###### Article L314-1
 
@@ -19198,7 +19832,7 @@ _Cite_:
   - Code de l'action sociale et des familles L313-12, L232-2, L314-3, L342-1, L342-2 à L342-6
 
 
-##### Section 2 : Règles budgétaires et de financement<a id=118></a>
+##### Section 2 : Règles budgétaires et de financement<a id=120></a>
 
 ###### Article L314-3
 
@@ -19751,7 +20385,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L351-1 (M)
 
 
-##### Section 3 : Dispositions diverses<a id=119></a>
+##### Section 3 : Dispositions diverses<a id=121></a>
 
 ###### Article L314-10
 
@@ -19883,9 +20517,9 @@ _Modifié par_:
   - Loi n°2002-2 du 2 janvier 2002 - art. 58 () JORF 3 janvier 2002
 
 
-#### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public<a id=120></a>
+#### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public<a id=122></a>
 
-##### Section 1 : Dispositions générales<a id=121></a>
+##### Section 1 : Dispositions générales<a id=123></a>
 
 ###### Article L315-1
 
@@ -20241,7 +20875,7 @@ _Modifié par_:
   - Loi n°2002-2 du 2 janvier 2002 - art. 64 () JORF 3 janvier 2002
 
 
-##### Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique<a id=122></a>
+##### Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique<a id=124></a>
 
 ###### Article L315-9
 
@@ -20802,9 +21436,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1618-2 (V)
 
 
-### Titre II : Etablissements soumis à déclaration<a id=123></a>
+### Titre II : Etablissements soumis à déclaration<a id=125></a>
 
-#### Chapitre Ier : Accueil de mineurs.<a id=124></a>
+#### Chapitre Ier : Accueil de mineurs.<a id=126></a>
 
 ###### Article L321-1
 
@@ -20995,7 +21629,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 99 (Ab)
 
 
-#### Chapitre II : Accueil d'adultes.<a id=125></a>
+#### Chapitre II : Accueil d'adultes.<a id=127></a>
 
 ###### Article L322-1
 
@@ -21344,9 +21978,9 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 203 (Ab)
 
 
-### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration<a id=126></a>
+### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration<a id=128></a>
 
-#### Chapitre unique.<a id=127></a>
+#### Chapitre unique.<a id=129></a>
 
 ###### Article L331-1
 
@@ -21701,9 +22335,9 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 215 (Ab)
 
 
-### Titre IV : Dispositions spécifiques à certaines catégories d'établissements<a id=128></a>
+### Titre IV : Dispositions spécifiques à certaines catégories d'établissements<a id=130></a>
 
-#### Chapitre II : Hébergement de personnes âgées.<a id=129></a>
+#### Chapitre II : Hébergement de personnes âgées.<a id=131></a>
 
 ###### Article L342-1
 
@@ -22015,7 +22649,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. Annexe 3-3 (Ab)
 
 
-#### Chapitre III : Centres d'action médico-sociale précoce.<a id=130></a>
+#### Chapitre III : Centres d'action médico-sociale précoce.<a id=132></a>
 
 ###### Article L343-1
 
@@ -22093,7 +22727,7 @@ _Cite_:
   - Code de la santé publique - art. L2132-4
 
 
-#### Chapitre IV : Centres pour handicapés adultes.<a id=131></a>
+#### Chapitre IV : Centres pour handicapés adultes.<a id=133></a>
 
 ###### Article L344-1
 
@@ -22399,7 +23033,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L344-1 (V)
 
 
-#### Chapitre V : Centres d'hébergement et de réinsertion sociale.<a id=132></a>
+#### Chapitre V : Centres d'hébergement et de réinsertion sociale.<a id=134></a>
 
 ###### Article L345-1
 
@@ -22616,7 +23250,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L301-5-1 (V)
 
 
-#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=133></a>
+#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=135></a>
 
 ###### Article L346-1
 
@@ -22669,9 +23303,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L345-1 (M)
 
 
-### Titre V : Contentieux de la tarification sanitaire et sociale<a id=134></a>
+### Titre V : Contentieux de la tarification sanitaire et sociale<a id=136></a>
 
-#### Chapitre unique.<a id=135></a>
+#### Chapitre unique.<a id=137></a>
 
 ###### Article L351-1
 
@@ -22966,11 +23600,11 @@ _Créé par_:
   - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
 
 
-## Livre IV : Professions et activités d'accueil<a id=136></a>
+## Livre IV : Professions et activités d'accueil<a id=138></a>
 
-### Titre Ier : Assistants de service social<a id=137></a>
+### Titre Ier : Assistants de service social<a id=139></a>
 
-#### Chapitre unique.<a id=138></a>
+#### Chapitre unique.<a id=140></a>
 
 ###### Article L411-1
 
@@ -23199,9 +23833,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L411-1 (M)
 
 
-### Titre II : Assistants maternels et assistants familiaux<a id=139></a>
+### Titre II : Assistants maternels et assistants familiaux<a id=141></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=140></a>
+#### Chapitre Ier : Dispositions générales.<a id=142></a>
 
 ###### Article L421-1
 
@@ -23765,7 +24399,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L421-2 (T)
 
 
-#### Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public.<a id=141></a>
+#### Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public.<a id=143></a>
 
 ###### Article L422-1
 
@@ -23966,9 +24600,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L422-3 (M)
 
 
-### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=142></a>
+### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=144></a>
 
-#### Chapitre Ier : Accueillants familiaux et modalités d'agrément.<a id=143></a>
+#### Chapitre Ier : Accueillants familiaux et modalités d'agrément.<a id=145></a>
 
 ###### Article L441-1
 
@@ -24175,7 +24809,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L544-4 (VD)
 
 
-#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial.<a id=144></a>
+#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial.<a id=146></a>
 
 ###### Article L442-1
 
@@ -24277,7 +24911,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L351-2 (V)
 
 
-#### Chapitre III : Dispositions communes.<a id=145></a>
+#### Chapitre III : Dispositions communes.<a id=147></a>
 
 ###### Article L443-2
 
@@ -24607,9 +25241,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-### Titre V : Formation des travailleurs sociaux<a id=146></a>
+### Titre V : Formation des travailleurs sociaux<a id=148></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=147></a>
+#### Chapitre Ier : Dispositions générales.<a id=149></a>
 
 ###### Article L451-1
 
@@ -24802,11 +25436,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L451-1 (V)
 
 
-## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=148></a>
+## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=150></a>
 
-### Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=149></a>
+### Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=151></a>
 
-#### Chapitre Ier : Aide sociale communale<a id=150></a>
+#### Chapitre Ier : Aide sociale communale<a id=152></a>
 
 ###### Article L511-1
 
@@ -25017,7 +25651,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L511-1 (V)
 
 
-#### Chapitre II : Revenu minimum d'insertion.<a id=151></a>
+#### Chapitre II : Revenu minimum d'insertion.<a id=153></a>
 
 ###### Article L512-1
 
@@ -25058,9 +25692,9 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-### Titre II : Départements d'outre-mer<a id=152></a>
+### Titre II : Départements d'outre-mer<a id=154></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=153></a>
+#### Chapitre Ier : Dispositions générales.<a id=155></a>
 
 ###### Article L521-1
 
@@ -25098,20 +25732,26 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre II : Revenu minimum d'insertion.<a id=154></a>
+#### Chapitre II : Revenu minimum d'insertion.<a id=156></a>
 
 ###### Article L522-1
 
 Dans chaque département d'outre-mer, une agence d'insertion, établissement public départemental à caractère administratif,
 élabore et met en oeuvre le programme départemental d'insertion prévu à l'article L. 263-3.
 
-Elle détermine le montant de sa participation à la réalisation de logements sociaux pour les bénéficiaires du revenu minimum
-d'insertion en complément de la part de crédits d'insertion affectés par l'Etat à la réalisation de cette action.
-
 Elle établit le programme annuel de tâches d'utilité sociale offertes aux bénéficiaires du revenu minimum d'insertion dans
 les conditions prévues à l'article L. 522-8.
 
 L'agence se substitue au conseil départemental d'insertion.
+
+Les compétences relatives aux décisions individuelles concernant l'allocation de revenu minimum d'insertion dévolues au
+département par le chapitre II du titre VI du livre II sont exercées, dans les départements d'outre-mer, par l'agence
+départementale d'insertion.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -25124,6 +25764,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -25147,21 +25791,12 @@ _Cite_:
 ###### Article L522-2
 
 L'agence d'insertion est administrée par un conseil d'administration présidé par le président du conseil général. Le
-président du conseil d'administration a autorité sur les personnels de l'agence.
+président du conseil d'administration a autorité sur les personnels de l'agence. Il est ordonnateur des recettes et des
+dépenses de l'agence.
 
-Le représentant de l'Etat dans le département exerce la fonction de commissaire du Gouvernement auprès de l'agence. A ce
-titre, il peut se faire communiquer tous les actes et documents relatifs à l'organisation et au fonctionnement de l'agence.
-Il assiste ou se fait représenter au conseil d'administration, sans prendre part au vote. Il peut demander, dans un délai de
-quinze jours après réception du procès-verbal du conseil d'administration, une nouvelle délibération des décisions prises par
-ce conseil d'administration. Passé ce délai, les délibérations deviennent exécutoires dans les conditions prévues à l'article
-L. 522-10.
+**Nota:**
 
-Lorsque le représentant de l'Etat dans le département, commissaire du Gouvernement, exerce, en l'ayant motivé, son droit de
-demander une nouvelle délibération, celle-ci ne peut lui être refusée ; sa demande suspend la délibération jusqu'à ce que le
-conseil se prononce à nouveau.
 
-L'intervention du représentant de l'Etat dans le département en qualité de commissaire du Gouvernement s'effectue sans
-préjudice du contrôle qui lui incombe en vertu de l'article L. 522-10.
 
 **Liens relatifs à cet article**
 
@@ -25175,25 +25810,35 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'action sociale et des familles - art. L522-10 (V)
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L522-3
 
-Le conseil d'administration comprend en nombre égal :
+Le conseil d'administration comprend :
 
-1° Des représentants de la région, du département, dont le président du conseil général et des représentants des communes ou
-des établissements publics de coopération intercommunale ;
+1° Des représentants des services de l'Etat dans le département ;
 
-2° Des représentants des services de l'Etat dans le département ;
+2° Des représentants du département ;
 
-3° Des personnalités qualifiées choisies au sein d'associations ou d'institutions intervenant dans le domaine de l'insertion
-et de la lutte contre le chômage, nommées en nombre égal par le représentant de l'Etat dans le département et le président du
-conseil général.
+3° Des représentants de la région et des communes ou des établissements publics de coopération intercommunale ;
 
-Le conseil d'administration comprend en outre un représentant du personnel avec voix consultative.
+4° Des personnalités qualifiées choisies au sein d'associations ou d'institutions intervenant dans le domaine de l'insertion
+sociale et professionnelle.
+
+Les représentants du département constituent la majorité des membres.
+
+Le conseil d'administration comprend, en outre, un représentant du personnel avec voix consultative.
+
+Le président du conseil général arrête la liste des membres du conseil d'administration, désignés le cas échéant par la
+collectivité ou la personne morale qu'ils représentent.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -25206,6 +25851,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L522-4
@@ -25245,26 +25894,29 @@ _Cité par_:
 
 ###### Article L522-5
 
-L'agence d'insertion est dirigée par un directeur nommé par arrêté des ministres chargés des affaires sociales et de l'outre-
-mer sur proposition du président du conseil général.
+L'agence d'insertion est dirigée par un directeur nommé par arrêté du président du conseil général. 
 
 Le directeur est recruté sur un emploi contractuel soit par voie de détachement de la fonction publique de l'Etat ou de la
 fonction publique territoriale, soit directement par contrat à durée déterminée d'une durée de trois ans renouvelable par
 expresse reconduction, sous réserve de détenir un niveau de formation et de qualification équivalant à celui des agents de
 catégorie A des fonctions publiques précitées. Le directeur est régi dans son emploi par les dispositions des deuxième et
 quatrième alinéas de l'article 136 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la
-fonction publique territoriale. Il prépare et exécute les délibérations du conseil d'administration. Il est ordonnateur des
-dépenses et des recettes de l'agence. Il passe les marchés au nom de l'établissement et reçoit en son nom les dons, legs et
-subventions. Il dirige les services de l'agence et peut recevoir par arrêté délégation du président du conseil
-d'administration pour l'ensemble des actes relatifs au personnel de l'agence. Il tient la comptabilité de l'engagement des
-dépenses dans les conditions prévues à l'article L. 3341-1 du code général des collectivités territoriales.
+fonction publique territoriale. Il prépare et exécute les délibérations du conseil d'administration. Il passe les marchés au
+nom de l'établissement et reçoit en son nom les dons, legs et subventions. Il dirige les services de l'agence et peut
+recevoir par arrêté délégation du président du conseil d'administration pour l'ensemble des actes relatifs au personnel de
+l'agence. Il tient la comptabilité de l'engagement des dépenses dans les conditions prévues à l'article L. 3341-1 du code
+général des collectivités territoriales.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°84-53 1984-01-26 art. 136
-  - Code général des collectivités territoriales - art. L3341-1 (V)
+  - Loi n°84-53 du 26 janvier 1984 - art. 136 (V)
+  - Code général des collectivités territoriales - art. L3341-1 (VT)
 
 _Anciens textes_:
 
@@ -25273,8 +25925,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L522-6
@@ -25282,11 +25937,15 @@ _Codifié par_:
 Un comité d'orientation, placé auprès du directeur, est consulté sur l'élaboration du programme départemental d'insertion et
 du programme annuel de tâches d'utilité sociale.
 
-Le comité d'orientation est composé, d'une part, des présidents des commissions locales d'insertion ou leurs représentants,
-d'autre part, de représentants des organisations syndicales représentatives des employeurs et des salariés, désignés
-conjointement par le représentant de l'Etat dans le département et le président du conseil général sur proposition de ces
-organisations, et de représentants d'institutions, d'organismes ou d'associations intervenant dans le domaine économique et
-social.
+Le comité d'orientation est composé de représentants des organisations syndicales représentatives des employeurs et des
+salariés, désignés par le président du conseil général sur proposition de ces organisations et de représentants
+d'institutions, d'organismes ou d'associations intervenant dans le domaine économique et social ou en matière de formation
+professionnelle.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -25299,6 +25958,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L522-7
@@ -25400,22 +26063,23 @@ _Codifié par_:
 
 ###### Article L522-9
 
-L'agence reçoit la contribution de l'Etat au financement des actions d'insertion, à l'exception de la part affectée par
-celui-ci au financement du logement social.
+L'agence reçoit la contribution du département au financement des actions d'insertion mentionnée à l'article L. 522-15.
 
-Elle reçoit également du département le crédit prévu à l'article L. 263-5 dans des conditions fixées par voie réglementaire.
-
-Ce crédit se calcule sous déduction, le cas échéant et dans les limites prévues audit article, des sommes effectivement
-consacrées par le département aux dépenses résultant de la prise en charge de la participation de l'assuré allocataire du
-revenu minimum d'insertion aux tarifs servant de base au calcul des prestations de sécurité sociale.
-
-Ce crédit est également diminué des sommes imputables sur les crédits d'insertion prévus à l'article L. 263-5 au titre de
-l'article L. 263-6 et dans des conditions définies par ce même article, selon des modalités fixées par décret.
+Pendant une durée d'un an à compter de la date d'entrée en vigueur de la loi n° 2003-1200 du 18 décembre 2003  portant
+décentralisation en matière de revenu minimum d'insertion et créant un revenu minimum d'activité, un volume de crédits au
+moins égal à 16,25 % des sommes versées au cours de l'exercice précédent au titre de l'allocation de revenu minimum
+d'insertion doit être consacré à l'insertion des bénéficiaires de cette allocation et à l'accompagnement des bénéficiaires du
+contrat insertion-revenu minimum d'activité.
 
 Les ressources de chaque agence comprennent également la participation financière de l'Etat aux contrats d'insertion par
 l'activité, déterminée dans des conditions définies par voie réglementaire ainsi que celle des collectivités, personnes ou
 organismes mentionnés au premier alinéa de l'article L. 322-4-7 du code du travail, les revenus des immeubles, les dons et
 legs, les subventions et toutes les ressources autorisées par la loi et les règlements en vigueur.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -25431,9 +26095,13 @@ _Codifié par_:
 
 _Cite_:
 
+  - Loi n°2003-1200 2003-12-18
   - Code du travail - art. L322-4-7 (M)
-  - Code de l'action sociale et des familles - art. L263-5 (M)
-  - Code de l'action sociale et des familles - art. L263-6 (Ab)
+  - Code de l'action sociale et des familles - art. L522-15 (M)
+
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L522-10
@@ -25473,14 +26141,19 @@ _Cité par_:
 
 Par dérogation aux articles L. 262-14 à L. 262-17, dans les départements d'outre-mer, la demande d'allocation du revenu
 d'insertion est déposée auprès de la caisse d'allocations familiales ou d'un organisme sans but lucratif agréé par le
-représentant de l'Etat dans des conditions fixées par décret.
+président du conseil général dans des conditions fixées par décret.
 
-La caisse ou l'organisme assure l'instruction administrative du dossier pour le compte de l'Etat.
+La caisse ou l'organisme assure l'instruction administrative du dossier pour le compte du département.
 
 L'instruction sociale du dossier est effectuée par l'agence d'insertion, saisie sans délai de toute ouverture de droit.
 L'agence assume également la responsabilité de l'élaboration du contrat d'insertion mentionné à l'article L. 262-37 et en
 suit la mise en oeuvre. Elle peut conventionner à cet effet des organismes investis d'une mission de service public ou sans
 but lucratif.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -25499,56 +26172,20 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L262-37 (M)
   - Code de l'action sociale et des familles L262-14 à L262-17, L262-37
 
 
-###### Article L522-12
-
-Dès le dépôt de la demande, l'intéressé est informé, par la caisse ou l'organisme mentionné au premier alinéa de l'article L.
-522-11, de la démarche d'insertion dans laquelle il a l'obligation de s'engager aux termes de l'article L. 262-1, des
-conditions de suspension ou de radiation du revenu minimum d'insertion, ainsi que des sanctions pénales, en cas de manquement
-à ses obligations ou de fraude.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1088 du 1 décembre 1988 - art. 42-12 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Cité par_:
-
-  - Décret n°2001-1171 du 10 décembre 2001 - art. 3 (Ab)
-  - Code de l'action sociale et des familles - art. L531-5-1 (V)
-  - Code de l'action sociale et des familles - art. L581-9 (V)
-  - Code de l'action sociale et des familles - art. R522-6 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L262-1 (V)
-  - Code de l'action sociale et des familles - art. L522-11 (M)
-
-
 ###### Article L522-13
 
-Par dérogation aux articles L. 262-19 à L. 262-21, le représentant de l'Etat suspend le versement de l'allocation dans les
-cas suivants :
+Par dérogation aux articles L. 262-19 et L. 262-21, l'agence d'insertion suspend le versement de l'allocation dans les cas
+suivants :
 
 a) Lorsque l'intéressé ne s'engage pas dans la démarche d'insertion, notamment en vue de signer le contrat d'insertion, ou
 son renouvellement, ou encore ne s'engage pas dans sa mise en oeuvre ; l'absence à deux convocations consécutives sans motif
@@ -25557,13 +26194,18 @@ grave entraîne la suspension de l'allocation ;
 b) Lorsque des éléments ou informations font apparaître que les revenus déclarés sont inexacts ou que l'intéressé exerce une
 activité professionnelle.
 
-Lorsque l'allocation est suspendue, le représentant de l'Etat fait convoquer l'intéressé en vue d'un entretien dans un délai
+Lorsque l'allocation est suspendue, l'agence d'insertion fait convoquer l'intéressé en vue d'un entretien dans un délai
 maximum de deux mois à compter de la suspension. Celui-ci peut se faire assister par la personne de son choix.
 
-A l'issue de cet entretien, le représentant de l'Etat peut soit lever la suspension, soit la maintenir, soit mettre fin au
-droit au versement de l'allocation.
+A l'issue de cet entretien, l'agence d'insertion peut soit lever la suspension, soit la maintenir, soit mettre fin au droit
+au versement de l'allocation.
 
 La suspension est levée lorsqu'un contrat d'insertion est effectivement mis en oeuvre.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -25583,6 +26225,10 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cite_:
 
   - Code de l'action sociale et des familles L262-19 à L262-21
@@ -25590,18 +26236,20 @@ _Cite_:
 
 ###### Article L522-14
 
-Par convention entre l'Etat et le conseil général est mis en place à compter du 1er janvier 2001 un revenu de solidarité en
-faveur des bénéficiaires du revenu minimum d'insertion âgés d'au moins cinquante ans qui s'engagent à quitter définitivement
-le marché du travail et de l'insertion après avoir été depuis deux ans au moins bénéficiaires du revenu minimum d'insertion.
+Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, un revenu de solidarité est versé aux bénéficiaires du
+revenu minimum d'insertion âgés d'au moins cinquante ans qui s'engagent à quitter définitivement le marché du travail et de
+l'insertion après avoir été depuis deux ans au moins bénéficiaires du revenu minimum d'insertion.
 
 Le montant du revenu de solidarité est fixé par décret.
 
 Le revenu de solidarité est versé à un seul membre du foyer, et jusqu'à ce que l'intéressé bénéficie d'une retraite à taux
 plein, et au plus tard à soixante-cinq ans.
 
-Le financement du revenu de solidarité est assuré par l'Etat, qui participe à hauteur de l'allocation moyenne versée dans les
-départements d'outre-mer au titre du revenu minimum d'insertion, et par le conseil général concerné pour le complément. Les
-dépenses du conseil général sont prélevées sur le crédit prévu à l'article L. 522-15.
+Le financement du revenu de solidarité est assuré par le département.
+
+Le conseil général peut modifier, en fonction de l'évolution du marché du travail dans le département ou la collectivité
+territoriale, les conditions d'accès à l'allocation relatives à l'âge du bénéficiaire et à la durée de perception du revenu
+minimum d'insertion, sous réserve des dispositions prévues au premier alinéa.
 
 Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application du présent article.
 
@@ -25639,6 +26287,10 @@ _Cité par_:
   - TXT_SOURCE: Décret n°2001-501 du 11 juin 2001
   - TXT_SOURCE: Décret n°2001-501 du 11 juin 2001 - art. 1 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 51 (V) JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L522-15 (M)
@@ -25646,10 +26298,14 @@ _Cite_:
 
 ###### Article L522-15
 
-Par dérogation aux dispositions de l'article L. 263-5, pour le financement des actions inscrites au programme départemental
-d'insertion et des dépenses de structure correspondantes, le département est tenu d'inscrire annuellement, dans un chapitre
-individualisé de son budget, un crédit au moins égal à 16,25 % des sommes versées, au cours de l'exercice précédent, par
-l'Etat dans le département au titre de l'allocation de revenu minimum d'insertion.
+Une convention entre le département et l'agence d'insertion détermine le montant et les modalités de versement de la
+contribution de celui-ci au budget de l'agence. Cette contribution est déterminée au vu des actions inscrites au programme
+départemental d'insertion et des dépenses de structure correspondantes.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -25670,9 +26326,9 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'action sociale et des familles - art. L263-5 (M)
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L522-16
@@ -25723,8 +26379,12 @@ départements afin d'améliorer :
 l'allocation de revenu minimum d'insertion notamment en ce qui concerne les personnes non salariées des professions
 agricoles ;
 
-2° Les règles relatives aux modalités de calcul, de déconcentration, de gestion et d'affectation de la participation
-financière de l'Etat qui s'ajoute à la participation financière des départements, prévue à l'article L. 263-5.
+2° Alinéa abrogé.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -25741,14 +26401,55 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+
+###### Article L522-18
+
+Pour l'application des articles L. 322-4-15-1, L. 322-4-15-4, L. 322-4-15-5, L. 322-4-15-6, L. 322-4-15-8 et L. 322-4-15-9 du
+code du travail, les attributions du département sont exercées, dans les départements d'outre-mer, par l'agence d'insertion.
+
+L'agence d'insertion reçoit du département les crédits nécessaires à la mise en oeuvre de ces attributions, selon une
+convention qui détermine leur montant et les modalités de leur versement à l'établissement.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°95-710 du 9 mai 1995 - art. 14 (Ab)
+  - Décret n°95-710 du 9 mai 1995 - art. 29 (Ab)
+  - Code de l'action sociale et des familles - art. R522-20 (V)
+  - Code de l'action sociale et des familles - art. R522-34 (VD)
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 du 18 décembre 2003 - art. 46 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L263-5 (M)
+  - Code du travail - art. L322-4-15-1 (M)
+  - Code du travail - art. L322-4-15-4 (M)
+  - Code du travail - art. L322-4-15-5 (M)
+  - Code du travail - art. L322-4-15-6 (M)
+  - Code du travail - art. L322-4-15-8 (AbD)
+  - Code du travail - art. L322-4-15-9 (M)
 
 
-#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=155></a>
+#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=157></a>
 
-##### Section unique : Service d'accueil téléphonique.<a id=156></a>
+##### Section unique : Service d'accueil téléphonique.<a id=158></a>
 
 ###### Article L523-1
 
@@ -25802,9 +26503,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L226-10 (V)
 
 
-### Titre III : Saint-Pierre-et-Miquelon<a id=157></a>
+### Titre III : Saint-Pierre-et-Miquelon<a id=159></a>
 
-#### Chapitre unique : Dispositions générales.<a id=158></a>
+#### Chapitre unique : Dispositions générales.<a id=160></a>
 
 ###### Article L531-1
 
@@ -25842,8 +26543,12 @@ _Cite_:
 ###### Article L531-2
 
 En matière d'aide médicale, les dispositions législatives applicables à Saint-Pierre-et-Miquelon antérieurement au présent
-code demeurent en vigueur. La contribution de la collectivité territoriale aux dépenses d'insertion mentionnées à l'article
-L. 263-5 demeure fixée à 20 %.
+code demeurent en vigueur.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -25856,6 +26561,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Loi n°2003-1200 2003-12-18 art. 41 1° JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cite_:
 
@@ -25946,6 +26655,49 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
+###### Article L531-5-1
+
+A Saint-Pierre-et-Miquelon, une commission territoriale d'insertion se substitue au conseil départemental d'insertion
+mentionné à l'article L. 263-2 et à la commission locale d'insertion prévue à l'article L. 263-10, et se voit confier les
+missions qui leur sont dévolues.
+
+La commission territoriale d'insertion élabore et adopte un programme territorial d'insertion. Ce programme recense les
+besoins et l'offre locale d'insertion et planifie les actions d'insertion correspondantes.
+
+La commission territoriale d'insertion comprend notamment des représentants des services de l'Etat, des représentants de la
+collectivité, des représentants des communes et des représentants d'institutions, d'entreprises, d'organismes ou
+d'associations intervenant dans le domaine économique et social ou en matière de formation professionnelle. Le président du
+conseil général préside la commission territoriale d'insertion et arrête la liste de ses membres, désignés le cas échéant par
+la collectivité ou la personne morale qu'ils représentent.
+
+La commission territoriale d'insertion désigne en son sein un comité technique auquel elle peut déléguer l'exercice de ses
+missions notamment l'examen des contrats d'insertion.
+
+Les missions dévolues aux caisses d'allocations familiales par les chapitres II et III du titre VI du livre II sont confiées
+à la caisse de prévoyance sociale.
+
+**Nota:**
+
+Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
+l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Loi n°2003-1200 2003-12-18 art. 41 2° JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L263-10 (M)
+  - Code de l'action sociale et des familles - art. L263-2 (M)
+
+
 ###### Article L531-6
 
 Des décrets en Conseil d'Etat fixent en tant que de besoin les conditions particulières d'adaptation des dispositions
@@ -25964,9 +26716,9 @@ _Modifié par_:
   - Loi n°2002-303 du 4 mars 2002 - art. 118 () JORF 5 mars 2002
 
 
-### Titre IV : Mayotte<a id=159></a>
+### Titre IV : Mayotte<a id=161></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=160></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=162></a>
 
 ###### Article L541-1
 
@@ -26047,7 +26799,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 243 (Ab)
 
 
-#### Chapitre II : Aide sociale.<a id=161></a>
+#### Chapitre II : Aide sociale.<a id=163></a>
 
 ###### Article L542-1
 
@@ -26410,7 +27162,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L543-9 (V)
 
 
-#### Chapitre III : Familles et aide sociale à l'enfance.<a id=162></a>
+#### Chapitre III : Familles et aide sociale à l'enfance.<a id=164></a>
 
 ###### Article L543-1
 
@@ -26861,7 +27613,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L224-5 (M)
 
 
-#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption.<a id=163></a>
+#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption.<a id=165></a>
 
 ###### Article L544-1
 
@@ -26998,7 +27750,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 254 (Ab)
 
 
-#### Chapitre V : Dispositions communes.<a id=164></a>
+#### Chapitre V : Dispositions communes.<a id=166></a>
 
 ###### Article L545-1
 
@@ -27200,9 +27952,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L544-5 (T)
 
 
-### Titre V : Territoire des îles Wallis et Futuna<a id=165></a>
+### Titre V : Territoire des îles Wallis et Futuna<a id=167></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=166></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=168></a>
 
 ###### Article L551-1
 
@@ -27305,7 +28057,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L224-5 (V)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=167></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=169></a>
 
 ###### Article L552-1
 
@@ -27520,9 +28272,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L551-5 (T)
 
 
-### Titre VI : Polynésie française<a id=168></a>
+### Titre VI : Polynésie française<a id=170></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=169></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=171></a>
 
 ###### Article L561-1
 
@@ -27626,7 +28378,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L562-2 (M)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=170></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=172></a>
 
 ###### Article L562-1
 
@@ -27866,9 +28618,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L561-5 (T)
 
 
-### Titre VII : Nouvelle-Calédonie<a id=171></a>
+### Titre VII : Nouvelle-Calédonie<a id=173></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=172></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=174></a>
 
 ###### Article L571-1
 
@@ -27972,7 +28724,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L572-2 (M)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=173></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=175></a>
 
 ###### Article L572-1
 
