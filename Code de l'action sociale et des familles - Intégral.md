@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L572-5)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L148-2)](#2)
@@ -14620,18 +14620,13 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Créé par_:
-
-  - Loi n°2003-1200 du 18 décembre 2003 - art. 25 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Loi n°2008-1249 du 1er décembre 2008 - art. 3
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L262-38 (M)
+  - Code de l'action sociale et des familles - art. L262-38
 
 
 ##### Section 5 : Recours et récupération<a id=92></a>
