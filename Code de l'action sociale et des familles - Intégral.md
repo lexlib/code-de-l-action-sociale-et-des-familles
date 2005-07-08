@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-07-05
+Version Consolidée au 2005-07-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -457,7 +457,7 @@ Version Consolidée au 2005-07-05
                 - [Sous-paragraphe 4 : Mesures administratives. (art. D312-151 à D312-152)](#454)
               - [Paragraphe 7 : Centres spécialisés de soins aux toxicomanes. (art. D312-153)](#455)
               - [Paragraphe 8 : Appartements de coordination thérapeutique. (art. D312-154 à D312-155)](#456)
-              - [Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes (art. D312-155-1 à D312-155-4)](#457)
+              - [Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes (art. D312-155-1 à D312-155-4-2)](#457)
               - [Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés (art. D312-155-5 à D312-155-19)](#458)
                 - [Sous-paragraphe 1 : Services d'accompagnement à la vie sociale (art. D312-155-5 à D312-155-8)](#459)
                 - [Sous-paragraphe 2 : Les services d'accompagnement médico-social pour adultes handicapés (art. D312-155-9 à D312-155-12)](#460)
@@ -59186,6 +59186,86 @@ _Cite_:
 
   - Code de l'action sociale et des familles - art. L313-12 (M)
   - Code de l'action sociale et des familles - art. L314-6 (M)
+
+
+###### Article D312-155-4-1
+
+Les établissements assurant l'hébergement des personnes âgées mentionnés au 6° du I de l'article L. 312-1 sont tenus
+d'intégrer dans le projet d'établissement mentionné à l'article L. 311-8 un plan détaillant les modalités d'organisation à
+mettre en oeuvre en cas de crise sanitaire ou climatique.
+
+Ce plan doit être conforme à un cahier des charges arrêté par les ministres chargés de la santé et des personnes âgées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-768 du 7 juillet 2005 - art. 1 () JORF 9 juillet 2005
+
+_Transféré par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. D312-160 (M)
+  - Code de l'action sociale et des familles - art. D312-160 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L311-8 (M)
+  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+
+###### Article D312-155-4-2
+
+I. - Les établissements médico-sociaux assurant l'hébergement des personnes âgées mentionnés au I de l'article L. 313-12 sont
+tenus d'aménager un local ou une pièce équipés d'un système fixe de rafraîchissement de l'air dans des conditions arrêtées
+par les ministres chargés de la santé et des personnes âgées.
+
+II. - Les établissements médico-sociaux assurant l'hébergement des personnes âgées mentionnés aux II et III de l'article L.
+313-12 sont tenus de disposer d'un local ou d'une pièce rafraîchis dans des conditions arrêtées par les ministres chargés de
+la santé et des personnes âgées.
+
+**Nota:**
+
+Décret 2005-768 du 7 juillet 2005 art. 2 : Les dispositions du I de l'article D. 312-155-4-2 du code de l'action sociale et
+des familles entrent en vigueur huit mois après la date de publication du présent décret. 
+
+A titre transitoire et jusqu'à cette date, les établissements mentionnés au I de l'article D. 312-155-4-2 du code de l'action
+sociale et des familles qui ne sont pas équipés d'un système fixe de rafraîchissement de l'air sont tenus de disposer de
+climatiseurs mobiles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-768 du 7 juillet 2005 - art. 1 () JORF 9 juillet 2005
+
+_Cité par_:
+
+  - Décret n°2005-768 du 7 juillet 2005 - art. 2 (M)
+
+_Transféré par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. D312-161 (M)
+  - Code de l'action sociale et des familles - art. D312-161 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L313-12 (M)
 
 
 ##### Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés<a id=458></a>
