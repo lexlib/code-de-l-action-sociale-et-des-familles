@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-07-29
+Version Consolidée au 2005-07-29 00:00:01 +0200
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -31495,14 +31495,18 @@ dispositions contraires, elles sont prises par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+**Liens**:
 
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+  - TRANSFERE: Ordonnance n°2008-859 du 28 août 2008 - art. 2
 
-_Créé par_:
+_Abrogé par_:
 
-  - Ordonnance 2005-871 2005-07-28 art. 1 16° JORF 29 juillet 2005
+  - Ordonnance n°2008-859 du 28 août 2008 - art. 2
+  - Ordonnance n°2012-785 du 31 mai 2012 - art. 3
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L548-6 (VD)
 
 
 ### Titre V : Territoire des îles Wallis et Futuna<a id=173></a>
