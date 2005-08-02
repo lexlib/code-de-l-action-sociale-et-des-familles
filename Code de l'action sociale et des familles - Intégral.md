@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-07-29
+Version Consolidée au 2005-08-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -5881,7 +5881,7 @@ Elle peut employer des salariés de droit privé notamment régis par les conven
 organismes de sécurité sociale.
 
 Le contrôle du Parlement sur la Caisse nationale de solidarité pour l'autonomie est exercé par les parlementaires mentionnés
-à l'article L. 111-9 du code de la sécurité sociale, dans les conditions et sous les réserves prévues au même article.
+à l'article LO. 111-9 du code de la sécurité sociale, dans les conditions et sous les réserves prévues au même article.
 
 **Liens relatifs à cet article**
 
@@ -5895,10 +5895,10 @@ _Anciens textes_:
   - Loi n°2004-626 2004-06-30 art. 9
   - Loi n°2004-626 du 30 juin 2004 - art. 9 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-102 2005-02-11 art. 55 I, II JORF 12 février 2005
-  - Loi n°2005-102 du 11 février 2005 - art. 55 (V) JORF 12 février 2005
+  - Loi n°2005-102 du 11 février 2005 - art. 55 (V)
+  - Loi n°2005-881 du 2 août 2005 - art. 11 () JORF 3 août 2005
 
 _Cité par_:
 
