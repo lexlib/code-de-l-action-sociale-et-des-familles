@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-08-27
+Version Consolidée au 2005-08-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -49753,7 +49753,9 @@ L. 531-3 du même code, due pour le mois au cours duquel intervient la naissance
 que l'allocation forfaitaire instituée par le second alinéa de l'article L. 521-1 du même code ;
 
 18° l'allocation de reconnaissance instituée par l'article 47 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30
-décembre 1999) modifiée.
+décembre 1999) modifiée ;
+
+19° La prime de retour à l'emploi.
 
 **Liens relatifs à cet article**
 
@@ -49803,6 +49805,10 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1053 du 29 août 2005 - art. 1 () JORF 30 août 2005
 
 
 ###### Article R262-7
