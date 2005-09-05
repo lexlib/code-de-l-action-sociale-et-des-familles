@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-09-02
+Version Consolidée au 2005-09-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -82,11 +82,11 @@ Version Consolidée au 2005-09-02
         - [Chapitre VI : Personnes atteintes de syndrome autistique et personnes atteintes de polyhandicap. (art. L246-1)](#79)
         - [Chapitre VII : Gestion et suivi statistique (art. L247-1 à L247-7)](#80)
         - [Chapitre VIII : Formation des aidants familiaux (art. L248-1)](#81)
-      - [Titre V : Personnes non bénéficiaires de la couverture maladie universelle (art. L251-1 à L254-1)](#82)
+      - [Titre V : Personnes non bénéficiaires de la couverture maladie universelle (art. L251-1 à L254-2)](#82)
         - [Chapitre Ier : Droit à l'aide médicale de l'Etat. (art. L251-1 à L251-3)](#83)
         - [Chapitre II : Modalités d'admission. (art. L252-1 à L252-5)](#84)
         - [Chapitre III : Dispositions financières. (art. L253-1 à L253-4)](#85)
-        - [Chapitre IV : Prise en charge des soins urgents (art. L254-1)](#86)
+        - [Chapitre IV : Prise en charge des soins urgents (art. L254-1 à L254-2)](#86)
       - [Titre VI : Lutte contre la pauvreté et les exclusions (art. L261-1 à L263-19)](#87)
         - [Chapitre Ier : Logement (art. L261-1 à L261-6)](#88)
           - [Section 1 : Aides générales au logement. (art. L261-1 à L261-3)](#89)
@@ -15104,6 +15104,30 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L251-2 (M)
 
 
+###### Article L254-2
+
+Les établissements de santé facturent à la caisse d'assurance maladie désignée en application de l'article L. 174-2 ou L.
+174-18 du code de la sécurité sociale la part des dépenses prises en charge par l'Etat pour les soins dispensés au titre des
+articles L. 251-1 et L. 254-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1112 du 1 septembre 2005 - art. 8 (V) JORF 6 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L251-1 (M)
+  - Code de l'action sociale et des familles - art. L254-1 (V)
+  - Code de l'action sociale et des familles L174-2, L251-1, L254-1
+
+
 ### Titre VI : Lutte contre la pauvreté et les exclusions<a id=87></a>
 
 #### Chapitre Ier : Logement<a id=88></a>
@@ -22533,6 +22557,30 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L546-3 (Ab)
 
 
+###### Article L313-24-1
+
+La protection prévue à l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires
+est mise en oeuvre au bénéfice des personnels de direction des établissements mentionnés aux 2°, 3°, 4°, 5° et 6° de
+l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique
+hospitalière par le préfet du département où l'établissement d'affectation a son siège.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°83-634 1983-07-13 art. 11
+  - Loi n°86-33 1986-01-09 art. 2
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1112 du 1 septembre 2005 - art. 6 () JORF 6 septembre 2005
+
+
 ###### Article L313-25
 
 Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat.
@@ -23057,6 +23105,11 @@ prennent effet qu'après agrément donné par le ministre compétent après avis
 locaux et dans des conditions fixées par voie réglementaire. Ces conventions ou accords s'imposent aux autorités compétentes
 en matière de tarification.
 
+Toutefois, en ce qui concerne les établissements de santé, seules les conventions collectives de travail et accords de
+retraite conclus au niveau national font l'objet d'un agrément ministériel. Dans ce cas, l'agrément porte sur le coût total
+de l'engagement financier évalué au niveau national. Les accords de travail conclus au niveau de chaque établissement ne sont
+pas soumis à agrément et ne sont pas opposables à l'autorité de tarification.
+
 Les ministres chargés de la sécurité sociale et de l'action sociale établissent annuellement, avant le 1er mars de l'année en
 cours, un rapport relatif aux agréments des conventions et accords mentionnés à l'alinéa précédent, pour l'année écoulée, et
 aux orientations en matière d'agrément des accords pour l'année en cours. Ils fixent, dans des conditions fixées par décret
@@ -23065,7 +23118,13 @@ financeurs et aux modalités de prise en charge des personnes, qui sont opposabl
 susmentionnées.
 
 Ce rapport est transmis au Parlement, au comité des finances locales et aux partenaires sociaux concernés selon des modalités
-fixées par décret.
+fixées par décret. Ce rapport précise le coût total de l'engagement financier évalué au niveau national et opposable aux
+parties signataires des conventions collectives de travail et accords de retraite applicables aux salariés des établissements
+de santé privés pour l'année en cours.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -23104,7 +23163,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-1199 du 18 décembre 2003 - art. 52 () JORF 19 décembre 2003
+  - Ordonnance n°2005-1112 du 1 septembre 2005 - art. 3 () JORF 6 septembre 2005
 
 
 ###### Article L314-7
@@ -26400,33 +26459,33 @@ _Anciens textes_:
 ###### Article L346-1
 
 Les règles relatives au centre d'accueil et de soins hospitaliers de Nanterre sont fixées par les dispositions de l'article
-L. 6147-2 du code de la santé publique ci-après reproduites :
+L. 6147-2 du code de la santé publique ci-après reproduites : 
 
-" Art. L. 6147-2. - Les missions exercées au sein d'unités distinctes par l'établissement public de la ville de Paris à
-caractère social et sanitaire, dénommé "centre d'accueil et de soins hospitaliers" et situé à Nanterre, comprennent :
+" Art.L. 6147-2.-Les missions exercées au sein d'unités distinctes par l'établissement public de la ville de Paris à
+caractère social et sanitaire, dénommé " centre d'accueil et de soins hospitaliers " et situé à Nanterre, comprennent : 
 
 1° L'accueil, la réadaptation sociale des personnes sans abri orientées par le préfet de police de Paris ainsi que
 l'hébergement et la réadaptation sociale des personnes mentionnées à l'article L. 345-1 du code de l'action sociale, dans la
 limite des capacités autorisées par le représentant de l'Etat dans la région conformément aux dispositions du titre I du
-livre III du code de l'action sociale ;
+livre III du code de l'action sociale ; 
 
-2° Le service public hospitalier tel que défini au présent livre ;
+2° Le service public hospitalier tel que défini au présent livre ; 
 
-3° L'hébergement et les soins de personnes âgées et des personnes handicapées qui y résident.
+3° L'hébergement et les soins de personnes âgées et des personnes handicapées qui y résident. 
 
 La composition du conseil d'administration, dont la présidence est assurée par le préfet de police de Paris et où sont
 notamment représentés, d'une part, la ville de Paris et, d'autre part, le département des Hauts-de-Seine et la ville de
-Nanterre est fixée par voie réglementaire.
+Nanterre est fixée par voie réglementaire. 
 
 Le directeur est nommé par arrêté des ministres chargés de l'action sociale, de l'intérieur et de la santé, après avis du
-président du conseil d'administration.
+président du conseil d'administration. 
 
 Le centre d'accueil et de soins hospitaliers est soumis, en ce qui concerne son budget et son fonctionnement, aux
-dispositions du présent livre. Il est soumis à la tutelle de l'Etat. Les modalités d'application des dispositions du titre IV
-du présent livre sont adaptées par voie réglementaire aux conditions particulières de fonctionnement de cet établissement.
+dispositions du présent livre. Les modalités d'application des dispositions du titre IV du présent livre sont adaptées par
+voie réglementaire aux conditions particulières de fonctionnement de cet établissement.
 
 A l'exception des dispositions concernant le budget, l'administration et le fonctionnement, le titre I du livre III du code
-de l'action sociale est applicable à l'établissement pour ses activités sociales et médico-sociales.
+de l'action sociale est applicable à l'établissement pour ses activités sociales et médico-sociales. 
 
 En cas de cessation d'activité totale ou partielle, le patrimoine immobilier sera restitué, pour tout ou partie, selon le
 cas, à la ville de Paris. "
@@ -26440,12 +26499,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1112 du 1 septembre 2005 - art. 1 (V) JORF 6 septembre 2005
 
-_Cite_:
+**Liens**:
 
-  - Code de la santé publique - art. L6147-2 (M)
-  - Code de l'action sociale et des familles - art. L345-1 (M)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L6147-2 (V)
 
 
 ### Titre V : Contentieux de la tarification sanitaire et sociale<a id=141></a>
