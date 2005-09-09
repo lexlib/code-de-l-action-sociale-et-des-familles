@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-09-09
+Version Consolidée au 2005-09-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -197,43 +197,43 @@ Version Consolidée au 2005-09-09
           - [Section 1 : Dispositions générales. (art. R115-1)](#194)
           - [Section 2 : Comité interministériel de lutte contre les exclusions. (art. R115-2 à R115-4)](#195)
       - [Titre II : Compétences (art. R121-1 à R123-65)](#196)
-        - [Chapitre Ier : Collectivités publiques et organismes responsables (art. R121-1)](#197)
+        - [Chapitre Ier : Collectivités publiques et organismes responsables (art. R121-1 à R121-12)](#197)
           - [Section 1 : Départements. (art. R121-1)](#198)
-        - [Chapitre III : Organisation administrative (art. R123-1 à R123-65)](#199)
-          - [Section 2 : Centre communal ou intercommunal d'action sociale (art. R123-1 à R123-65)](#200)
-            - [Sous-section 1 : Missions. (art. R123-1 à R123-6)](#201)
-            - [Sous-section 2 : Dispositions relatives au centre communal d'action sociale (art. R123-7 à R123-26)](#202)
-              - [Paragraphe 1 : Composition du conseil d'administration. (art. R123-7 à R123-15)](#203)
-              - [Paragraphe 2 : Fonctionnement du conseil d'administration. (art. R123-16 à R123-26)](#204)
-            - [Sous-section 3 : Dispositions relatives au centre intercommunal d'action sociale. (art. R123-27 à R123-30)](#205)
-            - [Sous-section 4 : Dispositions relatives aux sections des centres d'action sociale des communes associées. (art. R123-31 à R123-38)](#206)
-            - [Sous-section 5 : Dispositions relatives au centre d'action sociale de la ville de Paris (art. R123-39 à R123-61)](#207)
-              - [Paragraphe 1 : Dispositions générales. (art. R123-39 à R123-48)](#208)
-              - [Paragraphe 2 : Dispositions relatives aux sections d'arrondissement et aux autres services du centre d'action sociale. (art. R123-49 à R123-61)](#209)
-            - [Sous-section 6 : Dispositions particulières applicables aux centres communaux d'action sociale de Marseille et de Lyon (art. R123-62 à R123-65)](#210)
-              - [Paragraphe 1 : Marseille. (art. R123-62 à R123-63)](#211)
-              - [Paragraphe 2 : Lyon. (art. R123-64 à R123-65)](#212)
-      - [Titre III : Procédures (art. R131-1 à R134-12)](#213)
-        - [Chapitre Ier : Admission (art. R131-1 à R131-7)](#214)
-        - [Chapitre II : Participation et récupération (art. R132-1 à R132-16)](#215)
-          - [Section 1 : Appréciation des revenus des postulants. (art. R132-1)](#216)
-          - [Section 2 : Participation des personnes accueillies en établissement pour personnes âgées. (art. R132-2 à R132-7)](#217)
-          - [Section 3 : Participation des familles. (art. R132-8)](#218)
-          - [Section 4 : Mise en jeu de l'obligation alimentaire. (art. R132-9 à R132-10)](#219)
-          - [Section 5 : Recours en récupération. (art. R132-11 à R132-12)](#220)
-          - [Section 6 : Hypothèque légale. (art. R132-13 à R132-16)](#221)
-        - [Chapitre IV : Contentieux (art. R134-1 à R134-12)](#222)
-          - [Section 1 : Commission départementale. (art. R134-1 à R134-2)](#223)
-          - [Section 2 : Commission centrale d'aide sociale. (art. R134-3 à R134-9)](#224)
-          - [Section 3 : Dispositions communes. (art. R134-10 à R134-12)](#225)
-      - [Titre IV : Institutions (art. D*141-1 à R14-10-31)](#226)
-        - [Chapitre Ier : Haut Conseil de la population et de la famille. (art. D*141-1 à D*141-7)](#227)
-        - [Chapitre II : Conseil supérieur du travail social (art. D142-1)](#228)
-        - [Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale (art. D143-6 à R143-5)](#229)
-        - [Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale (art. R144-1 à R144-4)](#230)
-        - [Chapitre V : Coordination des interventions (art. D145-1 à R145-10)](#231)
-          - [Section 1 : Comité départemental de coordination des politiques de prévention et de lutte contre les exclusions. (art. D145-1 à D145-7)](#232)
-          - [Section 2 : Conventions entre les acteurs engagés dans la prévention et la lutte contre les exclusions. (art. R145-8 à R145-10)](#233)
+          - [Section 2 : Communes. (art. R121-2 à R121-12)](#199)
+        - [Chapitre III : Organisation administrative (art. R123-1 à R123-65)](#200)
+          - [Section 2 : Centre communal ou intercommunal d'action sociale (art. R123-1 à R123-65)](#201)
+            - [Sous-section 1 : Missions. (art. R123-1 à R123-6)](#202)
+            - [Sous-section 2 : Dispositions relatives au centre communal d'action sociale (art. R123-7 à R123-26)](#203)
+              - [Paragraphe 1 : Composition du conseil d'administration. (art. R123-7 à R123-15)](#204)
+              - [Paragraphe 2 : Fonctionnement du conseil d'administration. (art. R123-16 à R123-26)](#205)
+            - [Sous-section 3 : Dispositions relatives au centre intercommunal d'action sociale. (art. R123-27 à R123-30)](#206)
+            - [Sous-section 4 : Dispositions relatives aux sections des centres d'action sociale des communes associées. (art. R123-31 à R123-38)](#207)
+            - [Sous-section 5 : Dispositions relatives au centre d'action sociale de la ville de Paris (art. R123-39 à R123-61)](#208)
+              - [Paragraphe 1 : Dispositions générales. (art. R123-39 à R123-48)](#209)
+              - [Paragraphe 2 : Dispositions relatives aux sections d'arrondissement et aux autres services du centre d'action sociale. (art. R123-49 à R123-61)](#210)
+            - [Sous-section 6 : Dispositions particulières applicables aux centres communaux d'action sociale de Marseille et de Lyon (art. R123-62 à R123-65)](#211)
+              - [Paragraphe 1 : Marseille. (art. R123-62 à R123-63)](#212)
+              - [Paragraphe 2 : Lyon. (art. R123-64 à R123-65)](#213)
+      - [Titre III : Procédures (art. R131-1 à R134-12)](#214)
+        - [Chapitre Ier : Admission (art. R131-1 à R131-7)](#215)
+        - [Chapitre II : Participation et récupération (art. R132-1 à R132-16)](#216)
+          - [Section 1 : Appréciation des revenus des postulants. (art. R132-1)](#217)
+          - [Section 2 : Participation des personnes accueillies en établissement pour personnes âgées. (art. R132-2 à R132-7)](#218)
+          - [Section 3 : Participation des familles. (art. R132-8)](#219)
+          - [Section 4 : Mise en jeu de l'obligation alimentaire. (art. R132-9 à R132-10)](#220)
+          - [Section 5 : Recours en récupération. (art. R132-11 à R132-12)](#221)
+          - [Section 6 : Hypothèque légale. (art. R132-13 à R132-16)](#222)
+        - [Chapitre IV : Contentieux (art. R134-1 à R134-12)](#223)
+          - [Section 1 : Commission départementale. (art. R134-1 à R134-2)](#224)
+          - [Section 2 : Commission centrale d'aide sociale. (art. R134-3 à R134-9)](#225)
+          - [Section 3 : Dispositions communes. (art. R134-10 à R134-12)](#226)
+      - [Titre IV : Institutions (art. D*141-1 à R14-10-31)](#227)
+        - [Chapitre Ier : Haut Conseil de la population et de la famille. (art. D*141-1 à D*141-7)](#228)
+        - [Chapitre II : Conseil supérieur du travail social (art. D142-1)](#229)
+        - [Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale (art. D143-6 à R143-5)](#230)
+        - [Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale (art. R144-1 à R144-4)](#231)
+        - [Chapitre V : Coordination des interventions (art. R145-1 à R145-3)](#232)
+          - [Section 1 : Conventions entre les acteurs engagés dans la prévention et la lutte contre les exclusions. (art. R145-1 à R145-3)](#233)
         - [Chapitre VI : Consultation des personnes handicapées (art. D146-1 à D146-15)](#234)
           - [Section 1 : Conseil national consultatif des personnes handicapées (art. D146-1 à D146-9)](#235)
           - [Section 2 : Conseil départemental consultatif des personnes handicapées (art. D146-10 à D146-15)](#236)
@@ -257,7 +257,7 @@ Version Consolidée au 2005-09-09
           - [Section 4 : Conseil scientifique (art. R14-10-23 à R14-10-31)](#254)
             - [Sous-section 1 : Composition (art. R14-10-23)](#255)
             - [Sous-section 2 : Rôle et modalités de fonctionnement (art. R14-10-24 à R14-10-31)](#256)
-    - [Livre II : Différentes formes d'aide et d'action sociales (art. R211-1 à R263-14)](#257)
+    - [Livre II : Différentes formes d'aide et d'action sociales (art. R211-1 à R263-2)](#257)
       - [Titre Ier : Famille (art. R211-1 à R215-16)](#258)
         - [Chapitre Ier : Associations familiales (art. R211-1 à R211-7)](#259)
         - [Chapitre III : Education et conseil familial (art. R213-1)](#260)
@@ -363,319 +363,318 @@ Version Consolidée au 2005-09-09
           - [Section 3 : Allocation compensatrice attribuée au titre d'une activité professionnelle. (art. R245-11)](#360)
           - [Section 4 : Dispositions communes. (art. R245-12 à R245-14)](#361)
           - [Section 5 : Procédure d'attribution. (art. R245-15 à R245-20)](#362)
-      - [Titre VI : Lutte contre la pauvreté et les exclusions (art. D261-2 à R263-14)](#363)
-        - [Chapitre Ier : Logement (art. D261-2 à R261-10)](#364)
-          - [Section 2 : Fourniture d'eau et d'énergie (art. D261-2 à R261-9)](#365)
-            - [Sous-section 1 : Electricité (art. D261-2 à R261-8)](#366)
-              - [Paragraphe 1 : Aide au paiement des factures impayées. (art. D261-2 à R261-1)](#367)
-              - [Paragraphe 2 : Mesures de prévention. (art. D261-4 à D261-5)](#368)
-              - [Paragraphe 3 : Fonctionnement des commissions. (art. R261-6 à R261-8)](#369)
-            - [Sous-section 2 : Gaz. (art. R261-9)](#370)
-          - [Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées. (art. R261-10)](#371)
-        - [Chapitre II : Revenu minimum d'insertion (art. R262-1 à R262-87)](#372)
-          - [Section 1 : Dispositions générales (art. R262-1 à R262-2)](#373)
-          - [Section 2 : Conditions d'ouverture du droit à l'allocation (art. R262-3 à R262-22)](#374)
-            - [Sous-section 1 : Détermination des ressources. (art. R262-3 à R262-13)](#375)
-            - [Sous-section 2 : Dispositions propres aux ressources professionnelles des non-salariés (art. R262-14 à R262-22)](#376)
-              - [Paragraphe 1 : Conditions d'accès à l'allocation. (art. R262-14 à R262-16)](#377)
-              - [Paragraphe 2 : Evaluation des revenus professionnels non salariés. (art. R262-17 à R262-22)](#378)
-          - [Section 3 : Attribution de l'allocation (art. R262-23 à D262-71)](#379)
-            - [Sous-section 1 : Agrément pour le recueil des demandes d'allocation. (art. R262-23 à R262-27)](#380)
-            - [Sous-section 2 : Agrément pour la réception des déclarations d'élection de domicile. (art. R262-28 à R262-35)](#381)
-            - [Sous-section 3 : Liquidation, versement et révision de l'allocation. (art. D262-40 à R262-44)](#382)
-            - [Sous-section 4 : Suspension ou réduction de l'allocation. (art. R262-45 à R262-47)](#383)
-            - [Sous-section 5 : Contrôle. (art. D262-49 à R262-48)](#384)
-            - [Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés. (art. R262-50 à R262-58)](#385)
-            - [Sous-section 7 : Conventions conclues entre le département et les organismes payeurs (art. D262-59 à D262-71)](#386)
-              - [Paragraphe 1 : Missions exercées par les organismes payeurs à titre gratuit. (art. D262-59 à D262-62)](#387)
-              - [Paragraphe 2 : Autres missions pouvant être exercées par les organismes payeurs. (art. D262-63 à D262-66)](#388)
-              - [Paragraphe 3 : Relations financières entre l'organisme payeur et le département. (art. D262-67)](#389)
-              - [Paragraphe 4 : Dispositions communes et transitoires. (art. D262-68 à D262-71)](#390)
-          - [Section 5 : Recours et récupération (art. R262-72 à R262-73)](#391)
-          - [Section 6 : Suivi statistique, évaluation et contrôle (art. D262-74 à R262-87)](#392)
-            - [Sous-section 1 : Informations relatives au revenu minimum d'insertion et au contrat insertion-revenu minimum d'activité. (art. D262-74 à R262-78)](#393)
-            - [Sous-section 2 : Informations relatives aux minima sociaux. (art. R262-83 à R262-87)](#394)
-        - [Chapitre III : Actions d'insertion (art. R263-1 à R263-14)](#395)
-          - [Section 1 : Dispositif départemental d'insertion (art. R263-1)](#396)
-          - [Section 4 : Fonds d'aide aux jeunes en difficulté (art. R263-2 à R263-13)](#397)
-            - [Sous-section 1 : Fonds départementaux. (art. R263-2 à R263-8)](#398)
-            - [Sous-section 2 : Fonds locaux. (art. R263-9 à R263-11)](#399)
-            - [Sous-section 3 : Dispositions communes. (art. R263-12 à R263-13)](#400)
-          - [Section 5 : Personnes bénéficiaires de l'allocation de parent isolé. (art. R263-14)](#401)
-    - [Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services (art. D311 à R351-41)](#402)
-      - [Titre Ier : Etablissements et services soumis à autorisation (art. D311 à D316-4)](#403)
-        - [Chapitre Ier : Dispositions générales (art. D311 à R311-37)](#404)
-          - [Section 1 : Missions (art. D311)](#405)
-          - [Section 2 : Droit des usagers (art. R311-1 à R311-37)](#406)
-            - [Sous-section 2 : Personne qualifiée. (art. R311-1 à R311-2)](#407)
-            - [Sous-section 3 : Conseil de la vie sociale et autres formes de participation (art. D311-3 à D311-32)](#408)
-              - [Paragraphe 1 : Dispositions générales. (art. D311-3)](#409)
-              - [Paragraphe 2 : Composition et fonctionnement. (art. D311-4 à D311-20)](#410)
-              - [Paragraphe 3 : Autres formes de participation. (art. D311-21 à D311-25)](#411)
-              - [Paragraphe 4 : Dispositions communes. (art. D311-26 à D311-32)](#412)
-            - [Sous-section 4 : Règlement de fonctionnement. (art. R311-33 à R311-37)](#413)
-        - [Chapitre II : Organisation de l'action sociale et médico-sociale (art. D312-1 à R312-181)](#414)
-          - [Section 1 : Etablissements et services sociaux et médico-sociaux (art. D312-1 à D312-155-19)](#415)
-            - [Sous-section 1 : Prestations délivrées (art. D312-1 à D312-10)](#416)
-              - [Paragraphe 1 : Services de soins à domicile. (art. D312-1 à D312-7)](#417)
-              - [Paragraphe 2 : Accueil temporaire. (art. D312-8 à D312-10)](#418)
-            - [Sous-section 2 : Conditions techniques minimales d'organisation et de fonctionnement des établissements (art. D312-11 à D312-155-19)](#419)
-              - [Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles (art. D312-11 à D312-59)](#420)
-                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-11 à D312-14)](#421)
-                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-15 à D312-19)](#422)
-                - [Sous-paragraphe 3 : Personnels. (art. D312-20 à D312-26)](#423)
-                - [Sous-paragraphe 4 : Installations. (art. D312-27 à D312-33)](#424)
-                - [Sous-paragraphe 5 : Fonctionnement de l'établissement. (art. D312-34 à D312-40)](#425)
-                - [Sous-paragraphe 6 : Centres d'accueil familial spécialisé. (art. D312-41 à D312-54)](#426)
-                - [Sous-paragraphe 7 : Services d'éducation spéciale et de soins à domicile. (art. D312-55 à D312-59)](#427)
-              - [Paragraphe 1 bis : Les instituts thérapeutiques, éducatifs et pédagogiques (art. D312-59-1 à D312-59-18)](#428)
-                - [Sous-paragraphe 1 : Dispositions générales (art. D312-59-1 à D312-59-3)](#429)
-                - [Sous-paragraphe 2 : Organisation de l'établissement (art. D312-59-4 à D312-59-6)](#430)
-                - [Sous-paragraphe 3 : Les personnels (art. D312-59-7 à D312-59-13)](#431)
-                - [Sous-paragraphe 4 : Fonctionnement de l'établissement (art. D312-59-14 à D312-59-16)](#432)
-                - [Sous-paragraphe 5 : Des installations (art. D312-59-17)](#433)
-                - [Sous-paragraphe 6 : Dispositions transitoires (art. D312-59-18)](#434)
-              - [Paragraphe 2 : Etablissements et services prenant en charge des enfants ou adolescents présentant une déficience motrice (art. D312-60 à D312-82)](#435)
-                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-60 à D312-63)](#436)
-                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-64 à D312-65)](#437)
-                - [Sous-paragraphe 3 : Personnels. (art. D312-66 à D312-69)](#438)
-                - [Sous-paragraphe 4 : Installation. (art. D312-70 à D312-74)](#439)
-                - [Sous-paragraphe 5 : Service d'éducation spéciale et de soins à domicile. (art. D312-75 à D312-79)](#440)
-                - [Sous-paragraphe 6 : Dispositions diverses. (art. D312-80 à D312-82)](#441)
-              - [Paragraphe 3 : Etablissements et services prenant en charge des enfants ou adolescents polyhandicapés (art. D312-83 à D312-97)](#442)
-                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-83 à D312-85)](#443)
-                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-86 à D312-87)](#444)
-                - [Sous-paragraphe 3 : Les personnels. (art. D312-88 à D312-89)](#445)
-                - [Sous-paragraphe 4 : Installations. (art. D312-90 à D312-94)](#446)
-                - [Sous-paragraphe 5 : Services de soins et d'aide à domicile. (art. D312-95 à D312-97)](#447)
-              - [Paragraphe 4 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience auditive grave. (art. D312-98 à D312-110)](#448)
-              - [Paragraphe 5 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience visuelle grave ou de cécité. (art. D312-111 à D312-122)](#449)
-              - [Paragraphe 6 : Pouponnières à caractère social (art. D312-123 à D312-152)](#450)
-                - [Sous-paragraphe 1 : Locaux. (art. D312-123 à D312-136)](#451)
-                - [Sous-paragraphe 2 : Admission et surveillance des enfants. (art. D312-137 à D312-145)](#452)
-                - [Sous-paragraphe 3 : Personnel. (art. D312-146 à D312-150)](#453)
-                - [Sous-paragraphe 4 : Mesures administratives. (art. D312-151 à D312-152)](#454)
-              - [Paragraphe 7 : Centres spécialisés de soins aux toxicomanes. (art. D312-153)](#455)
-              - [Paragraphe 8 : Appartements de coordination thérapeutique. (art. D312-154 à D312-155)](#456)
-              - [Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes (art. D312-155-1 à D312-155-4-2)](#457)
-              - [Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés (art. D312-155-5 à D312-155-19)](#458)
-                - [Sous-paragraphe 1 : Services d'accompagnement à la vie sociale (art. D312-155-5 à D312-155-8)](#459)
-                - [Sous-paragraphe 2 : Les services d'accompagnement médico-social pour adultes handicapés (art. D312-155-9 à D312-155-12)](#460)
-                - [Sous-paragraphe 3 : Dispositions communes (art. D312-155-13 à D312-155-19)](#461)
-          - [Section 2 : Organismes consultatifs (art. R312-156 à R312-171)](#462)
-            - [Sous-section 1 : Section sociale du Comité national de l'organisation sanitaire et sociale (art. R312-156 à R312-158)](#463)
-            - [Sous-section 2 : Comités régionaux de l'organisation sociale et médico-sociale (art. R312-159 à R312-171)](#464)
-              - [Paragraphe 1 : Composition du comité régional de l'organisation sociale et médico-sociale. (art. R312-159 à R312-163)](#465)
-              - [Paragraphe 2 : Fonctionnement du comité. (art. R312-164 à R312-171)](#466)
-          - [Section 3 : Schémas d'organisation sociale et médico-sociale (art. D312-172 à D312-173)](#467)
-            - [Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale (art. D312-172 à D312-173)](#468)
-          - [Section 5 : Evaluation et systèmes d'information (art. R312-174 à R312-181)](#469)
-            - [Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale. (art. R312-174 à R312-181)](#470)
-        - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. R313-1 à D313-27)](#471)
-          - [Section 1 : Autorisation de création, d'extension ou de transformation (art. R313-1 à D313-14)](#472)
-            - [Sous-section 1 : Dispositions générales. (art. R313-1 à R313-10)](#473)
-            - [Sous-section 2 : Contrôle de conformité des établissements. (art. D313-11 à D313-14)](#474)
-          - [Section 3 : Contrats ou conventions pluriannuels (art. D313-15 à D313-24)](#475)
-            - [Sous-section 1 : Modalités de tarification des établissements mentionnés au I de l'article L. 313-12. (art. D313-15)](#476)
-            - [Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12. (art. D313-16 à D313-24)](#477)
-          - [Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux. (art. D313-25 à D313-27)](#478)
-        - [Chapitre IV : Dispositions financières (art. R314-1 à R314-204)](#479)
-          - [Section 1 : Règles de compétences en matière tarifaire. (art. R314-3)](#480)
-          - [Section 2 : Règles budgétaires de financement (art. R314-4 à R314-203)](#481)
-            - [Sous-section 1 : Dispositions générales relatives à la comptabilité, au budget et à la tarification (art. R314-4 à R314-63)](#482)
-              - [Paragraphe 1 : Principes comptables et budgétaires généraux. (art. R314-4 à R314-8)](#483)
-              - [Paragraphe 2 : Présentation budgétaire. (art. R314-9 à R314-13)](#484)
-              - [Paragraphe 3 : Fixation du tarif (art. R314-14 à R314-43)](#485)
-                - [Sous-paragraphe 1 : Etablissement des propositions budgétaires. (art. R314-14 à R314-20)](#486)
-                - [Sous-paragraphe 2 : Transmission des propositions budgétaires et procédure contradictoire. (art. R314-21 à R314-25)](#487)
-                - [Sous-paragraphe 3 : Dépenses pouvant être prises en charge (art. R314-26 à R314-27)](#488)
-                - [Sous-paragraphe 4 : Tableaux de bord. (art. R314-28 à R314-33)](#489)
-                - [Sous-paragraphe 5 : Décision d'autorisation budgétaire et de tarification. (art. R314-34 à R314-38)](#490)
-                - [Sous-paragraphe 6 : Fixation pluriannuelle du budget. (art. R314-39 à R314-43)](#491)
-              - [Paragraphe 4 : Exécution du budget (art. R314-44 à R314-55)](#492)
-                - [Sous-paragraphe 1 : Modifications budgétaires et gestion financière en cours d'exercice. (art. R314-44 à R314-48)](#493)
-                - [Sous-paragraphe 2 : Compte administratif de clôture. (art. R314-49 à R314-55)](#494)
-              - [Paragraphe 5 : Contrôle et évaluation (art. R314-56 à R314-62)](#495)
-                - [Sous-paragraphe 1 : Obligations des établissements et services. (art. R314-56 à R314-60)](#496)
-                - [Sous-paragraphe 2 : Opérations d'évaluation et de contrôle (art. R314-61 à R314-62)](#497)
-              - [Paragraphe 6 : Contentieux. (art. R314-63)](#498)
-            - [Sous-section 2 : Règles comptables et budgétaires applicables aux différentes catégories d'organismes gestionnaires (art. R314-64 à R314-104)](#499)
-              - [Paragraphe 1 : Règles applicables aux établissements publics sociaux et médico-sociaux (art. R314-64 à R314-74)](#500)
-                - [Sous-paragraphe 1 : Champ d'application et règles budgétaires générales. (art. R314-64 à R314-65)](#501)
-                - [Sous-paragraphe 2 : Directeur et comptable de l'établissement public. (art. R314-66 à R314-67)](#502)
-                - [Sous-paragraphe 3 : Exécution du budget. (art. R314-68 à R314-74)](#503)
-              - [Paragraphe 2 : Règles applicables aux établissements publics de santé gérant une activité sociale ou médico-sociale. (art. R314-75 à R314-77)](#504)
-              - [Paragraphe 3 : Règles applicables aux établissements sociaux et médico-sociaux gérés par d'autres personnes morales de droit public. (art. R314-78 à R314-79)](#505)
-              - [Paragraphe 4 : Règles applicables aux établissements et services gérés par des personnes morales de droit privé à but non lucratif (art. R314-80 à R314-100)](#506)
-                - [Sous-paragraphe 1 : Champ d'application et principes budgétaires et comptables. (art. R314-80 à R314-84)](#507)
-                - [Sous-paragraphe 2 : Dépenses autorisées. (art. R314-85 à R314-86)](#508)
-                - [Sous-paragraphe 3 : Frais de siège. (art. R314-87 à R314-94)](#509)
-                - [Sous-paragraphe 4 : Gestion financière. (art. R314-95 à R314-96)](#510)
-                - [Sous-paragraphe 5 : Fermeture de l'établissement ou du service. (art. R314-97 à R314-98)](#511)
-                - [Sous-paragraphe 6 : Contrôle et évaluation. (art. R314-99 à R314-100)](#512)
-              - [Paragraphe 5 : Règles applicables aux établissements et services gérés par des organismes à but lucratif ou non habilités à recevoir des bénéficiaires de l'aide sociale. (art. R314-101 à R314-104)](#513)
-            - [Sous-section 3 : Principes de financement et modalités de versement (art. R314-105 à R314-117)](#514)
-              - [Paragraphe 1 : Financement des établissements et services (art. R314-105)](#515)
-              - [Paragraphe 2 : Modalités de financement (art. R314-106 à R314-117)](#516)
-                - [Sous-paragraphe 1 : Dotation globale de financement. (art. R314-106 à R314-110)](#517)
-                - [Sous-paragraphe 2 : Dispositions propres aux dotations globales et forfaits globaux de soins relevant de l'assurance maladie. (art. R314-111 à R314-112)](#518)
-                - [Sous-paragraphe 3 : Prix de journée. (art. R314-113 à R314-114)](#519)
-                - [Sous-paragraphe 4 : Prix de journée globalisés. (art. R314-115 à R314-117)](#520)
-            - [Sous-section 4 : Dispositions propres à certaines catégories d'établissements (art. R314-118 à R314-196)](#521)
-              - [Paragraphe 1 : Etablissements et services accueillant des mineurs et jeunes adultes handicapés. (art. R314-118 à R314-122)](#522)
-              - [Paragraphe 2 : Centres d'action médico-sociale précoce. (art. R314-123 à R314-124)](#523)
-              - [Paragraphe 3 : Etablissements et services accueillant des mineurs ou des majeurs de moins de vingt et un ans confiés par l'autorité judiciaire. (art. R314-125 à R314-127)](#524)
-              - [Paragraphe 4 : Centres d'aide par le travail. (art. R314-128 à R314-129)](#525)
-              - [Paragraphe 5 : Services d'aide à domicile. (art. R314-130 à R314-136)](#526)
-              - [Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes. (art. R314-137 à R314-139)](#527)
-              - [Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées. (art. R314-140 à R314-146)](#528)
-              - [Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés. (art. R314-147 à R314-149)](#529)
-              - [Paragraphe 9 : Centres d'hébergement et de réinsertion sociale. (art. R314-150 à R314-157)](#530)
-              - [Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes (art. R314-158 à R314-193)](#531)
-                - [Sous-paragraphe 1 : Principes généraux de la tarification (art. R314-158 à R314-161)](#532)
-                - [Sous-paragraphe 2 : Modalités de détermination et de calcul des tarifs (art. R314-162 à R314-193)](#533)
-                  - [1  Structure tarifaire des établissements. (art. R314-162 à R314-166)](#534)
-                  - [2  Dispositions relatives aux prestations de soins. (art. R314-167 à R314-169)](#535)
-                  - [3  Evaluation du degré de dépendance des personnes hébergées dans les établissements. (art. R314-170 à R314-179)](#536)
-                  - [4  Tarifs journaliers afférents à l'hébergement et à la dépendance. (art. R314-180 à R314-184)](#537)
-                  - [5  Tarifs journaliers afférents aux soins et dotation globale de financement relative aux soins. (art. R314-185 à R314-186)](#538)
-                  - [6  Dispositions diverses. (art. R314-187 à R314-193)](#539)
-              - [Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services (art. R314-194 à R314-196)](#540)
-                - [Sous-paragraphe 1 : Accueil temporaire. (art. R314-194)](#541)
-                - [Sous-paragraphe 2 : Dispositions diverses. (art. R314-195 à R314-196)](#542)
-            - [Sous-section 5 : Dispositions relatives à la réglementation du travail (art. R314-197 à R314-203)](#543)
-              - [Paragraphe 1 : Conventions collectives et accords de retraite. (art. R314-197 à R314-200)](#544)
-              - [Paragraphe 2 : Durée du travail. (art. R314-201 à R314-203)](#545)
-          - [Section 3 : Dispositions diverses (art. R314-204)](#546)
-        - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public (art. R315-1 à D315-71)](#547)
-          - [Section 1 : Dispositions générales (art. R315-1 à R315-5)](#548)
-          - [Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique (art. R315-6 à D315-71)](#549)
-            - [Sous-section 1 : Composition et fonctionnement des conseils d'administration. (art. R315-6 à R315-23)](#550)
-            - [Sous-section 2 : Dispositions relatives au personnel. (art. R315-24 à R315-26)](#551)
-            - [Sous-section 3 : Modalités de concertation (art. R315-27 à R315-66)](#552)
-              - [Paragraphe 1 : Modalités de constitution des comités techniques d'établissement. (art. R315-27 à R315-50)](#553)
-              - [Paragraphe 2 : Attributions des comités techniques d'établissement. (art. R315-51)](#554)
-              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement. (art. D315-64 à R315-63)](#555)
-              - [Paragraphe 4 : Moyens de fonctionnement. (art. R315-65 à R315-66)](#556)
-            - [Sous-section 4 : Délégations. (art. D315-67 à D315-71)](#557)
-        - [Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation (art. D316-1 à D316-4)](#558)
-          - [Section unique : Lieux de vie et d'accueil (art. D316-1 à D316-4)](#559)
-      - [Titre II : Etablissements soumis à déclaration (art. R321-1 à R322-7)](#560)
-        - [Chapitre Ier : Accueil de mineurs. (art. R321-1 à R321-9)](#561)
-        - [Chapitre II : Accueil d'adultes. (art. R322-1 à R322-7)](#562)
-      - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration (art. D331-1 à R331-6)](#563)
-        - [Chapitre unique (art. D331-1 à R331-6)](#564)
-          - [Section 1 : Conseil départemental de l'enfance. (art. D331-1 à D331-4)](#565)
-          - [Section 2 : Surveillance des établissements. (art. R331-5)](#566)
-          - [Section 3 : Fermeture des établissements. (art. R331-6)](#567)
-      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. D341-1 à R346-1)](#568)
-        - [Chapitre Ier : Pouponnières. (art. D341-1 à D341-7)](#569)
-        - [Chapitre II : Hébergement de personnes âgées. (art. R342-1)](#570)
-        - [Chapitre IV : Centres pour handicapés adultes (art. R344-1 à D344-39)](#571)
-          - [Section 1 : Maisons d'accueil spécialisées. (art. R344-1 à R344-5)](#572)
-          - [Section 2 : Centres d'aide par le travail (art. R344-6 à D344-28)](#573)
-            - [Sous-section 1 : Dispositions générales. (art. R344-6 à R344-19)](#574)
-            - [Sous-section 2 : Exercice d'une activité extérieure. (art. D344-20 à D344-28)](#575)
-          - [Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes (art. R344-29 à D344-39)](#576)
-            - [Sous-section 1 : Contribution aux frais d'hébergement et d'entretien (art. R344-29 à R344-33)](#577)
-            - [Sous-section 2 : Minimum de ressources (art. D344-34 à D344-39)](#578)
-        - [Chapitre V : Centres d'hébergement et de réinsertion sociale (art. R345-1 à R345-7)](#579)
-          - [Section 1 : Activités et organisation (art. R345-1 à R345-3)](#580)
-          - [Section 2 : Accueil et séjour (art. R345-4 à R345-7)](#581)
-        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. R346-1)](#582)
-      - [Titre V : Contentieux de la tarification sanitaire et sociale (art. R351-1 à R351-41)](#583)
-        - [Chapitre unique (art. R351-1 à R351-41)](#584)
-          - [Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale (art. R351-1 à R351-14)](#585)
-            - [Sous-section 1 : Cour nationale de la tarification sanitaire et sociale. (art. R351-1 à R351-6)](#586)
-            - [Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale. (art. R351-7 à R351-14)](#587)
-          - [Section 2 : Règles de procédures applicables (art. R351-15 à R351-40)](#588)
-            - [Sous-section 1 : Introduction des recours. (art. R351-15 à R351-19)](#589)
-            - [Sous-section 2 : Instruction des recours et clôture de l'instruction. (art. R351-20 à R351-28)](#590)
-            - [Sous-section 3 : Séance de jugement et notification. (art. R351-29 à R351-37)](#591)
-            - [Sous-section 4 : Voies de recours. (art. R351-38 à R351-40)](#592)
-          - [Section 3 : Dispositions diverses. (art. R351-41)](#593)
-    - [Livre IV : Professions et activités d'accueil (art. R411-1 à R451-82)](#594)
-      - [Titre Ier : Assistants de service social (art. R411-1 à R411-3)](#595)
-        - [Chapitre unique. (art. R411-1 à R411-3)](#596)
-      - [Titre II : Assistants maternels (art. R421-1 à R422-21)](#597)
-        - [Chapitre Ier : Dispositions générales (art. R421-1 à R421-29)](#598)
-          - [Section 1 : Procédures d'agrément (art. R421-1 à R421-22)](#599)
-            - [Sous-section 1 : Conditions et modalités de délivrance de l'agrément. (art. R421-1 à R421-9)](#600)
-            - [Sous-section 2 : Renouvellement, suspension et retrait de l'agrément. (art. R421-10 à R421-13)](#601)
-            - [Sous-section 3 : Commission consultative paritaire départementale. (art. R421-14 à R421-22)](#602)
-          - [Section 2 : Modalités particulières relatives à l'activité. (art. R421-23 à R421-26)](#603)
-          - [Section 3 : Formation des assistants maternels. (art. D421-27)](#604)
-          - [Section 4 : Dispositions pénales. (art. R421-28 à R421-29)](#605)
-        - [Chapitre II : Assistants maternels employés par des personnes morales de droit public (art. R422-1 à R422-21)](#606)
-          - [Section 1 : Modalités de recrutement et conditions d'emploi. (art. D422-6 à R422-5)](#607)
-          - [Section 2 : Congés. (art. R422-8 à R422-19)](#608)
-          - [Section 3 : Discipline. (art. R422-20)](#609)
-          - [Section 4 : Licenciement. (art. R422-21)](#610)
-      - [Titre III : Autres professions (art. D431-1 à D431-3)](#611)
-        - [Chapitre unique : Techniciens de l'intervention sociale et familiale (art. D431-1 à D431-3)](#612)
-          - [Section unique : Exercice de la profession. (art. D431-1 à D431-3)](#613)
-      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. R441-1 à R442-1)](#614)
-        - [Chapitre Ier : Accueillants familiaux et modalités d'agrément (art. R441-1 à R441-15)](#615)
-          - [Section 1 : Modalités et délai d'instruction de la demande d'agrément. (art. R441-1 à R441-10)](#616)
-          - [Section 2 : Commission consultative de retrait. (art. R441-11 à R441-15)](#617)
-        - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial (art. D442-2 à R442-1)](#618)
-      - [Titre V : Formation des travailleurs sociaux (art. D451-5 à R451-82)](#619)
-        - [Chapitre unique : Dispositions générales (art. D451-5 à R451-82)](#620)
-          - [Section 1 : Etablissements de formation. (art. D451-5 à R451-4-3)](#621)
-          - [Section 2 : Bourses d'études. (art. D451-7)](#622)
-          - [Section 3 : Formations et diplômes (art. R451-11 à R451-82)](#623)
-            - [Sous-section 1 : Formations supérieures et diplômes d'encadrement (art. R451-11 à R451-28)](#624)
-              - [Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale. (art. R451-11 à R451-16)](#625)
-              - [Paragraphe 2 : Diplôme supérieur en travail social. (art. D451-17 à D451-19)](#626)
-              - [Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale. (art. R451-20 à R451-28)](#627)
-            - [Sous-section 2 : Formations et diplômes professionnels d'intervention sociale (art. D451-29 à R451-82)](#628)
-              - [Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé. (art. D451-29 à D451-34)](#629)
-              - [Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants. (art. D451-35 à D451-39)](#630)
-              - [Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé. (art. D451-40 à D451-44)](#631)
-              - [Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale. (art. D451-45)](#632)
-              - [Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation. (art. D451-46 à D451-53)](#633)
-              - [Paragraphe 7 : Diplôme d'Etat de médiateur familial. (art. R451-54 à R451-60)](#634)
-              - [Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur. (art. D451-61 à D451-68)](#635)
-              - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale. (art. D451-69 à D451-75)](#636)
-              - [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale. (art. R451-76 à R451-81)](#637)
-              - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique. (art. R451-82)](#638)
-    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. R521-1 à R571-1)](#639)
-      - [Titre II : Départements d'outre-mer (art. R521-1 à R523-1)](#640)
-        - [Chapitre Ier : Dispositions générales (art. R521-1 à R521-3)](#641)
-          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R521-1 à R521-2)](#642)
-          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R521-3)](#643)
-        - [Chapitre II : Revenu minimum d'insertion (art. R522-1 à R522-68)](#644)
-          - [Section 1 : Allocation (art. R522-1 à R522-3)](#645)
-          - [Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion (art. R522-4 à R522-7)](#646)
-          - [Section 3 : Agences d'insertion (art. R522-8 à R522-62)](#647)
-            - [Sous-section 1 : Organisation (art. R522-8 à R522-26)](#648)
-            - [Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale (art. R522-27 à R522-32)](#649)
-            - [Sous-section 3 : Dispositions financières et comptables (art. D522-35 à R522-39)](#650)
-            - [Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale (art. R522-40 à R522-55)](#651)
-            - [Sous-section 5 : Conventions avec les organismes utilisateurs (art. R522-56 à R522-62)](#652)
-          - [Section 4 : Revenu de solidarité (art. R522-63 à R522-68)](#653)
-        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. R523-1)](#654)
-          - [Section 2 : Aide à la famille (art. R523-1)](#655)
-      - [Titre III : Saint-Pierre-et-Miquelon (art. R531-1 à R533-1)](#656)
-        - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#657)
-          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R531-1)](#658)
-          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R531-2)](#659)
-        - [Chapitre II : Personnes handicapées (art. R532-1 à R532-5)](#660)
-        - [Chapitre IV : Adoption (art. R533-1)](#661)
-      - [Titre IV : Mayotte (art. R541-1 à R544-2)](#662)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R541-1)](#663)
-        - [Chapitre II : Aide sociale (art. D542-2 à R542-1)](#664)
-        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption (art. R544-1 à R544-2)](#665)
-          - [Section 1 : Organes chargés de la tutelle (art. R544-1)](#666)
-          - [Section 2 : Adoption (art. R544-2)](#667)
-            - [Sous-section 1 : Adoption des pupilles de l'Etat (art. R544-2)](#668)
-      - [Titre V : Territoire des Iles Wallis et Futuna (art. R551-1)](#669)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R551-1)](#670)
-      - [Titre VI : Polynésie française (art. R561-1)](#671)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R561-1)](#672)
-      - [Titre VII : Nouvelle-Calédonie (art. R571-1)](#673)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R571-1)](#674)
-  - [Annexe (art. Annexe 2-4 à Annexe 4-1)](#675)
+      - [Titre VI : Lutte contre la pauvreté et les exclusions (art. R261-1 à R263-2)](#363)
+        - [Chapitre Ier : Logement (art. R261-1 à R261-3)](#364)
+          - [Section 2 : Fourniture d'eau et d'énergie (art. R261-1 à R261-2)](#365)
+            - [Sous-section 1 : Electricité (art. R261-1)](#366)
+              - [Paragraphe 1 : Aide au paiement des factures impayées. (art. R261-1)](#367)
+            - [Sous-section 2 : Gaz. (art. R261-2)](#368)
+          - [Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées. (art. R261-3)](#369)
+        - [Chapitre II : Revenu minimum d'insertion (art. R262-1 à R262-87)](#370)
+          - [Section 1 : Dispositions générales (art. R262-1 à R262-2)](#371)
+          - [Section 2 : Conditions d'ouverture du droit à l'allocation (art. R262-3 à R262-22)](#372)
+            - [Sous-section 1 : Détermination des ressources. (art. R262-3 à R262-13)](#373)
+            - [Sous-section 2 : Dispositions propres aux ressources professionnelles des non-salariés (art. R262-14 à R262-22)](#374)
+              - [Paragraphe 1 : Conditions d'accès à l'allocation. (art. R262-14 à R262-16)](#375)
+              - [Paragraphe 2 : Evaluation des revenus professionnels non salariés. (art. R262-17 à R262-22)](#376)
+          - [Section 3 : Attribution de l'allocation (art. R262-23 à D262-71)](#377)
+            - [Sous-section 1 : Agrément pour le recueil des demandes d'allocation. (art. R262-23 à R262-27)](#378)
+            - [Sous-section 2 : Agrément pour la réception des déclarations d'élection de domicile. (art. R262-28 à R262-35)](#379)
+            - [Sous-section 3 : Liquidation, versement et révision de l'allocation. (art. D262-40 à R262-44)](#380)
+            - [Sous-section 4 : Suspension ou réduction de l'allocation. (art. R262-45 à R262-47)](#381)
+            - [Sous-section 5 : Contrôle. (art. D262-49 à R262-48)](#382)
+            - [Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés. (art. R262-50 à R262-58)](#383)
+            - [Sous-section 7 : Conventions conclues entre le département et les organismes payeurs (art. D262-59 à D262-71)](#384)
+              - [Paragraphe 1 : Missions exercées par les organismes payeurs à titre gratuit. (art. D262-59 à D262-62)](#385)
+              - [Paragraphe 2 : Autres missions pouvant être exercées par les organismes payeurs. (art. D262-63 à D262-66)](#386)
+              - [Paragraphe 3 : Relations financières entre l'organisme payeur et le département. (art. D262-67)](#387)
+              - [Paragraphe 4 : Dispositions communes et transitoires. (art. D262-68 à D262-71)](#388)
+          - [Section 5 : Recours et récupération (art. R262-72 à R262-73)](#389)
+          - [Section 6 : Suivi statistique, évaluation et contrôle (art. D262-74 à R262-87)](#390)
+            - [Sous-section 1 : Informations relatives au revenu minimum d'insertion et au contrat insertion-revenu minimum d'activité. (art. D262-74 à R262-78)](#391)
+            - [Sous-section 2 : Informations relatives aux minima sociaux. (art. R262-83 à R262-87)](#392)
+        - [Chapitre III : Actions d'insertion (art. R263-1 à R263-2)](#393)
+          - [Section 1 : Dispositif départemental d'insertion (art. R263-1)](#394)
+          - [Section 4 : Personnes bénéficiaires de l'allocation de parent isolé (art. R263-2)](#395)
+    - [Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services (art. D311 à R351-41)](#396)
+      - [Titre Ier : Etablissements et services soumis à autorisation (art. D311 à D316-4)](#397)
+        - [Chapitre Ier : Dispositions générales (art. D311 à R311-37)](#398)
+          - [Section 1 : Missions (art. D311)](#399)
+          - [Section 2 : Droit des usagers (art. R311-1 à R311-37)](#400)
+            - [Sous-section 2 : Personne qualifiée. (art. R311-1 à R311-2)](#401)
+            - [Sous-section 3 : Conseil de la vie sociale et autres formes de participation (art. D311-3 à D311-32)](#402)
+              - [Paragraphe 1 : Dispositions générales. (art. D311-3)](#403)
+              - [Paragraphe 2 : Composition et fonctionnement. (art. D311-4 à D311-20)](#404)
+              - [Paragraphe 3 : Autres formes de participation. (art. D311-21 à D311-25)](#405)
+              - [Paragraphe 4 : Dispositions communes. (art. D311-26 à D311-32)](#406)
+            - [Sous-section 4 : Règlement de fonctionnement. (art. R311-33 à R311-37)](#407)
+        - [Chapitre II : Organisation de l'action sociale et médico-sociale (art. D312-1 à R312-202)](#408)
+          - [Section 1 : Etablissements et services sociaux et médico-sociaux (art. D312-1 à D312-176)](#409)
+            - [Sous-section 1 : Prestations délivrées (art. D312-1 à D312-10)](#410)
+              - [Paragraphe 1er : Services d'assistance à domicile (art. D312-1 à D312-7-1)](#411)
+                - [Sous-paragraphe 1er : Services de soins infirmiers à domicile. (art. D312-1 à D312-5-1)](#412)
+                - [Sous-paragraphe 2 : Services d'aide et d'accompagnement à domicile. (art. D312-6)](#413)
+                - [Sous-paragraphe 3 : Services polyvalents d'aide et de soins à domicile. (art. D312-7)](#414)
+                - [Sous-paragraphe 4 : Dispositions communes. (art. D312-7-1)](#415)
+              - [Paragraphe 2 : Accueil temporaire. (art. D312-8 à D312-10)](#416)
+            - [Sous-section 2 : Conditions techniques minimales d'organisation et de fonctionnement des établissements (art. D312-11 à D312-176)](#417)
+              - [Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles (art. D312-11 à D312-59)](#418)
+                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-11 à D312-14)](#419)
+                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-15 à D312-19)](#420)
+                - [Sous-paragraphe 3 : Personnels. (art. D312-20 à D312-26)](#421)
+                - [Sous-paragraphe 4 : Installations. (art. D312-27 à D312-33)](#422)
+                - [Sous-paragraphe 5 : Fonctionnement de l'établissement. (art. D312-34 à D312-40)](#423)
+                - [Sous-paragraphe 6 : Centres d'accueil familial spécialisé. (art. D312-41 à D312-54)](#424)
+                - [Sous-paragraphe 7 : Services d'éducation spéciale et de soins à domicile. (art. D312-55 à D312-59)](#425)
+              - [Paragraphe 1 bis : Les instituts thérapeutiques, éducatifs et pédagogiques (art. D312-59-1 à D312-59-18)](#426)
+                - [Sous-paragraphe 1 : Dispositions générales (art. D312-59-1 à D312-59-3)](#427)
+                - [Sous-paragraphe 2 : Organisation de l'établissement (art. D312-59-4 à D312-59-6)](#428)
+                - [Sous-paragraphe 3 : Les personnels (art. D312-59-7 à D312-59-13)](#429)
+                - [Sous-paragraphe 4 : Fonctionnement de l'établissement (art. D312-59-14 à D312-59-16)](#430)
+                - [Sous-paragraphe 5 : Des installations (art. D312-59-17)](#431)
+                - [Sous-paragraphe 6 : Dispositions transitoires (art. D312-59-18)](#432)
+              - [Paragraphe 2 : Etablissements et services prenant en charge des enfants ou adolescents présentant une déficience motrice (art. D312-60 à D312-82)](#433)
+                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-60 à D312-63)](#434)
+                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-64 à D312-65)](#435)
+                - [Sous-paragraphe 3 : Personnels. (art. D312-66 à D312-69)](#436)
+                - [Sous-paragraphe 4 : Installation. (art. D312-70 à D312-74)](#437)
+                - [Sous-paragraphe 5 : Service d'éducation spéciale et de soins à domicile. (art. D312-75 à D312-79)](#438)
+                - [Sous-paragraphe 6 : Dispositions diverses. (art. D312-80 à D312-82)](#439)
+              - [Paragraphe 3 : Etablissements et services prenant en charge des enfants ou adolescents polyhandicapés (art. D312-83 à D312-97)](#440)
+                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-83 à D312-85)](#441)
+                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-86 à D312-87)](#442)
+                - [Sous-paragraphe 3 : Les personnels. (art. D312-88 à D312-89)](#443)
+                - [Sous-paragraphe 4 : Installations. (art. D312-90 à D312-94)](#444)
+                - [Sous-paragraphe 5 : Services de soins et d'aide à domicile. (art. D312-95 à D312-97)](#445)
+              - [Paragraphe 4 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience auditive grave. (art. D312-98 à D312-110)](#446)
+              - [Paragraphe 5 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience visuelle grave ou de cécité. (art. D312-111 à D312-122)](#447)
+              - [Paragraphe 6 : Pouponnières à caractère social (art. D312-123 à D312-152)](#448)
+                - [Sous-paragraphe 1 : Locaux. (art. D312-123 à D312-136)](#449)
+                - [Sous-paragraphe 2 : Admission et surveillance des enfants. (art. D312-137 à D312-145)](#450)
+                - [Sous-paragraphe 3 : Personnel. (art. D312-146 à D312-150)](#451)
+                - [Sous-paragraphe 4 : Mesures administratives. (art. D312-151 à D312-152)](#452)
+              - [Paragraphe 7 : Centres spécialisés de soins aux toxicomanes. (art. D312-153)](#453)
+              - [Paragraphe 8 : Appartements de coordination thérapeutique. (art. D312-154 à D312-155)](#454)
+              - [Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes (art. D312-155-1 à D312-161)](#455)
+              - [Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés (art. D312-162 à D312-176)](#456)
+                - [Sous-paragraphe 1 : Services d'accompagnement à la vie sociale (art. D312-162 à D312-165)](#457)
+                - [Sous-paragraphe 2 : Les services d'accompagnement médico-social pour adultes handicapés (art. D312-166 à D312-169)](#458)
+                - [Sous-paragraphe 3 : Dispositions communes (art. D312-170 à D312-176)](#459)
+          - [Section 2 : Organismes consultatifs (art. R312-177 à R312-192)](#460)
+            - [Sous-section 1 : Section sociale du Comité national de l'organisation sanitaire et sociale (art. R312-177 à R312-179)](#461)
+            - [Sous-section 2 : Comités régionaux de l'organisation sociale et médico-sociale (art. R312-180 à R312-192)](#462)
+              - [Paragraphe 1 : Composition du comité régional de l'organisation sociale et médico-sociale. (art. R312-180 à R312-184)](#463)
+              - [Paragraphe 2 : Fonctionnement du comité. (art. R312-185 à R312-192)](#464)
+          - [Section 3 : Schémas d'organisation sociale et médico-sociale (art. D312-193 à D312-194)](#465)
+            - [Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale (art. D312-193 à D312-194)](#466)
+          - [Section 5 : Evaluation et systèmes d'information (art. R312-195 à R312-202)](#467)
+            - [Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale. (art. R312-195 à R312-202)](#468)
+        - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. R313-1 à D313-27)](#469)
+          - [Section 1 : Autorisation de création, d'extension ou de transformation (art. R313-1 à D313-14)](#470)
+            - [Sous-section 1 : Dispositions générales. (art. R313-1 à R313-10)](#471)
+            - [Sous-section 2 : Contrôle de conformité des établissements. (art. D313-11 à D313-14)](#472)
+          - [Section 3 : Contrats ou conventions pluriannuels (art. D313-15 à D313-24)](#473)
+            - [Sous-section 1 : Modalités de tarification des établissements mentionnés au I de l'article L. 313-12. (art. D313-15)](#474)
+            - [Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12. (art. D313-16 à D313-24)](#475)
+          - [Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux. (art. D313-25 à D313-27)](#476)
+        - [Chapitre IV : Dispositions financières (art. R314-1 à R314-204)](#477)
+          - [Section 1 : Règles de compétences en matière tarifaire. (art. R314-3)](#478)
+          - [Section 2 : Règles budgétaires de financement (art. R314-4 à R314-203)](#479)
+            - [Sous-section 1 : Dispositions générales relatives à la comptabilité, au budget et à la tarification (art. R314-4 à R314-63)](#480)
+              - [Paragraphe 1 : Principes comptables et budgétaires généraux. (art. R314-4 à R314-8)](#481)
+              - [Paragraphe 2 : Présentation budgétaire. (art. R314-9 à R314-13)](#482)
+              - [Paragraphe 3 : Fixation du tarif (art. R314-14 à R314-43)](#483)
+                - [Sous-paragraphe 1 : Etablissement des propositions budgétaires. (art. R314-14 à R314-20)](#484)
+                - [Sous-paragraphe 2 : Transmission des propositions budgétaires et procédure contradictoire. (art. R314-21 à R314-25)](#485)
+                - [Sous-paragraphe 3 : Dépenses pouvant être prises en charge (art. R314-26 à R314-27)](#486)
+                - [Sous-paragraphe 4 : Tableaux de bord. (art. R314-28 à R314-33)](#487)
+                - [Sous-paragraphe 5 : Décision d'autorisation budgétaire et de tarification. (art. R314-34 à R314-38)](#488)
+                - [Sous-paragraphe 6 : Fixation pluriannuelle du budget. (art. R314-39 à R314-43)](#489)
+              - [Paragraphe 4 : Exécution du budget (art. R314-44 à R314-55)](#490)
+                - [Sous-paragraphe 1 : Modifications budgétaires et gestion financière en cours d'exercice. (art. R314-44 à R314-48)](#491)
+                - [Sous-paragraphe 2 : Compte administratif de clôture. (art. R314-49 à R314-55)](#492)
+              - [Paragraphe 5 : Contrôle et évaluation (art. R314-56 à R314-62)](#493)
+                - [Sous-paragraphe 1 : Obligations des établissements et services. (art. R314-56 à R314-60)](#494)
+                - [Sous-paragraphe 2 : Opérations d'évaluation et de contrôle (art. R314-61 à R314-62)](#495)
+              - [Paragraphe 6 : Contentieux. (art. R314-63)](#496)
+            - [Sous-section 2 : Règles comptables et budgétaires applicables aux différentes catégories d'organismes gestionnaires (art. R314-64 à R314-104)](#497)
+              - [Paragraphe 1 : Règles applicables aux établissements publics sociaux et médico-sociaux (art. R314-64 à R314-74)](#498)
+                - [Sous-paragraphe 1 : Champ d'application et règles budgétaires générales. (art. R314-64 à R314-65)](#499)
+                - [Sous-paragraphe 2 : Directeur et comptable de l'établissement public. (art. R314-66 à R314-67)](#500)
+                - [Sous-paragraphe 3 : Exécution du budget. (art. R314-68 à R314-74)](#501)
+              - [Paragraphe 2 : Règles applicables aux établissements publics de santé gérant une activité sociale ou médico-sociale. (art. R314-75 à R314-77)](#502)
+              - [Paragraphe 3 : Règles applicables aux établissements sociaux et médico-sociaux gérés par d'autres personnes morales de droit public. (art. R314-78 à R314-79)](#503)
+              - [Paragraphe 4 : Règles applicables aux établissements et services gérés par des personnes morales de droit privé à but non lucratif (art. R314-80 à R314-100)](#504)
+                - [Sous-paragraphe 1 : Champ d'application et principes budgétaires et comptables. (art. R314-80 à R314-84)](#505)
+                - [Sous-paragraphe 2 : Dépenses autorisées. (art. R314-85 à R314-86)](#506)
+                - [Sous-paragraphe 3 : Frais de siège. (art. R314-87 à R314-94)](#507)
+                - [Sous-paragraphe 4 : Gestion financière. (art. R314-95 à R314-96)](#508)
+                - [Sous-paragraphe 5 : Fermeture de l'établissement ou du service. (art. R314-97 à R314-98)](#509)
+                - [Sous-paragraphe 6 : Contrôle et évaluation. (art. R314-99 à R314-100)](#510)
+              - [Paragraphe 5 : Règles applicables aux établissements et services gérés par des organismes à but lucratif ou non habilités à recevoir des bénéficiaires de l'aide sociale. (art. R314-101 à R314-104)](#511)
+            - [Sous-section 3 : Principes de financement et modalités de versement (art. R314-105 à R314-117)](#512)
+              - [Paragraphe 1 : Financement des établissements et services (art. R314-105)](#513)
+              - [Paragraphe 2 : Modalités de financement (art. R314-106 à R314-117)](#514)
+                - [Sous-paragraphe 1 : Dotation globale de financement. (art. R314-106 à R314-110)](#515)
+                - [Sous-paragraphe 2 : Dispositions propres aux dotations globales et forfaits globaux de soins relevant de l'assurance maladie. (art. R314-111 à R314-112)](#516)
+                - [Sous-paragraphe 3 : Prix de journée. (art. R314-113 à R314-114)](#517)
+                - [Sous-paragraphe 4 : Prix de journée globalisés. (art. R314-115 à R314-117)](#518)
+            - [Sous-section 4 : Dispositions propres à certaines catégories d'établissements (art. R314-118 à R314-196)](#519)
+              - [Paragraphe 1 : Etablissements et services accueillant des mineurs et jeunes adultes handicapés. (art. R314-118 à R314-122)](#520)
+              - [Paragraphe 2 : Centres d'action médico-sociale précoce. (art. R314-123 à R314-124)](#521)
+              - [Paragraphe 3 : Etablissements et services accueillant des mineurs ou des majeurs de moins de vingt et un ans confiés par l'autorité judiciaire. (art. R314-125 à R314-127)](#522)
+              - [Paragraphe 4 : Centres d'aide par le travail. (art. R314-128 à R314-129)](#523)
+              - [Paragraphe 5 : Services d'aide à domicile. (art. R314-130 à R314-136)](#524)
+              - [Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes. (art. R314-137 à R314-139)](#525)
+              - [Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées. (art. R314-140 à R314-146)](#526)
+              - [Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés. (art. R314-147 à R314-149)](#527)
+              - [Paragraphe 9 : Centres d'hébergement et de réinsertion sociale. (art. R314-150 à R314-157)](#528)
+              - [Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes (art. R314-158 à R314-193)](#529)
+                - [Sous-paragraphe 1 : Principes généraux de la tarification (art. R314-158 à R314-161)](#530)
+                - [Sous-paragraphe 2 : Modalités de détermination et de calcul des tarifs (art. R314-162 à R314-193)](#531)
+                  - [1  Structure tarifaire des établissements. (art. R314-162 à R314-166)](#532)
+                  - [2  Dispositions relatives aux prestations de soins. (art. R314-167 à R314-169)](#533)
+                  - [3  Evaluation du degré de dépendance des personnes hébergées dans les établissements. (art. R314-170 à R314-179)](#534)
+                  - [4  Tarifs journaliers afférents à l'hébergement et à la dépendance. (art. R314-180 à R314-184)](#535)
+                  - [5  Tarifs journaliers afférents aux soins et dotation globale de financement relative aux soins. (art. R314-185 à R314-186)](#536)
+                  - [6  Dispositions diverses. (art. R314-187 à R314-193)](#537)
+              - [Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services (art. R314-194 à R314-196)](#538)
+                - [Sous-paragraphe 1 : Accueil temporaire. (art. R314-194)](#539)
+                - [Sous-paragraphe 2 : Dispositions diverses. (art. R314-195 à R314-196)](#540)
+            - [Sous-section 5 : Dispositions relatives à la réglementation du travail (art. R314-197 à R314-203)](#541)
+              - [Paragraphe 1 : Conventions collectives et accords de retraite. (art. R314-197 à R314-200)](#542)
+              - [Paragraphe 2 : Durée du travail. (art. R314-201 à R314-203)](#543)
+          - [Section 3 : Dispositions diverses (art. R314-204)](#544)
+        - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public (art. R315-1 à D315-71)](#545)
+          - [Section 1 : Dispositions générales (art. R315-1 à R315-5)](#546)
+          - [Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique (art. R315-6 à D315-71)](#547)
+            - [Sous-section 1 : Composition et fonctionnement des conseils d'administration. (art. R315-6 à R315-23)](#548)
+            - [Sous-section 2 : Dispositions relatives au personnel. (art. R315-24 à R315-26)](#549)
+            - [Sous-section 3 : Modalités de concertation (art. R315-27 à R315-66)](#550)
+              - [Paragraphe 1 : Modalités de constitution des comités techniques d'établissement. (art. R315-27 à R315-50)](#551)
+              - [Paragraphe 2 : Attributions des comités techniques d'établissement. (art. R315-51)](#552)
+              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement. (art. D315-64 à R315-63)](#553)
+              - [Paragraphe 4 : Moyens de fonctionnement. (art. R315-65 à R315-66)](#554)
+            - [Sous-section 4 : Délégations. (art. D315-67 à D315-71)](#555)
+        - [Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation (art. D316-1 à D316-4)](#556)
+          - [Section unique : Lieux de vie et d'accueil (art. D316-1 à D316-4)](#557)
+      - [Titre II : Etablissements soumis à déclaration (art. R321-1 à R322-7)](#558)
+        - [Chapitre Ier : Accueil de mineurs. (art. R321-1 à R321-9)](#559)
+        - [Chapitre II : Accueil d'adultes. (art. R322-1 à R322-7)](#560)
+      - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration (art. D331-1 à R331-6)](#561)
+        - [Chapitre unique (art. D331-1 à R331-6)](#562)
+          - [Section 1 : Conseil départemental de l'enfance. (art. D331-1 à D331-4)](#563)
+          - [Section 2 : Surveillance des établissements. (art. R331-5)](#564)
+          - [Section 3 : Fermeture des établissements. (art. R331-6)](#565)
+      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. D341-1 à R346-1)](#566)
+        - [Chapitre Ier : Pouponnières. (art. D341-1 à D341-7)](#567)
+        - [Chapitre II : Hébergement de personnes âgées. (art. R342-1)](#568)
+        - [Chapitre IV : Centres pour handicapés adultes (art. R344-1 à D344-39)](#569)
+          - [Section 1 : Maisons d'accueil spécialisées. (art. R344-1 à R344-5)](#570)
+          - [Section 2 : Centres d'aide par le travail (art. R344-6 à D344-28)](#571)
+            - [Sous-section 1 : Dispositions générales. (art. R344-6 à R344-19)](#572)
+            - [Sous-section 2 : Exercice d'une activité extérieure. (art. D344-20 à D344-28)](#573)
+          - [Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes (art. R344-29 à D344-39)](#574)
+            - [Sous-section 1 : Contribution aux frais d'hébergement et d'entretien (art. R344-29 à R344-33)](#575)
+            - [Sous-section 2 : Minimum de ressources (art. D344-34 à D344-39)](#576)
+        - [Chapitre V : Centres d'hébergement et de réinsertion sociale (art. R345-1 à R345-7)](#577)
+          - [Section 1 : Activités et organisation (art. R345-1 à R345-3)](#578)
+          - [Section 2 : Accueil et séjour (art. R345-4 à R345-7)](#579)
+        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. R346-1)](#580)
+      - [Titre V : Contentieux de la tarification sanitaire et sociale (art. R351-1 à R351-41)](#581)
+        - [Chapitre unique (art. R351-1 à R351-41)](#582)
+          - [Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale (art. R351-1 à R351-14)](#583)
+            - [Sous-section 1 : Cour nationale de la tarification sanitaire et sociale. (art. R351-1 à R351-6)](#584)
+            - [Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale. (art. R351-7 à R351-14)](#585)
+          - [Section 2 : Règles de procédures applicables (art. R351-15 à R351-40)](#586)
+            - [Sous-section 1 : Introduction des recours. (art. R351-15 à R351-19)](#587)
+            - [Sous-section 2 : Instruction des recours et clôture de l'instruction. (art. R351-20 à R351-28)](#588)
+            - [Sous-section 3 : Séance de jugement et notification. (art. R351-29 à R351-37)](#589)
+            - [Sous-section 4 : Voies de recours. (art. R351-38 à R351-40)](#590)
+          - [Section 3 : Dispositions diverses. (art. R351-41)](#591)
+    - [Livre IV : Professions et activités d'accueil (art. R411-1 à R451-94)](#592)
+      - [Titre Ier : Assistants de service social (art. R411-1 à R411-3)](#593)
+        - [Chapitre unique. (art. R411-1 à R411-3)](#594)
+      - [Titre II : Assistants maternels (art. R421-1 à R422-21)](#595)
+        - [Chapitre Ier : Dispositions générales (art. R421-1 à R421-29)](#596)
+          - [Section 1 : Procédures d'agrément (art. R421-1 à R421-22)](#597)
+            - [Sous-section 1 : Conditions et modalités de délivrance de l'agrément. (art. R421-1 à R421-9)](#598)
+            - [Sous-section 2 : Renouvellement, suspension et retrait de l'agrément. (art. R421-10 à R421-13)](#599)
+            - [Sous-section 3 : Commission consultative paritaire départementale. (art. R421-14 à R421-22)](#600)
+          - [Section 2 : Modalités particulières relatives à l'activité. (art. R421-23 à R421-26)](#601)
+          - [Section 3 : Formation des assistants maternels. (art. D421-27)](#602)
+          - [Section 4 : Dispositions pénales. (art. R421-28 à R421-29)](#603)
+        - [Chapitre II : Assistants maternels employés par des personnes morales de droit public (art. R422-1 à R422-21)](#604)
+          - [Section 1 : Modalités de recrutement et conditions d'emploi. (art. D422-6 à R422-5)](#605)
+          - [Section 2 : Congés. (art. R422-8 à R422-19)](#606)
+          - [Section 3 : Discipline. (art. R422-20)](#607)
+          - [Section 4 : Licenciement. (art. R422-21)](#608)
+      - [Titre III : Autres professions (art. D431-1 à D431-3)](#609)
+        - [Chapitre unique : Techniciens de l'intervention sociale et familiale (art. D431-1 à D431-3)](#610)
+          - [Section unique : Exercice de la profession. (art. D431-1 à D431-3)](#611)
+      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. R441-1 à R442-1)](#612)
+        - [Chapitre Ier : Accueillants familiaux et modalités d'agrément (art. R441-1 à R441-15)](#613)
+          - [Section 1 : Modalités et délai d'instruction de la demande d'agrément. (art. R441-1 à R441-10)](#614)
+          - [Section 2 : Commission consultative de retrait. (art. R441-11 à R441-15)](#615)
+        - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial (art. D442-2 à R442-1)](#616)
+      - [Titre V : Formation des travailleurs sociaux (art. D451-5 à R451-94)](#617)
+        - [Chapitre unique : Dispositions générales (art. D451-5 à R451-94)](#618)
+          - [Section 1 : Etablissements de formation. (art. D451-5 à R451-4-3)](#619)
+          - [Section 2 : Bourses d'études. (art. D451-7)](#620)
+          - [Section 3 : Formations et diplômes (art. R451-11 à R451-94)](#621)
+            - [Sous-section 1 : Formations supérieures et diplômes d'encadrement (art. R451-11 à R451-28)](#622)
+              - [Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale. (art. R451-11 à R451-16)](#623)
+              - [Paragraphe 2 : Diplôme supérieur en travail social. (art. D451-17 à D451-19)](#624)
+              - [Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale. (art. R451-20 à R451-28)](#625)
+            - [Sous-section 2 : Formations et diplômes professionnels d'intervention sociale (art. D451-29 à R451-94)](#626)
+              - [Paragraphe 1 : Diplôme d'Etat d'assistant de service social. (art. D451-29 à R451-37)](#627)
+              - [Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé. (art. D451-41 à D451-46)](#628)
+              - [Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants. (art. D451-47 à D451-51)](#629)
+              - [Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé. (art. D451-52 à D451-56)](#630)
+              - [Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale. (art. D451-57)](#631)
+              - [Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation. (art. D451-58 à D451-65)](#632)
+              - [Paragraphe 7 : Diplôme d'Etat de médiateur familial. (art. R451-66 à R451-72)](#633)
+              - [Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur. (art. D451-73 à D451-80)](#634)
+              - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale. (art. D451-81 à D451-87)](#635)
+              - [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale. (art. R451-88 à R451-93)](#636)
+              - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique. (art. R451-94)](#637)
+    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. R521-1 à R571-1)](#638)
+      - [Titre II : Départements d'outre-mer (art. R521-1 à R523-1)](#639)
+        - [Chapitre Ier : Dispositions générales (art. R521-1 à R521-3)](#640)
+          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R521-1 à R521-2)](#641)
+          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R521-3)](#642)
+        - [Chapitre II : Revenu minimum d'insertion (art. R522-1 à R522-68)](#643)
+          - [Section 1 : Allocation (art. R522-1 à R522-3)](#644)
+          - [Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion (art. R522-4 à R522-7)](#645)
+          - [Section 3 : Agences d'insertion (art. R522-8 à R522-62)](#646)
+            - [Sous-section 1 : Organisation (art. R522-8 à R522-26)](#647)
+            - [Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale (art. R522-27 à R522-32)](#648)
+            - [Sous-section 3 : Dispositions financières et comptables (art. D522-35 à R522-39)](#649)
+            - [Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale (art. R522-40 à R522-55)](#650)
+            - [Sous-section 5 : Conventions avec les organismes utilisateurs (art. R522-56 à R522-62)](#651)
+          - [Section 4 : Revenu de solidarité (art. R522-63 à R522-68)](#652)
+        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. R523-1)](#653)
+          - [Section 2 : Aide à la famille (art. R523-1)](#654)
+      - [Titre III : Saint-Pierre-et-Miquelon (art. R531-1 à R533-1)](#655)
+        - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#656)
+          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R531-1)](#657)
+          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R531-2)](#658)
+        - [Chapitre II : Personnes handicapées (art. R532-1 à R532-5)](#659)
+        - [Chapitre IV : Adoption (art. R533-1)](#660)
+      - [Titre IV : Mayotte (art. R541-1 à R544-2)](#661)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R541-1)](#662)
+        - [Chapitre II : Aide sociale (art. D542-2 à R542-1)](#663)
+        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption (art. R544-1 à R544-2)](#664)
+          - [Section 1 : Organes chargés de la tutelle (art. R544-1)](#665)
+          - [Section 2 : Adoption (art. R544-2)](#666)
+            - [Sous-section 1 : Adoption des pupilles de l'Etat (art. R544-2)](#667)
+      - [Titre V : Territoire des Iles Wallis et Futuna (art. R551-1)](#668)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R551-1)](#669)
+      - [Titre VI : Polynésie française (art. R561-1)](#670)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R561-1)](#671)
+      - [Titre VII : Nouvelle-Calédonie (art. R571-1)](#672)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R571-1)](#673)
+  - [Annexe (art. Annexe 2-4 à Annexe 4-1)](#674)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -33531,11 +33530,310 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1614-28 (V)
 
 
-#### Chapitre III : Organisation administrative<a id=199></a>
+##### Section 2 : Communes.<a id=199></a>
 
-##### Section 2 : Centre communal ou intercommunal d'action sociale<a id=200></a>
+###### Article R121-2
 
-##### Sous-section 1 : Missions.<a id=201></a>
+En vue de la constitution du registre nominatif mentionné à l'article L. 121-6-1, le maire informe, par tous moyens
+appropriés, les habitants de la commune de la finalité de ce registre qui est exclusivement limité à la mise en oeuvre du
+plan d'alerte et d'urgence institué par l'article L. 116-3, du caractère facultatif de l'inscription, des modalités de celle-
+ci auprès des services municipaux ainsi que des catégories de services destinataires des informations collectées en cas de
+déclenchement du plan d'alerte et d'urgence et de l'existence d'un droit d'accès et de rectification des données nominatives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L116-3 (VT)
+  - Code de l'action sociale et des familles - art. L121-6-1 (V)
+
+
+###### Article R121-3
+
+Les personnes pouvant être inscrites sur le registre nominatif sont : 
+
+1° Les personnes âgées de 65 ans et plus, résidant à leur domicile ; 
+
+2° Les personnes mentionnées au second alinéa de l'article L. 113-1 résidant à leur domicile ; 
+
+3° Les personnes adultes handicapées bénéficiant de l'un des avantages prévus au titre IV du livre II ou d'une pension
+d'invalidité servie au titre d'un régime de base de la sécurité sociale ou du code des pensions militaires d'invalidité et
+des victimes de la guerre et résidant à leur domicile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L113-1 (V)
+
+
+###### Article R121-4
+
+Les informations figurant dans le registre nominatif sont :
+
+1° Les éléments relatifs à l'identité et à la situation à domicile de la personne inscrite sur le registre, à savoir :
+
+a) Ses nom et prénoms ;
+
+b) Sa date de naissance ;
+
+c) La qualité au titre de laquelle elle est inscrite sur le registre nominatif ;
+
+d) Son adresse ;
+
+e) Son numéro de téléphone ;
+
+f) Le cas échéant, les coordonnées du service intervenant à domicile ;
+
+g) Le cas échéant, la personne à prévenir en cas d'urgence ;
+
+2° Les éléments relatifs à la demande, à savoir :
+
+a) La date de la demande ;
+
+b) Le cas échéant, le nom et la qualité de la tierce personne ayant effectué la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R121-11 (V)
+  - Code de l'action sociale et des familles - art. R121-9 (V)
+
+
+###### Article R121-5
+
+En cas de changement de résidence au sein de la commune, la personne inscrite sur le registre nominatif ou son représentant
+légal communique sa nouvelle adresse au maire.
+
+En cas de changement de commune de résidence, la personne inscrite sur le registre nominatif ou son représentant légal en
+informe le maire. Cette information vaut demande de radiation du registre nominatif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+
+###### Article R121-6
+
+L'inscription sur le registre nominatif est opérée à tout moment dès la déclaration de la personne concernée ou de son
+représentant légal, qui utilise tout moyen à sa disposition, soit par écrit ou, le cas échéant, à l'aide d'un formulaire mis
+à disposition par le maire, soit sur appel téléphonique ou, le cas échéant, enregistrement au numéro d'appel prévu à cet
+effet, soit par courrier électronique.
+
+Lorsqu'elle émane d'un tiers, la demande d'inscription est faite par écrit.
+
+La demande est adressée au maire de la commune de résidence de l'intéressé. Le maire en accuse réception dans un délai de
+huit jours à la personne qui a demandé à être inscrite sur le registre nominatif ou à son représentant légal. Le maire
+informe l'intéressé qu'à défaut d'opposition de sa part la réception de l'accusé de réception vaut confirmation de son accord
+pour figurer sur le registre précité et qu'il peut en être radié à tout moment sur sa demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+
+###### Article R121-7
+
+Le maire assure la conservation des dossiers des demandeurs et prend toutes les précautions utiles pour préserver la
+confidentialité et la sécurité des renseignements collectés. 
+
+Seules les personnes nommément désignées par le maire sont habilitées à enregistrer, traiter, conserver et modifier les
+données du registre nominatif. 
+
+Les personnes concourant à la collecte des informations, à la constitution, à l'enregistrement et à la mise à jour du
+registre nominatif, ainsi que toutes celles ayant accès aux données contenues dans ce registre sont tenues au secret
+professionnel dans les conditions prévues aux articles 226-13,226-14 et 226-31 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code pénal - art. 226-13 (V)
+  - Code pénal - art. 226-31 (V)
+
+
+###### Article R121-8
+
+Le maire communique, à leur demande, au représentant de l'Etat dans le département et, à Paris, au préfet de police, en leur
+qualité d'autorité chargée de la mise en oeuvre du plan d'alerte d'urgence mentionné à l'article L. 116-3 dans des conditions
+propres à en assurer la confidentialité, le registre nominatif qu'il a constitué et régulièrement mis à jour. 
+
+Les autorités mentionnées au présent article et à l'article R. 121-10 sont tenues, lorsqu'elles ont connaissance du caractère
+inexact ou incomplet des données recueillies, de communiquer au maire les éléments permettant la mise à jour du registre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L116-3 (VT)
+  - Code de l'action sociale et des familles - art. R121-10 (V)
+
+
+###### Article R121-9
+
+Le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent communiquer, dans des conditions
+propres à en assurer la confidentialité, tout ou partie des informations mentionnées à l'article R. 121-4 aux autorités et
+aux services chargés, à l'occasion du plan d'alerte et d'urgence mentionné à l'article L. 116-3, de l'organisation et de la
+coordination des interventions à domicile pour la mise en oeuvre de ce plan, dans la mesure où cette communication est
+nécessaire à leur action. 
+
+Le représentant de l'Etat dans le département et, à Paris, le préfet de police ainsi que les autorités qu'ils en rendent
+destinataires prennent toutes les précautions utiles pour préserver la confidentialité et la sécurité des renseignements qui
+leur sont communiqués. A ce titre, le préfet désigne les personnes susceptibles d'être rendues destinataires de tout ou
+partie des données contenues dans les registres communaux et fixe la nature des données susceptibles de leur être
+communiquées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L116-3 (VT)
+  - Code de l'action sociale et des familles - art. R121-4 (V)
+
+
+###### Article R121-10
+
+Le droit d'accès et de rectification prévu par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
+aux libertés s'exerce auprès du maire de la commune où sont conservés les renseignements et de l'ensemble des destinataires
+des données. 
+
+Ce droit peut, le cas échéant, être exercé par le représentant légal de la personne inscrite au registre nominatif. 
+
+Toute personne figurant sur le registre nominatif qui fait usage de son droit d'accès et de rectification ne peut accéder
+qu'aux seules informations relatives à son inscription.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 (V)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R121-8 (V)
+
+
+###### Article R121-11
+
+Les données mentionnées à l'article R. 121-4 sont conservées jusqu'au décès de la personne en cause ou jusqu'à sa demande de
+radiation du registre nominatif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R121-4 (V)
+
+
+###### Article R121-12
+
+Les organismes mettant en oeuvre des traitements de données personnelles dans le respect de l'ensemble des dispositions du
+présent chapitre sont dispensés, par dérogation à l'article 12 du décret du 17 juillet 1978 pris pour l'application des
+chapitres Ier à IV et VII de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, de
+présenter à la Commission nationale de l'informatique et des libertés le dossier de demande d'avis ayant le même objet que
+ces dispositions. 
+
+Tout autre traitement des données recueillies dans les conditions de la présente section doit préalablement faire l'objet de
+formalités déclaratives auprès de la Commission nationale de l'informatique et des libertés, conformément aux dispositions de
+la loi du 6 janvier 1978 ci-dessus mentionnée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 (V)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+
+#### Chapitre III : Organisation administrative<a id=200></a>
+
+##### Section 2 : Centre communal ou intercommunal d'action sociale<a id=201></a>
+
+##### Sous-section 1 : Missions.<a id=202></a>
 
 ###### Article R123-1
 
@@ -33658,9 +33956,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R123-32 (V)
 
 
-##### Sous-section 2 : Dispositions relatives au centre communal d'action sociale<a id=202></a>
+##### Sous-section 2 : Dispositions relatives au centre communal d'action sociale<a id=203></a>
 
-##### Paragraphe 1 : Composition du conseil d'administration.<a id=203></a>
+##### Paragraphe 1 : Composition du conseil d'administration.<a id=204></a>
 
 ###### Article R123-7
 
@@ -33873,7 +34171,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 2 : Fonctionnement du conseil d'administration.<a id=204></a>
+##### Paragraphe 2 : Fonctionnement du conseil d'administration.<a id=205></a>
 
 ###### Article R123-16
 
@@ -34195,7 +34493,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R123-48 (V)
 
 
-##### Sous-section 3 : Dispositions relatives au centre intercommunal d'action sociale.<a id=205></a>
+##### Sous-section 3 : Dispositions relatives au centre intercommunal d'action sociale.<a id=206></a>
 
 ###### Article R123-27
 
@@ -34287,7 +34585,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 4 : Dispositions relatives aux sections des centres d'action sociale des communes associées.<a id=206></a>
+##### Sous-section 4 : Dispositions relatives aux sections des centres d'action sociale des communes associées.<a id=207></a>
 
 ###### Article R123-31
 
@@ -34481,9 +34779,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2113-16 (V)
 
 
-##### Sous-section 5 : Dispositions relatives au centre d'action sociale de la ville de Paris<a id=207></a>
+##### Sous-section 5 : Dispositions relatives au centre d'action sociale de la ville de Paris<a id=208></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=208></a>
+##### Paragraphe 1 : Dispositions générales.<a id=209></a>
 
 ###### Article R123-39
 
@@ -34567,8 +34865,8 @@ _Codifié par_:
 
 Le président du conseil d'administration nomme les agents du centre.
 
-Il peut, sous sa surveillance et sa responsabilité, déléguer une partie de ses fonctions ou sa signature aux vice-présidents
-et au directeur général.
+Il peut, sous sa surveillance et sa responsabilité, déléguer une partie de ses fonctions ou sa signature aux vice-présidents,
+au directeur général et aux responsables des services.
 
 **Liens relatifs à cet article**
 
@@ -34579,6 +34877,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 
 ###### Article R123-44
@@ -34699,7 +35001,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R123-7 (V)
 
 
-##### Paragraphe 2 : Dispositions relatives aux sections d'arrondissement et aux autres services du centre d'action sociale.<a id=209></a>
+##### Paragraphe 2 : Dispositions relatives aux sections d'arrondissement et aux autres services du centre d'action sociale.<a id=210></a>
 
 ###### Article R123-49
 
@@ -34989,9 +35291,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R123-49 (V)
 
 
-##### Sous-section 6 : Dispositions particulières applicables aux centres communaux d'action sociale de Marseille et de Lyon<a id=210></a>
+##### Sous-section 6 : Dispositions particulières applicables aux centres communaux d'action sociale de Marseille et de Lyon<a id=211></a>
 
-##### Paragraphe 1 : Marseille.<a id=211></a>
+##### Paragraphe 1 : Marseille.<a id=212></a>
 
 ###### Article R123-62
 
@@ -35036,7 +35338,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 2 : Lyon.<a id=212></a>
+##### Paragraphe 2 : Lyon.<a id=213></a>
 
 ###### Article R123-64
 
@@ -35081,9 +35383,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-### Titre III : Procédures<a id=213></a>
+### Titre III : Procédures<a id=214></a>
 
-#### Chapitre Ier : Admission<a id=214></a>
+#### Chapitre Ier : Admission<a id=215></a>
 
 ###### Article R131-1
 
@@ -35357,9 +35659,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2512-10 (M)
 
 
-#### Chapitre II : Participation et récupération<a id=215></a>
+#### Chapitre II : Participation et récupération<a id=216></a>
 
-##### Section 1 : Appréciation des revenus des postulants.<a id=216></a>
+##### Section 1 : Appréciation des revenus des postulants.<a id=217></a>
 
 ###### Article R132-1
 
@@ -35392,7 +35694,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R471-5-2 (VD)
 
 
-##### Section 2 : Participation des personnes accueillies en établissement pour personnes âgées.<a id=217></a>
+##### Section 2 : Participation des personnes accueillies en établissement pour personnes âgées.<a id=218></a>
 
 ###### Article R132-2
 
@@ -35540,7 +35842,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R132-4 (VT)
 
 
-##### Section 3 : Participation des familles.<a id=218></a>
+##### Section 3 : Participation des familles.<a id=219></a>
 
 ###### Article R132-8
 
@@ -35577,7 +35879,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R541-3 (VD)
 
 
-##### Section 4 : Mise en jeu de l'obligation alimentaire.<a id=219></a>
+##### Section 4 : Mise en jeu de l'obligation alimentaire.<a id=220></a>
 
 ###### Article R132-9
 
@@ -35638,7 +35940,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L132-8 (M)
 
 
-##### Section 5 : Recours en récupération.<a id=220></a>
+##### Section 5 : Recours en récupération.<a id=221></a>
 
 ###### Article R132-11
 
@@ -35706,7 +36008,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R541-3 (VD)
 
 
-##### Section 6 : Hypothèque légale.<a id=221></a>
+##### Section 6 : Hypothèque légale.<a id=222></a>
 
 ###### Article R132-13
 
@@ -35800,9 +36102,9 @@ _Cite_:
   - Code de l'action sociale et des familles R132-13 à R132-15, R132-11
 
 
-#### Chapitre IV : Contentieux<a id=222></a>
+#### Chapitre IV : Contentieux<a id=223></a>
 
-##### Section 1 : Commission départementale.<a id=223></a>
+##### Section 1 : Commission départementale.<a id=224></a>
 
 ###### Article R134-1
 
@@ -35841,7 +36143,7 @@ _Abrogé par_:
   - Décret n°2018-928 du 29 octobre 2018 - art. 4
 
 
-##### Section 2 : Commission centrale d'aide sociale.<a id=224></a>
+##### Section 2 : Commission centrale d'aide sociale.<a id=225></a>
 
 ###### Article R134-3
 
@@ -36001,7 +36303,7 @@ _Abrogé par_:
   - Décret n°2018-928 du 29 octobre 2018 - art. 4
 
 
-##### Section 3 : Dispositions communes.<a id=225></a>
+##### Section 3 : Dispositions communes.<a id=226></a>
 
 ###### Article R134-10
 
@@ -36093,9 +36395,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D311-1 (V)
 
 
-### Titre IV : Institutions<a id=226></a>
+### Titre IV : Institutions<a id=227></a>
 
-#### Chapitre Ier : Haut Conseil de la population et de la famille.<a id=227></a>
+#### Chapitre Ier : Haut Conseil de la population et de la famille.<a id=228></a>
 
 ###### Article D*141-1
 
@@ -36251,7 +36553,7 @@ _Abrogé par_:
   - Décret n°2008-1112 du 30 octobre 2008 - art. 1
 
 
-#### Chapitre II : Conseil supérieur du travail social<a id=228></a>
+#### Chapitre II : Conseil supérieur du travail social<a id=229></a>
 
 ###### Article D142-1
 
@@ -36299,7 +36601,7 @@ _Cité par_:
   - Décret n°2015-626 du 5 juin 2015 - art. Annexe II (V)
 
 
-#### Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale<a id=229></a>
+#### Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale<a id=230></a>
 
 ###### Article D143-6
 
@@ -36550,7 +36852,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R143-2 (V)
 
 
-#### Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale<a id=230></a>
+#### Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale<a id=231></a>
 
 ###### Article R144-1
 
@@ -36648,253 +36950,35 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre V : Coordination des interventions<a id=231></a>
+#### Chapitre V : Coordination des interventions<a id=232></a>
 
-##### Section 1 : Comité départemental de coordination des politiques de prévention et de lutte contre les exclusions.<a id=232></a>
+##### Section 1 : Conventions entre les acteurs engagés dans la prévention et la lutte contre les exclusions.<a id=233></a>
 
-###### Article D145-1
-
-Le comité départemental de coordination des politiques de prévention et de lutte contre les exclusions est composé comme
-suit :
-
-1° Le préfet du département, président du comité ;
-
-2° Le président du conseil régional ou son représentant ;
-
-3° Le président du conseil général ou son représentant ;
-
-4° Dans les départements autres que Paris : trois maires, désignés par l'association départementale des maires, dont deux au
-moins d'une commune de plus de dix mille habitants, ou, si le département ne comporte pas deux communes répondant à cette
-condition, trois maires, dont deux au moins d'une commune de plus de trois mille cinq cents habitants ; en cas de pluralité
-d'associations, les maires sont désignés par accord conjoint des présidents d'associations des maires du département ; à
-défaut d'accord, la désignation est faite par le préfet ;
-
-5° À Paris, le maire de Paris et trois membres du conseil de Paris ;
-
-6° Un président d'établissement public de coopération intercommunale désigné par les élus membres de la commission
-départementale de coopération intercommunale, en son sein ;
-
-7° Le président du conseil d'administration, ou son représentant, de chacun des organismes de sécurité sociale qui, dans le
-cadre d'une compétence départementale ou infra-départementale, d'une part, servent les prestations du régime général
-d'assurance maladie et, d'autre part, sont débiteurs des prestations familiales ;
-
-8° Des membres désignés en leur sein par les organismes mentionnés au premier alinéa de l'article L. 145-2 à raison d'un
-membre pour chaque organisme, parmi les membres des collèges autres que ceux de l'Etat et des collectivités territoriales.
-
-Les représentants de l'Etat et des collectivités territoriales se font assister par les collaborateurs de leur choix.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°99-831 du 17 septembre 1999 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L145-2 (Ab)
-
-
-###### Article D145-2
-
-Un bureau est constitué au sein du comité. Il comprend :
-
-1° Le préfet du département ;
-
-2° Le président du conseil régional ou son représentant ;
-
-3° Le président du conseil général ou son représentant ;
-
-4° Dans les départements autres que Paris, les maires et le président d'établissement public de coopération intercommunale
-siégeant au sein du comité ;
-
-5° À Paris, le maire de Paris et les trois membres du conseil de Paris siégeant au sein du comité.
-
-Le bureau, réuni en tant que de besoin par le président du comité, prépare les avis et propositions qui seront soumis à la
-délibération du comité.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°99-831 du 17 septembre 1999 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-###### Article D145-3
-
-Sur la base d'un rapport établi par le préfet du département, le comité établit un diagnostic des besoins et examine
-l'adéquation à ceux-ci des différents programmes d'action pour ce qui concerne la prévention et la lutte contre les
-exclusions. Il formule toutes propositions visant à favoriser le développement et l'efficacité des politiques correspondantes
-dans le département, à renforcer la cohérence des différents programmes, plans et schémas départementaux et à assurer une
-meilleure coordination de leur mise en oeuvre dans le ressort géographique le plus approprié à la prévention et à la lutte
-contre les exclusions.
-
-Le comité peut proposer aux autorités compétentes des réunions conjointes d'instances intervenant en matière de prévention et
-de lutte contre les exclusions pour l'exercice de tout ou partie de leurs compétences.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°98-657 1998-07-29 art. 155 al. 4 et 5
-  - Loi n°98-657 du 29 juillet 1998 - art. 155 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-###### Article D145-4
-
-Le préfet du département transmet chaque année au comité un rapport sur les politiques de prévention des exclusions et de
-lutte contre celles-ci dans le département.
-
-Ce rapport a notamment pour objet d'analyser les modalités d'évaluation des besoins des personnes en situation ou menacées
-par l'exclusion, au regard en particulier de l'emploi, du logement et de la santé.
-
-Le rapport porte également sur l'adéquation à ces besoins des politiques conduites dans le département et peut formuler
-toutes propositions de nature à en améliorer l'efficacité.
-
-Pour l'établissement du rapport, les services des collectivités territoriales apportent leur concours technique aux services
-de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°99-831 du 17 septembre 1999 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-###### Article D145-5
-
-Sur la base de ce rapport, le comité analyse l'efficacité des dispositifs de prévention des exclusions et de lutte contre
-celles-ci organisés dans le département.
-
-Il analyse les modalités de participation des communes et des établissements publics de coopération intercommunale à la
-définition et à la mise en oeuvre des politiques de prévention des exclusions et de lutte contre celles-ci.
-
-Il analyse les modalités selon lesquelles est évalué l'impact de ces politiques.
-
-Il formule des avis et des propositions susceptibles d'améliorer l'efficience des politiques menées, notamment en ce qui
-concerne le choix du niveau territorial approprié pour les mettre en oeuvre et la coordination des intervenants.
-
-Il peut proposer aux autorités compétentes des réunions conjointes d'instances intervenant en matière de prévention et de
-lutte contre les exclusions pour exercer en commun tout ou partie de leurs attributions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°99-831 du 17 septembre 1999 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-###### Article D145-6
-
-Le préfet du département transmet chaque année les avis et propositions du comité, auxquels est annexé son rapport, à chacun
-des organismes mentionnés au premier alinéa de l'article L. 145-2, ainsi qu'au conseil départemental de l'habitat.
-
-Le comité consacre au moins une séance par an à l'examen des suites données à ses avis et propositions.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'action sociale et des familles annexe, L145-2
-
-_Anciens textes_:
-
-  - Décret n°99-831 du 17 septembre 1999 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-###### Article D145-7
-
-Le comité peut valablement siéger en présence de la moitié au moins de ses membres.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°99-831 du 17 septembre 1999 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-##### Section 2 : Conventions entre les acteurs engagés dans la prévention et la lutte contre les exclusions.<a id=233></a>
-
-###### Article R145-8
+###### Article R145-1
 
 La coordination entre les acteurs chargés de la prévention et de la lutte contre les exclusions est assurée par la conclusion
 de conventions entre l'Etat, les collectivités territoriales et les organismes intervenant en cette matière.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°99-1230 du 31 décembre 1999 - art. 1 (Ab)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. R145-1 (Ab)
+  - Décret n°2007-1436 du 4 octobre 2007 - art. 7 (V) JORF 6 octobre 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R145-8 (T)
 
 
-###### Article R145-9
+###### Article R145-2
 
 Les conventions peuvent être conclues en application des contrats de ville mentionnés à l'article 27 de la loi n° 99-533 du
 25 juin 1999 d'orientation pour l'aménagement et le développement durable du territoire et portant modification de la loi n°
@@ -36907,45 +36991,45 @@ _Cite_:
   - Loi n°95-115 1995-02-04
   - Loi n°99-533 du 25 juin 1999 - art. 27 (V)
 
-_Anciens textes_:
-
-  - Décret n°99-1230 du 31 décembre 1999 - art. 2 (Ab)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. R145-2 (Ab)
+  - Décret n°2007-1436 du 4 octobre 2007 - art. 7 (V) JORF 6 octobre 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R145-9 (T)
 
 
-###### Article R145-10
+###### Article R145-3
 
 Les conventions prévoient les modalités d'adhésion de nouvelles parties signataires, postérieurement à leur entrée en
 vigueur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°99-1230 du 31 décembre 1999 - art. 3 (Ab)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. R145-3 (Ab)
+  - Décret n°2007-1436 du 4 octobre 2007 - art. 7 (V) JORF 6 octobre 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R145-10 (T)
 
 
 #### Chapitre VI : Consultation des personnes handicapées<a id=234></a>
@@ -39496,7 +39580,7 @@ six, par le ministre chargé des personnes handicapées, après consultation du 
 six, par le ministre chargé des personnes âgées, après consultation du directeur de la caisse ;
 
 3° Un représentant du Conseil national de l'évaluation sociale et médico-sociale mentionné à l'article L. 312-8, choisi par
-ce conseil parmi les personnalités qualifiées mentionnées au 8° de l'article R. 312-175 ;
+ce conseil parmi les personnalités qualifiées mentionnées au 8° de l'article R. 312-196 ;
 
 4°  Le directeur de la recherche, des études, de l'évaluation et des statistiques du ministère chargé de la santé ou son
 représentant ;
@@ -39532,13 +39616,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 5 (V) JORF 10 septembre 2005
 
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L14-10-3 (V)
   - Code de l'action sociale et des familles - art. L312-8 (M)
-  - Code de l'action sociale et des familles - art. R312-175 (T)
+  - Code de l'action sociale et des familles - art. R312-196 (M)
 
 
 ##### Sous-section 2 : Rôle et modalités de fonctionnement<a id=256></a>
@@ -42031,31 +42115,6 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R225-4 (VD)
 
 
-###### Article R225-6
-
-L'agrément est délivré pour l'accueil d'un enfant ou de plusieurs enfants simultanément. Il peut être assorti d'une notice de
-renseignements mentionnant le nombre, l'âge ou les caractéristiques des enfants.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°98-771 du 1 septembre 1998 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D225-6 (M)
-  - Code de l'action sociale et des familles - art. D225-6 (V)
-
-
 ###### Article R225-7
 
 Toute personne titulaire de l'agrément doit confirmer au président du conseil général de son département de résidence, chaque
@@ -42208,15 +42267,15 @@ _Cite_:
 ###### Article R225-12
 
 Pour obtenir l'autorisation de servir d'intermédiaire pour l'adoption ou le placement en vue d'adoption de mineurs de quinze
-ans, une personne morale de droit privé doit être en mesure d'exercer l'ensemble des activités suivantes :
+ans, une personne morale de droit privé doit être en mesure d'exercer l'ensemble des activités suivantes : 
 
-1° Aide à la préparation du projet d'adoption et conseils pour la constitution du dossier ;
+1° Aide à la préparation du projet d'adoption et conseils pour la constitution du dossier ; 
 
-2° Information sur les aspects techniques et juridiques de la procédure d'adoption ;
+2° Information sur les aspects techniques et juridiques de la procédure d'adoption ; 
 
-3° Accompagnement de la famille après l'arrivée de l'enfant dans les conditions fixées à l'article L. 225-16.
+3° Accompagnement de la famille après l'arrivée de l'enfant dans les conditions fixées à l'article L. 225-18. 
 
-La personne morale autorisée est dite "organisme autorisé pour l'adoption".
+La personne morale autorisée est dite " organisme autorisé pour l'adoption ".
 
 **Liens relatifs à cet article**
 
@@ -42230,9 +42289,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L225-16 (T)
+  - Code de l'action sociale et des familles - art. L225-18 (V)
 
 _Cité par_:
 
@@ -49295,100 +49358,17 @@ _Abrogé par_:
 
 ##### Paragraphe 1 : Aide au paiement des factures impayées.<a id=367></a>
 
-###### Article D261-2
-
-Pour décider d'attribuer ou non une aide et en fixer le montant, les commissions se fondent sur les critères suivants :
-
-- le quotient social du foyer tel que défini ci-dessous ;
-
-- la part de la facture d'électricité dans les ressources du foyer telles que définies ci-dessous.
-
-Elles tiennent également compte des éléments d'appréciation suivants :
-
-1° Les charges du foyer ;
-
-2° La situation familiale du demandeur ;
-
-3° La situation de santé des personnes vivant au foyer ;
-
-4° L'existence d'un éventuel handicap ;
-
-5° Les caractéristiques du logement et de son équipement électrique ;
-
-6° La présence au foyer d'enfants ou de personnes âgées ;
-
-7° L'existence d'un éventuel surendettement.
-
-Le quotient social est calculé comme le quotient de l'ensemble des ressources du foyer, telles que définies au dernier alinéa
-de l'article 20 du décret n° 99-897 du 22 octobre 1999 relatif aux plans départementaux d'action pour le logement des
-personnes défavorisées et aux fonds de solidarité pour le logement, par le nombre d'unités de consommation composant le
-foyer.
-
-Les personnes composant le foyer sont prises en compte en tant qu'unités de consommation, déterminées suivant les
-dispositions du présent alinéa. La première ou seule personne du foyer constitue une unité de consommation ; la deuxième
-personne est prise en compte pour 0,5 unité de consommation, la troisième personne et chaque personne supplémentaire pour 0,3
-unité de consommation. Lorsque le foyer comporte plus de deux enfants ou personnes de moins de vingt-cinq ans à charge, à
-l'exception du conjoint ou du concubin ou de la personne avec laquelle a été conclu un pacte civil de solidarité, chacune des
-personnes à partir du troisième enfant ou de la troisième personne constitue 0,4 unité de consommation.
-
-Les commissions départementales ne peuvent fonder une décision de refus sur le seul motif de l'origine, de la fréquence ou de
-la régularité des revenus ou du montant de la dette du demandeur à l'égard du distributeur d'électricité.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°99-897 du 22 octobre 1999 - art. 20 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°2001-531 du 20 juin 2001 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. D261-5 (Ab)
-
-
-###### Article D261-3
-
-L'aide attribuée consiste en une prise en charge totale ou partielle du paiement au distributeur des factures impayées. Cette
-prise en charge peut être effectuée sous forme de subvention, d'avance remboursable, ou des deux, selon la situation du
-demandeur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2001-531 du 20 juin 2001 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
 ###### Article R261-1
 
 Toute personne physique titulaire d'un contrat de fourniture d'électricité éprouvant des difficultés à s'acquitter de la
 facture d'électricité de sa résidence principale en raison d'une situation de précarité, et qui n'aura pas pu trouver
-d'accord avec son distributeur sur un règlement amiable, peut déposer auprès du secrétariat de la commission départementale
-mentionnée à l'article R. 261-6 une demande d'aide au paiement des factures d'électricité, le cas échéant et si elle le
-souhaite par l'intermédiaire et avec l'appui des services sociaux.
+d'accord avec son distributeur sur un règlement amiable, peut déposer auprès du fonds de solidarité pour le logement une
+demande d'aide au paiement des factures d'électricité, le cas échéant et si elle le souhaite par l'intermédiaire et avec
+l'appui des services sociaux.
 
 Toute personne physique, menacée d'une suspension de fourniture pour cause d'impayé, ayant déposé un dossier de demande
-d'aide bénéficie, dans l'attente de la décision de la commission départementale, du maintien de la fourniture d'électricité
-avec une puissance minimale de 3 kVA.
+d'aide bénéficie, dans l'attente de la décision du fonds de solidarité pour le logement, du maintien de la fourniture
+d'électricité avec une puissance minimale de 3 kVA.
 
 **Liens relatifs à cet article**
 
@@ -49407,207 +49387,44 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D261-4 (Ab)
   - Code de l'action sociale et des familles - art. D261-5 (Ab)
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. R261-6 (Ab)
-
-
-##### Paragraphe 2 : Mesures de prévention.<a id=368></a>
-
-###### Article D261-4
-
-Les commissions départementales peuvent également indiquer aux personnes mentionnées au premier alinéa de l'article R. 261-1,
-qu'elles aient ou non bénéficié d'une aide, les mesures et informations visant à réduire les factures à venir ou à en
-faciliter le paiement, telles qu'un conseil en matière de maîtrise de la demande d'électricité, un conseil tarifaire, un
-bilan de l'installation électrique, une recherche du financement en vue de la rénovation de l'installation électrique, une
-mise en place de comptages appropriés. Ces indications et propositions sont élaborées en liaison avec les distributeurs
-d'électricité.
-
-Les commissions départementales peuvent également informer ces personnes sur les organismes susceptibles d'apporter une aide
-à la gestion de leur budget.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2001-531 du 20 juin 2001 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. R261-1 (M)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. R261-6 (Ab)
-
-
-###### Article D261-5
-
-Selon des modalités précisées dans les conventions départementales, les commissions départementales peuvent faire bénéficier
-les personnes physiques mentionnées au premier alinéa de l'article R. 261-1 et selon les critères mentionnés à l'article D.
-261-2, des aides préventives au paiement des factures d'électricité sur la base des consommations annuelles à venir estimées
-par les distributeurs d'électricité. Ces aides peuvent être attribuées soit à leur propre initiative lors de l'examen d'une
-demande d'aide au paiement de factures impayées, soit sur la base d'une demande spécifique émanant de ces personnes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2001-531 du 20 juin 2001 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
 _Abrogé par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D261-2 (Ab)
-  - Code de l'action sociale et des familles - art. R261-1 (M)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. R261-6 (Ab)
+  - Décret n°2008-780 du 13 août 2008 - art. 15
 
 
-##### Paragraphe 3 : Fonctionnement des commissions.<a id=369></a>
+##### Sous-section 2 : Gaz.<a id=368></a>
 
-###### Article R261-6
-
-Les commissions départementales sont mises en place dans le cadre des conventions départementales prévues au troisième alinéa
-de l'article L. 261-4. Elles sont compétentes pour procéder à l'attribution des aides à la fourniture d'électricité prévues à
-l'article 2 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de
-l'électricité, ainsi qu'à la définition des actions de prévention prévues aux articles D. 261-4 et D. 261-5.
-
-Chaque commission départementale attribue les aides et en détermine le montant.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2000-108 du 10 février 2000 - art. 2 (M)
-  - Code de l'action sociale et des familles - art. D261-4 (Ab)
-  - Code de l'action sociale et des familles - art. D261-5 (Ab)
-  - Code de l'action sociale et des familles - art. L261-4 (V)
-
-_Anciens textes_:
-
-  - Décret n°2001-531 du 20 juin 2001 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. R261-1 (M)
-
-
-###### Article R261-7
-
-L'entreprise EDF et les distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 modifiée
-sur la nationalisation de l'électricité et du gaz fournissent aux commissions départementales les seules informations
-nécessaires au traitement des demandes d'aide et à la proposition des mesures de prévention.
-
-Ils concourent au financement de l'ensemble des mesures prévues par la présente sous-section, y compris les coûts de
-fonctionnement liés au secrétariat des commissions départementales, selon les modalités définies par la convention nationale
-et par les conventions départementales prévues à l'article L. 261-4.
-
-Chaque convention départementale, prévue au troisième alinéa de l'article L. 261-4, fixe les modalités de fonctionnement
-retenues pour la commission départementale et, en particulier, le délai maximal entre la date du dépôt d'une demande et la
-notification de la décision. Elle précise les modalités d'information des consommateurs sur les dispositions découlant de la
-présente sous-section.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°46-628 du 8 avril 1946 - art. 23 (M)
-  - Code de l'action sociale et des familles - art. L261-4 (V)
-
-_Anciens textes_:
-
-  - Décret n°2001-531 du 20 juin 2001 - art. 7 (Ab)
-  - Décret n°2001-531 du 20 juin 2001 - art. 9 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-###### Article R261-8
-
-Les commissions départementales établissent un rapport d'activité annuel portant sur les actions d'aide à la fourniture
-d'électricité auxquelles elles ont concouru.
-
-Ce rapport fait apparaître la contribution de chaque signataire de la convention départementale.
-
-Ce rapport est transmis à l'observatoire régional du service public de l'électricité.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2001-531 du 20 juin 2001 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-##### Sous-section 2 : Gaz.<a id=370></a>
-
-###### Article R261-9
+###### Article R261-2
 
 Les fournisseurs de gaz alimentant, directement ou indirectement, des clients domestiques, participent à un dispositif de
 maintien de la fourniture aux personnes en situation de précarité dans les conditions prévues à la sous-section 1.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-251 2004-03-19 art. 7
-  - Décret n°2004-251 du 19 mars 2004 - art. 7 (Ab)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. R261-2 (V)
+  - Décret n°2008-780 du 13 août 2008 - art. 15
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R261-9 (T)
 
 
-##### Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées.<a id=371></a>
+##### Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées.<a id=369></a>
 
-###### Article R261-10
+###### Article R261-3
 
 Les dispositions relatives à l'aide aux organismes logeant à titre temporaire des personnes défavorisées sont fixées aux
 articles R. 851-1 à R. 852-3 du code de la sécurité sociale.
@@ -49618,22 +49435,22 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 _Cite_:
 
-  - Code de la sécurité sociale R851-1 à R852-3
+  - Code de la sécurité sociale. - art. R851-1 (V)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R261-3 (V)
+  - Code de l'action sociale et des familles - art. R261-10 (T)
 
 
-#### Chapitre II : Revenu minimum d'insertion<a id=372></a>
+#### Chapitre II : Revenu minimum d'insertion<a id=370></a>
 
-##### Section 1 : Dispositions générales<a id=373></a>
+##### Section 1 : Dispositions générales<a id=371></a>
 
 ###### Article R262-1
 
@@ -49719,9 +49536,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-6 (V)
 
 
-##### Section 2 : Conditions d'ouverture du droit à l'allocation<a id=374></a>
+##### Section 2 : Conditions d'ouverture du droit à l'allocation<a id=372></a>
 
-##### Sous-section 1 : Détermination des ressources.<a id=375></a>
+##### Sous-section 1 : Détermination des ressources.<a id=373></a>
 
 ###### Article R262-3
 
@@ -50309,9 +50126,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D553-1 (V)
 
 
-##### Sous-section 2 : Dispositions propres aux ressources professionnelles des non-salariés<a id=376></a>
+##### Sous-section 2 : Dispositions propres aux ressources professionnelles des non-salariés<a id=374></a>
 
-##### Paragraphe 1 : Conditions d'accès à l'allocation.<a id=377></a>
+##### Paragraphe 1 : Conditions d'accès à l'allocation.<a id=375></a>
 
 ###### Article R262-14
 
@@ -50423,7 +50240,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D553-1 (M)
 
 
-##### Paragraphe 2 : Evaluation des revenus professionnels non salariés.<a id=378></a>
+##### Paragraphe 2 : Evaluation des revenus professionnels non salariés.<a id=376></a>
 
 ###### Article R262-17
 
@@ -50605,9 +50422,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Attribution de l'allocation<a id=379></a>
+##### Section 3 : Attribution de l'allocation<a id=377></a>
 
-##### Sous-section 1 : Agrément pour le recueil des demandes d'allocation.<a id=380></a>
+##### Sous-section 1 : Agrément pour le recueil des demandes d'allocation.<a id=378></a>
 
 ###### Article R262-23
 
@@ -50757,7 +50574,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R262-23 (M)
 
 
-##### Sous-section 2 : Agrément pour la réception des déclarations d'élection de domicile.<a id=381></a>
+##### Sous-section 2 : Agrément pour la réception des déclarations d'élection de domicile.<a id=379></a>
 
 ###### Article R262-28
 
@@ -50936,7 +50753,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R262-40 (V)
 
 
-##### Sous-section 3 : Liquidation, versement et révision de l'allocation.<a id=382></a>
+##### Sous-section 3 : Liquidation, versement et révision de l'allocation.<a id=380></a>
 
 ###### Article D262-40
 
@@ -51178,7 +50995,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R262-1 (V)
 
 
-##### Sous-section 4 : Suspension ou réduction de l'allocation.<a id=383></a>
+##### Sous-section 4 : Suspension ou réduction de l'allocation.<a id=381></a>
 
 ###### Article R262-45
 
@@ -51273,7 +51090,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R522-1 (V)
 
 
-##### Sous-section 5 : Contrôle.<a id=384></a>
+##### Sous-section 5 : Contrôle.<a id=382></a>
 
 ###### Article D262-49
 
@@ -51323,7 +51140,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L262-33 (M)
 
 
-##### Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés.<a id=385></a>
+##### Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés.<a id=383></a>
 
 ###### Article R262-50
 
@@ -51515,9 +51332,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R262-50 (M)
 
 
-##### Sous-section 7 : Conventions conclues entre le département et les organismes payeurs<a id=386></a>
+##### Sous-section 7 : Conventions conclues entre le département et les organismes payeurs<a id=384></a>
 
-##### Paragraphe 1 : Missions exercées par les organismes payeurs à titre gratuit.<a id=387></a>
+##### Paragraphe 1 : Missions exercées par les organismes payeurs à titre gratuit.<a id=385></a>
 
 ###### Article D262-59
 
@@ -51616,7 +51433,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R522-1 (V)
 
 
-##### Paragraphe 2 : Autres missions pouvant être exercées par les organismes payeurs.<a id=388></a>
+##### Paragraphe 2 : Autres missions pouvant être exercées par les organismes payeurs.<a id=386></a>
 
 ###### Article D262-63
 
@@ -51716,7 +51533,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R545-2 (VD)
 
 
-##### Paragraphe 3 : Relations financières entre l'organisme payeur et le département.<a id=389></a>
+##### Paragraphe 3 : Relations financières entre l'organisme payeur et le département.<a id=387></a>
 
 ###### Article D262-67
 
@@ -51754,7 +51571,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L262-31 (M)
 
 
-##### Paragraphe 4 : Dispositions communes et transitoires.<a id=390></a>
+##### Paragraphe 4 : Dispositions communes et transitoires.<a id=388></a>
 
 ###### Article D262-68
 
@@ -51865,7 +51682,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R522-1 (V)
 
 
-##### Section 5 : Recours et récupération<a id=391></a>
+##### Section 5 : Recours et récupération<a id=389></a>
 
 ###### Article R262-72
 
@@ -51921,9 +51738,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R522-1 (V)
 
 
-##### Section 6 : Suivi statistique, évaluation et contrôle<a id=392></a>
+##### Section 6 : Suivi statistique, évaluation et contrôle<a id=390></a>
 
-##### Sous-section 1 : Informations relatives au revenu minimum d'insertion et au contrat insertion-revenu minimum d'activité.<a id=393></a>
+##### Sous-section 1 : Informations relatives au revenu minimum d'insertion et au contrat insertion-revenu minimum d'activité.<a id=391></a>
 
 ###### Article D262-74
 
@@ -52155,7 +51972,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R522-1 (V)
 
 
-##### Sous-section 2 : Informations relatives aux minima sociaux.<a id=394></a>
+##### Sous-section 2 : Informations relatives aux minima sociaux.<a id=392></a>
 
 ###### Article R262-83
 
@@ -52325,9 +52142,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-6 (V)
 
 
-#### Chapitre III : Actions d'insertion<a id=395></a>
+#### Chapitre III : Actions d'insertion<a id=393></a>
 
-##### Section 1 : Dispositif départemental d'insertion<a id=396></a>
+##### Section 1 : Dispositif départemental d'insertion<a id=394></a>
 
 ###### Article R263-1
 
@@ -52385,28 +52202,16 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L263-5
 
 
-##### Section 4 : Fonds d'aide aux jeunes en difficulté<a id=397></a>
-
-##### Sous-section 1 : Fonds départementaux.<a id=398></a>
+##### Section 4 : Personnes bénéficiaires de l'allocation de parent isolé<a id=395></a>
 
 ###### Article R263-2
 
-Le fonds départemental d'aide aux jeunes prévu par l'article L. 263-15 fait l'objet d'une convention entre l'Etat, le
-département et, le cas échéant, les autres collectivités ou organismes participant au financement du fonds.
-
-Cette convention est signée après avis du conseil départemental d'insertion institué par l'article L. 263-2 auquel participe
-également à cette fin un représentant de chaque mission locale pour l'insertion professionnelle et sociale des jeunes prévue
-par la loi n° 89-505 du 19 décembre 1989 favorisant le retour à l'emploi et la lutte contre l'exclusion professionnelle,
-compétente dans le département.
-
-La convention désigne la personne morale qui est chargée, avec son accord, de la gestion financière et comptable du fonds
-départemental et qui est soit une caisse d'allocations familiales, soit une association, soit un groupement d'intérêt public.
+Les dispositions relatives à l'allocation de parent isolé sont fixées à l'article R. 524-3 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°93-671 1993-03-27 art. 1
   - Décret n°93-671 du 27 mars 1993 - art. 1 (Ab)
   - Code de l'action sociale et des familles - art. R263-14 (T)
 
@@ -52414,15 +52219,17 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
+_Abrogé par_:
+
+  - Décret n°2009-404 du 15 avril 2009 - art. 3
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L263-15 (M)
-  - Code de l'action sociale et des familles - art. L263-2 (M)
-  - Loi n°89-505 1989-12-19
+  - Code de la sécurité sociale. - art. R524-3
 
 _Cité par_:
 
@@ -52430,394 +52237,13 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R263-9 (Ab)
 
 
-###### Article R263-3
+## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services<a id=396></a>
 
-Les aides du fonds départemental sont accordées aux jeunes français ou étrangers en situation de séjour régulier en France,
-qui connaissent des difficultés d'insertion sociale ou professionnelle. Elles sont destinées à favoriser une démarche
-d'insertion. Aucune durée minimale de résidence dans le département n'est exigée.
+### Titre Ier : Etablissements et services soumis à autorisation<a id=397></a>
 
-Les aides du fonds départemental prennent la forme :
+#### Chapitre Ier : Dispositions générales<a id=398></a>
 
-1° De secours temporaires pour faire face à des besoins urgents ;
-
-2° D'une aide financière pour aider à la réalisation du projet d'insertion qui fait l'objet d'un engagement de la part du
-bénéficiaire ;
-
-3° D'actions d'accompagnement du jeune dans sa démarche ou son projet d'insertion, notamment pour lui permettre de bénéficier
-des différentes mesures d'aide à l'insertion sociale ou professionnelle des jeunes.
-
-Le fonds ne peut pas financer les interventions d'accompagnement relevant des missions des autres services publics.
-
-Les aides sont attribuées pour une durée au plus égale à trois mois. Le renouvellement d'une aide est subordonné à un
-réexamen de la situation du bénéficiaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 2
-  - Décret n°93-671 du 27 mars 1993 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. R263-10 (Ab)
-  - Code de l'action sociale et des familles - art. R263-8 (Ab)
-
-
-###### Article R263-4
-
-La convention fixe, après avis du conseil départemental d'insertion mentionné à l'article L. 263-2, et dans le cadre des
-dispositions du présent chapitre :
-
-1° Les modalités et les conditions d'attribution des aides financières directes aux jeunes en difficulté, ainsi que les
-conditions de mise en oeuvre des mesures d'accompagnement social ;
-
-2° Les procédures d'attribution des aides, notamment en cas de situation d'urgence ;
-
-3° Le ressort géographique de chacun des comités locaux d'attribution, lequel ne peut pas comprendre le ressort d'un fonds
-local.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 3
-  - Décret n°93-671 du 27 mars 1993 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L263-2 (M)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. R263-6 (Ab)
-
-
-###### Article R263-5
-
-Chaque comité local d'attribution comprend :
-
-1° Le préfet ou son représentant ;
-
-2° Le président du conseil général ou son représentant ;
-
-3° Un représentant de la ou des missions locales prévues à l'article 7 de la loi n° 89-905 du 19 décembre 1989 favorisant le
-retour à l'emploi et la lutte contre l'exclusion professionnelle et, le cas échéant, des permanences d'accueil, d'information
-et d'orientation des jeunes, désignées par la convention ;
-
-4° Un représentant de chaque autre collectivité ou organisme participant au financement du fonds ;
-
-5° Un ou deux représentants d'organismes justifiant d'une expérience particulière dans l'insertion des jeunes en difficulté,
-et désignés par la convention.
-
-La convention définit les modalités de désignation du président du comité. Le comité établit son règlement intérieur.
-
-Toutefois, les signataires de la convention peuvent décider, après avis de la commission locale d'insertion mentionnée à
-l'article L. 263-10, que le comité local d'attribution est le bureau de ladite commission, complété pour assurer la
-représentation des organismes et collectivités mentionnés aux 3° , 4° et 5° ci-dessus.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°89-905 1989-12-19 art. 7
-  - Code de l'action sociale et des familles - art. L263-10 (M)
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 4
-  - Décret n°93-671 du 27 mars 1993 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. R263-9 (Ab)
-
-
-###### Article R263-6
-
-Le comité local d'attribution se prononce sur les demandes d'aides financières et sur les mesures d'accompagnement
-nécessaires, conformément aux règles prévues à l'article R. 263-4.
-
-Au vu de ces propositions, la décision est prise conjointement par le préfet et le président du conseil général ou leurs
-délégataires.
-
-Le comité local d'attribution suit l'évolution de la situation personnelle de chaque jeune bénéficiaire d'une aide du fonds.
-
-Il désigne l'organisme chargé du secrétariat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 5
-  - Décret n°93-671 du 27 mars 1993 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. R263-4 (Ab)
-
-
-###### Article R263-7
-
-Tout jeune bénéficiaire d'une aide du fonds départemental fait l'objet d'un suivi dans sa démarche d'insertion par une
-personne qualifiée relevant d'une mission locale, d'une permanence d'accueil, d'information et d'orientation, d'un service
-social, ou d'un autre organisme compétent en matière d'insertion sociale ou professionnelle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 6
-  - Décret n°93-671 du 27 mars 1993 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-###### Article R263-8
-
-Pour l'application de l'article L. 263-17, le préfet notifie au département le montant de la contribution financière annuelle
-de l'Etat. A concurrence du montant de cette contribution, la participation du département au financement du fonds constitue
-une dépense obligatoire.
-
-Un avenant à la convention prévue à l'article R. 263-2 précise chaque année le montant de la contribution de chaque
-signataire, la répartition prévisionnelle des dépenses entre les trois types d'aides définies à l'article R. 263-3 et les
-conditions dans lesquelles les frais de gestion peuvent être remboursés dans la limite de 4 % du montant des aides versées.
-Les ressources du fonds peuvent également comprendre des remboursements de prêts, lorsque des aides sont attribuées sous
-cette forme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 7
-  - Décret n°93-671 du 27 mars 1993 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L263-17 (V)
-  - Code de l'action sociale et des familles - art. R263-2 (Ab)
-  - Code de l'action sociale et des familles - art. R263-3 (Ab)
-
-
-##### Sous-section 2 : Fonds locaux.<a id=399></a>
-
-###### Article R263-9
-
-Les fonds locaux mentionnés par l'article L. 263-16 couvrent une zone géographique déterminée par la convention qui les
-institue et correspondant à une fraction d'un seul tenant du territoire du département.
-
-Le fonds local assure, dans son ressort géographique, les missions dévolues au fonds départemental.
-
-La convention est soumise aux mêmes règles et comporte les mêmes clauses que la convention prévue à l'article R. 263-2.
-
-Elle institue un comité d'attribution, dans les conditions prévues à l'article R. 263-5.
-
-Elle désigne l'organisme chargé de la gestion financière et comptable du fonds local, ainsi que l'articulation de celui-ci
-avec le fonds départemental, notamment en ce qui concerne la mise à disposition des crédits, leur comptabilité et les
-obligations qui en découlent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 8
-  - Décret n°93-671 du 27 mars 1993 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L263-16 (M)
-  - Code de l'action sociale et des familles - art. R263-2 (Ab)
-  - Code de l'action sociale et des familles - art. R263-5 (Ab)
-
-
-###### Article R263-10
-
-Les aides accordées aux jeunes par le fonds local sont celles prévues à l'article R. 263-3. Leurs conditions d'attribution ne
-peuvent pas être moins favorables que celles du fonds départemental.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 9
-  - Décret n°93-671 du 27 mars 1993 - art. 9 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. R263-3 (Ab)
-
-
-###### Article R263-11
-
-Les ressources du fonds local comprennent :
-
-1° Le concours du fonds départemental, selon les règles fixées par la convention dont le fonds fait l'objet, ou par ses
-avenants ;
-
-2° Les contributions des communes ou de leurs groupements, signataires de la convention instituant le fonds local ;
-
-3° Les remboursements de prêts, lorsque des aides sont attribuées sous cette forme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 10
-  - Décret n°93-671 du 27 mars 1993 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-##### Sous-section 3 : Dispositions communes.<a id=400></a>
-
-###### Article R263-12
-
-Le préfet et le président du conseil général organisent conjointement l'information sur le fonds départemental ainsi que sur
-les fonds locaux, en liaison avec le ou les comités locaux d'attribution.
-
-Ils procèdent à l'évaluation de ce dispositif, dont il est rendu compte dans un rapport annuel établi conjointement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 11
-  - Décret n°93-671 du 27 mars 1993 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-###### Article R263-13
-
-L'organisme chargé du secrétariat de chaque fonds transmet périodiquement au préfet et au président du conseil général un
-rapport sur le fonctionnement du fonds et sur les jeunes bénéficiaires des aides.
-
-Ce rapport fait apparaître la part affectée aux aides financières directes et celle affectée aux mesures d'accompagnement
-social. Il comporte des informations statistiques obligatoires définies par arrêté du ministre chargé de l'action sociale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-671 1993-03-27 art. 12
-  - Décret n°93-671 du 27 mars 1993 - art. 12 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-
-##### Section 5 : Personnes bénéficiaires de l'allocation de parent isolé.<a id=401></a>
-
-###### Article R263-14
-
-Les dispositions relatives à l'allocation de parent isolé sont fixées à l'article R. 524-3 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. R524-3 (M)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R263-2 (Ab)
-  - Code de l'action sociale et des familles - art. R263-2 (V)
-
-
-## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services<a id=402></a>
-
-### Titre Ier : Etablissements et services soumis à autorisation<a id=403></a>
-
-#### Chapitre Ier : Dispositions générales<a id=404></a>
-
-##### Section 1 : Missions<a id=405></a>
+##### Section 1 : Missions<a id=399></a>
 
 ###### Article D311
 
@@ -52940,9 +52366,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L442-1 (M)
 
 
-##### Section 2 : Droit des usagers<a id=406></a>
+##### Section 2 : Droit des usagers<a id=400></a>
 
-##### Sous-section 2 : Personne qualifiée.<a id=407></a>
+##### Sous-section 2 : Personne qualifiée.<a id=401></a>
 
 ###### Article R311-1
 
@@ -53019,9 +52445,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 3 : Conseil de la vie sociale et autres formes de participation<a id=408></a>
+##### Sous-section 3 : Conseil de la vie sociale et autres formes de participation<a id=402></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=409></a>
+##### Paragraphe 1 : Dispositions générales.<a id=403></a>
 
 ###### Article D311-3
 
@@ -53062,7 +52488,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L344-2 (M)
 
 
-##### Paragraphe 2 : Composition et fonctionnement.<a id=410></a>
+##### Paragraphe 2 : Composition et fonctionnement.<a id=404></a>
 
 ###### Article D311-4
 
@@ -53463,7 +52889,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 3 : Autres formes de participation.<a id=411></a>
+##### Paragraphe 3 : Autres formes de participation.<a id=405></a>
 
 ###### Article D311-21
 
@@ -53585,7 +53011,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D311-30 (V)
 
 
-##### Paragraphe 4 : Dispositions communes.<a id=412></a>
+##### Paragraphe 4 : Dispositions communes.<a id=406></a>
 
 ###### Article D311-26
 
@@ -53734,7 +53160,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D311-3 (V)
 
 
-##### Sous-section 4 : Règlement de fonctionnement.<a id=413></a>
+##### Sous-section 4 : Règlement de fonctionnement.<a id=407></a>
 
 ###### Article R311-33
 
@@ -53879,23 +53305,42 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L311-4 (V)
 
 
-#### Chapitre II : Organisation de l'action sociale et médico-sociale<a id=414></a>
+#### Chapitre II : Organisation de l'action sociale et médico-sociale<a id=408></a>
 
-##### Section 1 : Etablissements et services sociaux et médico-sociaux<a id=415></a>
+##### Section 1 : Etablissements et services sociaux et médico-sociaux<a id=409></a>
 
-##### Sous-section 1 : Prestations délivrées<a id=416></a>
+##### Sous-section 1 : Prestations délivrées<a id=410></a>
 
-##### Paragraphe 1 : Services de soins à domicile.<a id=417></a>
+##### Paragraphe 1er : Services d'assistance à domicile<a id=411></a>
+
+##### Sous-paragraphe 1er : Services de soins infirmiers à domicile.<a id=412></a>
 
 ###### Article D312-1
 
-Cet article ne comprend pas de dispositions réglementaires
+Conformément aux dispositions des 6° et 7° du I de l'article L. 312-1, les services de soins infirmiers à domicile assurent,
+sur prescription médicale, des prestations de soins infirmiers sous la forme de soins techniques ou de soins de base et
+relationnels, auprès :
+
+1° De personnes âgées de soixante ans et plus, malades ou dépendantes ;
+
+2° De personnes adultes de moins de soixante ans présentant un handicap ;
+
+3° De personnes adultes de moins de soixante ans atteintes des pathologies chroniques mentionnées au 7° du I de l'article L.
+312-1 ou présentant une affection mentionnée aux 3° et 4° de l'article L. 322-3 du code de la sécurité sociale.
+
+Ces services interviennent à domicile ou dans les établissements non médicalisés pour personnes âgées et pour personnes
+adultes handicapées mentionnés aux 6° et 7° du I de l'article L. 312-1 et dans les établissements mentionnés aux II et III de
+l'article L. 313-12.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
 _Cité par_:
 
@@ -53913,16 +53358,36 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R581-2 (V)
   - Code de la sécurité sociale. - art. R162-33-1 (V)
 
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L322-3 (M)
+  - Code de l'action sociale et des familles - art. L312-1 (M)
+  - Code de l'action sociale et des familles - art. L313-12 (M)
+
 
 ###### Article D312-2
 
-Cet article ne comprend pas de dispositions réglementaires.
+Les interventions mentionnées à l'article D. 312-1 sont assurées par :
+
+1° Des infirmiers qui exercent les actes relevant de leur compétence, organisent le travail des aides-soignants et des aides
+médico-psychologiques et assurent, le cas échéant, la liaison avec les autres auxiliaires médicaux ;
+
+2° Des aides-soignants qui réalisent, sous la responsabilité des infirmiers, les soins de base et relationnels et concourent
+à l'accomplissement des actes essentiels de la vie correspondant à leur formation et des aides médico-psychologiques ;
+
+3° Des pédicures-podologues, des ergothérapeutes et des psychologues, en tant que de besoin.
+
+Le service de soins infirmiers à domicile doit comprendre un infirmier coordonnateur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
 _Cité par_:
 
@@ -53932,16 +53397,58 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-7 (V)
   - Code de l'action sociale et des familles - art. D312-7-1 (V)
 
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D312-1 (M)
+
 
 ###### Article D312-3
 
-Cet article ne comprend pas de dispositions réglementaires.
+Les fonctions de l'infirmier coordonnateur comprennent : 
+
+1° Les activités de coordination du fonctionnement interne du service, notamment : 
+
+a) L'accueil des personnes mentionnées à l'article D. 312-1 et de leur entourage ; 
+
+b) L'évaluation des besoins de soins de ces personnes au moyen de visites à leur domicile, afin d'élaborer et de mettre en
+oeuvre les projets individualisés de soins ; 
+
+c) La coordination des professionnels mentionnés à l'article D. 312-2 ; 
+
+2° Le cas échéant, les activités d'administration et de gestion du service ; 
+
+3° La participation du service aux activités conduites par le centre local d'information et de coordination mentionné au
+deuxième alinéa de l'article L. 232-13 ; 
+
+4° Le cas échéant, les activités de coordination du service avec les établissements et services sociaux et médico-sociaux,
+les établissements de santé et les professionnels de santé libéraux concernés, notamment en participant : 
+
+a) Aux formules de coopération sociale et médico-sociale mentionnées à l'article L. 312-7 ; 
+
+b) Aux formules de coopération sanitaire mentionnées au titre III du livre Ier de la sixième partie du code de la santé
+publique ; 
+
+c) Aux réseaux de santé mentionnés à l'article L. 6321-1 du code de la santé publique ; 
+
+5° En tant que de besoin, des activités de soins auprès des usagers du service.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de la santé publique - art. L6321-1 (V)
+  - Code de l'action sociale et des familles - art. D312-1 (V)
+  - Code de l'action sociale et des familles - art. D312-2 (V)
+  - Code de l'action sociale et des familles - art. L232-13 (V)
+  - Code de l'action sociale et des familles - art. L312-7 (V)
 
 _Cité par_:
 
@@ -53950,18 +53457,43 @@ _Cité par_:
 
 ###### Article D312-4
 
-Cet article ne comprend pas de dispositions réglementaires.
+Les infirmiers et pédicures-podologues libéraux peuvent exercer au sein d'un service de soins infirmiers à domicile, sous
+réserve d'avoir conclu une convention avec l'organisme gestionnaire de ce service. 
+
+Cette convention comporte au moins les éléments suivants : 
+
+1° L'engagement du professionnel exerçant à titre libéral à respecter le règlement de fonctionnement et le projet de service
+respectivement mentionnés aux articles L. 311-7 et L. 311-8 ; 
+
+2° Les modalités d'exercice du professionnel au sein du service, visant à garantir la qualité des soins et notamment : 
+
+a) Sa collaboration avec l'infirmier coordonnateur ; 
+
+b) La tenue du dossier de soins des personnes auprès desquelles il intervient ; 
+
+c) Sa contribution à l'élaboration du relevé prévu au second alinéa de l'article D. 312-5-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L311-7 (V)
 
 
 ###### Article D312-5
 
-Cet article ne comprend pas de dispositions réglementaires.
+Le praticien-conseil du régime d'assurance maladie dont relève l'assuré est informé par l'organisme gestionnaire du service
+de soins infirmiers à domicile, dans un délai de cinq jours ouvrables, de toute admission dans le service. Il reçoit alors
+copie de la prescription établie par le médecin de l'assuré. Il est également informé des modifications apportées au
+traitement et de toutes les prolongations de prise en charge au-delà du trentième jour et tous les trois mois ensuite.
 
 **Liens relatifs à cet article**
 
@@ -53969,16 +53501,78 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+
+###### Article D312-5-1
+
+A la clôture de l'exercice, le rapport d'activité du service est établi par l'infirmier coordonnateur, selon un modèle et des
+modalités de transmission à l'autorité mentionnée au b de l'article L. 313-3 fixés par arrêté du ministre chargé des affaires
+sociales. 
+
+Le service de soins infirmiers à domicile tient le relevé, pour chaque personne bénéficiant de soins mentionnés à l'article
+D. 312-1, des périodes d'intervention du service, des prescriptions et des indications thérapeutiques qui ont motivé ces
+interventions, ainsi que de la nature de ces dernières. Ce relevé est tenu à la disposition du médecin inspecteur de santé
+publique de la direction départementale des affaires sanitaires et sociales et du service du contrôle médical des organismes
+d'assurance maladie ainsi que, le cas échéant, du médecin de la commission mentionnée à l'article L. 241-5.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D312-1 (V)
+  - Code de l'action sociale et des familles - art. L241-5 (V)
+  - Code de l'action sociale et des familles - art. L313-3 (VT)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D312-4 (V)
+  - Code de l'action sociale et des familles - art. R543-1 (V)
+
+
+##### Sous-paragraphe 2 : Services d'aide et d'accompagnement à domicile.<a id=413></a>
 
 ###### Article D312-6
 
-Cet article ne comprend pas de dispositions réglementaires.
+Conformément aux dispositions des 6° et 7° du I de l'article L. 312-1, les services d'aide et d'accompagnement à domicile
+agréés au titre de l'article L. 129-1 du code du travail, qui interviennent auprès des personnes mentionnées à l'article D.
+312-1, concourent notamment :
+
+1° Au soutien à domicile ;
+
+2° A la préservation ou la restauration de l'autonomie dans l'exercice des activités de la vie quotidienne ;
+
+3° Au maintien et au développement des activités sociales et des liens avec l'entourage.
+
+Ils assurent au domicile des personnes ou à partir de leur domicile des prestations de services ménagers et des prestations
+d'aide à la personne pour les activités ordinaires de la vie et les actes essentiels lorsque ceux-ci sont assimilés à des
+actes de la vie quotidienne, hors ceux réalisés, sur prescription médicale, par les services mentionnés à l'article D. 312-1.
+
+Ces prestations s'inscrivent dans un projet individualisé d'aide et d'accompagnement élaboré à partir d'une évaluation
+globale des besoins de la personne. Elles sont réalisées par des aides à domicile, notamment des auxiliaires de vie sociale.
+
+La personne morale gestionnaire du service est responsable du projet de service mentionné à l'article L. 311-8, notamment de
+la définition et de la mise en oeuvre des modalités d'organisation et de coordination des interventions.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
 _Cité par_:
 
@@ -53989,10 +53583,25 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-7-1 (V)
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
+_Cite_:
+
+  - Code du travail - art. L129-1 (M)
+  - Code de l'action sociale et des familles - art. D312-1 (M)
+  - Code de l'action sociale et des familles - art. L311-8 (M)
+  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+
+##### Sous-paragraphe 3 : Services polyvalents d'aide et de soins à domicile.<a id=414></a>
 
 ###### Article D312-7
 
-Cet article ne comprend pas de dispositions réglementaires.
+Les services qui assurent, conformément aux dispositions des 6° et 7° de l'article L. 312-1, les missions d'un service de
+soins à domicile tel que défini à l'article D. 312-1 et les missions d'un service d'aide et d'accompagnement défini à
+l'article D. 312-6 sont dénommés services polyvalents d'aide et de soins à domicile. 
+
+L'élaboration d'un projet individualisé d'aide, d'accompagnement et de soins, sur la base d'une évaluation globale des
+besoins de la personne, est conduite par une équipe pluridisciplinaire composée des personnels mentionnés aux articles D.
+312-2 et D. 312-6 et coordonnée par un personnel salarié du service.
 
 **Liens relatifs à cet article**
 
@@ -54000,13 +53609,57 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D312-1 (V)
+  - Code de l'action sociale et des familles - art. D312-2 (V)
+  - Code de l'action sociale et des familles - art. D312-6 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R543-1 (V)
   - Code de la sécurité sociale. - art. R162-33-1 (V)
 
 
-##### Paragraphe 2 : Accueil temporaire.<a id=418></a>
+##### Sous-paragraphe 4 : Dispositions communes.<a id=415></a>
+
+###### Article D312-7-1
+
+Les services de soins infirmiers à domicile, les services d'aide et d'accompagnement à domicile et les services polyvalents
+d'aide et de soins à domicile disposent de locaux leur permettant d'assurer leurs missions, en particulier la coordination
+des prestations et des personnels mentionnés aux articles D. 312-2 et D. 312-6. Ces locaux peuvent être organisés sous forme
+de plusieurs antennes. 
+
+Afin de garantir la continuité des interventions et leur bonne coordination, les services de soins infirmiers à domicile, les
+services d'aide et d'accompagnement à domicile et les services polyvalents d'aide et de soins à domicile assurent eux-mêmes
+ou font assurer les prestations mentionnées au premier alinéa, quel que soit le moment où celles-ci s'avèrent nécessaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D312-2 (V)
+  - Code de l'action sociale et des familles - art. D312-6 (V)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R543-1 (V)
+
+
+##### Paragraphe 2 : Accueil temporaire.<a id=416></a>
 
 ###### Article D312-8
 
@@ -54145,11 +53798,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L243-1 (V)
 
 
-##### Sous-section 2 : Conditions techniques minimales d'organisation et de fonctionnement des établissements<a id=419></a>
+##### Sous-section 2 : Conditions techniques minimales d'organisation et de fonctionnement des établissements<a id=417></a>
 
-##### Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles<a id=420></a>
+##### Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles<a id=418></a>
 
-##### Sous-paragraphe 1 : Dispositions générales.<a id=421></a>
+##### Sous-paragraphe 1 : Dispositions générales.<a id=419></a>
 
 ###### Article D312-11
 
@@ -54278,7 +53931,7 @@ _Modifié par_:
   - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
-##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=422></a>
+##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=420></a>
 
 ###### Article D312-15
 
@@ -54444,7 +54097,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-87 (V)
 
 
-##### Sous-paragraphe 3 : Personnels.<a id=423></a>
+##### Sous-paragraphe 3 : Personnels.<a id=421></a>
 
 ###### Article D312-20
 
@@ -54704,7 +54357,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-122 (V)
 
 
-##### Sous-paragraphe 4 : Installations.<a id=424></a>
+##### Sous-paragraphe 4 : Installations.<a id=422></a>
 
 ###### Article D312-27
 
@@ -54910,7 +54563,7 @@ _Modifié par_:
   - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
-##### Sous-paragraphe 5 : Fonctionnement de l'établissement.<a id=425></a>
+##### Sous-paragraphe 5 : Fonctionnement de l'établissement.<a id=423></a>
 
 ###### Article D312-34
 
@@ -55125,7 +54778,7 @@ _Modifié par_:
   - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
-##### Sous-paragraphe 6 : Centres d'accueil familial spécialisé.<a id=426></a>
+##### Sous-paragraphe 6 : Centres d'accueil familial spécialisé.<a id=424></a>
 
 ###### Article D312-41
 
@@ -55467,7 +55120,7 @@ _Modifié par_:
   - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
-##### Sous-paragraphe 7 : Services d'éducation spéciale et de soins à domicile.<a id=427></a>
+##### Sous-paragraphe 7 : Services d'éducation spéciale et de soins à domicile.<a id=425></a>
 
 ###### Article D312-55
 
@@ -55629,9 +55282,9 @@ _Abrogé par_:
   - Décret n°2017-982 du 9 mai 2017 - art. 1
 
 
-##### Paragraphe 1 bis : Les instituts thérapeutiques, éducatifs et pédagogiques<a id=428></a>
+##### Paragraphe 1 bis : Les instituts thérapeutiques, éducatifs et pédagogiques<a id=426></a>
 
-##### Sous-paragraphe 1 : Dispositions générales<a id=429></a>
+##### Sous-paragraphe 1 : Dispositions générales<a id=427></a>
 
 ###### Article D312-59-1
 
@@ -55749,7 +55402,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L311-4 (V)
 
 
-##### Sous-paragraphe 2 : Organisation de l'établissement<a id=430></a>
+##### Sous-paragraphe 2 : Organisation de l'établissement<a id=428></a>
 
 ###### Article D312-59-4
 
@@ -55885,7 +55538,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-59-15 (V)
 
 
-##### Sous-paragraphe 3 : Les personnels<a id=431></a>
+##### Sous-paragraphe 3 : Les personnels<a id=429></a>
 
 ###### Article D312-59-7
 
@@ -56123,7 +55776,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-34 (V)
 
 
-##### Sous-paragraphe 4 : Fonctionnement de l'établissement<a id=432></a>
+##### Sous-paragraphe 4 : Fonctionnement de l'établissement<a id=430></a>
 
 ###### Article D312-59-14
 
@@ -56212,7 +55865,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-59-4 (V)
 
 
-##### Sous-paragraphe 5 : Des installations<a id=433></a>
+##### Sous-paragraphe 5 : Des installations<a id=431></a>
 
 ###### Article D312-59-17
 
@@ -56253,7 +55906,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-59-9 (V)
 
 
-##### Sous-paragraphe 6 : Dispositions transitoires<a id=434></a>
+##### Sous-paragraphe 6 : Dispositions transitoires<a id=432></a>
 
 ###### Article D312-59-18
 
@@ -56280,9 +55933,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Paragraphe 2 : Etablissements et services prenant en charge des enfants ou adolescents présentant une déficience motrice<a id=435></a>
+##### Paragraphe 2 : Etablissements et services prenant en charge des enfants ou adolescents présentant une déficience motrice<a id=433></a>
 
-##### Sous-paragraphe 1 : Dispositions générales.<a id=436></a>
+##### Sous-paragraphe 1 : Dispositions générales.<a id=434></a>
 
 ###### Article D312-60
 
@@ -56384,7 +56037,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=437></a>
+##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=435></a>
 
 ###### Article D312-64
 
@@ -56448,7 +56101,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-16 (V)
 
 
-##### Sous-paragraphe 3 : Personnels.<a id=438></a>
+##### Sous-paragraphe 3 : Personnels.<a id=436></a>
 
 ###### Article D312-66
 
@@ -56619,7 +56272,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 4 : Installation.<a id=439></a>
+##### Sous-paragraphe 4 : Installation.<a id=437></a>
 
 ###### Article D312-70
 
@@ -56731,7 +56384,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 5 : Service d'éducation spéciale et de soins à domicile.<a id=440></a>
+##### Sous-paragraphe 5 : Service d'éducation spéciale et de soins à domicile.<a id=438></a>
 
 ###### Article D312-75
 
@@ -56871,7 +56524,7 @@ _Abrogé par_:
   - Décret n°2017-982 du 9 mai 2017 - art. 1
 
 
-##### Sous-paragraphe 6 : Dispositions diverses.<a id=441></a>
+##### Sous-paragraphe 6 : Dispositions diverses.<a id=439></a>
 
 ###### Article D312-80
 
@@ -56940,9 +56593,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-24 (V)
 
 
-##### Paragraphe 3 : Etablissements et services prenant en charge des enfants ou adolescents polyhandicapés<a id=442></a>
+##### Paragraphe 3 : Etablissements et services prenant en charge des enfants ou adolescents polyhandicapés<a id=440></a>
 
-##### Sous-paragraphe 1 : Dispositions générales.<a id=443></a>
+##### Sous-paragraphe 1 : Dispositions générales.<a id=441></a>
 
 ###### Article D312-83
 
@@ -57034,7 +56687,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=444></a>
+##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=442></a>
 
 ###### Article D312-86
 
@@ -57075,7 +56728,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-19 (V)
 
 
-##### Sous-paragraphe 3 : Les personnels.<a id=445></a>
+##### Sous-paragraphe 3 : Les personnels.<a id=443></a>
 
 ###### Article D312-88
 
@@ -57180,7 +56833,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-88 (V)
 
 
-##### Sous-paragraphe 4 : Installations.<a id=446></a>
+##### Sous-paragraphe 4 : Installations.<a id=444></a>
 
 ###### Article D312-90
 
@@ -57291,7 +56944,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 5 : Services de soins et d'aide à domicile.<a id=447></a>
+##### Sous-paragraphe 5 : Services de soins et d'aide à domicile.<a id=445></a>
 
 ###### Article D312-95
 
@@ -57369,7 +57022,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-24 (V)
 
 
-##### Paragraphe 4 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience auditive grave.<a id=448></a>
+##### Paragraphe 4 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience auditive grave.<a id=446></a>
 
 ###### Article D312-98
 
@@ -57779,7 +57432,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-27 (V)
 
 
-##### Paragraphe 5 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience visuelle grave ou de cécité.<a id=449></a>
+##### Paragraphe 5 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience visuelle grave ou de cécité.<a id=447></a>
 
 ###### Article D312-111
 
@@ -58149,9 +57802,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-27 (V)
 
 
-##### Paragraphe 6 : Pouponnières à caractère social<a id=450></a>
+##### Paragraphe 6 : Pouponnières à caractère social<a id=448></a>
 
-##### Sous-paragraphe 1 : Locaux.<a id=451></a>
+##### Sous-paragraphe 1 : Locaux.<a id=449></a>
 
 ###### Article D312-123
 
@@ -58428,7 +58081,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 2 : Admission et surveillance des enfants.<a id=452></a>
+##### Sous-paragraphe 2 : Admission et surveillance des enfants.<a id=450></a>
 
 ###### Article D312-137
 
@@ -58620,7 +58273,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 3 : Personnel.<a id=453></a>
+##### Sous-paragraphe 3 : Personnel.<a id=451></a>
 
 ###### Article D312-146
 
@@ -58740,7 +58393,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 4 : Mesures administratives.<a id=454></a>
+##### Sous-paragraphe 4 : Mesures administratives.<a id=452></a>
 
 ###### Article D312-151
 
@@ -58814,7 +58467,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 7 : Centres spécialisés de soins aux toxicomanes.<a id=455></a>
+##### Paragraphe 7 : Centres spécialisés de soins aux toxicomanes.<a id=453></a>
 
 ###### Article D312-153
 
@@ -58837,7 +58490,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Paragraphe 8 : Appartements de coordination thérapeutique.<a id=456></a>
+##### Paragraphe 8 : Appartements de coordination thérapeutique.<a id=454></a>
 
 ###### Article D312-154
 
@@ -58887,7 +58540,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D312-154-0 (V)
 
 
-##### Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes<a id=457></a>
+##### Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes<a id=455></a>
 
 ###### Article D312-155-1
 
@@ -58922,7 +58575,36 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-12 (M)
 
 
-###### Article D312-155-2
+###### Article D312-156
+
+Tout établissement hébergeant des personnes âgées dépendantes relevant du I de l'article L. 313-12 doit se doter d'un médecin
+coordonnateur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Arrêté du 14 avril 2008 - art. 2 (V)
+  - Code de l'action sociale et des familles - art. D312-155-0 (V)
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D312-155-1 (T)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L313-12 (M)
+
+
+###### Article D312-157
 
 Le médecin coordonnateur doit être titulaire d'un diplôme d'études spécialisées complémentaires de gériatrie ou de la
 capacité de gérontologie ou d'un diplôme d'université de médecin coordonnateur d'établissement d'hébergement pour personnes
@@ -58938,15 +58620,12 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Créé par_:
-
-  - Décret n°2005-560 du 27 mai 2005 - art. 1 () JORF 28 mai 2005
-
 _Cité par_:
 
-  - Décret n°2005-560 du 27 mai 2005 - art. 3 (M)
+  - Décret n°2005-560 du 27 mai 2005 - art. 3 (V)
+  - Code de l'action sociale et des familles - art. D312-159-1 (M)
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
@@ -58954,13 +58633,12 @@ _Cite_:
 
   - Code de la santé publique - art. L4133-2 (M)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-157 (M)
-  - Code de l'action sociale et des familles - art. D312-157 (V)
+  - Code de l'action sociale et des familles - art. D312-155-2 (T)
 
 
-###### Article D312-155-3
+###### Article D312-158
 
 Sous la responsabilité et l'autorité administratives du responsable de l'établissement, le médecin coordonnateur :
 
@@ -59011,11 +58689,16 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-560 du 27 mai 2005 - art. 1 () JORF 28 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Arrêté du 5 septembre 2011 - art. 1 (V)
+  - Décret n°2016-1067 du 3 août 2016 - art. 3
+  - Code de l'action sociale et des familles - art. D312-159-1 (M)
+  - Code de l'action sociale et des familles - art. R313-30-2 (V)
+  - Code de l'action sociale et des familles - art. R313-30-3 (V)
+  - Code de la santé publique - art. R1111-19 (V)
 
 _Cite_:
 
@@ -59025,13 +58708,12 @@ _Cite_:
   - Code de la sécurité sociale. - art. L165-1 (MMN)
   - Code de l'action sociale et des familles - art. L312-7 (M)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-158 (M)
-  - Code de l'action sociale et des familles - art. D312-158 (V)
+  - Code de l'action sociale et des familles - art. D312-155-3 (T)
 
 
-###### Article D312-155-4
+###### Article D312-159
 
 Selon la forme juridique de l'établissement, et en fonction du temps de présence du praticien, la rémunération du médecin
 coordonnateur est fixée :
@@ -59054,16 +58736,11 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-560 du 27 mai 2005 - art. 1 () JORF 28 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-159 (M)
-  - Code de l'action sociale et des familles - art. D312-159 (V)
+  - Code de l'action sociale et des familles - art. D312-155-4 (T)
 
 _Cite_:
 
@@ -59071,7 +58748,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-6 (M)
 
 
-###### Article D312-155-4-1
+###### Article D312-160
 
 Les établissements assurant l'hébergement des personnes âgées mentionnés au 6° du I de l'article L. 312-1 sont tenus
 d'intégrer dans le projet d'établissement mentionné à l'article L. 311-8 un plan détaillant les modalités d'organisation à
@@ -59087,24 +58764,23 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-768 du 7 juillet 2005 - art. 1 () JORF 9 juillet 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-160 (M)
-  - Code de l'action sociale et des familles - art. D312-160 (V)
+  - Code de l'action sociale et des familles - art. D312-155-4-1 (T)
 
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L311-8 (M)
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
+_Cité par_:
 
-###### Article D312-155-4-2
+  - Code de la sécurité intérieure - art. D741-47 (VD)
+
+
+###### Article D312-161
 
 I. - Les établissements médico-sociaux assurant l'hébergement des personnes âgées mentionnés au I de l'article L. 313-12 sont
 tenus d'aménager un local ou une pièce équipés d'un système fixe de rafraîchissement de l'air dans des conditions arrêtées
@@ -59117,7 +58793,7 @@ la santé et des personnes âgées.
 **Nota:**
 
 Décret 2005-768 du 7 juillet 2005 art. 2 : Les dispositions du I de l'article D. 312-155-4-2 du code de l'action sociale et
-des familles entrent en vigueur huit mois après la date de publication du présent décret. 
+des familles entrent en vigueur huit mois après la date de publication du présent décret.
 
 A titre transitoire et jusqu'à cette date, les établissements mentionnés au I de l'article D. 312-155-4-2 du code de l'action
 sociale et des familles qui ne sont pas équipés d'un système fixe de rafraîchissement de l'air sont tenus de disposer de
@@ -59129,33 +58805,32 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Créé par_:
-
-  - Décret n°2005-768 du 7 juillet 2005 - art. 1 () JORF 9 juillet 2005
-
 _Cité par_:
 
-  - Décret n°2005-768 du 7 juillet 2005 - art. 2 (M)
+  - Décret n°2005-768 du 7 juillet 2005 - art. 2 (V)
+  - Code de l'action sociale et des familles - art. R524-5 (V)
+  - Code de l'action sociale et des familles - art. R531-2 (V)
+  - Code de l'action sociale et des familles - art. R543-1 (V)
+  - Code de l'action sociale et des familles - art. R581-2 (V)
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-161 (M)
-  - Code de l'action sociale et des familles - art. D312-161 (V)
+  - Code de l'action sociale et des familles - art. D312-155-4-2 (T)
 
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L313-12 (M)
 
 
-##### Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés<a id=458></a>
+##### Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés<a id=456></a>
 
-##### Sous-paragraphe 1 : Services d'accompagnement à la vie sociale<a id=459></a>
+##### Sous-paragraphe 1 : Services d'accompagnement à la vie sociale<a id=457></a>
 
-###### Article D312-155-5
+###### Article D312-162
 
 Les services d'accompagnement à la vie sociale ont pour vocation de contribuer à la réalisation du projet de vie de personnes
 adultes handicapées par un accompagnement adapté favorisant le maintien ou la restauration de leurs liens familiaux, sociaux,
@@ -59169,36 +58844,32 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D312-155-5 (T)
 
 _Cité par_:
 
-  - Code de l'action sociale et des familles - art. D312-155-13 (T)
-  - Code de l'action sociale et des familles - art. D312-155-14 (T)
-  - Code de l'action sociale et des familles - art. D312-155-15 (T)
-  - Code de l'action sociale et des familles - art. D312-155-17 (T)
-  - Code de l'action sociale et des familles - art. D312-155-18 (T)
-  - Code de l'action sociale et des familles - art. D312-155-19 (T)
-  - Code de l'action sociale et des familles - art. D312-155-6 (T)
-  - Code de l'action sociale et des familles - art. D312-155-7 (T)
-  - Code de l'action sociale et des familles - art. D312-155-9 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D312-162 (V)
+  - Code de l'action sociale et des familles - art. D312-163 (V)
+  - Code de l'action sociale et des familles - art. D312-164 (V)
+  - Code de l'action sociale et des familles - art. D312-166 (V)
+  - Code de l'action sociale et des familles - art. D312-170 (V)
+  - Code de l'action sociale et des familles - art. D312-171 (V)
+  - Code de l'action sociale et des familles - art. D312-172 (V)
+  - Code de l'action sociale et des familles - art. D312-174 (V)
+  - Code de l'action sociale et des familles - art. D312-175 (V)
+  - Code de l'action sociale et des familles - art. D312-176 (V)
 
 
-###### Article D312-155-6
+###### Article D312-163
 
-Les services mentionnés à l'article D. 312-155-5 prennent en charge des personnes adultes, y compris celles ayant la qualité
-de travailleur handicapé, dont les déficiences et incapacités rendent nécessaires, dans des proportions adaptées aux besoins
-de chaque usager :
+Les services mentionnés à l'article D. 312-162 prennent en charge des personnes adultes, y compris celles ayant la qualité de
+travailleur handicapé, dont les déficiences et incapacités rendent nécessaires, dans des proportions adaptées aux besoins de
+chaque usager : 
 
-a) Une assistance ou un accompagnement pour tout ou partie des actes essentiels de l'existence ;
+a) Une assistance ou un accompagnement pour tout ou partie des actes essentiels de l'existence ; 
 
 b) Un accompagnement social en milieu ouvert et un apprentissage à l'autonomie.
 
@@ -59210,45 +58881,42 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-155-10 (T)
+  - Code de l'action sociale et des familles - art. D312-155-6 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-5 (T)
+  - Code de l'action sociale et des familles - art. D312-162 (V)
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code de l'action sociale et des familles - art. D312-163 (V)
+  - Code de l'action sociale et des familles - art. D312-167 (V)
 
 
-###### Article D312-155-7
+###### Article D312-164
 
 Dans le respect du projet de vie et des capacités d'autonomie et de vie sociale de chaque usager, les services définis à
-l'article D. 312-155-5 organisent et mettent en oeuvre tout ou partie des prestations suivantes :
+l'article D. 312-162 organisent et mettent en oeuvre tout ou partie des prestations suivantes : 
 
-a) L'évaluation des besoins et des capacités d'autonomie ;
+a) L'évaluation des besoins et des capacités d'autonomie ; 
 
-b) L'identification de l'aide à mettre en oeuvre et la délivrance à cet effet d'informations et de conseils personnalisés ;
+b) L'identification de l'aide à mettre en oeuvre et la délivrance à cet effet d'informations et de conseils personnalisés ; 
 
-c) Le suivi et la coordination des actions des différents intervenants ;
+c) Le suivi et la coordination des actions des différents intervenants ; 
 
 d) Une assistance, un accompagnement ou une aide dans la réalisation des actes quotidiens de la vie et dans l'accomplissement
-des activités de la vie domestique et sociale ;
+des activités de la vie domestique et sociale ; 
 
-e) Le soutien des relations avec l'environnement familial et social ;
+e) Le soutien des relations avec l'environnement familial et social ; 
 
 f) Un appui et un accompagnement contribuant à l'insertion scolaire, universitaire et professionnelle ou favorisant le
-maintien de cette insertion ;
+maintien de cette insertion ; 
 
-g) Le suivi éducatif et psychologique.
+g) Le suivi éducatif et psychologique. 
 
 Les prestations énumérées au présent article sont formalisées dans le cadre du dispositif mentionné au quatrième alinéa de
 l'article L. 311-4.
@@ -59261,45 +58929,42 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-155-11 (T)
-  - Code de l'action sociale et des familles - art. D312-155-8 (T)
+  - Code de l'action sociale et des familles - art. D312-155-7 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-5 (T)
-  - Code de l'action sociale et des familles - art. L311-4 (M)
+  - Code de l'action sociale et des familles - art. D312-162 (V)
+  - Code de l'action sociale et des familles - art. L311-4 (V)
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code de l'action sociale et des familles - art. D312-164 (V)
+  - Code de l'action sociale et des familles - art. D312-165 (V)
+  - Code de l'action sociale et des familles - art. D312-168 (V)
 
 
-###### Article D312-155-8
+###### Article D312-165
 
-Les prestations énumérées à l'article D. 312-155-7 sont mises en oeuvre par une équipe pluridisciplinaire comprenant ou
-associant tout ou partie des professionnels suivants :
+Les prestations énumérées à l'article D. 312-164 sont mises en oeuvre par une équipe pluridisciplinaire comprenant ou
+associant tout ou partie des professionnels suivants : 
 
-a) Des assistants de service social ;
+a) Des assistants de service social ; 
 
-b) Des auxiliaires de vie sociale ;
+b) Des auxiliaires de vie sociale ; 
 
-c) Des aides médico-psychologiques ;
+c) Des aides médico-psychologiques ; 
 
-d) Des psychologues ;
+d) Des psychologues ; 
 
-e) Des conseillers en économie sociale et familiale ;
+e) Des conseillers en économie sociale et familiale ; 
 
-f) Des éducateurs spécialisés ;
+f) Des éducateurs spécialisés ; 
 
-g) Des moniteurs-éducateurs ;
+g) Des moniteurs-éducateurs ; 
 
 h) Des chargés d'insertion.
 
@@ -59311,34 +58976,31 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-155-12 (T)
-  - Code de l'action sociale et des familles - art. D312-155-15 (T)
-  - Code de l'action sociale et des familles - art. D312-155-16 (T)
-  - Code de l'action sociale et des familles - art. D312-155-17 (T)
+  - Code de l'action sociale et des familles - art. D312-155-8 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-7 (T)
+  - Code de l'action sociale et des familles - art. D312-164 (V)
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code de l'action sociale et des familles - art. D312-165 (V)
+  - Code de l'action sociale et des familles - art. D312-169 (V)
+  - Code de l'action sociale et des familles - art. D312-172 (V)
+  - Code de l'action sociale et des familles - art. D312-173 (V)
+  - Code de l'action sociale et des familles - art. D312-174 (V)
 
 
-##### Sous-paragraphe 2 : Les services d'accompagnement médico-social pour adultes handicapés<a id=460></a>
+##### Sous-paragraphe 2 : Les services d'accompagnement médico-social pour adultes handicapés<a id=458></a>
 
-###### Article D312-155-9
+###### Article D312-166
 
 Les services d'accompagnement médico-social pour adultes handicapés ont pour vocation, dans le cadre d'un accompagnement
-médico-social adapté comportant des prestations de soins, la réalisation des missions visées à l'article D. 312-155-5.
+médico-social adapté comportant des prestations de soins, la réalisation des missions visées à l'article D. 312-162.
 
 **Liens relatifs à cet article**
 
@@ -59348,38 +59010,35 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-155-10 (T)
-  - Code de l'action sociale et des familles - art. D312-155-13 (T)
-  - Code de l'action sociale et des familles - art. D312-155-14 (T)
-  - Code de l'action sociale et des familles - art. D312-155-15 (T)
-  - Code de l'action sociale et des familles - art. D312-155-17 (T)
-  - Code de l'action sociale et des familles - art. D312-155-18 (T)
-  - Code de l'action sociale et des familles - art. D312-155-19 (T)
+  - Code de l'action sociale et des familles - art. D312-155-9 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-5 (T)
+  - Code de l'action sociale et des familles - art. D312-162 (V)
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code de l'action sociale et des familles - art. D312-166 (V)
+  - Code de l'action sociale et des familles - art. D312-167 (V)
+  - Code de l'action sociale et des familles - art. D312-170 (V)
+  - Code de l'action sociale et des familles - art. D312-171 (V)
+  - Code de l'action sociale et des familles - art. D312-172 (V)
+  - Code de l'action sociale et des familles - art. D312-174 (V)
+  - Code de l'action sociale et des familles - art. D312-175 (V)
+  - Code de l'action sociale et des familles - art. D312-176 (V)
 
 
-###### Article D312-155-10
+###### Article D312-167
 
-Les services définis à l'article D. 312-155-9 prennent en charge des personnes adultes handicapées dont les déficiences et
-incapacités nécessitent, en sus des interventions mentionnées à l'article D. 312-155-6, et dans des proportions adaptées aux
-besoins de chaque usager :
+Les services définis à l'article D. 312-166 prennent en charge des personnes adultes handicapées dont les déficiences et
+incapacités nécessitent, en sus des interventions mentionnées à l'article D. 312-163, et dans des proportions adaptées aux
+besoins de chaque usager : 
 
-a) Des soins réguliers et coordonnés ;
+a) Des soins réguliers et coordonnés ; 
 
 b) Un accompagnement médical et paramédical en milieu ouvert.
 
@@ -59391,32 +59050,29 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D312-155-10 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-6 (T)
-  - Code de l'action sociale et des familles - art. D312-155-9 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D312-167 (V)
+  - Code de l'action sociale et des familles - art. D312-163 (V)
+  - Code de l'action sociale et des familles - art. D312-166 (V)
 
 
-###### Article D312-155-11
+###### Article D312-168
 
-Le projet individualisé d'accompagnement comprend, en sus des prestations mentionnées à l'article D. 312-155-7, tout ou
-partie des prestations suivantes :
+Le projet individualisé d'accompagnement comprend, en sus des prestations mentionnées à l'article D. 312-164, tout ou partie
+des prestations suivantes : 
 
 a) La dispensation et la coordination de soins médicaux et paramédicaux à domicile ou un accompagnement favorisant l'accès
-aux soins et l'effectivité de leur mise en oeuvre ;
+aux soins et l'effectivité de leur mise en oeuvre ; 
 
 b) Un accompagnement et un suivi médical et paramédical en milieu ordinaire de vie, y compris scolaire, universitaire et
-professionnel.
+professionnel. 
 
 Les prestations mentionnées au présent article sont formalisées dans le cadre du dispositif mentionné au quatrième alinéa de
 l'article L. 311-4.
@@ -59429,38 +59085,41 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-155-12 (T)
+  - Code de l'action sociale et des familles - art. D312-155-11 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-7 (T)
-  - Code de l'action sociale et des familles - art. L311-4 (M)
+  - Code de l'action sociale et des familles - art. D312-164 (V)
+  - Code de l'action sociale et des familles - art. L311-4 (V)
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code de l'action sociale et des familles - art. D312-168 (V)
+  - Code de l'action sociale et des familles - art. D312-169 (V)
 
 
-###### Article D312-155-12
+###### Article D312-169
 
-Les prestations mentionnées à l'article D. 312-155-11 sont mises en oeuvre par une équipe pluridisciplinaire comprenant, en
-sus des personnels mentionnés à l'article D. 312-155-8, tout ou partie des professionnels suivants :
+Les prestations mentionnées à l'article D. 312-168 sont mises en oeuvre par une équipe pluridisciplinaire comprenant, en sus
+des personnels mentionnés à l'article D. 312-165, tout ou partie des professionnels suivants : 
 
-a) Des auxiliaires médicaux régis par le livre III de la quatrième partie du code de la santé publique ;
+a) Des auxiliaires médicaux régis par le livre III de la quatrième partie du code de la santé publique ; 
 
-b) Des aides-soignants.
+b) Des aides-soignants. 
 
 L'équipe pluridisciplinaire comprend ou associe dans tous les cas un médecin.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2003-1217 du 18 décembre 2003 - art. 1, v. init.
+  - Décret n°2003-1217 du 18 décembre 2003 - art. 1 (Ab)
+  - Code de l'action sociale et des familles - art. D312-155-12 (T)
 
 _Codifié par_:
 
@@ -59468,36 +59127,32 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-11 (T)
-  - Code de l'action sociale et des familles - art. D312-155-8 (T)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. D312-155-15 (T)
-  - Code de l'action sociale et des familles - art. D312-155-16 (T)
-  - Code de l'action sociale et des familles - art. D312-155-17 (T)
+  - Code de l'action sociale et des familles - art. D312-165 (V)
+  - Code de l'action sociale et des familles - art. D312-168 (V)
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. D312-169 (T)
-  - Code de l'action sociale et des familles - art. D312-169 (V)
+  - Code de l'action sociale et des familles - art. D312-172 (T)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D312-172 (V)
+  - Code de l'action sociale et des familles - art. D312-173 (V)
+  - Code de l'action sociale et des familles - art. D312-174 (V)
 
 
-##### Sous-paragraphe 3 : Dispositions communes<a id=461></a>
+##### Sous-paragraphe 3 : Dispositions communes<a id=459></a>
 
-###### Article D312-155-13
+###### Article D312-170
 
-Les services définis aux articles D. 312-155-5 et D. 312-155-9 prennent en charge et accompagnent des personnes adultes
+Les services définis aux articles D. 312-162 et D. 312-166 prennent en charge et accompagnent des personnes adultes
 handicapées de façon permanente, temporaire ou selon un mode séquentiel, sur décision de la commission mentionnée à l'article
-L. 146-9.
+L. 146-9. 
 
 Les prestations correspondantes sont délivrées au domicile de la personne ainsi que dans tous les lieux où s'exercent ses
 activités sociales, de formation, y compris scolaire et universitaire, et ses activités professionnelles, en milieu ordinaire
@@ -59505,37 +59160,43 @@ ou protégé, ainsi que, le cas échéant, dans les locaux du service.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Décret n°2003-1217 du 18 décembre 2003 - art. 2, v. init.
+  - Décret n°2003-1217 du 18 décembre 2003 - art. 2 (Ab)
+  - Code de l'action sociale et des familles - art. D312-155-13 (T)
+
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-5 (T)
-  - Code de l'action sociale et des familles - art. D312-155-9 (T)
-  - Code de l'action sociale et des familles - art. L146-9 (V)
+  - Code de l'action sociale et des familles - art. D312-162 (V)
+  - Code de l'action sociale et des familles - art. D312-166 (V)
+  - Code de l'action sociale et des familles - art. L146-9 (VT)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D312-169 (T)
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. D312-170 (T)
-  - Code de l'action sociale et des familles - art. D312-170 (V)
+  - Code de l'action sociale et des familles - art. D312-173 (T)
 
 
-###### Article D312-155-14
+###### Article D312-171
 
-Les services mentionnés aux articles D. 312-155-5 et D. 312-155-9 sont autonomes ou rattachés à l'un des établissements ou
-services mentionnés aux 5° et 7° du I de l'article L. 312-1.
+Les services mentionnés aux articles D. 312-162 et D. 312-166 sont autonomes ou rattachés à l'un des établissements ou
+services mentionnés aux 5° et 7° du I de l'article L. 312-1. 
 
 Tout service mentionné à l'alinéa précédent, autonome ou rattaché à un établissement, doit disposer de locaux identifiés
-permettant d'assurer son fonctionnement, d'organiser les prestations et de favoriser la coordination des personnels.
+permettant d'assurer son fonctionnement, d'organiser les prestations et de favoriser la coordination des personnels. 
 
 Ces locaux peuvent être organisés sous forme de plusieurs antennes.
 
@@ -59547,29 +59208,26 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D312-155-14 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-5 (T)
-  - Code de l'action sociale et des familles - art. D312-155-9 (T)
-  - Code de l'action sociale et des familles - art. L312-1 (M)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D312-171 (V)
+  - Code de l'action sociale et des familles - art. D312-162 (V)
+  - Code de l'action sociale et des familles - art. D312-166 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-###### Article D312-155-15
+###### Article D312-172
 
-L'usager de l'un des services mentionnés aux articles D. 312-155-5 et D. 312-155-9 participe, avec l'équipe
-pluridisciplinaire mentionnée aux articles D. 312-155-8 et D. 312-155-12, à l'élaboration de son projet individualisé de
-prise en charge et d'accompagnement. Ce projet tient compte de son projet de vie et des préconisations de la commission
-mentionnée à l'article L. 146-9.
+L'usager de l'un des services mentionnés aux articles D. 312-162 et D. 312-166 participe, avec l'équipe pluridisciplinaire
+mentionnée aux articles D. 312-165 et D. 312-169, à l'élaboration de son projet individualisé de prise en charge et
+d'accompagnement. Ce projet tient compte de son projet de vie et des préconisations de la commission mentionnée à l'article
+L. 146-9.
 
 **Liens relatifs à cet article**
 
@@ -59577,36 +59235,37 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Créé par_:
-
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D312-155-15 (T)
+  - Code de l'action sociale et des familles - art. D312-169 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-12 (T)
-  - Code de l'action sociale et des familles - art. D312-155-5 (T)
-  - Code de l'action sociale et des familles - art. D312-155-8 (T)
-  - Code de l'action sociale et des familles - art. D312-155-9 (T)
-  - Code de l'action sociale et des familles - art. L146-9 (V)
+  - Code de l'action sociale et des familles - art. D312-162 (V)
+  - Code de l'action sociale et des familles - art. D312-165 (V)
+  - Code de l'action sociale et des familles - art. D312-166 (V)
+  - Code de l'action sociale et des familles - art. D312-169 (V)
+  - Code de l'action sociale et des familles - art. L146-9 (VT)
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. D312-172 (T)
-  - Code de l'action sociale et des familles - art. D312-172 (V)
+  - Code de l'action sociale et des familles - art. D312-193 (V)
 
 
-###### Article D312-155-16
+###### Article D312-173
 
-Le service doit être doté des personnels mentionnés aux articles D. 312-155-8 et D. 312-155-12, dont le nombre et la
-qualification sont appréciés en fonction de la qualification du service, de sa capacité, de ses objectifs et de ses modalités
-d'organisation et de fonctionnement, tels qu'ils ont été définis dans le projet de service.
+Le service doit être doté des personnels mentionnés aux articles D. 312-165 et D. 312-169, dont le nombre et la qualification
+sont appréciés en fonction de la qualification du service, de sa capacité, de ses objectifs et de ses modalités
+d'organisation et de fonctionnement, tels qu'ils ont été définis dans le projet de service. 
 
 En outre, l'équipe pluridisciplinaire de chaque service peut comporter, en tant que de besoin et dans le respect du projet de
-service, tout professionnel susceptible de concourir à la réalisation de sa mission.
+service, tout professionnel susceptible de concourir à la réalisation de sa mission. 
 
 L'ensemble des intervenants susmentionnés participent à la réalisation du projet individualisé de prise en charge et
 d'accompagnement de la personne adulte handicapée.
@@ -59617,35 +59276,40 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Créé par_:
-
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D312-155-16 (T)
+  - Code de l'action sociale et des familles - art. D312-170 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-12 (T)
-  - Code de l'action sociale et des familles - art. D312-155-8 (T)
+  - Code de l'action sociale et des familles - art. D312-165 (V)
+  - Code de l'action sociale et des familles - art. D312-169 (V)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D312-172 (T)
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. D312-173 (T)
-  - Code de l'action sociale et des familles - art. D312-173 (V)
+  - Code de l'action sociale et des familles - art. D312-194 (V)
 
 
-###### Article D312-155-17
+###### Article D312-174
 
-Les membres de l'équipe pluridisciplinaire des services mentionnés aux articles D. 312-155-5 et D. 312-155-9 possèdent les
-diplômes ou les titres à finalité professionnelle nécessaires à l'exercice de leurs compétences.
+Les membres de l'équipe pluridisciplinaire des services mentionnés aux articles D. 312-162 et D. 312-166 possèdent les
+diplômes ou les titres à finalité professionnelle nécessaires à l'exercice de leurs compétences. 
 
-Les personnels mentionnés aux articles D. 312-155-8 et D. 312-155-12 peuvent être salariés du service ou de la structure à
+Les personnels mentionnés aux articles D. 312-165 et D. 312-169 peuvent être salariés du service ou de la structure à
 laquelle il est rattaché ou exercer en libéral lorsqu'ils sont habilités à pratiquer ce mode d'exercice. Dans ce dernier cas,
 les professionnels libéraux concluent avec la personne morale gestionnaire une convention précisant notamment l'engagement du
 professionnel libéral à respecter le règlement de fonctionnement et le projet de service, ainsi que les modalités d'exercice
-du professionnel au sein du service visant à garantir la qualité des prestations.
+du professionnel au sein du service visant à garantir la qualité des prestations. 
 
 Sans préjudice des dispositions de l'alinéa précédent, des conventions fonctionnelles peuvent être passées, avec des
 personnes physiques ou morales intervenant dans les secteurs social, médico-social et sanitaire proches du domicile de la
@@ -59659,42 +59323,39 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D312-155-17 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-12 (T)
-  - Code de l'action sociale et des familles - art. D312-155-5 (T)
-  - Code de l'action sociale et des familles - art. D312-155-8 (T)
-  - Code de l'action sociale et des familles - art. D312-155-9 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D312-174 (V)
+  - Code de l'action sociale et des familles - art. D312-162 (V)
+  - Code de l'action sociale et des familles - art. D312-165 (V)
+  - Code de l'action sociale et des familles - art. D312-166 (V)
+  - Code de l'action sociale et des familles - art. D312-169 (V)
 
 
-###### Article D312-155-18
+###### Article D312-175
 
-Lorsque le service défini aux articles D. 312-155-5 ou D. 312-155-9 intervient sur un lieu de formation ou de travail, une
+Lorsque le service défini aux articles D. 312-162 ou D. 312-166 intervient sur un lieu de formation ou de travail, une
 convention, signée par la personne handicapée, est passée pour la durée de l'intervention avec la personne physique ou morale
-de droit public ou privé responsable de l'établissement accueillant la personne handicapée ou employant celle-ci.
+de droit public ou privé responsable de l'établissement accueillant la personne handicapée ou employant celle-ci. 
 
 Cette convention précise les conditions d'intervention du service, la liste des personnels amenés à intervenir auprès de la
 personne handicapée avec leur qualification et leur statut, ainsi que leurs modalités d'intervention sur les lieux où
-s'exercent l'activité de formation, y compris scolaire et universitaire, et l'activité professionnelle.
+s'exercent l'activité de formation, y compris scolaire et universitaire, et l'activité professionnelle. 
 
 Dans le respect des dispositions de l'article L. 311-3 ainsi que des attributions et des contraintes de chacun, la
 coopération entre le service d'accompagnement à la vie sociale ou le service d'accompagnement médico-social pour adultes
-handicapés et la personne physique ou morale de droit public ou privé visée au présent article doit permettre :
+handicapés et la personne physique ou morale de droit public ou privé visée au présent article doit permettre : 
 
-a) D'informer l'ensemble des personnes composant l'environnement de la personne handicapée des besoins de celle-ci ;
+a) D'informer l'ensemble des personnes composant l'environnement de la personne handicapée des besoins de celle-ci ; 
 
 b) D'identifier les difficultés susceptibles de survenir et de définir les actions permettant d'y mettre fin ou de les
-éviter ;
+éviter ; 
 
 c) De conduire une évaluation périodique des besoins de la personne handicapée afin de procéder, le cas échéant, aux
 adaptations nécessaires.
@@ -59707,27 +59368,24 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D312-155-18 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-155-5 (T)
-  - Code de l'action sociale et des familles - art. D312-155-9 (T)
-  - Code de l'action sociale et des familles - art. L311-3 (M)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D312-175 (V)
+  - Code de l'action sociale et des familles - art. D312-162 (V)
+  - Code de l'action sociale et des familles - art. D312-166 (V)
+  - Code de l'action sociale et des familles - art. L311-3 (V)
 
 
-###### Article D312-155-19
+###### Article D312-176
 
-Les services mentionnés aux articles D. 312-155-5 et D. 312-155-9 doivent satisfaire aux conditions techniques d'organisation
-et de fonctionnement prévues par le présent paragraphe dans un délai de trois ans à compter de la publication du décret n°
+Les services mentionnés aux articles D. 312-162 et D. 312-166 doivent satisfaire aux conditions techniques d'organisation et
+de fonctionnement prévues par le présent paragraphe dans un délai de trois ans à compter de la publication du décret n°
 2005-223 du 11 mars 2005 relatif aux conditions d'organisation et de fonctionnement des services d'accompagnement à la vie
 sociale et des services d'accompagnement médico-social pour adultes handicapés.
 
@@ -59739,28 +59397,29 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2005-223 2005-03-11
-  - Code de l'action sociale et des familles - art. D312-155-5 (T)
-  - Code de l'action sociale et des familles - art. D312-155-9 (T)
+  - Décret n°2005-223 du 11 mars 2005 (V)
+  - Code de l'action sociale et des familles - art. D312-162 (V)
+  - Code de l'action sociale et des familles - art. D312-166 (V)
 
 _Créé par_:
 
-  - Décret n°2005-223 du 11 mars 2005 - art. 1 () JORF 13 mars 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-176 (V)
+  - Code de l'action sociale et des familles - art. D312-155-19 (T)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Section 2 : Organismes consultatifs<a id=462></a>
+##### Section 2 : Organismes consultatifs<a id=460></a>
 
-##### Sous-section 1 : Section sociale du Comité national de l'organisation sanitaire et sociale<a id=463></a>
+##### Sous-section 1 : Section sociale du Comité national de l'organisation sanitaire et sociale<a id=461></a>
 
-###### Article R312-156
+###### Article R312-177
 
 La section sociale du Comité national de l'organisation sanitaire et sociale mentionnée à l'article R. 712-6 du code de la
 santé publique est consultée :
@@ -59778,17 +59437,15 @@ l'application du livre III du code de l'action sociale et des familles.
 
 _Anciens textes_:
 
-  - Décret n°2004-65 du 15 janvier 2004 - art. 1 (Ab)
+  - Décret n°2003-1134 du 26 novembre 2003 - art. 7 (Ab)
+  - Code de l'action sociale et des familles - art. R312-156 (T)
+  - Code de l'action sociale et des familles - art. R312-174 (T)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
 _Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
@@ -59801,17 +59458,17 @@ _Cite_:
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. R312-159 (T)
-  - Code de l'action sociale et des familles - art. R312-177 (T)
-  - Code de l'action sociale et des familles - art. R312-177 (V)
+  - Code de l'action sociale et des familles - art. R312-180 (T)
+  - Code de l'action sociale et des familles - art. R312-198 (Ab)
 
 _Cité par_:
 
-  - Code de la santé publique - art. R6122-6 (M)
-  - Code de la santé publique - art. R712-11 (Ab)
+  - Code de l'action sociale et des familles - art. R312-181 (T)
+  - Code de l'action sociale et des familles - art. R521-2 (V)
+  - Code de la santé publique - art. R6122-6 (V)
 
 
-###### Article R312-157
+###### Article R312-178
 
 Outre le président ou son suppléant, la section sociale du Comité national de l'organisation sanitaire et sociale comprend :
 
@@ -59865,7 +59522,9 @@ une désignée sur proposition du ministre chargé de l'éducation nationale.
 
 _Anciens textes_:
 
-  - Décret n°2004-65 du 15 janvier 2004 - art. 2 (Ab)
+  - Décret n°2003-1134 du 26 novembre 2003 - art. 8 (Ab)
+  - Code de l'action sociale et des familles - art. R312-157 (T)
+  - Code de l'action sociale et des familles - art. R312-175 (T)
 
 _Codifié par_:
 
@@ -59873,30 +59532,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de la santé publique - art. R712-9 (M)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-160 (T)
-  - Code de l'action sociale et des familles - art. R312-178 (T)
-  - Code de l'action sociale et des familles - art. R312-178 (V)
 
 _Cité par_:
 
-  - Code de l'action sociale et des familles - art. R521-2 (M)
-  - Code de la santé publique - art. R6122-6 (M)
-  - Code de la santé publique - art. R712-11 (Ab)
+  - Arrêté du 10 octobre 2008 - art. 3 (Ab)
+  - Arrêté du 18 mars 2015 - art. 2 (V)
+  - Code de l'action sociale et des familles - art. R521-2 (V)
+  - Code de la santé publique - art. R6122-6 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. R312-181 (T)
+  - Code de l'action sociale et des familles - art. R312-199 (Ab)
 
 
-###### Article R312-158
+###### Article R312-179
 
 Les modalités de désignation des membres de la section sociale du Comité national de l'organisation sanitaire et sociale
 ainsi que les modalités de fonctionnement de cette section sont fixées par les dispositions des sous-sections 2 et 4 de la
@@ -59904,41 +59555,37 @@ section 1 du chapitre II du titre Ier du livre VII du code de la santé publique
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 3 (Ab)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
 _Modifié par_:
 
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-161 (T)
-  - Code de l'action sociale et des familles - art. R312-179 (T)
-  - Code de l'action sociale et des familles - art. R312-179 (V)
+  - Code de l'action sociale et des familles - art. R312-158 (T)
+  - Code de l'action sociale et des familles - art. R312-176 (T)
 
 _Cité par_:
 
-  - Code de l'action sociale et des familles - art. R521-2 (M)
+  - Code de l'action sociale et des familles - art. R312-177 (T)
+  - Code de l'action sociale et des familles - art. R521-2 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. R312-200 (Ab)
 
 
-##### Sous-section 2 : Comités régionaux de l'organisation sociale et médico-sociale<a id=464></a>
+##### Sous-section 2 : Comités régionaux de l'organisation sociale et médico-sociale<a id=462></a>
 
-##### Paragraphe 1 : Composition du comité régional de l'organisation sociale et médico-sociale.<a id=465></a>
+##### Paragraphe 1 : Composition du comité régional de l'organisation sociale et médico-sociale.<a id=463></a>
 
-###### Article R312-159
+###### Article R312-180
 
 Le président du comité régional de l'organisation sociale et médico-sociale mentionné à l'article L. 312-3 est désigné, dans
-les conditions prévues à l'article R. 312-162, soit parmi les membres du corps des conseillers des tribunaux administratifs
+les conditions prévues à l'article R. 312-183, soit parmi les membres du corps des conseillers des tribunaux administratifs
 et des cours administratives d'appel, soit parmi les membres du corps des conseillers des chambres régionales des comptes. Il
 est suppléé par un membre de celui de ces corps dont il n'est pas issu.
 
@@ -59955,40 +59602,35 @@ Le mandat du président et de son suppléant est de cinq ans. Il est renouvelabl
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 4 (Ab)
-  - Code de l'action sociale et des familles - art. R312-156 (T)
-
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
 _Modifié par_:
 
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 3
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L312-3 (M)
-  - Code de l'action sociale et des familles - art. R312-162 (T)
+  - Code de l'action sociale et des familles - art. L312-3
+  - Code de l'action sociale et des familles - art. R312-183
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-156 (T)
+  - Code de l'action sociale et des familles - art. R312-159 (T)
+  - Code de l'action sociale et des familles - art. R312-177 (T)
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. R312-162 (T)
-  - Code de l'action sociale et des familles - art. R312-180 (Ab)
-  - Code de l'action sociale et des familles - art. R312-180 (T)
+  - Code de l'action sociale et des familles - art. R312-201 (Ab)
 
 
-###### Article R312-160
+###### Article R312-181
 
 Outre le président ou son suppléant, le comité comprend, en formation plénière :
 
@@ -60058,36 +59700,33 @@ Un suppléant de chaque membre est désigné dans les mêmes conditions que le t
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 5 (Ab)
-  - Code de l'action sociale et des familles - art. R312-157 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
 _Modifié par_:
 
-  - Décret n°2005-434 2005-05-06 art. 9 I, II JORF 8 mai 2005
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Décret n°2010-337 du 31 mars 2010 - art. 2 (V)
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R312-160 (T)
+  - Code de l'action sociale et des familles - art. R312-178 (T)
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. R312-163 (T)
-  - Code de l'action sociale et des familles - art. R312-181 (T)
-  - Code de l'action sociale et des familles - art. R312-181 (V)
+  - Code de l'action sociale et des familles - art. R312-202 (Ab)
 
 _Cite_:
 
   - Code de l'action sociale et des familles L6121-10
 
 
-###### Article R312-161
+###### Article R312-182
 
 Lorsqu'il rend ses avis en application des articles L. 313-1 et L. 313-7, et sur délégation de la formation plénière, le
 comité régional est constitué en quatre sections spécialisées compétentes pour les établissements et services pour personnes
@@ -60144,22 +59783,11 @@ judiciaire de la jeunesse.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 6 (Ab)
-  - Décret n°2004-65 du 15 janvier 2004 - art. 7 (Ab)
-  - Code de l'action sociale et des familles - art. R312-158 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 2005-05-06 art. 9 I, II JORF 8 mai 2005
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
@@ -60169,17 +59797,16 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-7 (M)
   - Code de l'action sociale et des familles L313-1, L313-7, L6121-10
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-164 (T)
-  - Code de l'action sociale et des familles - art. R312-182 (V)
+  - Code de l'action sociale et des familles - art. R312-161 (T)
 
 _Cité par_:
 
-  - Code de l'action sociale et des familles - art. R521-2 (M)
+  - Code de l'action sociale et des familles - art. R521-2 (V)
 
 
-###### Article R312-162
+###### Article R312-183
 
 Un arrêté du préfet de région détermine d'une part la liste des organismes, institutions, groupements, fédérations ou
 syndicats représentés, et d'autre part le nombre de sièges dont ils disposent.
@@ -60188,35 +59815,28 @@ Le préfet de région fixe par arrêté la liste nominative des membres du comit
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 8 (Ab)
-  - Code de l'action sociale et des familles - art. R312-159 (T)
-
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
+_Abrogé par_:
+
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 3
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R312-162 (T)
+
 _Cité par_:
 
-  - Code de l'action sociale et des familles - art. R312-159 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-165 (T)
-  - Code de l'action sociale et des familles - art. R312-183 (Ab)
-  - Code de l'action sociale et des familles - art. R312-183 (V)
+  - Code de l'action sociale et des familles - art. R312-180 (Ab)
 
 
-###### Article R312-163
+###### Article R312-184
 
 Le mandat des membres titulaires et suppléants est de cinq ans. Il est renouvelable.
 
@@ -60229,33 +59849,26 @@ nouveau membre prend fin à la date à laquelle aurait cessé celui du membre qu
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 9 (Ab)
-  - Code de l'action sociale et des familles - art. R312-160 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. R312-166 (T)
-  - Code de l'action sociale et des familles - art. R312-184 (Ab)
-  - Code de l'action sociale et des familles - art. R312-184 (V)
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 3
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R312-163 (T)
 
 
-##### Paragraphe 2 : Fonctionnement du comité.<a id=466></a>
+##### Paragraphe 2 : Fonctionnement du comité.<a id=464></a>
 
-###### Article R312-164
+###### Article R312-185
 
 Le comité se réunit sur convocation du préfet de région, qui détermine l'ordre du jour des séances, après avis de son
 président.
@@ -60264,30 +59877,20 @@ Le secrétariat est assuré par la direction régionale des affaires sanitaires 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 10 (Ab)
-  - Code de l'action sociale et des familles - art. R312-161 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-167 (T)
-  - Code de l'action sociale et des familles - art. R312-185 (V)
+  - Code de l'action sociale et des familles - art. R312-164 (T)
 
 
-###### Article R312-165
+###### Article R312-186
 
 Le comité régional ne peut délibérer que si au moins la moitié des membres sont présents. Le quorum est apprécié en début de
 séance.
@@ -60313,35 +59916,28 @@ Les membres du comité exercent leur mandat à titre gratuit.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 11 (Ab)
-  - Code de l'action sociale et des familles - art. R312-162 (T)
-
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. R312-168 (T)
-  - Code de l'action sociale et des familles - art. R312-186 (Ab)
-  - Code de l'action sociale et des familles - art. R312-186 (V)
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 3
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R312-165 (T)
 
 _Cité par_:
 
-  - Code de l'action sociale et des familles - art. R521-2 (M)
+  - Code de l'action sociale et des familles - art. R521-2 (V)
 
 
-###### Article R312-166
+###### Article R312-187
 
 Le comité établit son règlement intérieur qui est approuvé par le préfet de région.
 
@@ -60356,31 +59952,24 @@ Le règlement intérieur prévoit notamment :
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 11 (Ab)
-  - Code de l'action sociale et des familles - art. R312-163 (T)
-
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. R312-169 (T)
-  - Code de l'action sociale et des familles - art. R312-187 (Ab)
-  - Code de l'action sociale et des familles - art. R312-187 (V)
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 3
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R312-166 (T)
 
 
-###### Article R312-167
+###### Article R312-188
 
 Les projets de schémas d'organisation sociale et médico-sociale sont adressés aux membres du comité deux mois au moins avant
 sa réunion, par le représentant de l'Etat dans la région, accompagnés d'une note de présentation générale portant notamment
@@ -60388,31 +59977,24 @@ sur leur cohérence avec les autres schémas déjà arrêtés dans la région.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 11 (Ab)
-  - Code de l'action sociale et des familles - art. R312-164 (T)
-
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. R312-170 (T)
-  - Code de l'action sociale et des familles - art. R312-188 (Ab)
-  - Code de l'action sociale et des familles - art. R312-188 (V)
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 3
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R312-167 (T)
 
 
-###### Article R312-168
+###### Article R312-189
 
 Les demandes d'autorisation, de transformation et d'extension d'établissements ou de services sociaux ou médico-sociaux font
 l'objet de rapports introductifs présentés par des agents de l'État, des collectivités territoriales, ou par des praticiens-
@@ -60443,20 +60025,11 @@ peuvent être appelés à prendre part aux débats, à titre consultatif, à l'i
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2004-65 du 15 janvier 2004 - art. 12 (Ab)
-  - Code de l'action sociale et des familles - art. R312-165 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
@@ -60466,13 +60039,12 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-1 (M)
   - Code de l'action sociale et des familles - art. L313-7 (M)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-171 (T)
-  - Code de l'action sociale et des familles - art. R312-189 (V)
+  - Code de l'action sociale et des familles - art. R312-168 (T)
 
 
-###### Article R312-169
+###### Article R312-190
 
 L'opportunité des projets de création, de transformation ou d'extension est appréciée en fonction :
 
@@ -60491,33 +60063,28 @@ projets correspondant aux catégories d'établissements ou de services énumér�
 
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
 _Créé par_:
 
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 3
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L311-8 (M)
-  - Code de l'action sociale et des familles - art. L312-1 (M)
-  - Code de l'action sociale et des familles - art. L313-4 (M)
+  - Code de l'action sociale et des familles - art. L311-8
+  - Code de l'action sociale et des familles - art. L312-1
+  - Code de l'action sociale et des familles - art. L313-4
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-166 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-190 (Ab)
-  - Code de l'action sociale et des familles - art. R312-190 (V)
+  - Code de l'action sociale et des familles - art. R312-169 (T)
 
 
-###### Article R312-170
+###### Article R312-191
 
 La procédure simplifiée mentionnée au deuxième paragraphe de l'article L. 313-1 s'applique aux extensions et transformations
 d'établissements ou de services sociaux et médico-sociaux, ainsi qu'aux créations de services sociaux et médico-sociaux qui
@@ -60540,77 +60107,59 @@ offert ;
 
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
 _Créé par_:
 
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 3
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L312-1 (M)
-  - Code de l'action sociale et des familles - art. L313-1 (M)
+  - Code de l'action sociale et des familles - art. L312-1
+  - Code de l'action sociale et des familles - art. L313-1
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-167 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-191 (Ab)
-  - Code de l'action sociale et des familles - art. R312-191 (V)
+  - Code de l'action sociale et des familles - art. R312-170 (T)
 
 
-###### Article R312-171
+###### Article R312-192
 
 Le comité peut appeler toute personne dont le concours apparaît souhaitable à participer à ses travaux à titre consultatif.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2003-1134 du 26 novembre 2003 - art. 1 (Ab)
-  - Code de l'action sociale et des familles - art. R312-168 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Cité par_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. R312-172 (T)
-  - Code de l'action sociale et des familles - art. R312-174 (T)
-  - Code de l'action sociale et des familles - art. R312-176 (T)
+  - Décret n°2012-1331 du 29 novembre 2012 - art. 3
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-174 (T)
-  - Code de l'action sociale et des familles - art. R312-192 (Ab)
-  - Code de l'action sociale et des familles - art. R312-192 (V)
+  - Code de l'action sociale et des familles - art. R312-171 (T)
 
 
-##### Section 3 : Schémas d'organisation sociale et médico-sociale<a id=467></a>
+##### Section 3 : Schémas d'organisation sociale et médico-sociale<a id=465></a>
 
-##### Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale<a id=468></a>
+##### Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale<a id=466></a>
 
-###### Article D312-172
+###### Article D312-193
 
 Relèvent du schéma national d'organisation sociale et médico-sociale mentionné au 1° de l'article L. 312-5, les
 établissements et services mentionnés au 2°, au a) du 5°, au 7°, 9° et 11° du I de l'article L. 312-1, lorsqu'ils relèvent de
 la compétence exclusive de l'État et qu'ils accueillent à titre principal ou au sein d'une unité individualisée des personnes
-présentant l'un des handicaps rares définis à l'article D. 312-173.
+présentant l'un des handicaps rares définis à l'article D. 312-194.
 
 **Liens relatifs à cet article**
 
@@ -60620,29 +60169,21 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-155-15 (T)
-  - Code de l'action sociale et des familles - art. D312-169 (T)
+  - Code de l'action sociale et des familles - art. D312-172 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D312-173 (T)
-  - Code de l'action sociale et des familles - art. L312-1 (M)
-  - Code de l'action sociale et des familles - art. L312-5 (M)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D312-193 (V)
+  - Code de l'action sociale et des familles - art. D312-194 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de l'action sociale et des familles - art. L312-5 (V)
 
 
-###### Article D312-173
+###### Article D312-194
 
 Sont atteintes d'un handicap rare les personnes présentant l'une des configurations de déficiences ou de troubles associés
 dont le taux de prévalence n'est pas supérieur à un cas pour 10 000 habitants et relevant de l'une des catégories suivantes :
@@ -60673,31 +60214,22 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D312-155-16 (T)
-  - Code de l'action sociale et des familles - art. D312-170 (T)
+  - Code de l'action sociale et des familles - art. D312-173 (T)
 
 _Cité par_:
 
-  - Code de l'action sociale et des familles - art. D312-172 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D312-194 (V)
+  - Code de l'action sociale et des familles - art. D312-193 (V)
 
 
-##### Section 5 : Evaluation et systèmes d'information<a id=469></a>
+##### Section 5 : Evaluation et systèmes d'information<a id=467></a>
 
-##### Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale.<a id=470></a>
+##### Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale.<a id=468></a>
 
-###### Article R312-174
+###### Article R312-195
 
 Le conseil national de l'évaluation sociale et médico-sociale mentionné à l'article L. 312-8 a pour mission de promouvoir
 dans les établissements et services sociaux et médico-sociaux le développement de l'évaluation interne et de l'évaluation
@@ -60716,22 +60248,24 @@ l'évaluation mentionnée à l'article L. 313-7 s'agissant des établissements e
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2003-1134 du 26 novembre 2003 - art. 4 (Ab)
-  - Code de l'action sociale et des familles - art. R312-171 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-324 du 8 mars 2007 - art. 3 (V) JORF 10 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-324 du 8 mars 2007 - art. 3 (V)
+  - Code de l'action sociale et des familles - art. R312-196 (M)
+  - Code de l'action sociale et des familles - art. R312-198 (Ab)
+  - Code de l'action sociale et des familles - art. R312-200 (Ab)
 
 _Cite_:
 
@@ -60739,20 +60273,12 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-8 (M)
   - Code de l'action sociale et des familles - art. L313-7 (M)
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-175 (T)
-  - Code de l'action sociale et des familles - art. R312-177 (T)
-  - Code de l'action sociale et des familles - art. R312-178 (T)
-  - Code de l'action sociale et des familles - art. R312-179 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-177 (T)
-  - Code de l'action sociale et des familles - art. R312-195 (Ab)
+  - Code de l'action sociale et des familles - art. R312-174 (T)
 
 
-###### Article R312-175
+###### Article R312-196
 
 Le conseil comprend :
 
@@ -60785,7 +60311,7 @@ ministres chargés de l'action sociale, de la famille, des personnes âgées, de
 l'exclusion, sur proposition de chacune des organisations syndicales représentatives mentionnées à l'article L. 132-2 du code
 du travail ;
 
-7° Quatre directeurs d'établissements ou de services mentionnés au 1° de l'article R. 312-174 particulièrement qualifiés dans
+7° Quatre directeurs d'établissements ou de services mentionnés au 1° de l'article R. 312-195 particulièrement qualifiés dans
 le domaine de l'évaluation, désignés par les principales associations professionnelles des directeurs desdits établissements
 et services dont au minimum un représentant de chacun des secteurs répondant aux besoins des enfants et familles en
 difficulté, des personnes handicapées, des personnes âgées et des personnes en situation d'exclusion ;
@@ -60804,43 +60330,33 @@ mentionnées au 8° du présent article et arrêtent la liste des membres titula
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2003-1134 du 26 novembre 2003 - art. 5, v. init.
-  - Décret n°2003-1134 du 26 novembre 2003 - art. 5 (Ab)
-  - Code de l'action sociale et des familles - art. R312-172 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Décret n°2007-324 du 8 mars 2007 - art. 2 (V)
+  - Code de l'action sociale et des familles - art. R14-10-23 (M)
+  - Code de l'action sociale et des familles - art. R312-198 (Ab)
 
 _Cite_:
 
   - Code du travail - art. L132-2 (M)
   - Code de l'action sociale et des familles - art. L312-1 (M)
-  - Code de l'action sociale et des familles - art. R312-174 (T)
+  - Code de l'action sociale et des familles - art. R312-195 (Ab)
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R14-10-23 (M)
-  - Code de l'action sociale et des familles - art. R312-177 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-178 (T)
-  - Code de l'action sociale et des familles - art. R312-196 (Ab)
-  - Code de l'action sociale et des familles - art. R312-196 (M)
+  - Code de l'action sociale et des familles - art. R312-175 (T)
 
 
-###### Article R312-176
+###### Article R312-197
 
 Le mandat des membres titulaires et suppléants est de quatre ans. Il est renouvelable une fois. Il prend fin lorsque, avant
 l'expiration de cette période, l'intéressé cesse d'exercer le mandat ou les fonctions au titre desquels il a été élu ou
@@ -60850,92 +60366,64 @@ mandat du nouveau membre prend fin à la date à laquelle aurait cessé celui du
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2003-1134 du 26 novembre 2003 - art. 6 (Ab)
-  - Code de l'action sociale et des familles - art. R312-173 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Cité par_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-174 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-179 (T)
-  - Code de l'action sociale et des familles - art. R312-197 (M)
-  - Code de l'action sociale et des familles - art. R312-197 (V)
+  - Code de l'action sociale et des familles - art. R312-176 (T)
 
 
-###### Article R312-177
+###### Article R312-198
 
 Le conseil national désigne une commission technique permanente chargée de préparer les travaux de la formation plénière, de
-publier et diffuser les documents mentionnés au 1° de l'article R. 312-174 et les avis résultant des travaux du conseil. Elle
+publier et diffuser les documents mentionnés au 1° de l'article R. 312-195 et les avis résultant des travaux du conseil. Elle
 élabore le projet de rapport d'activité annuel qu'elle soumet au conseil en vue de son adoption et de sa publication.
 
 Cette commission est composée, outre le président, de huit membres dont quatre choisis parmi ceux mentionnés au 4° , deux
-parmi ceux mentionnés au 7° et deux parmi ceux mentionnés au 8° de l'article R. 312-175.
+parmi ceux mentionnés au 7° et deux parmi ceux mentionnés au 8° de l'article R. 312-196.
 
 Le conseil national peut décider la constitution, à titre permanent ou temporaire, de commissions techniques spécifiques dans
-des conditions fixées par le règlement intérieur mentionné à l'article R. 312-179.
+des conditions fixées par le règlement intérieur mentionné à l'article R. 312-200.
 
 Il peut entendre ou associer à ses travaux tous experts dont les compétences sont utiles à la conduite de ses missions.
 
 Le conseil national dispose d'un secrétariat placé sous l'autorité du président. Il est notamment chargé de mettre en oeuvre
 les procédures d'instruction des dossiers soumis à l'avis du conseil, en application des 1° , 2° et 3° de l'article R.
-312-174.
+312-195.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1134 du 26 novembre 2003 - art. 7 (Ab)
-  - Code de l'action sociale et des familles - art. R312-156 (T)
-  - Code de l'action sociale et des familles - art. R312-174 (T)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R312-177 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R312-174 (T)
-  - Code de l'action sociale et des familles - art. R312-175 (T)
-  - Code de l'action sociale et des familles - art. R312-179 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-180 (T)
-  - Code de l'action sociale et des familles - art. R312-198 (Ab)
-  - Code de l'action sociale et des familles - art. R312-198 (M)
+  - Code de l'action sociale et des familles - art. R312-195 (Ab)
+  - Code de l'action sociale et des familles - art. R312-196 (M)
+  - Code de l'action sociale et des familles - art. R312-200 (Ab)
 
 _Cité par_:
 
-  - Code de l'action sociale et des familles - art. R312-181 (T)
-  - Code de l'action sociale et des familles - art. R521-2 (V)
-  - Code de la santé publique - art. R6122-6 (V)
+  - Code de l'action sociale et des familles - art. R312-202 (Ab)
 
 
-###### Article R312-178
+###### Article R312-199
 
 Le conseil national se réunit en formation plénière sur convocation de son président.
 
@@ -60947,43 +60435,29 @@ précédent alinéa.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2003-1134 du 26 novembre 2003 - art. 8 (Ab)
-  - Code de l'action sociale et des familles - art. R312-157 (T)
-  - Code de l'action sociale et des familles - art. R312-175 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-_Cité par_:
+_Abrogé par_:
 
-  - Arrêté du 10 octobre 2008 - art. 3 (Ab)
-  - Arrêté du 18 mars 2015 - art. 2 (V)
-  - Code de l'action sociale et des familles - art. R521-2 (V)
-  - Code de la santé publique - art. R6122-6 (V)
+  - Décret n°2007-324 du 8 mars 2007 - art. 3 (V) JORF 10 mars 2007
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-181 (T)
-  - Code de l'action sociale et des familles - art. R312-199 (Ab)
+  - Code de l'action sociale et des familles - art. R312-178 (T)
 
 
-###### Article R312-179
+###### Article R312-200
 
 Lorsqu'il est appelé à rendre des avis, le conseil national ne peut valablement délibérer que si au moins la moitié des
 membres convoqués est présente. Les avis du conseil sont motivés.
 
-Les avis mentionnés au 2° de l'article R. 312-174 font l'objet d'un vote à bulletin secret. Hormis ce cas, le vote à bulletin
+Les avis mentionnés au 2° de l'article R. 312-195 font l'objet d'un vote à bulletin secret. Hormis ce cas, le vote à bulletin
 secret est de plein droit sur décision du président ou sur la demande de l'un des membres présents.
 
 Le conseil national établit son règlement intérieur qui précise les modalités de son fonctionnement.
@@ -60994,34 +60468,29 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-324 du 8 mars 2007 - art. 3 (V) JORF 10 mars 2007
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-158 (T)
-  - Code de l'action sociale et des familles - art. R312-176 (T)
+  - Code de l'action sociale et des familles - art. R312-179 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R312-174 (T)
+  - Code de l'action sociale et des familles - art. R312-195 (Ab)
 
 _Cité par_:
 
-  - Code de l'action sociale et des familles - art. R312-177 (T)
-  - Code de l'action sociale et des familles - art. R521-2 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-200 (Ab)
+  - Code de l'action sociale et des familles - art. R312-198 (Ab)
 
 
-###### Article R312-180
+###### Article R312-201
 
 Les membres du conseil national ainsi que les personnes appelées à collaborer à ses travaux sont tenus, dans les conditions
 et sous les peines prévues aux articles 226-13 et 226-14 du code pénal, de garder secrètes les informations dont ils peuvent
@@ -61037,13 +60506,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-324 du 8 mars 2007 - art. 3 (V) JORF 10 mars 2007
 
 _Cite_:
 
@@ -61052,20 +60521,14 @@ _Cite_:
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-159 (T)
-  - Code de l'action sociale et des familles - art. R312-177 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-201 (Ab)
-  - Code de l'action sociale et des familles R312-201
+  - Code de l'action sociale et des familles - art. R312-180 (T)
 
 
-###### Article R312-181
+###### Article R312-202
 
 Les fonctions de membre du conseil national sont gratuites.
 
-Les frais de déplacement des membres du conseil national ainsi que ceux des experts mentionnés à l'article R. 312-177 sont
+Les frais de déplacement des membres du conseil national ainsi que ceux des experts mentionnés à l'article R. 312-198 sont
 pris en charge dans les conditions prévues par la réglementation.
 
 Les frais de fonctionnement et de secrétariat du conseil national sont pris en charge sur le budget du ministère des affaires
@@ -61077,37 +60540,29 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
 
-_Cité par_:
+_Abrogé par_:
 
-  - Décret n°2010-337 du 31 mars 2010 - art. 2 (V)
+  - Décret n°2007-324 du 8 mars 2007 - art. 3 (V) JORF 10 mars 2007
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R312-160 (T)
-  - Code de l'action sociale et des familles - art. R312-178 (T)
+  - Code de l'action sociale et des familles - art. R312-181 (T)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R312-177 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R312-202 (Ab)
+  - Code de l'action sociale et des familles - art. R312-198 (M)
 
 
-#### Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux<a id=471></a>
+#### Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux<a id=469></a>
 
-##### Section 1 : Autorisation de création, d'extension ou de transformation<a id=472></a>
+##### Section 1 : Autorisation de création, d'extension ou de transformation<a id=470></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=473></a>
+##### Sous-section 1 : Dispositions générales.<a id=471></a>
 
 ###### Article R313-1
 
@@ -61528,7 +60983,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Sous-section 2 : Contrôle de conformité des établissements.<a id=474></a>
+##### Sous-section 2 : Contrôle de conformité des établissements.<a id=472></a>
 
 ###### Article D313-11
 
@@ -61713,9 +61168,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-1 (M)
 
 
-##### Section 3 : Contrats ou conventions pluriannuels<a id=475></a>
+##### Section 3 : Contrats ou conventions pluriannuels<a id=473></a>
 
-##### Sous-section 1 : Modalités de tarification des établissements mentionnés au I de l'article L. 313-12.<a id=476></a>
+##### Sous-section 1 : Modalités de tarification des établissements mentionnés au I de l'article L. 313-12.<a id=474></a>
 
 ###### Article D313-15
 
@@ -61751,7 +61206,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R313-15 (T)
 
 
-##### Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12.<a id=477></a>
+##### Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12.<a id=475></a>
 
 ###### Article D313-16
 
@@ -61789,27 +61244,20 @@ _Anciens textes_:
 
 Les établissements relevant du II de l'article L. 313-12, lorsqu'ils n'ont pas passé la convention pluriannuelle prévue au I
 du même article, peuvent, en complément du tarif journalier afférent à l'hébergement et à l'accompagnement à la vie sociale
-et du plan d'aide défini à l'article D. 232-20 :
+et du plan d'aide défini à l'article D. 232-20 : 
 
 1° Soit bénéficier d'un forfait journalier de soins pris en charge par l'assurance maladie sous réserve d'avoir obtenu
-l'autorisation de dispenser des soins aux assurés sociaux prévue à l'article L. 313-1 ;
+l'autorisation de dispenser des soins aux assurés sociaux prévue à l'article L. 313-1 ; 
 
-2° Soit avoir recours à l'intervention d'un service de soins infirmiers mentionné à l'article 1er du décret n° 2004-613 du 25
-juin 2004 relatif aux conditions techniques d'organisation et de fonctionnement des services de soins infirmiers à domicile,
-des services d'aide et d'accompagnement à domicile et des services polyvalents d'aide et de soins à domicile, s'ils
-n'emploient pas de personnels de soins salariés.
+2° Soit avoir recours à l'intervention d'un service de soins infirmiers mentionné à l'article D. 312-1, s'ils n'emploient pas
+de personnels de soins salariés.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-125 du 9 février 2004 - art. 1, v. init.
   - Décret n°2004-125 du 9 février 2004 - art. 1 (Ab)
-
-_Cite_:
-
-  - Décret n°2004-613 2004-06-25 art. 1
-  - Code de l'action sociale et des familles - art. L313-1 (M)
-  - Code de l'action sociale et des familles - art. L313-12 (M)
 
 _Codifié par_:
 
@@ -61817,7 +61265,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 _Cité par_:
 
@@ -61835,6 +61283,12 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D313-27 (T)
   - Code de l'action sociale et des familles - art. D313-29 (V)
   - Code de l'action sociale et des familles - art. D313-30 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D312-1 (V)
+  - Code de l'action sociale et des familles - art. L313-1 (V)
+  - Code de l'action sociale et des familles - art. L313-12 (V)
 
 _Nouveaux textes_:
 
@@ -62077,7 +61531,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L342-1 (M)
 
 
-##### Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux.<a id=478></a>
+##### Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux.<a id=476></a>
 
 ###### Article D313-25
 
@@ -62195,7 +61649,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D313-30 (V)
 
 
-#### Chapitre IV : Dispositions financières<a id=479></a>
+#### Chapitre IV : Dispositions financières<a id=477></a>
 
 ###### Article R314-1
 
@@ -62254,7 +61708,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-3 (V)
 
 
-##### Section 1 : Règles de compétences en matière tarifaire.<a id=480></a>
+##### Section 1 : Règles de compétences en matière tarifaire.<a id=478></a>
 
 ###### Article R314-3
 
@@ -62338,11 +61792,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-2 (M)
 
 
-##### Section 2 : Règles budgétaires de financement<a id=481></a>
+##### Section 2 : Règles budgétaires de financement<a id=479></a>
 
-##### Sous-section 1 : Dispositions générales relatives à la comptabilité, au budget et à la tarification<a id=482></a>
+##### Sous-section 1 : Dispositions générales relatives à la comptabilité, au budget et à la tarification<a id=480></a>
 
-##### Paragraphe 1 : Principes comptables et budgétaires généraux.<a id=483></a>
+##### Paragraphe 1 : Principes comptables et budgétaires généraux.<a id=481></a>
 
 ###### Article R314-4
 
@@ -62499,7 +61953,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-75 (VD)
 
 
-##### Paragraphe 2 : Présentation budgétaire.<a id=484></a>
+##### Paragraphe 2 : Présentation budgétaire.<a id=482></a>
 
 ###### Article R314-9
 
@@ -62739,9 +62193,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-162 (M)
 
 
-##### Paragraphe 3 : Fixation du tarif<a id=485></a>
+##### Paragraphe 3 : Fixation du tarif<a id=483></a>
 
-##### Sous-paragraphe 1 : Etablissement des propositions budgétaires.<a id=486></a>
+##### Sous-paragraphe 1 : Etablissement des propositions budgétaires.<a id=484></a>
 
 ###### Article R314-14
 
@@ -63027,7 +62481,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-48 (V)
 
 
-##### Sous-paragraphe 2 : Transmission des propositions budgétaires et procédure contradictoire.<a id=487></a>
+##### Sous-paragraphe 2 : Transmission des propositions budgétaires et procédure contradictoire.<a id=485></a>
 
 ###### Article R314-21
 
@@ -63240,7 +62694,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-4 (M)
 
 
-##### Sous-paragraphe 3 : Dépenses pouvant être prises en charge<a id=488></a>
+##### Sous-paragraphe 3 : Dépenses pouvant être prises en charge<a id=486></a>
 
 ###### Article R314-26
 
@@ -63332,7 +62786,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-20 (V)
 
 
-##### Sous-paragraphe 4 : Tableaux de bord.<a id=489></a>
+##### Sous-paragraphe 4 : Tableaux de bord.<a id=487></a>
 
 ###### Article R314-28
 
@@ -63578,7 +63032,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-29 (V)
 
 
-##### Sous-paragraphe 5 : Décision d'autorisation budgétaire et de tarification.<a id=490></a>
+##### Sous-paragraphe 5 : Décision d'autorisation budgétaire et de tarification.<a id=488></a>
 
 ###### Article R314-34
 
@@ -63775,7 +63229,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-36 (M)
 
 
-##### Sous-paragraphe 6 : Fixation pluriannuelle du budget.<a id=491></a>
+##### Sous-paragraphe 6 : Fixation pluriannuelle du budget.<a id=489></a>
 
 ###### Article R314-39
 
@@ -63966,9 +63420,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-51 (M)
 
 
-##### Paragraphe 4 : Exécution du budget<a id=492></a>
+##### Paragraphe 4 : Exécution du budget<a id=490></a>
 
-##### Sous-paragraphe 1 : Modifications budgétaires et gestion financière en cours d'exercice.<a id=493></a>
+##### Sous-paragraphe 1 : Modifications budgétaires et gestion financière en cours d'exercice.<a id=491></a>
 
 ###### Article R314-44
 
@@ -64178,7 +63632,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-49 (M)
 
 
-##### Sous-paragraphe 2 : Compte administratif de clôture.<a id=494></a>
+##### Sous-paragraphe 2 : Compte administratif de clôture.<a id=492></a>
 
 ###### Article R314-49
 
@@ -64459,9 +63913,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-51 (M)
 
 
-##### Paragraphe 5 : Contrôle et évaluation<a id=495></a>
+##### Paragraphe 5 : Contrôle et évaluation<a id=493></a>
 
-##### Sous-paragraphe 1 : Obligations des établissements et services.<a id=496></a>
+##### Sous-paragraphe 1 : Obligations des établissements et services.<a id=494></a>
 
 ###### Article R314-56
 
@@ -64588,7 +64042,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Sous-paragraphe 2 : Opérations d'évaluation et de contrôle<a id=497></a>
+##### Sous-paragraphe 2 : Opérations d'évaluation et de contrôle<a id=495></a>
 
 ###### Article R314-61
 
@@ -64700,7 +64154,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-16 (M)
 
 
-##### Paragraphe 6 : Contentieux.<a id=498></a>
+##### Paragraphe 6 : Contentieux.<a id=496></a>
 
 ###### Article R314-63
 
@@ -64738,11 +64192,11 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D440 (Ab)
 
 
-##### Sous-section 2 : Règles comptables et budgétaires applicables aux différentes catégories d'organismes gestionnaires<a id=499></a>
+##### Sous-section 2 : Règles comptables et budgétaires applicables aux différentes catégories d'organismes gestionnaires<a id=497></a>
 
-##### Paragraphe 1 : Règles applicables aux établissements publics sociaux et médico-sociaux<a id=500></a>
+##### Paragraphe 1 : Règles applicables aux établissements publics sociaux et médico-sociaux<a id=498></a>
 
-##### Sous-paragraphe 1 : Champ d'application et règles budgétaires générales.<a id=501></a>
+##### Sous-paragraphe 1 : Champ d'application et règles budgétaires générales.<a id=499></a>
 
 ###### Article R314-64
 
@@ -64800,7 +64254,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-15 (V)
 
 
-##### Sous-paragraphe 2 : Directeur et comptable de l'établissement public.<a id=502></a>
+##### Sous-paragraphe 2 : Directeur et comptable de l'établissement public.<a id=500></a>
 
 ###### Article R314-66
 
@@ -64865,7 +64319,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-5 (V)
 
 
-##### Sous-paragraphe 3 : Exécution du budget.<a id=503></a>
+##### Sous-paragraphe 3 : Exécution du budget.<a id=501></a>
 
 ###### Article R314-68
 
@@ -65092,7 +64546,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 2 : Règles applicables aux établissements publics de santé gérant une activité sociale ou médico-sociale.<a id=504></a>
+##### Paragraphe 2 : Règles applicables aux établissements publics de santé gérant une activité sociale ou médico-sociale.<a id=502></a>
 
 ###### Article R314-75
 
@@ -65192,7 +64646,7 @@ _Cité par_:
   - Décret n°2016-1814 du 21 décembre 2016 - art. 5 (V)
 
 
-##### Paragraphe 3 : Règles applicables aux établissements sociaux et médico-sociaux gérés par d'autres personnes morales de droit public.<a id=505></a>
+##### Paragraphe 3 : Règles applicables aux établissements sociaux et médico-sociaux gérés par d'autres personnes morales de droit public.<a id=503></a>
 
 ###### Article R314-78
 
@@ -65253,9 +64707,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R612-16 (V)
 
 
-##### Paragraphe 4 : Règles applicables aux établissements et services gérés par des personnes morales de droit privé à but non lucratif<a id=506></a>
+##### Paragraphe 4 : Règles applicables aux établissements et services gérés par des personnes morales de droit privé à but non lucratif<a id=504></a>
 
-##### Sous-paragraphe 1 : Champ d'application et principes budgétaires et comptables.<a id=507></a>
+##### Sous-paragraphe 1 : Champ d'application et principes budgétaires et comptables.<a id=505></a>
 
 ###### Article R314-80
 
@@ -65402,7 +64856,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-79 (V)
 
 
-##### Sous-paragraphe 2 : Dépenses autorisées.<a id=508></a>
+##### Sous-paragraphe 2 : Dépenses autorisées.<a id=506></a>
 
 ###### Article R314-85
 
@@ -65480,7 +64934,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-60 (V)
 
 
-##### Sous-paragraphe 3 : Frais de siège.<a id=509></a>
+##### Sous-paragraphe 3 : Frais de siège.<a id=507></a>
 
 ###### Article R314-87
 
@@ -65806,7 +65260,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-51 (V)
 
 
-##### Sous-paragraphe 4 : Gestion financière.<a id=510></a>
+##### Sous-paragraphe 4 : Gestion financière.<a id=508></a>
 
 ###### Article R314-95
 
@@ -65890,7 +65344,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Sous-paragraphe 5 : Fermeture de l'établissement ou du service.<a id=511></a>
+##### Sous-paragraphe 5 : Fermeture de l'établissement ou du service.<a id=509></a>
 
 ###### Article R314-97
 
@@ -65958,7 +65412,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-97 (M)
 
 
-##### Sous-paragraphe 6 : Contrôle et évaluation.<a id=512></a>
+##### Sous-paragraphe 6 : Contrôle et évaluation.<a id=510></a>
 
 ###### Article R314-99
 
@@ -66028,7 +65482,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R316-7 (V)
 
 
-##### Paragraphe 5 : Règles applicables aux établissements et services gérés par des organismes à but lucratif ou non habilités à recevoir des bénéficiaires de l'aide sociale.<a id=513></a>
+##### Paragraphe 5 : Règles applicables aux établissements et services gérés par des organismes à but lucratif ou non habilités à recevoir des bénéficiaires de l'aide sociale.<a id=511></a>
 
 ###### Article R314-101
 
@@ -66160,9 +65614,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-49 (M)
 
 
-##### Sous-section 3 : Principes de financement et modalités de versement<a id=514></a>
+##### Sous-section 3 : Principes de financement et modalités de versement<a id=512></a>
 
-##### Paragraphe 1 : Financement des établissements et services<a id=515></a>
+##### Paragraphe 1 : Financement des établissements et services<a id=513></a>
 
 ###### Article R314-105
 
@@ -66356,9 +65810,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R481-4 (V)
 
 
-##### Paragraphe 2 : Modalités de financement<a id=516></a>
+##### Paragraphe 2 : Modalités de financement<a id=514></a>
 
-##### Sous-paragraphe 1 : Dotation globale de financement.<a id=517></a>
+##### Sous-paragraphe 1 : Dotation globale de financement.<a id=515></a>
 
 ###### Article R314-106
 
@@ -66493,7 +65947,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 2 : Dispositions propres aux dotations globales et forfaits globaux de soins relevant de l'assurance maladie.<a id=518></a>
+##### Sous-paragraphe 2 : Dispositions propres aux dotations globales et forfaits globaux de soins relevant de l'assurance maladie.<a id=516></a>
 
 ###### Article R314-111
 
@@ -66561,7 +66015,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-113 (V)
 
 
-##### Sous-paragraphe 3 : Prix de journée.<a id=519></a>
+##### Sous-paragraphe 3 : Prix de journée.<a id=517></a>
 
 ###### Article R314-113
 
@@ -66624,7 +66078,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Sous-paragraphe 4 : Prix de journée globalisés.<a id=520></a>
+##### Sous-paragraphe 4 : Prix de journée globalisés.<a id=518></a>
 
 ###### Article R314-115
 
@@ -66714,9 +66168,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-125 (VD)
 
 
-##### Sous-section 4 : Dispositions propres à certaines catégories d'établissements<a id=521></a>
+##### Sous-section 4 : Dispositions propres à certaines catégories d'établissements<a id=519></a>
 
-##### Paragraphe 1 : Etablissements et services accueillant des mineurs et jeunes adultes handicapés.<a id=522></a>
+##### Paragraphe 1 : Etablissements et services accueillant des mineurs et jeunes adultes handicapés.<a id=520></a>
 
 ###### Article R314-118
 
@@ -66877,7 +66331,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-26 (M)
 
 
-##### Paragraphe 2 : Centres d'action médico-sociale précoce.<a id=523></a>
+##### Paragraphe 2 : Centres d'action médico-sociale précoce.<a id=521></a>
 
 ###### Article R314-123
 
@@ -66933,7 +66387,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-122 (M)
 
 
-##### Paragraphe 3 : Etablissements et services accueillant des mineurs ou des majeurs de moins de vingt et un ans confiés par l'autorité judiciaire.<a id=524></a>
+##### Paragraphe 3 : Etablissements et services accueillant des mineurs ou des majeurs de moins de vingt et un ans confiés par l'autorité judiciaire.<a id=522></a>
 
 ###### Article R314-125
 
@@ -67059,7 +66513,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-1 (V)
 
 
-##### Paragraphe 4 : Centres d'aide par le travail.<a id=525></a>
+##### Paragraphe 4 : Centres d'aide par le travail.<a id=523></a>
 
 ###### Article R314-128
 
@@ -67132,7 +66586,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-51 (M)
 
 
-##### Paragraphe 5 : Services d'aide à domicile.<a id=526></a>
+##### Paragraphe 5 : Services d'aide à domicile.<a id=524></a>
 
 ###### Article R314-130
 
@@ -67385,7 +66839,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-132 (VD)
 
 
-##### Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes.<a id=527></a>
+##### Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes.<a id=525></a>
 
 ###### Article R314-137
 
@@ -67478,7 +66932,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D313-21 (Ab)
 
 
-##### Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées.<a id=528></a>
+##### Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées.<a id=526></a>
 
 ###### Article R314-140
 
@@ -67692,7 +67146,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-140 (V)
 
 
-##### Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés.<a id=529></a>
+##### Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés.<a id=527></a>
 
 ###### Article R314-147
 
@@ -67802,7 +67256,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 9 : Centres d'hébergement et de réinsertion sociale.<a id=530></a>
+##### Paragraphe 9 : Centres d'hébergement et de réinsertion sociale.<a id=528></a>
 
 ###### Article R314-150
 
@@ -68073,9 +67527,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes<a id=531></a>
+##### Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes<a id=529></a>
 
-##### Sous-paragraphe 1 : Principes généraux de la tarification<a id=532></a>
+##### Sous-paragraphe 1 : Principes généraux de la tarification<a id=530></a>
 
 ###### Article R314-158
 
@@ -68191,9 +67645,9 @@ _Cité par_:
   - Décret n°2016-1814 du 21 décembre 2016 - art. 5 (V)
 
 
-##### Sous-paragraphe 2 : Modalités de détermination et de calcul des tarifs<a id=533></a>
+##### Sous-paragraphe 2 : Modalités de détermination et de calcul des tarifs<a id=531></a>
 
-##### 1  Structure tarifaire des établissements.<a id=534></a>
+##### 1  Structure tarifaire des établissements.<a id=532></a>
 
 ###### Article R314-162
 
@@ -68459,7 +67913,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-180 (V)
 
 
-##### 2  Dispositions relatives aux prestations de soins.<a id=535></a>
+##### 2  Dispositions relatives aux prestations de soins.<a id=533></a>
 
 ###### Article R314-167
 
@@ -68641,7 +68095,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-167 (V)
 
 
-##### 3  Evaluation du degré de dépendance des personnes hébergées dans les établissements.<a id=536></a>
+##### 3  Evaluation du degré de dépendance des personnes hébergées dans les établissements.<a id=534></a>
 
 ###### Article R314-170
 
@@ -69001,7 +68455,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-188 (V)
 
 
-##### 4  Tarifs journaliers afférents à l'hébergement et à la dépendance.<a id=537></a>
+##### 4  Tarifs journaliers afférents à l'hébergement et à la dépendance.<a id=535></a>
 
 ###### Article R314-180
 
@@ -69216,7 +68670,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-192 (Ab)
 
 
-##### 5  Tarifs journaliers afférents aux soins et dotation globale de financement relative aux soins.<a id=538></a>
+##### 5  Tarifs journaliers afférents aux soins et dotation globale de financement relative aux soins.<a id=536></a>
 
 ###### Article R314-185
 
@@ -69257,7 +68711,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. Annexe 3-1 (V)
 
 
-##### 6  Dispositions diverses.<a id=539></a>
+##### 6  Dispositions diverses.<a id=537></a>
 
 ###### Article R314-187
 
@@ -69503,13 +68957,13 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services<a id=540></a>
+##### Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services<a id=538></a>
 
-##### Sous-paragraphe 1 : Accueil temporaire.<a id=541></a>
+##### Sous-paragraphe 1 : Accueil temporaire.<a id=539></a>
 
 ###### Article R314-194
 
-L'accueil temporaire est régi par les dispositions des articles D. 312-43 à D. 312-46.
+L'accueil temporaire est régi par les dispositions des articles D. 312-8 à D. 312-10.
 
 **Liens relatifs à cet article**
 
@@ -69521,16 +68975,20 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles D312-43 à D312-46
+  - Code de l'action sociale et des familles D312-8 à D312-10
 
 
-##### Sous-paragraphe 2 : Dispositions diverses.<a id=542></a>
+##### Sous-paragraphe 2 : Dispositions diverses.<a id=540></a>
 
 ###### Article R314-195
 
@@ -69588,9 +69046,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-149 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à la réglementation du travail<a id=543></a>
+##### Sous-section 5 : Dispositions relatives à la réglementation du travail<a id=541></a>
 
-##### Paragraphe 1 : Conventions collectives et accords de retraite.<a id=544></a>
+##### Paragraphe 1 : Conventions collectives et accords de retraite.<a id=542></a>
 
 ###### Article R314-197
 
@@ -69724,7 +69182,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Paragraphe 2 : Durée du travail.<a id=545></a>
+##### Paragraphe 2 : Durée du travail.<a id=543></a>
 
 ###### Article R314-201
 
@@ -69802,7 +69260,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Dispositions diverses<a id=546></a>
+##### Section 3 : Dispositions diverses<a id=544></a>
 
 ###### Article R314-204
 
@@ -69823,9 +69281,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public<a id=547></a>
+#### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public<a id=545></a>
 
-##### Section 1 : Dispositions générales<a id=548></a>
+##### Section 1 : Dispositions générales<a id=546></a>
 
 ###### Article R315-1
 
@@ -69962,9 +69420,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique<a id=549></a>
+##### Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique<a id=547></a>
 
-##### Sous-section 1 : Composition et fonctionnement des conseils d'administration.<a id=550></a>
+##### Sous-section 1 : Composition et fonctionnement des conseils d'administration.<a id=548></a>
 
 ###### Article R315-6
 
@@ -70629,9 +70087,10 @@ _Nouveaux textes_:
 ###### Article R315-23
 
 Les délibérations du conseil des établissements mentionnés au présent chapitre ne deviennent exécutoires, dans les conditions
-fixées soit au titre III du livre II de la deuxième partie soit au titre III du livre III de la troisième partie du code
-général des collectivités territoriales, que lorsqu'il a été procédé à leur affichage par voie d'extrait ou à leur
-notification ainsi qu'à leur transmission au préfet ou à son délégué dans l'arrondissement.
+fixées soit au titre III du livre II de la deuxième partie soit au titre III du livre Ier de la deuxième partie et au titre
+III du livre Ier de la troisième partie du code général des collectivités territoriales, que lorsqu'il a été procédé à leur
+affichage par voie d'extrait ou à leur notification ainsi qu'à leur transmission au préfet ou à son délégué dans
+l'arrondissement.
 
 **Liens relatifs à cet article**
 
@@ -70645,12 +70104,20 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+_Transféré par_:
+
+  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. R315-23-5 (V)
 
 
-##### Sous-section 2 : Dispositions relatives au personnel.<a id=551></a>
+##### Sous-section 2 : Dispositions relatives au personnel.<a id=549></a>
 
 ###### Article R315-24
 
@@ -70719,9 +70186,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 3 : Modalités de concertation<a id=552></a>
+##### Sous-section 3 : Modalités de concertation<a id=550></a>
 
-##### Paragraphe 1 : Modalités de constitution des comités techniques d'établissement.<a id=553></a>
+##### Paragraphe 1 : Modalités de constitution des comités techniques d'établissement.<a id=551></a>
 
 ###### Article R315-27
 
@@ -71458,7 +70925,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L315-13
 
 
-##### Paragraphe 2 : Attributions des comités techniques d'établissement.<a id=554></a>
+##### Paragraphe 2 : Attributions des comités techniques d'établissement.<a id=552></a>
 
 ###### Article R315-51
 
@@ -71481,7 +70948,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L315-13 (V)
 
 
-##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement.<a id=555></a>
+##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement.<a id=553></a>
 
 ###### Article D315-64
 
@@ -71748,7 +71215,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 4 : Moyens de fonctionnement.<a id=556></a>
+##### Paragraphe 4 : Moyens de fonctionnement.<a id=554></a>
 
 ###### Article R315-65
 
@@ -71808,7 +71275,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 4 : Délégations.<a id=557></a>
+##### Sous-section 4 : Délégations.<a id=555></a>
 
 ###### Article D315-67
 
@@ -71946,9 +71413,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L315-12 (M)
 
 
-#### Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation<a id=558></a>
+#### Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation<a id=556></a>
 
-##### Section unique : Lieux de vie et d'accueil<a id=559></a>
+##### Section unique : Lieux de vie et d'accueil<a id=557></a>
 
 ###### Article D316-1
 
@@ -72135,9 +71602,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-1 (M)
 
 
-### Titre II : Etablissements soumis à déclaration<a id=560></a>
+### Titre II : Etablissements soumis à déclaration<a id=558></a>
 
-#### Chapitre Ier : Accueil de mineurs.<a id=561></a>
+#### Chapitre Ier : Accueil de mineurs.<a id=559></a>
 
 ###### Article R321-1
 
@@ -72379,7 +71846,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre II : Accueil d'adultes.<a id=562></a>
+#### Chapitre II : Accueil d'adultes.<a id=560></a>
 
 ###### Article R322-1
 
@@ -72574,11 +72041,11 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration<a id=563></a>
+### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration<a id=561></a>
 
-#### Chapitre unique<a id=564></a>
+#### Chapitre unique<a id=562></a>
 
-##### Section 1 : Conseil départemental de l'enfance.<a id=565></a>
+##### Section 1 : Conseil départemental de l'enfance.<a id=563></a>
 
 ###### Article D331-1
 
@@ -72704,7 +72171,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Surveillance des établissements.<a id=566></a>
+##### Section 2 : Surveillance des établissements.<a id=564></a>
 
 ###### Article R331-5
 
@@ -72725,7 +72192,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L331-2 (V)
 
 
-##### Section 3 : Fermeture des établissements.<a id=567></a>
+##### Section 3 : Fermeture des établissements.<a id=565></a>
 
 ###### Article R331-6
 
@@ -72756,9 +72223,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R331-7 (V)
 
 
-### Titre IV : Dispositions spécifiques à certaines catégories d'établissements<a id=568></a>
+### Titre IV : Dispositions spécifiques à certaines catégories d'établissements<a id=566></a>
 
-#### Chapitre Ier : Pouponnières.<a id=569></a>
+#### Chapitre Ier : Pouponnières.<a id=567></a>
 
 ###### Article D341-1
 
@@ -72914,7 +72381,7 @@ _Anciens textes_:
   - Décret n°74-58 du 15 janvier 1974 - art. 14 (Ab)
 
 
-#### Chapitre II : Hébergement de personnes âgées.<a id=570></a>
+#### Chapitre II : Hébergement de personnes âgées.<a id=568></a>
 
 ###### Article R342-1
 
@@ -72962,9 +72429,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L342-4 (M)
 
 
-#### Chapitre IV : Centres pour handicapés adultes<a id=571></a>
+#### Chapitre IV : Centres pour handicapés adultes<a id=569></a>
 
-##### Section 1 : Maisons d'accueil spécialisées.<a id=572></a>
+##### Section 1 : Maisons d'accueil spécialisées.<a id=570></a>
 
 ###### Article R344-1
 
@@ -73107,9 +72574,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R344-4 (Ab)
 
 
-##### Section 2 : Centres d'aide par le travail<a id=573></a>
+##### Section 2 : Centres d'aide par le travail<a id=571></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=574></a>
+##### Sous-section 1 : Dispositions générales.<a id=572></a>
 
 ###### Article R344-6
 
@@ -73524,7 +72991,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-4 (V)
 
 
-##### Sous-section 2 : Exercice d'une activité extérieure.<a id=575></a>
+##### Sous-section 2 : Exercice d'une activité extérieure.<a id=573></a>
 
 ###### Article D344-20
 
@@ -73742,9 +73209,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes<a id=576></a>
+##### Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes<a id=574></a>
 
-##### Sous-section 1 : Contribution aux frais d'hébergement et d'entretien<a id=577></a>
+##### Sous-section 1 : Contribution aux frais d'hébergement et d'entretien<a id=575></a>
 
 ###### Article R344-29
 
@@ -73869,7 +73336,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Minimum de ressources<a id=578></a>
+##### Sous-section 2 : Minimum de ressources<a id=576></a>
 
 ###### Article D344-34
 
@@ -74033,9 +73500,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D344-36 (V)
 
 
-#### Chapitre V : Centres d'hébergement et de réinsertion sociale<a id=579></a>
+#### Chapitre V : Centres d'hébergement et de réinsertion sociale<a id=577></a>
 
-##### Section 1 : Activités et organisation<a id=580></a>
+##### Section 1 : Activités et organisation<a id=578></a>
 
 ###### Article R345-1
 
@@ -74148,7 +73615,7 @@ _Cite_:
   - Code du travail - art. L322-4-16 (M)
 
 
-##### Section 2 : Accueil et séjour<a id=581></a>
+##### Section 2 : Accueil et séjour<a id=579></a>
 
 ###### Article R345-4
 
@@ -74278,7 +73745,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R349-3 (V)
 
 
-#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=582></a>
+#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=580></a>
 
 ###### Article R346-1
 
@@ -74293,13 +73760,13 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-### Titre V : Contentieux de la tarification sanitaire et sociale<a id=583></a>
+### Titre V : Contentieux de la tarification sanitaire et sociale<a id=581></a>
 
-#### Chapitre unique<a id=584></a>
+#### Chapitre unique<a id=582></a>
 
-##### Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale<a id=585></a>
+##### Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale<a id=583></a>
 
-##### Sous-section 1 : Cour nationale de la tarification sanitaire et sociale.<a id=586></a>
+##### Sous-section 1 : Cour nationale de la tarification sanitaire et sociale.<a id=584></a>
 
 ###### Article R351-1
 
@@ -74455,7 +73922,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale.<a id=587></a>
+##### Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale.<a id=585></a>
 
 ###### Article R351-7
 
@@ -74652,10 +74119,10 @@ _Codifié par_:
 
 ###### Article R351-14
 
-Un greffe du tribunal est désigné par le préfet de région du siège de la commission parmi les agents de la direction
-régionale des affaires sanitaires et sociales.
+Un greffe du tribunal est désigné par le préfet de région du siège du tribunal parmi les agents de la direction régionale des
+affaires sanitaires et sociales.
 
-Les frais de fonctionnement de la commission et de son secrétariat sont à la charge de l'Etat.
+Les frais de fonctionnement du tribunal et de son secrétariat sont à la charge de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -74668,10 +74135,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
 
-##### Section 2 : Règles de procédures applicables<a id=588></a>
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
-##### Sous-section 1 : Introduction des recours.<a id=589></a>
+
+##### Section 2 : Règles de procédures applicables<a id=586></a>
+
+##### Sous-section 1 : Introduction des recours.<a id=587></a>
 
 ###### Article R351-15
 
@@ -74701,10 +74172,18 @@ _Anciens textes_:
 
 ###### Article R351-16
 
-Les recours mentionnés à l'article L. 351-4 doivent être exercés dans le délai d'un mois à compter de la notification du
-jugement.
+Les recours mentionnés à l'article L. 351-4 doivent être exercés dans le délai d'un mois à compter de la notification de la
+décision.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L351-4 (M)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R351-17 (M)
 
 _Anciens textes_:
 
@@ -74715,13 +74194,9 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'action sociale et des familles - art. L351-4 (M)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. R351-17 (M)
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 
 ###### Article R351-17
@@ -74771,8 +74246,8 @@ _Codifié par_:
 
 Les recours et les mémoires doivent être signés par les parties ou par un mandataire qui, s'il n'est ni avocat au Conseil
 d'Etat et à la Cour de cassation, ni avocat inscrit à un barreau, ni avoué, doit justifier d'un mandat spécial et écrit. Ils
-sont déposés, contre récépissé, ou adressés par envoi recommandé au greffe du tribunal, où ils sont enregistrés à la date et
-dans l'ordre d'arrivée.
+sont déposés, contre récépissé, ou adressés par envoi recommandé au greffe de la juridiction, où ils sont enregistrés à la
+date et dans l'ordre d'arrivée.
 
 Les recours, mémoires et observations doivent être accompagnés de quatre copies certifiées conformes par leurs auteurs.
 
@@ -74787,6 +74262,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R351-25 (V)
@@ -74794,7 +74273,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R351-30 (V)
 
 
-##### Sous-section 2 : Instruction des recours et clôture de l'instruction.<a id=590></a>
+##### Sous-section 2 : Instruction des recours et clôture de l'instruction.<a id=588></a>
 
 ###### Article R351-20
 
@@ -74862,7 +74341,7 @@ _Cite_:
 
 Les destinataires de la communication du recours doivent produire leurs défenses et observations dans le délai, renouvelable
 une fois sur demande expresse, de quarante-cinq jours suivant cette communication. A l'issue de ce délai, si, après une mise
-en demeure du président de la commission, la partie défenderesse n'a produit aucun mémoire, elle est réputée avoir acquiescé
+en demeure du président de la juridiction, la partie défenderesse n'a produit aucun mémoire, elle est réputée avoir acquiescé
 aux faits exposés dans le recours. Mention de cette dernière disposition doit être faite, pour produire effet, dans la mise
 en demeure.
 
@@ -74876,6 +74355,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 _Cité par_:
 
@@ -74907,18 +74390,21 @@ _Cité par_:
 
 En vue de leurs défenses, observations ou répliques prévues aux articles R. 351-23 et R. 351-24, les parties elles-mêmes ou
 les personnes mentionnées à l'article R. 351-19 peuvent prendre connaissance et au besoin copie des pièces de l'affaire, sans
-déplacement du dossier, au greffe du tribunal.
+déplacement du dossier, au greffe de la juridiction.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°90-359 1990-04-11 art. 25
   - Décret n°90-359 du 11 avril 1990 - art. 25 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 _Cite_:
 
@@ -74929,44 +74415,50 @@ _Cite_:
 
 ###### Article R351-26
 
-Sauf décision contraire du président du tribunal, l'instruction est close par l'enregistrement de la réplique ou, à défaut,
-par l'expiration du délai imparti pour sa production, et il n'est pas tenu compte de la réplique éventuellement enregistrée
-après l'expiration de ce délai.
+Sauf décision contraire du président de la juridiction, l'instruction est close par l'enregistrement de la réplique ou, à
+défaut, par l'expiration du délai imparti pour sa production, et il n'est pas tenu compte de la réplique éventuellement
+enregistrée après l'expiration de ce délai.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°90-359 1990-04-11 art. 26
   - Décret n°90-359 du 11 avril 1990 - art. 26 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 
 ###### Article R351-27
 
-Les communications des recours, mémoires et observations sont faites par le greffe du tribunal à personne, ou à domicile, par
-lettre recommandée avec demande d'avis de réception, ou par voie administrative, contre récépissé, par l'autorité que désigne
-le président.
+Les communications des recours, mémoires et observations sont faites par le greffe de la juridiction à personne, ou à
+domicile, par lettre recommandée avec demande d'avis de réception, ou par voie administrative, contre récépissé, par
+l'autorité que désigne le président.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°90-359 1990-04-11 art. 27
   - Décret n°90-359 du 11 avril 1990 - art. 27 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 
 ###### Article R351-28
 
-Le président du tribunal peut, par ordonnance, donner acte des désistements, constater qu'il n'y a pas lieu de statuer sur un
-recours et rejeter les conclusions entachées d'une irrecevabilité manifeste non susceptible d'être couverte en cours
+Le président de la juridiction peut, par ordonnance, donner acte des désistements, constater qu'il n'y a pas lieu de statuer
+sur un recours et rejeter les conclusions entachées d'une irrecevabilité manifeste non susceptible d'être couverte en cours
 d'instance.
 
 **Liens relatifs à cet article**
@@ -74980,17 +74472,21 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 _Cité par_:
 
   - Code de justice administrative - art. R822-5 (VD)
   - Code de l'action sociale et des familles - art. R351-25-1 (V)
 
 
-##### Sous-section 3 : Séance de jugement et notification.<a id=591></a>
+##### Sous-section 3 : Séance de jugement et notification.<a id=589></a>
 
 ###### Article R351-29
 
-Le dossier du recours est, après clôture de l'instruction, remis au rapporteur désigné par le président du tribunal. Le
+Le dossier du recours est, après clôture de l'instruction, remis au rapporteur désigné par le président de la juridiction. Le
 rapporteur prépare, sur chaque affaire, un rapport et un projet de décision ou de jugement, qui sont ensuite transmis avec le
 dossier au commissaire du Gouvernement que désigne le président.
 
@@ -75002,12 +74498,15 @@ séance de jugement, dix jours au moins avant celle-ci.
 
 _Anciens textes_:
 
-  - Décret n°90-359 1990-04-11 art. 29
   - Décret n°90-359 du 11 avril 1990 - art. 29 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 
 ###### Article R351-30
@@ -75074,19 +74573,22 @@ _Codifié par_:
 
 Après délibéré hors la présence du public et des parties, la décision ou le jugement est prononcé en séance publique.
 
-Le tribunal peut, avant de statuer, ordonner tous suppléments d'instruction ou expertises qu'il estime nécessaires en fixant
-le délai dans lequel il doit y être procédé.
+La juridiction peut, avant de statuer, ordonner tous suppléments d'instruction ou expertises qu'il estime nécessaires en
+fixant le délai dans lequel il doit y être procédé.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°90-359 1990-04-11 art. 33
   - Décret n°90-359 du 11 avril 1990 - art. 33 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 
 ###### Article R351-34
@@ -75111,20 +74613,23 @@ _Codifié par_:
 
 ###### Article R351-35
 
-Lorsqu'il annule le jugement contesté, le tribunal fixe lui-même le montant de la dotation globale, du forfait de soins, du
-prix de journée ou autre élément de tarification qui était en litige, ou renvoie à l'auteur de la décision annulée le soin
-d'en fixer le montant sur les bases qu'il indique.
+Lorsqu'il annule la décision ou le jugement contesté, la juridiction fixe lui-même le montant de la dotation globale, du
+forfait de soins, du prix de journée ou autre élément de tarification qui était en litige, ou renvoie à l'auteur de la
+décision annulée le soin d'en fixer le montant sur les bases qu'il indique.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°90-359 1990-04-11 art. 35
   - Décret n°90-359 du 11 avril 1990 - art. 35 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 
 ###### Article R351-36
@@ -75174,7 +74679,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-5 (V)
 
 
-##### Sous-section 4 : Voies de recours.<a id=592></a>
+##### Sous-section 4 : Voies de recours.<a id=590></a>
 
 ###### Article R351-38
 
@@ -75229,7 +74734,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Dispositions diverses.<a id=593></a>
+##### Section 3 : Dispositions diverses.<a id=591></a>
 
 ###### Article R351-41
 
@@ -75249,11 +74754,11 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-## Livre IV : Professions et activités d'accueil<a id=594></a>
+## Livre IV : Professions et activités d'accueil<a id=592></a>
 
-### Titre Ier : Assistants de service social<a id=595></a>
+### Titre Ier : Assistants de service social<a id=593></a>
 
-#### Chapitre unique.<a id=596></a>
+#### Chapitre unique.<a id=594></a>
 
 ###### Article R411-1
 
@@ -75334,13 +74839,13 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R411-10 (V)
 
 
-### Titre II : Assistants maternels<a id=597></a>
+### Titre II : Assistants maternels<a id=595></a>
 
-#### Chapitre Ier : Dispositions générales<a id=598></a>
+#### Chapitre Ier : Dispositions générales<a id=596></a>
 
-##### Section 1 : Procédures d'agrément<a id=599></a>
+##### Section 1 : Procédures d'agrément<a id=597></a>
 
-##### Sous-section 1 : Conditions et modalités de délivrance de l'agrément.<a id=600></a>
+##### Sous-section 1 : Conditions et modalités de délivrance de l'agrément.<a id=598></a>
 
 ###### Article R421-1
 
@@ -75593,7 +75098,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R421-3 (M)
 
 
-##### Sous-section 2 : Renouvellement, suspension et retrait de l'agrément.<a id=601></a>
+##### Sous-section 2 : Renouvellement, suspension et retrait de l'agrément.<a id=599></a>
 
 ###### Article R421-10
 
@@ -75714,7 +75219,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L421-2 (T)
 
 
-##### Sous-section 3 : Commission consultative paritaire départementale.<a id=602></a>
+##### Sous-section 3 : Commission consultative paritaire départementale.<a id=600></a>
 
 ###### Article R421-14
 
@@ -75964,7 +75469,7 @@ _Abrogé par_:
   - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 
-##### Section 2 : Modalités particulières relatives à l'activité.<a id=603></a>
+##### Section 2 : Modalités particulières relatives à l'activité.<a id=601></a>
 
 ###### Article R421-23
 
@@ -76069,7 +75574,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L421-10 (M)
 
 
-##### Section 3 : Formation des assistants maternels.<a id=604></a>
+##### Section 3 : Formation des assistants maternels.<a id=602></a>
 
 ###### Article D421-27
 
@@ -76156,7 +75661,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D421-43 (V)
 
 
-##### Section 4 : Dispositions pénales.<a id=605></a>
+##### Section 4 : Dispositions pénales.<a id=603></a>
 
 ###### Article R421-28
 
@@ -76226,7 +75731,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R421-54 (V)
 
 
-#### Chapitre II : Assistants maternels employés par des personnes morales de droit public<a id=606></a>
+#### Chapitre II : Assistants maternels employés par des personnes morales de droit public<a id=604></a>
 
 ###### Article R422-1
 
@@ -76264,7 +75769,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R422-5 (V)
 
 
-##### Section 1 : Modalités de recrutement et conditions d'emploi.<a id=607></a>
+##### Section 1 : Modalités de recrutement et conditions d'emploi.<a id=605></a>
 
 ###### Article D422-6
 
@@ -76420,7 +75925,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R422-1 (M)
 
 
-##### Section 2 : Congés.<a id=608></a>
+##### Section 2 : Congés.<a id=606></a>
 
 ###### Article R422-8
 
@@ -76725,7 +76230,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Discipline.<a id=609></a>
+##### Section 3 : Discipline.<a id=607></a>
 
 ###### Article R422-20
 
@@ -76752,7 +76257,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D444-1 (V)
 
 
-##### Section 4 : Licenciement.<a id=610></a>
+##### Section 4 : Licenciement.<a id=608></a>
 
 ###### Article R422-21
 
@@ -76793,17 +76298,17 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R544-2 (V)
 
 
-### Titre III : Autres professions<a id=611></a>
+### Titre III : Autres professions<a id=609></a>
 
-#### Chapitre unique : Techniciens de l'intervention sociale et familiale<a id=612></a>
+#### Chapitre unique : Techniciens de l'intervention sociale et familiale<a id=610></a>
 
-##### Section unique : Exercice de la profession.<a id=613></a>
+##### Section unique : Exercice de la profession.<a id=611></a>
 
 ###### Article D431-1
 
 Les services et les organismes qui emploient les techniciens de l'intervention sociale et familiale ne peuvent recevoir
 aucune aide financière des collectivités publiques ou des institutions gérant un service public s'ils emploient en cette
-qualité des personnes qui n'ont pas satisfait aux dispositions de l'article D. 451-69.
+qualité des personnes qui n'ont pas satisfait aux dispositions de l'article D. 451-81.
 
 **Liens relatifs à cet article**
 
@@ -76815,9 +76320,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'action sociale et des familles - art. D451-69 (T)
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 5 (V) JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 5
 
 _Cité par_:
 
@@ -76869,11 +76378,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 5
 
 
-### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=614></a>
+### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=612></a>
 
-#### Chapitre Ier : Accueillants familiaux et modalités d'agrément<a id=615></a>
+#### Chapitre Ier : Accueillants familiaux et modalités d'agrément<a id=613></a>
 
-##### Section 1 : Modalités et délai d'instruction de la demande d'agrément.<a id=616></a>
+##### Section 1 : Modalités et délai d'instruction de la demande d'agrément.<a id=614></a>
 
 ###### Article R441-1
 
@@ -77183,7 +76692,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R441-5 (V)
 
 
-##### Section 2 : Commission consultative de retrait.<a id=617></a>
+##### Section 2 : Commission consultative de retrait.<a id=615></a>
 
 ###### Article R441-11
 
@@ -77299,7 +76808,7 @@ _Créé par_:
   - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
 
 
-#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial<a id=618></a>
+#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial<a id=616></a>
 
 ###### Article D442-2
 
@@ -77388,11 +76897,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L442-1 (V)
 
 
-### Titre V : Formation des travailleurs sociaux<a id=619></a>
+### Titre V : Formation des travailleurs sociaux<a id=617></a>
 
-#### Chapitre unique : Dispositions générales<a id=620></a>
+#### Chapitre unique : Dispositions générales<a id=618></a>
 
-##### Section 1 : Etablissements de formation.<a id=621></a>
+##### Section 1 : Etablissements de formation.<a id=619></a>
 
 ###### Article D451-5
 
@@ -77843,7 +77352,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R451-4
 
 
-##### Section 2 : Bourses d'études.<a id=622></a>
+##### Section 2 : Bourses d'études.<a id=620></a>
 
 ###### Article D451-7
 
@@ -77887,11 +77396,11 @@ _Modifié par_:
   - Décret n°2005-426 du 4 mai 2005 - art. 1 () JORF 7 mai 2005
 
 
-##### Section 3 : Formations et diplômes<a id=623></a>
+##### Section 3 : Formations et diplômes<a id=621></a>
 
-##### Sous-section 1 : Formations supérieures et diplômes d'encadrement<a id=624></a>
+##### Sous-section 1 : Formations supérieures et diplômes d'encadrement<a id=622></a>
 
-##### Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale.<a id=625></a>
+##### Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale.<a id=623></a>
 
 ###### Article R451-11
 
@@ -78015,7 +77524,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 2 : Diplôme supérieur en travail social.<a id=626></a>
+##### Paragraphe 2 : Diplôme supérieur en travail social.<a id=624></a>
 
 ###### Article D451-17
 
@@ -78090,7 +77599,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R544-5 (V)
 
 
-##### Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale.<a id=627></a>
+##### Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale.<a id=625></a>
 
 ###### Article R451-20
 
@@ -78322,14 +77831,15 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Formations et diplômes professionnels d'intervention sociale<a id=628></a>
+##### Sous-section 2 : Formations et diplômes professionnels d'intervention sociale<a id=626></a>
 
-##### Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé.<a id=629></a>
+##### Paragraphe 1 : Diplôme d'Etat d'assistant de service social.<a id=627></a>
 
 ###### Article D451-29
 
-L'obtention du diplôme d'Etat d'éducateur spécialisé est subordonnée à la réussite à un examen organisé conjointement par les
-ministres chargés des affaires sociales, de l'éducation, de la jeunesse et de la justice.
+Le diplôme d'Etat d'assistant de service social mentionné au premier alinéa de l'article L. 411-1 atteste des compétences
+requises pour mener des interventions sociales, individuelles ou collectives, en vue d'améliorer par une approche globale et
+d'accompagnement social les conditions de vie des personnes et des familles.
 
 **Liens relatifs à cet article**
 
@@ -78341,7 +77851,7 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
@@ -78360,15 +77870,17 @@ _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. D451-41 (M)
 
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L411-1 (V)
+
 
 ###### Article D451-30
 
-L'examen est ouvert aux candidats qui après avoir fait l'objet d'une sélection, effectuée dans des conditions précisées par
-arrêté des ministres mentionnés à l'article D. 451-29, ont bénéficié d'une formation à plein temps de trois ans. La durée de
-la formation peut être aménagée dans des conditions fixées par arrêté des mêmes ministres.
-
-Ces formations comprennent obligatoirement un enseignement théorique et technique et des stages. Le programme des
-enseignements et les conditions dans lesquelles sont effectués les stages sont fixés par arrêté des mêmes ministres.
+Les candidats à la formation préparant au diplôme d'Etat d'assistant de service social doivent justifier de diplômes de
+niveau au moins égal au niveau IV de la convention interministérielle des niveaux de formation ou d'un titre équivalent. Ils
+font l'objet d'une sélection organisée par les établissements de formation. Un arrêté du ministre chargé des affaires
+sociales détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -78382,15 +77894,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. D451-29 (T)
+  - Décret n°2018-734 du 22 août 2018 - art. 1
 
 _Cité par_:
 
@@ -78405,9 +77913,8 @@ _Nouveaux textes_:
 
 ###### Article D451-31
 
-L'examen a lieu chaque année, dans les académies pourvues d'un établissement de formation ayant satisfait à l'obligation de
-déclaration préalable prévue à l'article L. 451-1. L'implantation du centre d'examen et les dates des épreuves sont fixées
-par le recteur.
+La formation préparant au diplôme d'Etat d'assistant de service social est dispensée en trois ans. Elle comprend un
+enseignement théorique et une formation pratique.
 
 **Liens relatifs à cet article**
 
@@ -78417,203 +77924,26 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
 _Modifié par_:
 
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2018-734 du 22 août 2018 - art. 1
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. D451-43 (Ab)
   - Code de l'action sociale et des familles - art. D451-43 (T)
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L451-1 (M)
-
-
-###### Article D451-32
-
-Un arrêté des ministres mentionnés à l'article D. 451-29 fixe les conditions d'inscription, la nature, la durée, les
-coefficients et les programmes des épreuves de l'examen, les conditions de notation des stages et des aptitudes pratiques
-ainsi que la composition du jury.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-138 1967-02-22 art. 4
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D451-29 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-44 (T)
-  - Code de l'action sociale et des familles - art. D451-44 (V)
-
-
-###### Article D451-33
-
-Le diplôme d'Etat d'éducateur spécialisé est décerné au nom du ministre chargé de l'éducation et délivré par le recteur
-d'académie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-138 1967-02-22 art. 5
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-45 (Ab)
-  - Code de l'action sociale et des familles - art. D451-45 (T)
-
-
-###### Article D451-34
-
-Des dispenses de scolarité peuvent être accordées aux titulaires de certains diplômes et certifications en travail social
-précisés par arrêté des ministres mentionnés à l'article D. 451-29.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-138 1967-02-22 art. 6
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D451-29 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-46 (Ab)
-  - Code de l'action sociale et des familles - art. D451-46 (T)
-
-
-##### Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants.<a id=630></a>
-
-###### Article D451-35
-
-Le diplôme d'Etat d'éducateur de jeunes enfants est délivré à la suite d'un examen organisé chaque année par le ministre
-chargé des affaires sociales dans des centres désignés par arrêté.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-73 du 11 janvier 1973 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-47 (M)
-
-
-###### Article D451-36
-
-Peuvent être admis à subir les épreuves de l'examen les candidats qui, après avoir fait l'objet d'une sélection, ont reçu une
-formation théorique et pratique d'une durée de deux ans.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-73 du 11 janvier 1973 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Modifié par_:
-
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-48 (Ab)
-  - Code de l'action sociale et des familles - art. D451-48 (T)
-
-
-###### Article D451-37
-
-Des arrêtés du ministre chargé des affaires sociales fixent notamment :
-
-1° Les conditions d'admission des élèves en formation ;
-
-2° Le programme et le déroulement des études ;
-
-3° La nature et les modalités des épreuves sanctionnant cet enseignement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-73 du 11 janvier 1973 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Modifié par_:
-
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-49 (Ab)
-  - Code de l'action sociale et des familles - art. D451-49 (T)
-
 
 ###### Article D451-38
 
-Le diplôme d'Etat d'éducateur de jeunes enfants est décerné au nom du ministre chargé des affaires sociales et délivré par le
-directeur régional des affaires sanitaires et sociales.
+L'épreuve d'aptitude mentionnée au 1° de l'article R. 451-37 a pour objet de vérifier au moyen d'épreuves écrites et orales
+que l'intéressé fait preuve d'une connaissance appropriée des matières qui ne lui ont pas été enseignées initialement.
 
 **Liens relatifs à cet article**
 
@@ -78625,9 +77955,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2009-55 du 15 janvier 2009 - art. 1
 
 _Nouveaux textes_:
 
@@ -78635,12 +77969,15 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-50 (V)
   - Code de l'action sociale et des familles - art. R411-4 (M)
 
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R451-37
+
 
 ###### Article D451-39
 
-Des dispenses de scolarité, de stages et d'épreuves peuvent être accordées, dans des conditions fixées par arrêté
-ministériel, aux candidats titulaires de certains titres ou diplômes ou justifiant d'une expérience professionnelle
-antérieure dans le secteur sanitaire et social.
+Le stage d'adaptation mentionné au 2° de l'article R. 451-37 a pour objet de donner aux intéressés les connaissances définies
+à l'article R. 451-38. Il comprend un stage pratique éventuellement accompagné d'une formation théorique complémentaire.
 
 **Liens relatifs à cet article**
 
@@ -78652,9 +77989,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2009-55 du 15 janvier 2009 - art. 1
 
 _Nouveaux textes_:
 
@@ -78662,16 +78003,17 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-51 (T)
   - Code de l'action sociale et des familles - art. R411-5 (V)
 
+_Cite_:
 
-##### Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé.<a id=631></a>
+  - Code de l'action sociale et des familles - art. R451-37 (V)
+  - Code de l'action sociale et des familles R451-37, R451-38
+
 
 ###### Article D451-40
 
-Le certificat d'aptitude aux fonctions d'éducateur technique spécialisé est destiné aux personnes assurant la formation
-technologique, l'adaptation ou la réadaptation professionnelle des personnes inadaptées ou handicapées.
-
-Il est délivré aux personnes qui ont subi avec succès les épreuves d'un examen organisé conjointement par le ministre chargé
-des affaires sociales, le ministre chargé de l'éducation et le ministre de la justice.
+Les ressortissants des Etats autres que ceux mentionnés à l'article R. 451-37, titulaires d'un diplôme de service social, qui
+souhaitent exercer en France la profession d'assistant de service social peuvent être autorisés par le préfet de région à
+suivre un stage d'adaptation en vue de l'obtention du diplôme d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -78683,9 +78025,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2009-55 du 15 janvier 2009 - art. 1
 
 _Cité par_:
 
@@ -78698,14 +78044,227 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-52 (T)
   - Code de l'action sociale et des familles - art. R411-6 (V)
 
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R451-37
+
+
+###### Article R451-32
+
+L'arrêté prévu à l'article D. 451-30 fixe le contenu et l'organisation des épreuves préalables à la délivrance du diplôme.
+
+Le préfet de région approuve le règlement des épreuves organisées par les établissements de formation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 du 21 octobre 2004
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2018-733 du 22 août 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-30
+
+
+###### Article R451-33
+
+Pour pouvoir obtenir le diplôme par validation des acquis de l'expérience, les candidats doivent justifier des compétences
+professionnelles acquises dans l'exercice d'une activité salariée, non salariée ou bénévole, en rapport direct avec le
+contenu du diplôme.
+
+La durée totale d'activité cumulée exigée est de trois ans en équivalent temps plein. La période d'activité la plus récente
+doit avoir été exercée dans les dix ans précédant le dépôt de la demande.
+
+Le préfet de région décide de la recevabilité des demandes de validation des acquis de l'expérience.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 29 juin 2004 - art. 13 (VT)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2018-733 du 22 août 2018 - art. 1
+
+
+###### Article R451-34
+
+Le préfet de région nomme le jury du diplôme, qui, dans le respect des dispositions du I de l'article L. 335-5 du code de
+l'éducation, comprend :
+
+1° Le directeur régional des affaires sanitaires et sociales ou son représentant, président du jury ;
+
+2° Des formateurs issus des établissements de formation préparant au diplôme d'Etat d'assistant de service social ;
+
+3° Des représentants de services déconcentrés de l'Etat, des collectivités publiques, de personnes qualifiées en matière
+d'action sociale ou de professeurs de l'enseignement supérieur ;
+
+4° Pour un quart au moins de ses membres, des représentants qualifiés du secteur professionnel, pour moitié employeurs, pour
+moitié assistants de service social en exercice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Arrêté du 31 mars 2009 - art. 5 (V)
+  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L335-5 (M)
+
+
+###### Article R451-35
+
+Le diplôme d'Etat d'assistant de service social est délivré par le préfet de région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2018-733 du 22 août 2018 - art. 1
+
+
+###### Article R451-36
+
+La formation préparant au diplôme d'Etat d'assistant de service social est dispensée par des établissements publics ou privés
+ayant satisfait à l'obligation de déclaration préalable prévue à l'article L. 451-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 du 21 octobre 2004
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2018-733 du 22 août 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L451-1
+
+
+###### Article R451-37
+
+Les ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique
+européen non titulaires d'un diplôme d'Etat français d'assistant de service social qui souhaitent exercer en France la
+profession d'assistant de service social doivent obtenir une attestation de capacité à exercer délivrée par le ministre
+chargé des affaires sociales.
+
+L'attestation de capacité à exercer est délivrée lorsque sont réunies les conditions fixées par les alinéas 2 à 6 de
+l'article L. 411-1.
+
+Toutefois, dans les cas prévus au septième alinéa du même article, la délivrance de l'attestation de capacité à exercer est
+subordonnée à la vérification de la capacité du demandeur à l'exercice de la profession d'assistant de service social en
+France.
+
+Cette vérification est effectuée au choix du demandeur :
+
+1° Soit par une épreuve d'aptitude ;
+
+2° Soit à l'issue d'un stage d'adaptation.
+
+La décision d'attester de la capacité à exercer la profession ou de subordonner cet exercice à l'épreuve d'aptitude ou au
+stage d'adaptation est prise par le ministre chargé des affaires sociales. Cette décision est motivée. Elle doit intervenir
+au plus tard dans un délai de quatre mois à compter de la date du récépissé, qui lui est délivré à réception du dossier
+complet.
+
+En cas de succès à l'épreuve d'aptitude ou de validation du stage d'adaptation, le ministre chargé des affaires sociales
+délivre l'attestation de capacité à exercer.
+
+Sont fixées par arrêté du ministre chargé des affaires sociales :
+
+1° Les modalités de présentation de la demande d'attestation de capacité à exercer, et notamment la composition du dossier
+accompagnant cette demande ;
+
+2° Les conditions d'organisation et les modalités de notation de l'épreuve d'aptitude ainsi que la composition du jury chargé
+de l'évaluer ;
+
+3° Les conditions de validation du stage d'adaptation.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°93-652 du 26 mars 1993 - art. 3 (Ab)
+  - Arrêté du 6 juin 2013 - art. 4 (V)
+  - Code de l'action sociale et des familles - art. D451-38 (T)
+  - Code de l'action sociale et des familles - art. D451-39 (V)
+  - Code de l'action sociale et des familles - art. D451-40 (T)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2009-55 du 15 janvier 2009 - art. 1
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L411-1
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. R411-3 (V)
+
+
+##### Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé.<a id=628></a>
 
 ###### Article D451-41
 
-L'examen est ouvert aux candidats qui, après contrôle de leurs aptitudes dans les conditions fixées par arrêté des ministres
-mentionnés à l'article D. 451-40, ont suivi la formation mentionnée à l'article D. 451-43.
+L'obtention du diplôme d'Etat d'éducateur spécialisé est subordonnée à la réussite à un examen organisé conjointement par les
+ministres chargés des affaires sociales, de l'éducation, de la jeunesse et de la justice.
 
-Des réductions de la durée de formation peuvent être accordées, dans des conditions fixées par arrêté interministériel, à
-certaines catégories de candidats.
+**Nota:**
+
+Décret 2007-899 du 15 mai 2007 art. 2 : 
+
+Les formations préparant au diplôme d'Etat d'éducateur spécialisé engagées avant le 1er septembre 2007 ainsi que les
+modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-41 à D. 451-46 en
+vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -78719,10 +78278,6 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 _Modifié par_:
-
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
@@ -78738,11 +78293,6 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R544-5 (V)
   - Code de l'éducation - art. D676-1 (V)
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D451-40 (T)
-  - Code de l'action sociale et des familles - art. D451-43 (T)
-
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. D451-53 (Ab)
@@ -78751,9 +78301,20 @@ _Nouveaux textes_:
 
 ###### Article D451-42
 
-L'examen a lieu, chaque année, dans les académies pourvues d'un établissement de formation ayant satisfait à l'obligation de
-déclaration préalable prévue à l'article L. 451-1. L'implantation du centre d'examen et la date des épreuves sont fixées par
-le recteur.
+L'examen est ouvert aux candidats qui après avoir fait l'objet d'une sélection, effectuée dans des conditions précisées par
+arrêté des ministres mentionnés à l'article D. 451-41, ont bénéficié d'une formation à plein temps de trois ans. La durée de
+la formation peut être aménagée dans des conditions fixées par arrêté des mêmes ministres.
+
+Ces formations comprennent obligatoirement un enseignement théorique et technique et des stages. Le programme des
+enseignements et les conditions dans lesquelles sont effectués les stages sont fixés par arrêté des mêmes ministres.
+
+**Nota:**
+
+Décret 2007-899 du 15 mai 2007 art. 2 : 
+
+Les formations préparant au diplôme d'Etat d'éducateur spécialisé engagées avant le 1er septembre 2007 ainsi que les
+modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-41 à D. 451-46 en
+vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -78769,10 +78330,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
-
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 _Cité par_:
@@ -78782,20 +78340,29 @@ _Cité par_:
   - Arrêté du 18 mai 2009 - art. 2 (Ab)
   - Arrêté du 18 mai 2009 - art. 3 (Ab)
 
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-41 (M)
+
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. D451-54 (Ab)
   - Code de l'action sociale et des familles - art. D451-54 (M)
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L451-1 (M)
-
 
 ###### Article D451-43
 
-Un arrêté des ministres mentionnés à l'article D. 451-40 fixe les conditions d'admission à la formation, la nature et la
-durée de celle-ci ainsi que les conditions d'inscription à l'examen, la composition du jury et la définition des épreuves.
+L'examen a lieu chaque année, dans les académies pourvues d'un établissement de formation ayant satisfait à l'obligation de
+déclaration préalable prévue à l'article L. 451-1. L'implantation du centre d'examen et les dates des épreuves sont fixées
+par le recteur.
+
+**Nota:**
+
+Décret 2007-899 du 15 mai 2007 art. 2 : 
+
+Les formations préparant au diplôme d'Etat d'éducateur spécialisé engagées avant le 1er septembre 2007 ainsi que les
+modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-41 à D. 451-46 en
+vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -78809,13 +78376,9 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D451-40 (T)
 
 _Cité par_:
 
@@ -78826,11 +78389,24 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-55 (M)
   - Code de l'action sociale et des familles - art. D451-55 (V)
 
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L451-1 (M)
+
 
 ###### Article D451-44
 
-Le certificat d'aptitude aux fonctions d'éducateur technique spécialisé est délivré par le recteur d'académie au nom du
-ministre chargé de l'éducation.
+Un arrêté des ministres mentionnés à l'article D. 451-41 fixe les conditions d'inscription, la nature, la durée, les
+coefficients et les programmes des épreuves de l'examen, les conditions de notation des stages et des aptitudes pratiques
+ainsi que la composition du jury.
+
+**Nota:**
+
+Décret 2007-899 du 15 mai 2007 art. 2 : 
+
+Les formations préparant au diplôme d'Etat d'éducateur spécialisé engagées avant le 1er septembre 2007 ainsi que les
+modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-41 à D. 451-46 en
+vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -78843,9 +78419,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-41 (M)
 
 _Nouveaux textes_:
 
@@ -78857,24 +78438,26 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R544-5 (V)
 
 
-##### Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale.<a id=632></a>
-
 ###### Article D451-45
 
-Le diplôme d'Etat de conseiller en économie sociale et familiale est délivré à l'issue d'une formation complémentaire de
-celle prévue par le décret n° 95-665 du 9 mai 1995 portant règlement général du brevet de technicien supérieur.
+Le diplôme d'Etat d'éducateur spécialisé est décerné au nom du ministre chargé de l'éducation et délivré par le recteur
+d'académie.
+
+**Nota:**
+
+Décret 2007-899 du 15 mai 2007 art. 2 : 
+
+Les formations préparant au diplôme d'Etat d'éducateur spécialisé engagées avant le 1er septembre 2007 ainsi que les
+modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-41 à D. 451-46 en
+vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°95-665 1995-05-09
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
@@ -78887,12 +78470,10 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-57 (V)
 
 
-##### Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation.<a id=633></a>
-
 ###### Article D451-46
 
-Le diplôme d'Etat relatif aux fonctions d'animation est délivré à l'issue d'une formation générale organisée par unités de
-formation, suivie d'une expérience d'animation sanctionnée par la soutenance d'un mémoire.
+Des dispenses de scolarité peuvent être accordées aux titulaires de certains diplômes et certifications en travail social
+précisés par arrêté des ministres mentionnés à l'article D. 451-41.
 
 **Liens relatifs à cet article**
 
@@ -78905,25 +78486,30 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-899 du 15 mai 2007 - art. 1 () JORF 15 mai 2007
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-41 (M)
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. D451-58 (V)
 
 
+##### Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants.<a id=629></a>
+
 ###### Article D451-47
 
-La formation est dispensée par des établissements ayant satisfait à l'obligation de déclaration préalable prévue à l'article
-L. 451-1. Elle est ouverte aux candidats qui remplissent les conditions d'inscription et qui ont satisfait aux épreuves de
-sélection. Les conditions d'inscription et de sélection sont définies par arrêté des ministres chargés des affaires sociales
-et de la jeunesse.
-
-La durée totale de la formation ne peut se prolonger au-delà de six ans à compter de la notification de la décision de
-sélection, sauf dérogation d'un an renouvelable une fois, accordée par la décision conjointe du directeur régional des
-affaires sanitaires et sociales et du directeur régional de la jeunesse et des sports.
+Le diplôme d'Etat d'éducateur de jeunes enfants est délivré à la suite d'un examen organisé chaque année par le ministre
+chargé des affaires sociales dans des centres désignés par arrêté.
 
 **Liens relatifs à cet article**
 
@@ -78937,10 +78523,6 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 _Modifié par_:
-
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
@@ -78959,15 +78541,11 @@ _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. D451-59 (V)
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L451-1 (M)
-
 
 ###### Article D451-48
 
-Le programme et les modalités de la formation ainsi que les conditions d'attribution du diplôme sont déterminés par arrêté
-des ministres mentionnés à l'article D. 451-47.
+Peuvent être admis à subir les épreuves de l'examen les candidats qui, après avoir fait l'objet d'une sélection, ont reçu une
+formation théorique et pratique d'une durée de deux ans.
 
 **Liens relatifs à cet article**
 
@@ -78981,7 +78559,7 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
@@ -78990,16 +78568,383 @@ _Cité par_:
   - Arrêté du 16 novembre 2005 - art. 2 (VT)
   - Arrêté du 16 novembre 2005 - art. 3 (VT)
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D451-47 (M)
-
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. D451-60 (V)
 
 
 ###### Article D451-49
+
+Des arrêtés du ministre chargé des affaires sociales fixent notamment :
+
+1° Les conditions d'admission des élèves en formation ;
+
+2° Le programme et le déroulement des études ;
+
+3° La nature et les modalités des épreuves sanctionnant cet enseignement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-500 1979-06-28 art. 5
+  - Code de l'action sociale et des familles - art. D451-37 (M)
+  - Code de l'action sociale et des familles - art. D451-37 (T)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. D451-61 (Ab)
+  - Code de l'action sociale et des familles - art. D451-61 (T)
+
+
+###### Article D451-50
+
+Le diplôme d'Etat d'éducateur de jeunes enfants est décerné au nom du ministre chargé des affaires sociales et délivré par le
+directeur régional des affaires sanitaires et sociales.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-500 1979-06-28 art. 6
+  - Code de l'action sociale et des familles - art. D451-38 (T)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. D451-62 (T)
+  - Code de l'action sociale et des familles - art. D451-62 (V)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article D451-51
+
+Des dispenses de scolarité, de stages et d'épreuves peuvent être accordées, dans des conditions fixées par arrêté
+ministériel, aux candidats titulaires de certains titres ou diplômes ou justifiant d'une expérience professionnelle
+antérieure dans le secteur sanitaire et social.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-500 1979-06-28 art. 7
+  - Code de l'action sociale et des familles - art. D451-39 (T)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. D451-63 (T)
+  - Code de l'action sociale et des familles - art. D451-63 (V)
+
+
+##### Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé.<a id=630></a>
+
+###### Article D451-52
+
+Le certificat d'aptitude aux fonctions d'éducateur technique spécialisé est destiné aux personnes assurant la formation
+technologique, l'adaptation ou la réadaptation professionnelle des personnes inadaptées ou handicapées.
+
+Il est délivré aux personnes qui ont subi avec succès les épreuves d'un examen organisé conjointement par le ministre chargé
+des affaires sociales, le ministre chargé de l'éducation et le ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-500 1979-06-28 art. 8
+  - Code de l'action sociale et des familles - art. D451-40 (T)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Décret n°2017-537 du 13 avril 2017 - art. 3 (V)
+  - Décret n°2018-734 du 22 août 2018 - art. 2
+  - Code de l'action sociale et des familles - art. D451-53 (M)
+  - Code de l'action sociale et des familles - art. D451-55 (M)
+  - Code de l'action sociale et des familles - art. R451-5 (V)
+  - Code de l'éducation - art. D676-1 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. D451-64 (T)
+  - Code de l'action sociale et des familles - art. D451-64 (V)
+
+
+###### Article D451-53
+
+L'examen est ouvert aux candidats qui, après contrôle de leurs aptitudes dans les conditions fixées par arrêté des ministres
+mentionnés à l'article D. 451-52, ont suivi la formation mentionnée à l'article D. 451-55.
+
+Des réductions de la durée de formation peuvent être accordées, dans des conditions fixées par arrêté interministériel, à
+certaines catégories de candidats.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°79-500 1979-06-28 art. 9 al. 1
+  - Code de l'action sociale et des familles - art. D451-41 (M)
+  - Code de l'action sociale et des familles - art. D451-41 (T)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-52 (T)
+  - Code de l'action sociale et des familles - art. D451-55 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. D451-65 (M)
+  - Code de l'action sociale et des familles - art. D451-65 (V)
+
+
+###### Article D451-54
+
+L'examen a lieu, chaque année, dans les académies pourvues d'un établissement de formation ayant satisfait à l'obligation de
+déclaration préalable prévue à l'article L. 451-1. L'implantation du centre d'examen et la date des épreuves sont fixées par
+le recteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-42 (M)
+  - Code de l'action sociale et des familles - art. D451-42 (T)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L451-1 (M)
+
+
+###### Article D451-55
+
+Un arrêté des ministres mentionnés à l'article D. 451-52 fixe les conditions d'admission à la formation, la nature et la
+durée de celle-ci ainsi que les conditions d'inscription à l'examen, la composition du jury et la définition des épreuves.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-43 (T)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-52 (T)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D451-53 (M)
+  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article D451-56
+
+Le certificat d'aptitude aux fonctions d'éducateur technique spécialisé est délivré par le recteur d'académie au nom du
+ministre chargé de l'éducation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-44 (T)
+
+
+##### Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale.<a id=631></a>
+
+###### Article D451-57
+
+Le diplôme d'Etat de conseiller en économie sociale et familiale est délivré à l'issue d'une formation complémentaire de
+celle prévue par le décret n° 95-665 du 9 mai 1995 portant règlement général du brevet de technicien supérieur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°95-665 du 9 mai 1995
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2009-1084 du 1er septembre 2009 - art. 1
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-45 (T)
+
+
+##### Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation.<a id=632></a>
+
+###### Article D451-58
+
+Le diplôme d'Etat relatif aux fonctions d'animation est délivré à l'issue d'une formation générale organisée par unités de
+formation, suivie d'une expérience d'animation sanctionnée par la soutenance d'un mémoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Arrêté du 14 février 2008 (V)
+
+_Abrogé par_:
+
+  - Décret n°2009-1153 du 29 septembre 2009 - art. 1
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-46 (T)
+
+
+###### Article D451-59
+
+La formation est dispensée par des établissements ayant satisfait à l'obligation de déclaration préalable prévue à l'article
+L. 451-1. Elle est ouverte aux candidats qui remplissent les conditions d'inscription et qui ont satisfait aux épreuves de
+sélection. Les conditions d'inscription et de sélection sont définies par arrêté des ministres chargés des affaires sociales
+et de la jeunesse.
+
+La durée totale de la formation ne peut se prolonger au-delà de six ans à compter de la notification de la décision de
+sélection, sauf dérogation d'un an renouvelable une fois, accordée par la décision conjointe du directeur régional des
+affaires sanitaires et sociales et du directeur régional de la jeunesse et des sports.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2009-1153 du 29 septembre 2009 - art. 1
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-47 (M)
+  - Code de l'action sociale et des familles - art. D451-47 (T)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D451-60 (Ab)
+  - Code de l'action sociale et des familles - art. D451-62 (Ab)
+  - Code de l'action sociale et des familles - art. D451-64 (Ab)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L451-1
+
+
+###### Article D451-60
+
+Le programme et les modalités de la formation ainsi que les conditions d'attribution du diplôme sont déterminés par arrêté
+des ministres mentionnés à l'article D. 451-59.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2009-1153 du 29 septembre 2009 - art. 1
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-48 (T)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-59
+
+
+###### Article D451-61
 
 La commission nationale pour la formation à l'animation est chargée de mener des études générales sur la formation. Elle est
 consultée sur l'évolution du diplôme et sur les demandes d'équivalence avec d'autres diplômes.
@@ -79016,378 +78961,6 @@ l'animation et des commissions régionales pour la formation à l'animation.
 
 _Anciens textes_:
 
-  - Décret n°79-500 1979-06-28 art. 5
-  - Code de l'action sociale et des familles - art. D451-37 (M)
-  - Code de l'action sociale et des familles - art. D451-37 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-61 (Ab)
-  - Code de l'action sociale et des familles - art. D451-61 (T)
-
-
-###### Article D451-50
-
-Les candidats ayant acquis une formation préalable dans des disciplines correspondant au programme de la formation générale
-et ceux qui justifient d'une expérience professionnelle d'animation peuvent bénéficier d'un allégement de formation dans les
-conditions fixées par arrêté des ministres mentionnés à l'article D. 451-47.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-500 1979-06-28 art. 6
-  - Code de l'action sociale et des familles - art. D451-38 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D451-47 (M)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-62 (T)
-  - Code de l'action sociale et des familles - art. D451-62 (V)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. R544-5 (V)
-
-
-###### Article D451-51
-
-Le diplôme d'Etat relatif aux fonctions d'animation est délivré au nom du ministre chargé des affaires sociales et du
-ministre chargé de la jeunesse par le préfet de région sur proposition conjointe des directeurs régionaux compétents.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-500 1979-06-28 art. 7
-  - Code de l'action sociale et des familles - art. D451-39 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-63 (T)
-  - Code de l'action sociale et des familles - art. D451-63 (V)
-
-
-###### Article D451-52
-
-Des arrêtés des ministres mentionnés à l'article D. 451-47, pris après consultation de la commission nationale pour la
-formation à l'animation, précisent les diplômes reconnus partiellement ou totalement équivalents au diplôme d'Etat relatif
-aux fonctions d'animation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-500 1979-06-28 art. 8
-  - Code de l'action sociale et des familles - art. D451-40 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Cité par_:
-
-  - Décret n°2017-537 du 13 avril 2017 - art. 3 (V)
-  - Décret n°2018-734 du 22 août 2018 - art. 2
-  - Code de l'action sociale et des familles - art. D451-53 (M)
-  - Code de l'action sociale et des familles - art. D451-55 (M)
-  - Code de l'action sociale et des familles - art. R451-5 (V)
-  - Code de l'éducation - art. D676-1 (V)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D451-47 (M)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-64 (T)
-  - Code de l'action sociale et des familles - art. D451-64 (V)
-
-
-###### Article D451-53
-
-Les diplômes délivrés antérieurement au 29 juin 1979 et dont la liste est fixée par arrêté des ministres chargés des affaires
-sociales et de la jeunesse sont assimilés au diplôme d'Etat relatif aux fonctions d'animation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-500 1979-06-28 art. 9 al. 1
-  - Code de l'action sociale et des familles - art. D451-41 (M)
-  - Code de l'action sociale et des familles - art. D451-41 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-65 (M)
-  - Code de l'action sociale et des familles - art. D451-65 (V)
-
-
-##### Paragraphe 7 : Diplôme d'Etat de médiateur familial.<a id=634></a>
-
-###### Article R451-54
-
-Le diplôme d'Etat de médiateur familial atteste des compétences nécessaires pour intervenir auprès de personnes en situation
-de rupture ou de séparation afin de favoriser la reconstruction de leur lien familial et aider à la recherche de solutions
-répondant aux besoins de chacun des membres de la famille.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 1, v. init.
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R451-66 (M)
-  - Code de l'action sociale et des familles - art. R451-66 (V)
-
-
-###### Article R451-55
-
-Les candidats à la formation de médiateur familial doivent justifier, dans le domaine social, sanitaire ou juridique, d'un
-diplôme national ou d'une expérience professionnelle. Ils font l'objet d'une sélection organisée par les établissements de
-formation. Un arrêté du ministre chargé des affaires sociales détermine les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 2, v. init.
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. R451-3 (M)
-  - Code de l'action sociale et des familles - art. R451-56 (T)
-  - Code de l'action sociale et des familles - art. R451-57 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R451-67 (M)
-  - Code de l'action sociale et des familles - art. R451-67 (V)
-
-
-###### Article R451-56
-
-La durée et le contenu de la formation sont fixés par l'arrêté prévu à l'article R. 451-55. Cette formation ne peut être
-dispensée sur une période supérieure à trois ans. Elle comprend un enseignement théorique et une formation pratique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 3, v. init.
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. R451-55 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R451-68 (M)
-  - Code de l'action sociale et des familles - art. R451-68 (V)
-
-
-###### Article R451-57
-
-L'arrêté prévu à l'article R. 451-55 fixe la nature des épreuves pour l'obtention du diplôme, qui comportent notamment des
-évaluations des connaissances juridiques et de la médiation familiale.
-
-Le préfet de région valide les modalités de certification organisées par les établissements de formation.
-
-Nul ne peut se présenter plus de trois fois aux épreuves du diplôme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 4, v. init.
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. R451-55 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R451-69 (M)
-  - Code de l'action sociale et des familles - art. R451-69 (V)
-
-
-###### Article R451-58
-
-Pour pouvoir obtenir le diplôme par validation des acquis de l'expérience, les candidats doivent justifier des compétences
-professionnelles acquises dans l'exercice d'une activité salariée, non salariée ou bénévole, en rapport direct avec le
-contenu du diplôme. La durée totale d'activité cumulée exigée est de trois ans et peut être prise en compte jusqu'à dix ans
-après la cessation de cette activité.
-
-Le préfet de région décide de la recevabilité des demandes de validation des acquis de l'expérience.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 5, v. init.
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R451-70 (M)
-  - Code de l'action sociale et des familles - art. R451-70 (V)
-
-
-###### Article R451-59
-
-Le préfet de région nomme le jury du diplôme, qui, comprend :
-
-1° Le directeur régional des affaires sanitaires et sociales ou son représentant, président du jury ;
-
-2° Des formateurs issus des centres de formation dispensant la formation au diplôme d'Etat de médiateur familial ;
-
-3° Pour un quart au moins de ses membres, des représentants qualifiés des professionnels de la médiation familiale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 6, v. init.
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Modifié par_:
-
-  - Décret n°2005-198 du 22 février 2005 - art. 2 () JORF 1er mars 2005
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R451-71 (V)
-
-
-###### Article R451-60
-
-Le diplôme d'Etat de médiateur familial est délivré par le préfet de région.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 7, v. init.
-  - Décret n°2003-1166 du 2 décembre 2003 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. R451-72 (M)
-  - Code de l'action sociale et des familles - art. R451-72 (V)
-
-
-##### Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur.<a id=635></a>
-
-###### Article D451-61
-
-L'obtention du certificat d'aptitude aux fonctions de moniteur-éducateur est subordonnée à la réussite à un examen organisé
-conjointement par les ministres chargés des affaires sociales, de l'éducation, de la jeunesse et de la justice.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
   - Décret n°70-240 du 9 mars 1970 - art. 1 (Ab)
   - Décret n°70-240 du 9 mars 1970 - art. 2 (Ab)
   - Code de l'action sociale et des familles - art. D451-49 (T)
@@ -79396,9 +78969,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2006-1101 du 31 août 2006 - art. 1 (V) JORF 1er septembre 2006
 
 _Cité par_:
 
@@ -79416,9 +78993,9 @@ _Nouveaux textes_:
 
 ###### Article D451-62
 
-L'examen est ouvert aux candidats qui, après avoir fait l'objet d'une sélection effectuée dans des conditions précisées par
-arrêté des ministres mentionnés à l'article D. 451-61, ont bénéficié d'une formation à plein temps de deux ans. La durée de
-la formation peut être aménagée dans des conditions fixées par arrêté des mêmes ministres.
+Les candidats ayant acquis une formation préalable dans des disciplines correspondant au programme de la formation générale
+et ceux qui justifient d'une expérience professionnelle d'animation peuvent bénéficier d'un allégement de formation dans les
+conditions fixées par arrêté des ministres mentionnés à l'article D. 451-59.
 
 **Liens relatifs à cet article**
 
@@ -79431,13 +79008,18 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2009-1153 du 29 septembre 2009 - art. 1
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D451-61 (T)
+  - Code de l'action sociale et des familles - art. D451-59
 
 _Nouveaux textes_:
 
@@ -79447,8 +79029,8 @@ _Nouveaux textes_:
 
 ###### Article D451-63
 
-Des dispenses de scolarité peuvent être accordées aux titulaires de certains diplômes et certifications en travail social
-précisés par arrêté des ministres mentionnés à l'article D. 451-61.
+Le diplôme d'Etat relatif aux fonctions d'animation est délivré au nom du ministre chargé des affaires sociales et du
+ministre chargé de la jeunesse par le préfet de région sur proposition conjointe des directeurs régionaux compétents.
 
 **Liens relatifs à cet article**
 
@@ -79462,13 +79044,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. D451-61 (T)
+  - Décret n°2009-1153 du 29 septembre 2009 - art. 1
 
 _Nouveaux textes_:
 
@@ -79477,8 +79059,9 @@ _Nouveaux textes_:
 
 ###### Article D451-64
 
-La formation comprend un enseignement théorique et technique ainsi que des stages. Le programme des enseignements et les
-conditions dans lesquelles les stages sont effectués sont fixées par arrêté des ministres mentionnés à l'article D. 451-61.
+Des arrêtés des ministres mentionnés à l'article D. 451-59, pris après consultation de la commission nationale pour la
+formation à l'animation, précisent les diplômes reconnus partiellement ou totalement équivalents au diplôme d'Etat relatif
+aux fonctions d'animation.
 
 **Liens relatifs à cet article**
 
@@ -79491,13 +79074,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Modifié par_:
 
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. D451-61 (T)
+  - Code de l'action sociale et des familles - art. D451-59 (V)
 
 _Nouveaux textes_:
 
@@ -79507,8 +79091,8 @@ _Nouveaux textes_:
 
 ###### Article D451-65
 
-La formation est dispensée dans des écoles, ayant satisfait à l'obligation de déclaration préalable prévue à l'article L.
-451-1.
+Les diplômes délivrés antérieurement au 29 juin 1979 et dont la liste est fixée par arrêté des ministres chargés des affaires
+sociales et de la jeunesse sont assimilés au diplôme d'Etat relatif aux fonctions d'animation.
 
 **Liens relatifs à cet article**
 
@@ -79523,11 +79107,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
-
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2009-1153 du 29 septembre 2009 - art. 1
 
 _Cité par_:
 
@@ -79537,227 +79121,205 @@ _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. D451-77 (M)
 
-_Cite_:
 
-  - Code de l'action sociale et des familles - art. L451-1 (M)
+##### Paragraphe 7 : Diplôme d'Etat de médiateur familial.<a id=633></a>
 
+###### Article R451-66
 
-###### Article D451-66
-
-L'examen a lieu chaque année dans les académies pourvues d'un établissement de formation remplissant les conditions fixées à
-l'article D. 451-65. L'implantation du centre d'examen et les dates des épreuves sont fixées par le recteur.
+Le diplôme d'Etat de médiateur familial atteste des compétences nécessaires pour intervenir auprès de personnes en situation
+de rupture ou de séparation afin de favoriser la reconstruction de leur lien familial et aider à la recherche de solutions
+répondant aux besoins de chacun des membres de la famille.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°70-240 du 9 mars 1970 - art. 6 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D451-65 (M)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-78 (M)
-
-
-###### Article D451-67
-
-Les conditions d'inscription, la nature, la durée, les coefficients et les programmes des épreuves de l'examen, les
-conditions de notation des stages ainsi que la composition du jury sont fixées par arrêté des ministres mentionnés à
-l'article D. 451-61.
-
-**Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°70-240 du 9 mars 1970 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D451-61 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-79 (Ab)
-
-
-###### Article D451-68
-
-Le certificat d'aptitude aux fonctions de moniteur-éducateur est décerné au nom du ministre chargé de l'éducation par le
-recteur d'académie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°70-240 du 9 mars 1970 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-80 (Ab)
-
-
-##### Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale.<a id=636></a>
-
-###### Article D451-69
-
-Le diplôme d'Etat de technicien de l'intervention sociale et familiale atteste des compétences acquises pour effectuer une
-intervention sociale préventive et réparatrice à travers des activités d'aide à la vie quotidienne et à l'éducation des
-enfants.
-
-Les titulaires du certificat de travailleuse familiale sont, de droit, titulaires du diplôme d'Etat de technicien de
-l'intervention sociale et familiale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°74-146 1974-02-15 art. 1 al. 1
-  - Décret n°99-779 1999-09-09 art. 5 al. 1, 2ème phrase
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Transféré par_:
-
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+  - Code de l'action sociale et des familles - art. R451-54 (T)
 
 _Cité par_:
 
-  - Code de l'action sociale et des familles - art. D431-1 (M)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-81 (M)
+  - Code de l'éducation - art. D676-1 (M)
 
 
-###### Article D451-70
+###### Article R451-67
 
-Les titulaires du diplôme d'Etat de technicien de l'intervention sociale et familiale interviennent auprès de familles, de
-personnes en difficulté de vie ou en difficulté sociale, de personnes âgées ou de personnes handicapées, soit à domicile,
-soit en établissement ou service s'inscrivant dans les politiques d'action sociale.
+Les candidats à la formation de médiateur familial doivent justifier, dans le domaine social, sanitaire ou juridique, d'un
+diplôme national ou d'une expérience professionnelle. Ils font l'objet d'une sélection organisée par les établissements de
+formation. Un arrêté du ministre chargé des affaires sociales détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°74-146 1974-02-15 art. 1 al. 2
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-82 (M)
-
-
-###### Article D451-71
-
-Le diplôme d'Etat de technicien de l'intervention sociale et familiale sanctionne une formation dispensée par des organismes
-de formation publics ou privés sur une période de dix-huit à vingt-quatre mois selon leur projet pédagogique.
-
-La formation comprend une formation théorique et une formation pratique sous forme de stages, dont le contenu et les
-modalités sont définies par arrêté du ministre chargé des affaires sociales.
-
-**Liens relatifs à cet article**
-
 _Anciens textes_:
 
-  - Décret n°74-146 1974-02-15 art. 2, sauf dernier alinéa
+  - Code de l'action sociale et des familles - art. R451-55 (T)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R451-68 (V)
+  - Code de l'action sociale et des familles - art. R451-69 (M)
+
+
+###### Article R451-68
+
+La durée et le contenu de la formation sont fixés par l'arrêté prévu à l'article R. 451-67. Cette formation ne peut être
+dispensée sur une période supérieure à trois ans. Elle comprend un enseignement théorique et une formation pratique.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-83 (M)
-
-
-###### Article D451-72
-
-En fonction des certificats ou diplômes dont le candidat est déjà titulaire, des allégements de formation portant sur tout ou
-partie des unités de formation théoriques ou des stages peuvent être accordés par le directeur régional des affaires
-sanitaires et sociales sur proposition du directeur de l'organisme de formation et après avis d'une commission. Les
-conditions de mise en oeuvre des allégements sont précisées par arrêté du ministre chargé des affaires sociales.
-
-La commission d'allégement mentionnée à l'alinéa précédent comprend le directeur régional des affaires sanitaires et sociales
-ou son représentant, président, et trois personnes qualifiées dans le domaine d'intervention des techniciens de
-l'intervention sociale et familiale. Les membres de la commission sont nommés par le directeur régional des affaires
-sanitaires et sociales.
-
-**Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°74-146 1974-02-15 art. 2 dernier alinéa
+  - Code de l'action sociale et des familles - art. R451-56 (T)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R451-67 (V)
+
+
+###### Article R451-69
+
+L'arrêté prévu à l'article R. 451-67 fixe la nature des épreuves pour l'obtention du diplôme, qui comportent notamment des
+évaluations des connaissances juridiques et de la médiation familiale.
+
+Le préfet de région valide les modalités de certification organisées par les établissements de formation.
+
+Nul ne peut se présenter plus de trois fois aux épreuves du diplôme.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
+
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R451-57 (T)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R451-67 (V)
+
+
+###### Article R451-70
+
+Pour pouvoir obtenir le diplôme par validation des acquis de l'expérience, les candidats doivent justifier des compétences
+professionnelles acquises dans l'exercice d'une activité salariée, non salariée ou bénévole, en rapport direct avec le
+contenu du diplôme. La durée totale d'activité cumulée exigée est de trois ans et peut être prise en compte jusqu'à dix ans
+après la cessation de cette activité.
+
+Le préfet de région décide de la recevabilité des demandes de validation des acquis de l'expérience.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 12 février 2004 - art. 12 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D451-84 (M)
+  - Code de l'action sociale et des familles - art. R451-58 (T)
 
+
+###### Article R451-71
+
+Le préfet de région nomme le jury du diplôme, qui, comprend :
+
+1° Le directeur régional des affaires sanitaires et sociales ou son représentant, président du jury ;
+
+2° Des formateurs issus des centres de formation dispensant la formation au diplôme d'Etat de médiateur familial ;
+
+3° Pour un quart au moins de ses membres, des représentants qualifiés des professionnels de la médiation familiale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R451-59 (M)
+  - Code de l'action sociale et des familles - art. R451-59 (T)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article R451-72
+
+Le diplôme d'Etat de médiateur familial est délivré par le préfet de région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R451-60 (T)
+
+
+##### Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur.<a id=634></a>
 
 ###### Article D451-73
 
-Peuvent accéder à la formation au diplôme d'Etat de technicien de l'intervention sociale et familiale les candidats âgés de
-dix-huit ans au moins au 1er septembre de l'année de la rentrée concernée, inscrits sur une liste d'admission établie par
-chaque organisme de formation au vu des résultats d'un examen de sélection organisé par lesdits organismes, qui comprend :
+L'obtention du certificat d'aptitude aux fonctions de moniteur-éducateur est subordonnée à la réussite à un examen organisé
+conjointement par les ministres chargés des affaires sociales, de l'éducation, de la jeunesse et de la justice.
 
-1° Une épreuve écrite visant à évaluer le niveau de culture générale et les aptitudes à l'expression écrite des candidats ;
+**Nota:**
 
-2° Une épreuve orale visant à évaluer les motivations et les aptitudes relationnelles des candidats, dont les modalités
-d'organisation sont fixées par arrêté du ministre chargé des affaires sociales.
+Décret 2007-898 du 15 mai 2007 art. 2 : 
 
-Les candidats justifiant de certains titres, certificats ou diplômes peuvent être dispensés de l'une des deux épreuves de
-l'examen de sélection, dans des conditions fixées par arrêté du ministre chargé des affaires sociales.
+Les formations préparant au certificat d'aptitude aux fonctions de moniteur éducateur engagées avant le 1er septembre 2007
+ainsi que les modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-73 à
+D. 451-80 du code de l'action sociale et des familles en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -79771,10 +79333,6 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 _Modifié par_:
-
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
@@ -79795,6 +79353,395 @@ _Nouveaux textes_:
 
 ###### Article D451-74
 
+L'examen est ouvert aux candidats qui, après avoir fait l'objet d'une sélection effectuée dans des conditions précisées par
+arrêté des ministres mentionnés à l'article D. 451-73, ont bénéficié d'une formation à plein temps de deux ans. La durée de
+la formation peut être aménagée dans des conditions fixées par arrêté des mêmes ministres.
+
+**Nota:**
+
+Décret 2007-898 du 15 mai 2007 art. 2 : 
+
+Les formations préparant au certificat d'aptitude aux fonctions de moniteur éducateur engagées avant le 1er septembre 2007
+ainsi que les modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-73 à
+D. 451-80 du code de l'action sociale et des familles en vigueur avant la publication du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°74-146 1974-02-15 art. 4
+  - Code de l'action sociale et des familles - art. D451-62 (T)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Arrêté du 20 juin 2007 - art. 2 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-73 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. D451-86 (M)
+
+
+###### Article D451-75
+
+Des dispenses de scolarité peuvent être accordées aux titulaires de certains diplômes et certifications en travail social
+précisés par arrêté des ministres mentionnés à l'article D. 451-73.
+
+**Nota:**
+
+Décret 2007-898 du 15 mai 2007 art. 2 : 
+
+Les formations préparant au certificat d'aptitude aux fonctions de moniteur éducateur engagées avant le 1er septembre 2007
+ainsi que les modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-73 à
+D. 451-80 du code de l'action sociale et des familles en vigueur avant la publication du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°74-146 1974-02-15 art. 5
+  - Code de l'action sociale et des familles - art. D451-63 (T)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. D451-100 (M)
+  - Code de l'action sociale et des familles - art. D451-101 (M)
+  - Code de l'action sociale et des familles - art. D451-102 (M)
+  - Code de l'action sociale et des familles - art. D451-103 (V)
+  - Code de l'action sociale et des familles - art. D451-104 (M)
+  - Code de l'action sociale et des familles - art. D451-87 (M)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-73 (M)
+
+
+###### Article D451-76
+
+La formation comprend un enseignement théorique et technique ainsi que des stages. Le programme des enseignements et les
+conditions dans lesquelles les stages sont effectués sont fixées par arrêté des ministres mentionnés à l'article D. 451-73.
+
+**Nota:**
+
+Décret 2007-898 du 15 mai 2007 art. 2 : 
+
+Les formations préparant au certificat d'aptitude aux fonctions de moniteur éducateur engagées avant le 1er septembre 2007
+ainsi que les modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-73 à
+D. 451-80 du code de l'action sociale et des familles en vigueur avant la publication du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-64 (T)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-73 (M)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article D451-77
+
+La formation est dispensée dans des écoles, ayant satisfait à l'obligation de déclaration préalable prévue à l'article L.
+451-1.
+
+**Nota:**
+
+Décret 2007-898 du 15 mai 2007 art. 2 : 
+
+Les formations préparant au certificat d'aptitude aux fonctions de moniteur éducateur engagées avant le 1er septembre 2007
+ainsi que les modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-73 à
+D. 451-80 du code de l'action sociale et des familles en vigueur avant la publication du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-65 (M)
+  - Code de l'action sociale et des familles - art. D451-65 (T)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D451-78 (M)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L451-1 (M)
+
+
+###### Article D451-78
+
+L'examen a lieu chaque année dans les académies pourvues d'un établissement de formation remplissant les conditions fixées à
+l'article D. 451-77. L'implantation du centre d'examen et les dates des épreuves sont fixées par le recteur.
+
+**Nota:**
+
+Décret 2007-898 du 15 mai 2007 art. 2 : 
+
+Les formations préparant au certificat d'aptitude aux fonctions de moniteur éducateur engagées avant le 1er septembre 2007
+ainsi que les modalités de délivrance des diplômes correspondants restent soumises aux dispositions des articles D. 451-73 à
+D. 451-80 du code de l'action sociale et des familles en vigueur avant la publication du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-66 (M)
+  - Code de l'action sociale et des familles - art. D451-66 (T)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-77 (M)
+
+
+###### Article D451-79
+
+Les conditions d'inscription, la nature, la durée, les coefficients et les programmes des épreuves de l'examen, les
+conditions de notation des stages ainsi que la composition du jury sont fixées par arrêté des ministres mentionnés à
+l'article D. 451-73.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-898 du 15 mai 2007 - art. 1 () JORF 15 mai 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-67 (T)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-73 (M)
+
+
+###### Article D451-80
+
+Le certificat d'aptitude aux fonctions de moniteur-éducateur est décerné au nom du ministre chargé de l'éducation par le
+recteur d'académie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-898 du 15 mai 2007 - art. 1 () JORF 15 mai 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-68 (T)
+
+
+##### Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale.<a id=635></a>
+
+###### Article D451-81
+
+Le diplôme d'Etat de technicien de l'intervention sociale et familiale atteste des compétences acquises pour effectuer une
+intervention sociale préventive et réparatrice à travers des activités d'aide à la vie quotidienne et à l'éducation des
+enfants.
+
+Les titulaires du certificat de travailleuse familiale sont, de droit, titulaires du diplôme d'Etat de technicien de
+l'intervention sociale et familiale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-69 (T)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D451-87 (M)
+  - Code de l'action sociale et des familles - art. D451-93-1 (Ab)
+  - Code de l'action sociale et des familles - art. D461-1 (VD)
+
+
+###### Article D451-82
+
+Les titulaires du diplôme d'Etat de technicien de l'intervention sociale et familiale interviennent auprès de familles, de
+personnes en difficulté de vie ou en difficulté sociale, de personnes âgées ou de personnes handicapées, soit à domicile,
+soit en établissement ou service s'inscrivant dans les politiques d'action sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-70 (T)
+
+
+###### Article D451-83
+
+Le diplôme d'Etat de technicien de l'intervention sociale et familiale sanctionne une formation dispensée par des organismes
+de formation publics ou privés sur une période de dix-huit à vingt-quatre mois selon leur projet pédagogique.
+
+La formation comprend une formation théorique et une formation pratique sous forme de stages, dont le contenu et les
+modalités sont définies par arrêté du ministre chargé des affaires sociales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Cité par_:
+
+  - Arrêté du 25 avril 2006 - art. 2 (V)
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-71 (T)
+
+
+###### Article D451-84
+
+En fonction des certificats ou diplômes dont le candidat est déjà titulaire, des allégements de formation portant sur tout ou
+partie des unités de formation théoriques ou des stages peuvent être accordés par le directeur régional des affaires
+sanitaires et sociales sur proposition du directeur de l'organisme de formation et après avis d'une commission. Les
+conditions de mise en oeuvre des allégements sont précisées par arrêté du ministre chargé des affaires sociales.
+
+La commission d'allégement mentionnée à l'alinéa précédent comprend le directeur régional des affaires sanitaires et sociales
+ou son représentant, président, et trois personnes qualifiées dans le domaine d'intervention des techniciens de
+l'intervention sociale et familiale. Les membres de la commission sont nommés par le directeur régional des affaires
+sanitaires et sociales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-72 (T)
+
+
+###### Article D451-85
+
+Peuvent accéder à la formation au diplôme d'Etat de technicien de l'intervention sociale et familiale les candidats âgés de
+dix-huit ans au moins au 1er septembre de l'année de la rentrée concernée, inscrits sur une liste d'admission établie par
+chaque organisme de formation au vu des résultats d'un examen de sélection organisé par lesdits organismes, qui comprend :
+
+1° Une épreuve écrite visant à évaluer le niveau de culture générale et les aptitudes à l'expression écrite des candidats ;
+
+2° Une épreuve orale visant à évaluer les motivations et les aptitudes relationnelles des candidats, dont les modalités
+d'organisation sont fixées par arrêté du ministre chargé des affaires sociales.
+
+Les candidats justifiant de certains titres, certificats ou diplômes peuvent être dispensés de l'une des deux épreuves de
+l'examen de sélection, dans des conditions fixées par arrêté du ministre chargé des affaires sociales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-73 (M)
+  - Code de l'action sociale et des familles - art. D451-73 (T)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article D451-86
+
 L'examen sanctionnant la formation au diplôme d'Etat de technicien de l'intervention sociale et familiale est organisé par le
 directeur régional des affaires sanitaires et sociales de la région d'implantation de l'établissement de formation. Des
 sessions interrégionales peuvent être organisées.
@@ -79812,29 +79759,20 @@ familiale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°74-146 1974-02-15 art. 4
-  - Code de l'action sociale et des familles - art. D451-62 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
-_Cité par_:
+_Anciens textes_:
 
-  - Arrêté du 20 juin 2007 - art. 2 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D451-86 (M)
+  - Code de l'action sociale et des familles - art. D451-74 (T)
 
 
-###### Article D451-75
+###### Article D451-87
 
 Le jury du diplôme d'Etat de technicien de l'intervention sociale et familiale comprend :
 
@@ -79852,40 +79790,27 @@ Le jury est nommé par le directeur régional des affaires sanitaires et sociale
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°74-146 1974-02-15 art. 5
-  - Code de l'action sociale et des familles - art. D451-63 (T)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D451-100 (M)
-  - Code de l'action sociale et des familles - art. D451-101 (M)
-  - Code de l'action sociale et des familles - art. D451-102 (M)
-  - Code de l'action sociale et des familles - art. D451-103 (V)
-  - Code de l'action sociale et des familles - art. D451-104 (M)
-  - Code de l'action sociale et des familles - art. D451-87 (M)
+  - Code de l'action sociale et des familles - art. D451-75 (M)
+  - Code de l'action sociale et des familles - art. D451-75 (T)
 
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
-##### Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale.<a id=637></a>
+##### Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale.<a id=636></a>
 
-###### Article R451-76
+###### Article R451-88
 
 Le diplôme d'Etat d'auxiliaire de vie sociale atteste des compétences pour effectuer un accompagnement social et un soutien
 auprès des publics fragiles dans leur vie quotidienne.
@@ -79899,25 +79824,28 @@ l'exclusion.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2002-410 du 26 mars 2002 - art. 1, v. init.
-  - Décret n°2002-410 du 26 mars 2002 - art. 1 (Ab)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
+_Transféré par_:
+
+  - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R451-76 (T)
+
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. R451-88 (T)
+  - Code de l'action sociale et des familles D. 451-88
 
 
-###### Article R451-77
+###### Article R451-89
 
 Pour être admis à suivre la formation préparant au diplôme d'Etat d'auxiliaire de vie sociale, les candidats doivent disposer
 d'un niveau pré-requis, dont la vérification est organisée par les établissements publics ou privés dispensant la formation.
@@ -79929,55 +79857,57 @@ Les candidats doivent être âgés de dix-huit ans au moins à la date d'entrée
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2002-410 du 26 mars 2002 - art. 2, v. init.
-  - Décret n°2002-410 du 26 mars 2002 - art. 2 (Ab)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Modifié par_:
-
-  - Décret n°2005-198 du 22 février 2005 - art. 2 () JORF 1er mars 2005
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
+_Transféré par_:
+
+  - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R451-77 (M)
+  - Code de l'action sociale et des familles - art. R451-77 (T)
+
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. R451-89 (T)
+  - Code de l'action sociale et des familles D. 451-89
 
 
-###### Article R451-78
+###### Article R451-90
 
 Cette formation, dispensée en alternance, comporte une partie théorique et des stages. La durée et le contenu de la formation
 sont définis par arrêté du ministre chargé des affaires sociales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2002-410 2002-03-26 art. 3, sauf première phrase
-  - Décret n°2002-410 du 26 mars 2002 - art. 3, v. init.
-  - Décret n°2002-410 du 26 mars 2002 - art. 3 (Ab)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
+_Transféré par_:
+
+  - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R451-78 (T)
+
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. R451-90 (T)
+  - Code de l'action sociale et des familles D. 451-90
 
 
-###### Article R451-79
+###### Article R451-91
 
 Le diplôme est délivré par le préfet de région aux candidats ayant satisfait aux épreuves de validation. Les épreuves et leur
 déroulement sont définis par arrêté du ministre chargé des affaires sociales.
@@ -79992,25 +79922,28 @@ L'ensemble du diplôme d'Etat d'auxiliaire de vie sociale doit être validé dan
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2002-410 du 26 mars 2002 - art. 4, v. init.
-  - Décret n°2002-410 du 26 mars 2002 - art. 4 (Ab)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
+_Transféré par_:
+
+  - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R451-79 (T)
+
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. R451-91 (T)
+  - Code de l'action sociale et des familles D. 451-91
 
 
-###### Article R451-80
+###### Article R451-92
 
 Les titulaires du certificat d'aptitude aux fonctions d'aide à domicile sont titulaires de droit du diplôme d'Etat
 d'auxiliaire de vie sociale.
@@ -80021,51 +79954,57 @@ ministre chargé des affaires sociales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2002-410 du 26 mars 2002 - art. 5, v. init.
-  - Décret n°2002-410 du 26 mars 2002 - art. 5 (Ab)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
+_Transféré par_:
+
+  - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R451-80 (T)
+
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. R451-92 (T)
+  - Code de l'action sociale et des familles D. 451-92
 
 
-###### Article R451-81
+###### Article R451-93
 
 A titre transitoire, les formations engagées avant le 27 mars 2002 demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2002-410 du 26 mars 2002 - art. 6, v. init.
-  - Décret n°2002-410 du 26 mars 2002 - art. 6 (V)
-
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
+_Transféré par_:
+
+  - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R451-81 (T)
+
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. R451-93 (T)
+  - Code de l'action sociale et des familles D. 451-93
 
 
-##### Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique.<a id=638></a>
+##### Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique.<a id=637></a>
 
-###### Article R451-82
+###### Article R451-94
 
 Le certificat d'aptitude aux fonctions d'aide médico-psychologique mentionné à l'article 5 du décret n° 89-241 du 18 avril
 1989 portant statuts particuliers des aides-soignants et des agents des services hospitaliers qualifiés de la fonction
@@ -80076,29 +80015,32 @@ des affaires sociales.
 
 _Cite_:
 
-  - Décret n°89-241 du 18 avril 1989 - art. 5 (M)
+  - Décret n°89-241 du 18 avril 1989 - art. 5
 
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code de l'action sociale et des familles - art. R451-94 (Ab)
-  - Code de l'action sociale et des familles - art. R451-94 (V)
+  - Décret n°2017-537 du 13 avril 2017 - art. 4
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. R451-82 (T)
 
 
-## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=639></a>
+## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=638></a>
 
-### Titre II : Départements d'outre-mer<a id=640></a>
+### Titre II : Départements d'outre-mer<a id=639></a>
 
-#### Chapitre Ier : Dispositions générales<a id=641></a>
+#### Chapitre Ier : Dispositions générales<a id=640></a>
 
-##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=642></a>
+##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=641></a>
 
 ###### Article R521-1
 
@@ -80129,10 +80071,10 @@ _Cite_:
 
 ###### Article R521-2
 
-Les dispositions des articles R. 312-156 à R. 132-168 sont applicables dans les régions d'outre-mer sous réserve des
+Les dispositions des articles R. 312-177 à R. 312-189 sont applicables dans les régions d'outre-mer sous réserve des
 modifications suivantes :
 
-I. - Le 1° de l'article R. 312-157 est ainsi rédigé :
+I. - Le 1° de l'article R. 312-178 est ainsi rédigé :
 
 "Au titre des représentants des services déconcentrés de l'Etat, des collectivités territoriales et des organismes de
 sécurité sociale :
@@ -80163,7 +80105,7 @@ leurs représentants ;
 j) Deux représentants des deux régimes d'assurance maladie autres que le régime général, qui comptent le plus grand nombre de
 ressortissants dans la région."
 
-II. - A) Au 2° de l'article R. 312-157, le mot : "vingt" est remplacé par le mot : "seize" ; le mot : "cinq" est remplacé par
+II. - A) Au 2° de l'article R. 312-178, le mot : "vingt" est remplacé par le mot : "seize" ; le mot : "cinq" est remplacé par
 le mot : "quatre" et il est ajouté l'alinéa suivant :
 
 "A défaut de pouvoir désigner le nombre requis de personnes prévu par le présent article, dans une région d'outre-mer, le
@@ -80179,12 +80121,12 @@ nombre de représentants :
 
 peut être, par arrêté préfectoral, respectivement réduit à deux au minimum pour chaque catégorie."
 
-b) A la fin de l'article R. 312-157, il est ajouté un alinéa ainsi rédigé ;
+b) A la fin de l'article R. 312-178, il est ajouté un alinéa ainsi rédigé ;
 
 "A défaut de pouvoir désigner dans une région d'outre-mer le nombre de personnes ci-dessus mentionné aux 3° , 4° et 5° de
-l'article R. 312-157, ce nombre peut être, par arrêté préfectoral, réduit respectivement à deux au minimum."
+l'article R. 312-178, ce nombre peut être, par arrêté préfectoral, réduit respectivement à deux au minimum."
 
-III. - Le 1° de l'article R. 312-158 est ainsi rédigé :
+III. - Le 1° de l'article R. 312-179 est ainsi rédigé :
 
 "1° Au titre des représentants des services déconcentrés de l'Etat, des collectivités territoriales et des organismes de
 sécurité sociale :
@@ -80204,24 +80146,24 @@ f) Deux représentants de la caisse générale de sécurité sociale ;
 
 g) Un représentant des régimes d'assurance maladie autres que le régime général."
 
-IV. - Au 2° de l'article R. 312-158, le mot : "cinq" est remplacé par le mot : "quatre".
+IV. - Au 2° de l'article R. 312-179, le mot : "cinq" est remplacé par le mot : "quatre".
 
-A la fin de l'article R. 312-158, il est ajouté un alinéa ainsi rédigé : "A défaut de pouvoir réunir dans une région d'outre-
+A la fin de l'article R. 312-179, il est ajouté un alinéa ainsi rédigé : "A défaut de pouvoir réunir dans une région d'outre-
 mer le nombre de personnes ci-dessus mentionné aux 2° , 3° , 4° et 5° , ce nombre peut, par arrêté préfectoral, être
 respectivement réduit à deux au minimum."
 
-V. - A) Au dernier alinéa de l'article R. 312-158, pour les régions de la Guadeloupe, de la Martinique et de la Guyane, les
+V. - A) Au dernier alinéa de l'article R. 312-179, pour les régions de la Guadeloupe, de la Martinique et de la Guyane, les
 mots : "le directeur régional des affaires sanitaires et sociales" sont remplacés par les mots : "le directeur de la santé et
 du développement social" et pour les quatre régions d'outre-mer, les mots : "le directeur régional de la protection
 judiciaire de la jeunesse" sont remplacés par les mots : "le directeur départemental de la protection judiciaire de la
 jeunesse".
 
-b) A l'article R. 312-161, la phrase : "Le secrétariat est assuré par la direction régionale des affaires sanitaires et
+b) A l'article R. 312-182, la phrase : "Le secrétariat est assuré par la direction régionale des affaires sanitaires et
 sociales" est remplacée pour les régions de la Guadeloupe, de la Martinique et de la Guyane par la phrase : "Le secrétariat
 est assuré par la direction de la santé et du développement social", et pour La Réunion par la phrase : "Le secrétariat est
 assuré par les services déconcentrés de l'Etat chargés des affaires sanitaires et sociales".
 
-c) Au septième alinéa de l'article R. 312-165, les mots : "le directeur régional de la protection judiciaire de la jeunesse"
+c) Au septième alinéa de l'article R. 312-186, les mots : "le directeur régional de la protection judiciaire de la jeunesse"
 et les mots : "le directeur régional du travail, de l'emploi et de la formation professionnelle" sont respectivement
 remplacés par les mots : "le directeur départemental de la protection judiciaire de la jeunesse" et les mots : "le directeur
 du travail, de l'emploi et de la formation professionnelle".
@@ -80230,23 +80172,26 @@ du travail, de l'emploi et de la formation professionnelle".
 
 _Anciens textes_:
 
-  - Décret n°2004-65 2004-01-15 art. 13
   - Décret n°2004-65 du 15 janvier 2004 - art. 13 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1135 du 7 septembre 2005 - art. 5 (V) JORF 10 septembre 2005
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R312-157 (T)
-  - Code de l'action sociale et des familles - art. R312-158 (T)
-  - Code de l'action sociale et des familles - art. R312-161 (T)
-  - Code de l'action sociale et des familles - art. R312-165 (T)
-  - Code de l'action sociale et des familles R312-156 à R132-168, R312-157, R312-158, R312-161, R312-165
+  - Code de l'action sociale et des familles - art. R312-178 (T)
+  - Code de l'action sociale et des familles - art. R312-179 (T)
+  - Code de l'action sociale et des familles - art. R312-182 (V)
+  - Code de l'action sociale et des familles - art. R312-186 (V)
+  - Code de l'action sociale et des familles R312-177 à R312-189, R312-178, R312-179, R312-182, R312-186
 
 
-##### Section 2 : Dispositions budgétaires, comptables et financières<a id=643></a>
+##### Section 2 : Dispositions budgétaires, comptables et financières<a id=642></a>
 
 ###### Article R521-3
 
@@ -80278,9 +80223,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre II : Revenu minimum d'insertion<a id=644></a>
+#### Chapitre II : Revenu minimum d'insertion<a id=643></a>
 
-##### Section 1 : Allocation<a id=645></a>
+##### Section 1 : Allocation<a id=644></a>
 
 ###### Article R522-1
 
@@ -80366,7 +80311,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion<a id=646></a>
+##### Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion<a id=645></a>
 
 ###### Article R522-4
 
@@ -80469,9 +80414,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Agences d'insertion<a id=647></a>
+##### Section 3 : Agences d'insertion<a id=646></a>
 
-##### Sous-section 1 : Organisation<a id=648></a>
+##### Sous-section 1 : Organisation<a id=647></a>
 
 ###### Article R522-8
 
@@ -81020,7 +80965,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale<a id=649></a>
+##### Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale<a id=648></a>
 
 ###### Article R522-27
 
@@ -81185,7 +81130,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=650></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=649></a>
 
 ###### Article D522-35
 
@@ -81370,7 +81315,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale<a id=651></a>
+##### Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale<a id=650></a>
 
 ###### Article R522-40
 
@@ -81786,7 +81731,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L522-13
 
 
-##### Sous-section 5 : Conventions avec les organismes utilisateurs<a id=652></a>
+##### Sous-section 5 : Conventions avec les organismes utilisateurs<a id=651></a>
 
 ###### Article R522-56
 
@@ -82000,7 +81945,7 @@ _Abrogé par_:
   - Décret n°2015-1722 du 21 décembre 2015 - art. 3
 
 
-##### Section 4 : Revenu de solidarité<a id=653></a>
+##### Section 4 : Revenu de solidarité<a id=652></a>
 
 ###### Article R522-63
 
@@ -82155,9 +82100,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=654></a>
+#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=653></a>
 
-##### Section 2 : Aide à la famille<a id=655></a>
+##### Section 2 : Aide à la famille<a id=654></a>
 
 ###### Article R523-1
 
@@ -82184,11 +82129,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L228-2 (V)
 
 
-### Titre III : Saint-Pierre-et-Miquelon<a id=656></a>
+### Titre III : Saint-Pierre-et-Miquelon<a id=655></a>
 
-#### Chapitre Ier : Dispositions générales<a id=657></a>
+#### Chapitre Ier : Dispositions générales<a id=656></a>
 
-##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=658></a>
+##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=657></a>
 
 ###### Article R531-1
 
@@ -82233,7 +82178,7 @@ _Cite_:
   - Code de l'action sociale et des familles R313-1 à R313-10
 
 
-##### Section 2 : Dispositions budgétaires, comptables et financières<a id=659></a>
+##### Section 2 : Dispositions budgétaires, comptables et financières<a id=658></a>
 
 ###### Article R531-2
 
@@ -82271,7 +82216,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre II : Personnes handicapées<a id=660></a>
+#### Chapitre II : Personnes handicapées<a id=659></a>
 
 ###### Article R532-1
 
@@ -82397,7 +82342,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre IV : Adoption<a id=661></a>
+#### Chapitre IV : Adoption<a id=660></a>
 
 ###### Article R533-1
 
@@ -82432,9 +82377,9 @@ _Cite_:
   - Code de l'action sociale et des familles R225-12 à R225-45
 
 
-### Titre IV : Mayotte<a id=662></a>
+### Titre IV : Mayotte<a id=661></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=663></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=662></a>
 
 ###### Article R541-1
 
@@ -82472,7 +82417,7 @@ _Cite_:
   - Code de l'action sociale et des familles R147-1 à R147-33, L222-6, L223-7, L543-14
 
 
-#### Chapitre II : Aide sociale<a id=664></a>
+#### Chapitre II : Aide sociale<a id=663></a>
 
 ###### Article D542-2
 
@@ -82714,9 +82659,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L542-4 (T)
 
 
-#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption<a id=665></a>
+#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption<a id=664></a>
 
-##### Section 1 : Organes chargés de la tutelle<a id=666></a>
+##### Section 1 : Organes chargés de la tutelle<a id=665></a>
 
 ###### Article R544-1
 
@@ -82735,9 +82680,9 @@ _Cite_:
   - Code de l'action sociale et des familles R224-1 à R224-25
 
 
-##### Section 2 : Adoption<a id=667></a>
+##### Section 2 : Adoption<a id=666></a>
 
-##### Sous-section 1 : Adoption des pupilles de l'Etat<a id=668></a>
+##### Sous-section 1 : Adoption des pupilles de l'Etat<a id=667></a>
 
 ###### Article R544-2
 
@@ -82757,9 +82702,9 @@ _Cite_:
   - Code de l'action sociale et des familles R225-1 à R225-11
 
 
-### Titre V : Territoire des Iles Wallis et Futuna<a id=669></a>
+### Titre V : Territoire des Iles Wallis et Futuna<a id=668></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=670></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=669></a>
 
 ###### Article R551-1
 
@@ -82802,9 +82747,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-1 (V)
 
 
-### Titre VI : Polynésie française<a id=671></a>
+### Titre VI : Polynésie française<a id=670></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=672></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=671></a>
 
 ###### Article R561-1
 
@@ -82841,9 +82786,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-25 (V)
 
 
-### Titre VII : Nouvelle-Calédonie<a id=673></a>
+### Titre VII : Nouvelle-Calédonie<a id=672></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=674></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=673></a>
 
 ###### Article R571-1
 
@@ -82880,7 +82825,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-25 (VT)
 
 
-# Annexe<a id=675></a>
+# Annexe<a id=674></a>
 
 ###### Article Annexe 2-4
 
