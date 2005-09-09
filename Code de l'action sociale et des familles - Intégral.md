@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-09-10
+Version Consolidée au 2005-09-10 00:00:01 +0200
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -49201,10 +49201,6 @@ _Anciens textes_:
 
   - Décret n°2001-531 du 20 juin 2001 - art. 2 (Ab)
 
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
 _Cité par_:
 
   - Décret n°2005-971 du 10 août 2005 - art. 1 (VT)
@@ -49212,9 +49208,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D261-4 (Ab)
   - Code de l'action sociale et des familles - art. D261-5 (Ab)
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2008-780 du 13 août 2008 - art. 15
 
 
 ##### Sous-section 2 : Gaz.<a id=368></a>
