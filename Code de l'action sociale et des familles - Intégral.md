@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-10-07
+Version Consolidée au 2005-11-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -402,11 +402,11 @@ Version Consolidée au 2005-10-07
           - [Section 1 : Missions (art. D311)](#399)
           - [Section 2 : Droit des usagers (art. R311-1 à R311-37)](#400)
             - [Sous-section 2 : Personne qualifiée. (art. R311-1 à R311-2)](#401)
-            - [Sous-section 3 : Conseil de la vie sociale et autres formes de participation (art. D311-3 à D311-32)](#402)
+            - [Sous-section 3 : Conseil de la vie sociale et autres formes de participation (art. D311-3 à D311-32-1)](#402)
               - [Paragraphe 1 : Dispositions générales. (art. D311-3)](#403)
               - [Paragraphe 2 : Composition et fonctionnement. (art. D311-4 à D311-20)](#404)
               - [Paragraphe 3 : Autres formes de participation. (art. D311-21 à D311-25)](#405)
-              - [Paragraphe 4 : Dispositions communes. (art. D311-26 à D311-32)](#406)
+              - [Paragraphe 4 : Dispositions communes. (art. D311-26 à D311-32-1)](#406)
             - [Sous-section 4 : Règlement de fonctionnement. (art. R311-33 à R311-37)](#407)
         - [Chapitre II : Organisation de l'action sociale et médico-sociale (art. D312-1 à R312-202)](#408)
           - [Section 1 : Etablissements et services sociaux et médico-sociaux (art. D312-1 à D312-176)](#409)
@@ -52287,8 +52287,9 @@ _Codifié par_:
 
 Le conseil de la vie sociale est mis en place lorsque l'établissement ou le service assure un hébergement ou un accueil de
 jour continu ou une activité d'aide par le travail au sens du premier alinéa de l'article L. 344-2. Il n'est pas obligatoire
-lorsque l'établissement ou service accueille majoritairement des mineurs de moins de onze ans, des personnes relevant du
-dernier alinéa de l'article D. 311-9 et du III de l'article L. 312-1.
+lorsque l'établissement ou service accueille majoritairement des mineurs de moins de onze ans, des personnes relevant
+majoritairement du dernier alinéa de l'article D. 311-9 ainsi que dans les lieux de vie et d'accueil relevant du III de
+l'article L. 312-1.
 
 Lorsque le conseil de la vie sociale n'est pas mis en place, il est institué un groupe d'expression ou toute autre forme de
 participation.
@@ -52297,15 +52298,26 @@ Lorsque plusieurs établissements ou services sociaux ou médico-sociaux sont g�
 une instance commune de participation peut être instituée pour une même catégorie d'établissements ou de services, au sens de
 l'article L. 312-1.
 
+Dans les établissements et services relevant des 8° et 9° de l'article L. 312-1, lorsque les durées de la prise en charge
+sont inférieures à la durée minimum du mandat telle que prévue à l'article D. 311-8, il peut être procédé à la mise en oeuvre
+de l'une des autres formes de participation prévues aux articles D. 311-21 et suivants. Il peut également être procédé à la
+mise en oeuvre de ces autres formes de participation lorsque ces établissements et services accueillent majoritairement des
+personnes pouvant recourir à l'organisme mentionné à l'article D. 311-32.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 du 25 mars 2004 - art. 1, v. init.
   - Décret n°2004-287 du 25 mars 2004 - art. 1 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 1 () JORF 4 novembre 2005
 
 _Cité par_:
 
@@ -52316,6 +52328,9 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de l'action sociale et des familles - art. D311-21 (M)
+  - Code de l'action sociale et des familles - art. D311-32 (M)
+  - Code de l'action sociale et des familles - art. D311-8 (M)
   - Code de l'action sociale et des familles - art. D311-9 (M)
   - Code de l'action sociale et des familles - art. L312-1 (M)
   - Code de l'action sociale et des familles - art. L344-2 (M)
@@ -52342,20 +52357,18 @@ _Codifié par_:
 
 ###### Article D311-5
 
-Sauf en ce qui concerne les établissements mentionnés au 8° de l'article L. 312-1, le conseil comprend au moins :
+Le conseil de la vie sociale comprend au moins :
 
 1° Deux représentants des personnes accueillies ou prises en charge ;
 
-2° Soit un représentant des titulaires de l'exercice de l'autorité parentale à l'égard des mineurs, soit un représentant des
-représentants légaux des personnes accueillies dans les établissements recevant des personnes majeures ;
+2° S'il y a lieu, un représentant des familles ou des représentants légaux ;
 
 3° Un représentant du personnel ;
 
 4° Un représentant de l'organisme gestionnaire.
 
-Dans les établissements mentionnés au 8° du I de l'article L. 312-1, seule est assurée la représentation des usagers. Dans
-les autres établissements recevant des personnes majeures, l'organisme gestionnaire peut prévoir des modalités
-complémentaires d'association des membres des familles des personnes accueillies au fonctionnement de l'établissement.
+Le nombre des représentants des personnes accueillies, d'une part, et de leur famille ou de leurs représentants légaux,
+d'autre part, doit être supérieur à la moitié du nombre total des membres du conseil.
 
 **Liens relatifs à cet article**
 
@@ -52368,15 +52381,15 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 2 () JORF 4 novembre 2005
+
 _Cité par_:
 
   - Décret n°2005-1367 du 2 novembre 2005 - art. 19 (V)
   - Arrêté du 5 septembre 2011 - art. 1 (V)
   - Code de l'action sociale et des familles - art. D311-7 (V)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
 ###### Article D311-6
@@ -52399,33 +52412,71 @@ _Codifié par_:
 
 ###### Article D311-7
 
-Lorsqu'en raison du jeune âge des bénéficiaires, la représentation du collège des personnes accueillies ne peut être assurée,
-seul le collège des familles ou des représentants légaux est constitué.
+Lorsque le très jeune âge des bénéficiaires rend impossible leur représentation directe, le collège des personnes accueillies
+ne peut être formé, seul le collège des familles ou des représentants légaux est constitué. 
+
+Dans le cas où la représentation des familles ou des représentants légaux n'est pas justifiée en raison de la catégorie des
+personnes accueillies ou de la nature de la prise en charge, les sièges sont attribués aux personnes accueillies. 
+
+Lorsque les sièges des familles ou des représentants légaux, d'une part, ou ceux des personnes accueillies, d'autre part, ne
+peuvent être pourvus, en raison notamment des difficultés de représentation, un constat de carence est dressé par le
+directeur, son représentant ou le représentant qualifié de l'organisme gestionnaire. 
+
+Dans les cas mentionnés au présent article, la majorité prévue au dernier alinéa de l'article D. 311-5 est déterminée sur les
+seuls représentants des personnes accueillies ou sur les seuls représentants des familles ou des représentants légaux.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 5
   - Décret n°2004-287 du 25 mars 2004 - art. 5 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 3 () JORF 4 novembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D311-5 (V)
+
 
 ###### Article D311-8
 
-Les membres du conseil sont élus pour une durée d'un an au moins et de trois ans au plus.
+Les membres du conseil sont élus pour une durée d'un an au moins et de trois ans au plus, renouvelable.
+
+Lorsqu'un membre cesse sa fonction en cours de mandat, notamment en raison de la fin de la prise en charge dont il était
+bénéficiaire, il est remplacé par son suppléant ou un autre bénéficiaire élu ou désigné dans les mêmes formes qui devient
+titulaire du mandat. Il est ensuite procédé à la désignation d'un autre suppléant pour la durée restante du mandat.
+
+Dans les établissements et services relevant des 8° et 9° de l'article L. 312-1, le remplacement pour la durée du mandat
+restante des membres représentant les personnes accueillies peut être assuré par une procédure de désignation. L'accord des
+personnes désignées est requis. Les modalités de désignation sont précisées par l'instance ou la personne mentionnée à
+l'article D. 311-27.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 8
   - Décret n°2004-287 du 25 mars 2004 - art. 8 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 4 () JORF 4 novembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D311-27 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 _Cité par_:
 
@@ -52435,10 +52486,11 @@ _Cité par_:
 ###### Article D311-9
 
 Le président du conseil est élu au scrutin secret et à la majorité des votants par et parmi les membres représentant les
-personnes accueillies. En cas de partage égal des voix, le candidat le plus âgé est déclaré élu.
+personnes accueillies ou en cas d'impossibilité ou d'empêchement, par et parmi les familles ou les représentants légaux. En
+cas de partage égal des voix, le candidat le plus âgé est déclaré élu.
 
 Le président suppléant est élu selon les mêmes modalités parmi les membres représentant soit les personnes accueillies, soit
-les titulaires de l'exercice de l'autorité parentale ou les représentants légaux.
+les familles ou les titulaires de l'exercice de l'autorité parentale ou les représentants légaux.
 
 Le directeur ou son représentant siège avec voix consultative.
 
@@ -52457,6 +52509,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 5 () JORF 4 novembre 2005
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. D311-16 (V)
@@ -52466,27 +52522,37 @@ _Cité par_:
 ###### Article D311-10
 
 Sous réserve des dispositions de l'article D. 311-30, les représentants des personnes accueillies et les représentants des
-titulaires de l'exercice de l'autorité parentale ou des représentants légaux sont élus par vote à bulletin secret à la
-majorité des votants respectivement par l'ensemble des personnes accueillies ou prises en charge et par l'ensemble des
-personnes titulaires de l'exercice de l'autorité parentale à l'égard des mineurs ou des représentants légaux des personnes
-majeures. Des suppléants sont élus dans les mêmes conditions.
+familles ou des représentants légaux sont élus par vote à bulletin secret à la majorité des votants respectivement par
+l'ensemble des personnes accueillies ou prises en charge et par l'ensemble des familles ou des représentants légaux, au sens
+du 2° de l'article D. 311-11. Des suppléants sont élus dans les mêmes conditions.
 
 Sont élus le ou les candidats ayant obtenu le plus grand nombre de voix. A égalité de voix, il est procédé par tirage au sort
 entre les intéressés.
+
+Dans les établissements et services relevant des 8° et 9° de l'article L. 312-1, les représentants des personnes accueillies
+peuvent être désignés avec leur accord sans qu'il y ait lieu de procéder à des élections. Les modalités de désignation sont
+précisées par le règlement de fonctionnement.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 9
   - Décret n°2004-287 du 25 mars 2004 - art. 9 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 6 () JORF 4 novembre 2005
+
 _Cite_:
 
+  - Code de l'action sociale et des familles - art. D311-11 (M)
   - Code de l'action sociale et des familles - art. D311-30 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
 ###### Article D311-11
@@ -52495,9 +52561,8 @@ Sont éligibles :
 
 1° Pour représenter les personnes accueillies, toute personne âgée de plus de onze ans ;
 
-2° Pour représenter les personnes titulaires de l'exercice de l'autorité parentale ou les représentants légaux, toute
-personne disposant de l'autorité parentale, tout représentant légal d'un majeur, tout parent d'un bénéficiaire jusqu'au
-quatrième degré.
+2° pour représenter les familles ou les représentants légaux, tout parent, même allié, d'un bénéficiaire, jusqu'au quatrième
+degré, toute personne disposant de l'autorité parentale, tout représentant légal.
 
 **Liens relatifs à cet article**
 
@@ -52509,6 +52574,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 7 () JORF 4 novembre 2005
 
 _Cité par_:
 
@@ -52526,17 +52595,22 @@ sont représentés au conseil de la vie sociale :
 comité d'entreprise ou, à défaut, par les délégués du personnel ou, s'il n'existe pas d'institution représentative du
 personnel, par les personnels eux-mêmes.
 
-Ces représentants sont élus au scrutin secret selon les modalités fixées par le règlement intérieur.
+Ces représentants sont élus au scrutin secret.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 11
   - Décret n°2004-287 du 25 mars 2004 - art. 11 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 8 () JORF 4 novembre 2005
 
 
 ###### Article D311-13
@@ -52582,17 +52656,27 @@ _Cité par_:
 
 ###### Article D311-14
 
-Les suppléants des personnels sont désignés dans les mêmes conditions que les titulaires.
+Les suppléants des personnels sont désignés dans les mêmes conditions que les titulaires. Le mandat des personnels au conseil
+de la vie sociale cesse à l'expiration de leur mandat prévu à l'article D. 311-13.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 13
   - Décret n°2004-287 du 25 mars 2004 - art. 13 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 9 () JORF 4 novembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D311-13 (V)
 
 
 ###### Article D311-15
@@ -52650,10 +52734,8 @@ _Cite_:
 
 ###### Article D311-17
 
-Le conseil délibère sur les questions figurant à l'ordre du jour, à la majorité des membres présents.
-
-Les avis ne sont valablement émis que si le nombre des représentants des personnes accueillies et des titulaires de
-l'exercice de l'autorité parentale ou des représentants légaux présents est supérieur à la moitié des membres.
+Les avis ne sont valablement émis que si le nombre des représentants des personnes accueillies et des familles ou des
+titulaires de l'exercice de l'autorité parentale ou des représentants légaux présents est supérieur à la moitié des membres.
 
 Dans le cas contraire, l'examen de la question est inscrit à une séance ultérieure. Si lors de cette séance, ce nombre n'est
 pas atteint, la délibération est prise à la majorité des membres présents.
@@ -52662,26 +52744,38 @@ pas atteint, la délibération est prise à la majorité des membres présents.
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 16
   - Décret n°2004-287 du 25 mars 2004 - art. 16 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 10 () JORF 4 novembre 2005
+
 
 ###### Article D311-18
 
-Le conseil peut appeler toute personne à participer à ses réunions à titre consultatif en fonction de l'ordre du jour.
+Le conseil peut appeler toute personne à participer à ses réunions à titre consultatif en fonction de l'ordre du jour. Un
+représentant élu de la commune d'implantation de l'activité ou un représentant élu d'un groupement de coopération
+intercommunal peut être invité par le conseil de la vie sociale à assister aux débats.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 7
   - Décret n°2004-287 du 25 mars 2004 - art. 7 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 11 () JORF 4 novembre 2005
 
 _Cité par_:
 
@@ -52707,32 +52801,43 @@ _Codifié par_:
 ###### Article D311-20
 
 Le relevé de conclusions de chaque séance est établi par le secrétaire de séance, désigné par et parmi les personnes
-accueillies ou prises en charge, assisté en tant que de besoin par l'administration de l'établissement, service ou lieu de
-vie et d'accueil. Il est signé par le président. Avant la tenue de la séance suivante, il est présenté pour adoption en vue
-de la transmission à l'instance compétente de l'organisme gestionnaire.
+accueillies ou prises en charge ou en cas d'impossibilité ou d'empêchement, par et parmi les représentants des familles ou
+représentants légaux, assisté en tant que de besoin par l'administration de l'établissement, service ou lieu de vie et
+d'accueil. Il est signé par le président. Il est transmis en même temps que l'ordre du jour mentionné à l'article D. 311-16
+en vue de son adoption par le conseil. Il est ensuite transmis à l'instance compétente de l'organisme gestionnaire.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 18
   - Décret n°2004-287 du 25 mars 2004 - art. 18 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 12 () JORF 4 novembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D311-16 (V)
+
 
 ##### Paragraphe 3 : Autres formes de participation.<a id=405></a>
 
 ###### Article D311-21
 
-La participation prévue à l'article L. 311-6 peut également s'exercer selon les modalités suivantes :
+La participation prévue à l'article L. 311-6 peut également s'exercer selon les modalités suivantes : 
 
 1° Par l'institution de groupes d'expression institués au niveau de l'ensemble de l'établissement, du service ou du lieu de
-vie et d'accueil, ou d'un service ou d'un ensemble de services de ceux - ci ;
+vie et d'accueil, ou d'un service ou d'un ensemble de services de ceux-ci ; 
 
-2° Par l'organisation de consultations de l'ensemble des personnes accueillies ou prises en charge sur toutes questions
-concernant l'organisation ou le fonctionnement de l'établissement, du service ou du lieu de vie ou d'accueil ;
+2° Par l'organisation de consultations de l'ensemble des personnes accuellies ou prises en charge ainsi que, en fonction de
+la catégorie de personnes bénéficiaires, les familles ou représentants légaux sur toutes questions concernant l'organisation
+ou le fonctionnement de l'établissement, du service ou du lieu de vie ou d'accueil ; 
 
 3° Par la mise en oeuvre d'enquêtes de satisfaction. Ces enquêtes sont obligatoires pour les services prenant en charge à
 domicile des personnes dont la situation ne permet pas de recourir aux autres formes de participation prévues par la présente
@@ -52742,11 +52847,16 @@ sous-section.
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 19
   - Décret n°2004-287 du 25 mars 2004 - art. 19 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 13 () JORF 4 novembre 2005
 
 _Cité par_:
 
@@ -52757,50 +52867,68 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L311-6 (M)
+  - Code de l'action sociale et des familles - art. L311-6 (V)
 
 
 ###### Article D311-22
 
 L'acte instituant des instances de participation autres que le conseil de la vie sociale précise la composition et les
 modalités de fonctionnement de ces instances qui comportent obligatoirement des représentants des usagers et de leurs
-familles ou représentants légaux en nombre supérieur à la moitié.
+familles, titulaires de l'exercice de l'autorité parentale ou représentants légaux en nombre supérieur à la moitié. 
+
+Le directeur ou son représentant y assiste. En fonction de l'ordre du jour, il peut être fait application de l'article D.
+311-18.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 20
   - Décret n°2004-287 du 25 mars 2004 - art. 20 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 14 () JORF 4 novembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D311-18 (V)
+
 
 ###### Article D311-23
 
 Le règlement de fonctionnement adapte les modalités de consultation mises en oeuvre compte tenu des formes de participations
-instituées.
+instituées. 
 
 L'ordre du jour des séances accompagné des explications nécessaires à sa compréhension est obligatoirement notifié aux
-membres des instances sept jours au plus tard avant leur tenue.
+membres des instances sept jours au plus tard avant leur tenue. 
 
-L'enquête de satisfaction adressée aux personnes accueillies ou prises en charge concerne obligatoirement les sujets énoncés
-à l'article D. 311-15.
+L'enquête de satisfaction, lorsqu'elle est réalisée dans le cadre du deuxième alinéa de l'article D. 311-3, adressée aux
+personnes accueillies ou prises en charge concerne obligatoirement les sujets énoncés à l'article D. 311-15.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 21
   - Décret n°2004-287 du 25 mars 2004 - art. 21 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 15 () JORF 4 novembre 2005
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. D311-15 (V)
+  - Code de l'action sociale et des familles - art. D311-3 (V)
 
 
 ###### Article D311-24
@@ -52825,22 +52953,28 @@ _Codifié par_:
 
 Sous réserve des dispositions de l'article D. 311-30, les modalités d'élection ou de désignation aux instances de
 participation autres que le conseil de la vie sociale des représentants des personnes accueillies ou prises en charge, de
-ceux des titulaires de l'exercice de l'autorité parentale ou des représentants légaux, de ceux des membres du personnel et de
-ceux de l'organisme gestionnaire sont précisées par le règlement de fonctionnement de l'établissement, du service ou du lieu
-de vie et d'accueil.
+ceux des familles ou de ceux des titulaires de l'exercice de l'autorité parentale ou des représentants légaux, de ceux des
+membres du personnel et de ceux de l'organisme gestionnaire sont précisés par l'instance ou la personne mentionnée à
+l'article D. 311-27 et figurent au règlement de fonctionnement de l'établissement, du service ou du lieu de vie et d'accueil.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 23
   - Décret n°2004-287 du 25 mars 2004 - art. 23 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 16 () JORF 4 novembre 2005
+
 _Cite_:
 
+  - Code de l'action sociale et des familles - art. D311-27 (V)
   - Code de l'action sociale et des familles - art. D311-30 (V)
 
 
@@ -52975,22 +53109,43 @@ _Codifié par_:
 
 ###### Article D311-32
 
-Les représentants des personnes accueillies peuvent en tant que de besoin se faire assister d'une tierce personne afin de
-permettre la compréhension de leurs interventions.
+Les représentants des personnes accueillies peuvent en tant que de besoin se faire assister d'une tierce personne ou d'un
+organisme aidant à la traduction afin de permettre la compréhension de leurs interventions.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret n°2004-287 2004-03-25 art. 31
   - Décret n°2004-287 du 25 mars 2004 - art. 31 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 17 () JORF 4 novembre 2005
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. D311-3 (V)
+
+
+###### Article D311-32-1
+
+Le relevé de conclusions des formes de participation mises en oeuvre peut être consulté sur place par les bénéficiaires de la
+prise en charge, les familles ou les représentants légaux, qui n'en sont pas membres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1367 du 2 novembre 2005 - art. 18 () JORF 4 novembre 2005
 
 
 ##### Sous-section 4 : Règlement de fonctionnement.<a id=407></a>
