@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-12-01
+Version Consolidée au 2005-12-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -22,659 +22,661 @@ Version Consolidée au 2005-12-01
         - [Chapitre III : Organisation administrative (art. L123-1 à L123-9)](#19)
           - [Section 1 : Services départementaux. (art. L123-1 à L123-3)](#20)
           - [Section 2 : Centre communal ou intercommunal d'action sociale. (art. L123-4 à L123-9)](#21)
-      - [Titre III : Procédures (art. L131-1 à L134-10)](#22)
+      - [Titre III : Procédures (art. L131-1 à L135-2)](#22)
         - [Chapitre Ier : Admission. (art. L131-1 à L131-7)](#23)
         - [Chapitre II : Participation et récupération. (art. L132-1 à L132-12)](#24)
         - [Chapitre III : Contrôle. (art. L133-1 à L133-7)](#25)
         - [Chapitre IV : Contentieux. (art. L134-1 à L134-10)](#26)
-      - [Titre IV : Institutions (art. L143-1 à L14-10-8)](#27)
-        - [Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale. (art. L143-1)](#28)
-        - [Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale. (art. L144-1)](#29)
-        - [Chapitre VI : Institutions relatives aux personnes handicapées. (art. L146-1 A à L146-13)](#30)
-          - [Section 1 : Consultation des personnes handicapées. (art. L146-1 à L146-2)](#31)
-          - [Section 2 : Maisons départementales des personnes handicapées. (art. L146-3 à L146-12)](#32)
-          - [Section 3 : Traitement amiable des litiges. (art. L146-13)](#33)
-        - [Chapitre VII : Conseil national pour l'accès aux origines personnelles (art. L147-1 à L147-11)](#34)
-        - [Chapitre VIII : Conseil supérieur de l'adoption et Autorité centrale pour l'adoption internationale (art. L148-1 à L148-2)](#35)
-        - [Chapitre IX : Comités départementaux des retraités et personnes âgées (art. L149-1)](#36)
-        - [Chapitre X : Caisse nationale de solidarité pour l'autonomie. (art. L14-10-1 à L14-10-8)](#37)
-    - [Livre II : Différentes formes d'aide et d'action sociales (art. L211-1 à L263-19)](#38)
-      - [Titre Ier : Famille (art. L211-1 à L215-3)](#39)
-        - [Chapitre Ier : Associations familiales. (art. L211-1 à L211-14)](#40)
-        - [Chapitre II : Aide sociale aux familles. (art. L212-1 à L212-2)](#41)
-        - [Chapitre III : Education et conseil familial. (art. L213-1 à L213-2)](#42)
-        - [Chapitre IV : Accueil des jeunes enfants. (art. L214-1 à L214-6)](#43)
-        - [Chapitre V : Dispositions diverses en faveur des familles. (art. L215-1 à L215-3)](#44)
-      - [Titre II : Enfance (art. L221-1 à L228-6)](#45)
-        - [Chapitre Ier : Service de l'aide sociale à l'enfance. (art. L221-1 à L221-9)](#46)
-        - [Chapitre II : Prestations d'aide sociale à l'enfance. (art. L222-1 à L222-7)](#47)
-        - [Chapitre III : Droits des familles dans leurs rapports avec les services de l'aide sociale à l'enfance. (art. L223-1 à L223-8)](#48)
-        - [Chapitre IV : Pupilles de l'Etat (art. L224-1 à L224-12)](#49)
-          - [Section 1 : Organes chargés de la tutelle. (art. L224-1 à L224-3)](#50)
-          - [Section 2 : Admission en qualité de pupille de l'Etat. (art. L224-4 à L224-8)](#51)
-          - [Section 3 : Statut des pupilles. (art. L224-9 à L224-11)](#52)
-          - [Section 4 : Dispositions communes. (art. L224-12)](#53)
-        - [Chapitre V : Adoption (art. L225-1 à L225-20)](#54)
-          - [Section 1 : Adoption des pupilles de l'Etat. (art. L225-1 à L225-10)](#55)
-          - [Section 2 : Organismes autorisés et habilités pour l'adoption. (art. L225-11 à L225-14-2)](#56)
-          - [Section 3 : Agence française de l'adoption. (art. L225-15 à L225-16)](#57)
-          - [Section 4 : Adoption internationale. (art. L225-17 à L225-20)](#58)
-        - [Chapitre VI : Protection des mineurs maltraités. (art. L226-1 à L226-13)](#59)
-        - [Chapitre VII : Mineurs accueillis hors du domicile parental. (art. L227-1 à L227-12)](#60)
-        - [Chapitre VIII : Dispositions financières. (art. L228-1 à L228-6)](#61)
-      - [Titre III : Personnes âgées (art. L231-1 à L232-28)](#62)
-        - [Chapitre Ier : Aide à domicile et placement. (art. L231-1 à L231-6)](#63)
-        - [Chapitre II : Allocation personnalisée d'autonomie (art. L232-1 à L232-28)](#64)
-          - [Section 1 : Allocation personnalisée d'autonomie et qualité des services aux personnes âgées. (art. L232-1 à L232-11)](#65)
-            - [Sous-section 1 : Prise en charge et allocation personnalisée d'autonomie à domicile (art. L232-3 à L232-7)](#66)
-            - [Sous-section 2 : Allocation personnalisée d'autonomie en établissement (art. L232-8 à L232-11)](#67)
-          - [Section 2 : Gestion de l'allocation personnalisée d'autonomie (art. L232-12 à L232-20)](#68)
-          - [Section 4 : Dispositions communes. (art. L232-22 à L232-28)](#69)
-      - [Titre IV : Personnes handicapées (art. L241-1 à L248-1)](#70)
-        - [Chapitre Ier : Dispositions générales. (art. L241-1 à L241-4)](#71)
-        - [Chapitre Ier bis : Commission des droits et de l'autonomie des personnes handicapées. (art. L241-5 à L241-11)](#72)
-        - [Chapitre II : Enfance et adolescence handicapées (art. L242-1 à L242-14)](#73)
-          - [Section 1 : Scolarité et accompagnement des enfants et des adolescents handicapés. (art. L242-1 à L242-13)](#74)
-          - [Section 2 : Allocation d'éducation de l'enfant handicapé. (art. L242-14)](#75)
-        - [Chapitre III : Travailleurs handicapés (art. L243-4 à L243-7)](#76)
-        - [Chapitre IV : Allocation aux adultes handicapés. (art. L244-1)](#77)
-        - [Chapitre V : Prestation de compensation. (art. L245-1 à L245-14)](#78)
-        - [Chapitre VI : Personnes atteintes de syndrome autistique et personnes atteintes de polyhandicap. (art. L246-1)](#79)
-        - [Chapitre VII : Gestion et suivi statistique (art. L247-1 à L247-7)](#80)
-        - [Chapitre VIII : Formation des aidants familiaux (art. L248-1)](#81)
-      - [Titre V : Personnes non bénéficiaires de la couverture maladie universelle (art. L251-1 à L254-2)](#82)
-        - [Chapitre Ier : Droit à l'aide médicale de l'Etat. (art. L251-1 à L251-3)](#83)
-        - [Chapitre II : Modalités d'admission. (art. L252-1 à L252-5)](#84)
-        - [Chapitre III : Dispositions financières. (art. L253-1 à L253-4)](#85)
-        - [Chapitre IV : Prise en charge des soins urgents (art. L254-1 à L254-2)](#86)
-      - [Titre VI : Lutte contre la pauvreté et les exclusions (art. L261-1 à L263-19)](#87)
-        - [Chapitre Ier : Logement (art. L261-1 à L261-6)](#88)
-          - [Section 1 : Aides générales au logement. (art. L261-1 à L261-3)](#89)
-          - [Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées. (art. L261-5 à L261-6)](#90)
-        - [Chapitre II : Revenu minimum d'insertion (art. L262-1 à L262-55)](#91)
-          - [Section 1 : Dispositions générales (art. L262-1 à L262-6-1)](#92)
-          - [Section 2 : Conditions d'ouverture du droit à l'allocation. (art. L262-7 à L262-12-1)](#93)
-          - [Section 3 : Attribution de l'allocation (art. L262-13 à L262-36)](#94)
-          - [Section 4 : Contrat d'insertion (art. L262-37 à L262-38-1)](#95)
-          - [Section 5 : Recours et récupération (art. L262-39 à L262-47)](#96)
-          - [Section 6 : Suivi statistique, évaluation et contrôle (art. L262-48 à L262-54)](#97)
-          - [Section 7 : Dispositions communes (art. L262-55)](#98)
-        - [Chapitre III : Actions d'insertion (art. L263-1 à L263-19)](#99)
-          - [Section 1 : Dispositif départemental d'insertion. (art. L263-1 à L263-5)](#100)
-          - [Section 2 : Dispositif local d'insertion. (art. L263-10 à L263-14)](#101)
-          - [Section 4 : Fonds d'aide aux jeunes en difficulté. (art. L263-15 à L263-17)](#102)
-          - [Section 5 : Personnes bénéficiaires de l'allocation de parent isolé. (art. L263-18 à L263-19)](#103)
-    - [Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services (art. L311-1 à L351-8)](#104)
-      - [Titre Ier : Etablissements et services soumis à autorisation (art. L311-1 à L315-19)](#105)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-9)](#106)
-          - [Section 1 : Missions (art. L311-1 à L311-2)](#107)
-          - [Section 2 : Droits des usagers (art. L311-3 à L311-9)](#108)
-        - [Chapitre II : Organisation de l'action sociale et médico-sociale (art. L312-1 à L312-9)](#109)
-          - [Section 1 : Etablissements et services sociaux et médico-sociaux (art. L312-1)](#110)
-          - [Section 2 : Organismes consultatifs (art. L312-3)](#111)
-          - [Section 3 : Schémas d'organisation sociale et médico-sociale (art. L312-4 à L312-5-1)](#112)
-          - [Section 4 : Coordination des interventions (art. L312-6 à L312-7)](#113)
-          - [Section 5 : Evaluation et systèmes d'information (art. L312-8 à L312-9)](#114)
-        - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. L313-1 à L313-25)](#115)
-          - [Section 1 : Autorisations (art. L313-1 à L313-9)](#116)
-          - [Section 2 : Habilitation à recevoir des mineurs confiés par l'autorité judiciaire (art. L313-10)](#117)
-          - [Section 3 : Contrats ou conventions pluriannuels (art. L313-11 à L313-12)](#118)
-          - [Section 4 : Contrôle (art. L313-13 à L313-20)](#119)
-          - [Section 5 : Dispositions pénales (art. L313-21 à L313-23)](#120)
-          - [Section 5 bis : Dispositions relatives à l'organisation du travail (art. L313-23-1 à L313-23-2)](#121)
-          - [Section 6 : Dispositions communes (art. L313-24 à L313-25)](#122)
-        - [Chapitre IV : Dispositions financières (art. L314-1 à L314-13)](#123)
-          - [Section 1 : Règles de compétences en matière tarifaire (art. L314-1 à L314-2)](#124)
-          - [Section 2 : Règles budgétaires et de financement (art. L314-3 à L314-9)](#125)
-          - [Section 3 : Dispositions diverses (art. L314-10 à L314-13)](#126)
-        - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public (art. L315-1 à L315-19)](#127)
-          - [Section 1 : Dispositions générales (art. L315-1 à L315-8)](#128)
-          - [Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique (art. L315-9 à L315-19)](#129)
-      - [Titre II : Etablissements soumis à déclaration (art. L321-1 à L322-9)](#130)
-        - [Chapitre Ier : Accueil de mineurs. (art. L321-1 à L321-4)](#131)
-        - [Chapitre II : Accueil d'adultes. (art. L322-1 à L322-9)](#132)
-      - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration (art. L331-1 à L331-9)](#133)
-        - [Chapitre unique. (art. L331-1 à L331-9)](#134)
-      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. L342-1 à L346-1)](#135)
-        - [Chapitre II : Hébergement de personnes âgées. (art. L342-1 à L342-6)](#136)
-        - [Chapitre III : Centres d'action médico-sociale précoce. (art. L343-1 à L343-2)](#137)
-        - [Chapitre IV : Centres pour handicapés adultes. (art. L344-1 à L344-7)](#138)
-        - [Chapitre V : Centres d'hébergement et de réinsertion sociale. (art. L345-1 à L345-4)](#139)
-        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. L346-1)](#140)
-      - [Titre V : Contentieux de la tarification sanitaire et sociale (art. L351-1 à L351-8)](#141)
-        - [Chapitre unique. (art. L351-1 à L351-8)](#142)
-    - [Livre IV : Professions et activités d'accueil (art. L411-1 à L451-4)](#143)
-      - [Titre Ier : Assistants de service social (art. L411-1 à L411-6)](#144)
-        - [Chapitre unique. (art. L411-1 à L411-6)](#145)
-      - [Titre II : Assistants maternels et assistants familiaux (art. L421-1 à L422-8)](#146)
-        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-18)](#147)
-        - [Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public. (art. L422-1 à L422-8)](#148)
-      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. L441-1 à L443-12)](#149)
-        - [Chapitre Ier : Accueillants familiaux et modalités d'agrément. (art. L441-1 à L441-4)](#150)
-        - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial. (art. L442-1)](#151)
-        - [Chapitre III : Dispositions communes. (art. L443-2 à L443-12)](#152)
-      - [Titre V : Formation des travailleurs sociaux (art. L451-1 à L451-4)](#153)
-        - [Chapitre Ier : Dispositions générales. (art. L451-1 à L451-4)](#154)
-    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. L511-1 à L581-1)](#155)
-      - [Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L511-1 à L512-2)](#156)
-        - [Chapitre Ier : Aide sociale communale (art. L511-1 à L511-10)](#157)
-        - [Chapitre II : Revenu minimum d'insertion. (art. L512-1 à L512-2)](#158)
-      - [Titre II : Départements d'outre-mer (art. L521-1 à L523-2)](#159)
-        - [Chapitre Ier : Dispositions générales. (art. L521-1)](#160)
-        - [Chapitre II : Revenu minimum d'insertion. (art. L522-1 à L522-18)](#161)
-        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. L523-1 à L523-2)](#162)
-          - [Section unique : Service d'accueil téléphonique. (art. L523-1 à L523-2)](#163)
-      - [Titre III : Saint-Pierre-et-Miquelon (art. L531-1 à L531-7)](#164)
-        - [Chapitre unique : Dispositions générales. (art. L531-1 à L531-7)](#165)
-      - [Titre IV : Mayotte (art. L540-1 à L545-6)](#166)
-        - [Chapitre préliminaire : Principes généraux. (art. L540-1)](#167)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L541-1 à L541-2)](#168)
-        - [Chapitre II : Aide sociale. (art. L542-1 à L542-9)](#169)
-        - [Chapitre III : Familles et aide sociale à l'enfance. (art. L543-1 à L543-14)](#170)
-        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption. (art. L544-1 à L544-4)](#171)
-        - [Chapitre V : Dispositions communes. (art. L545-1 à L545-6)](#172)
-      - [Titre V : Territoire des îles Wallis et Futuna (art. L551-1 à L552-5)](#173)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L551-1 à L551-2)](#174)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L552-1 à L552-5)](#175)
-      - [Titre VI : Polynésie française (art. L560-1 à L562-5)](#176)
-        - [Chapitre Ier A : Dispositions relatives à l'obligation alimentaire (art. L560-1 à L560-3)](#177)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L561-1 à L561-2)](#178)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L562-1 à L562-5)](#179)
-      - [Titre VII : Nouvelle-Calédonie (art. L571-1 à L572-5)](#180)
-        - [Chapitre Ier : Accès aux origines personnelles (art. L571-1 à L571-2)](#181)
-        - [Chapitre II : Statut des pupilles de l'Etat. (art. L572-1 à L572-5)](#182)
-      - [Titre VIII : Terres australes et antarctiques françaises (art. L581-1)](#183)
-        - [Chapitre unique : Principes généraux. (art. L581-1)](#184)
-  - [Partie réglementaire (art. D112-2 à R571-1)](#185)
-    - [Livre Ier : Dispositions générales (art. D112-2 à R14-10-31)](#186)
-      - [Titre Ier : Principes généraux (art. D112-2 à R115-4)](#187)
-        - [Chapitre II : Politique familiale (art. D112-2 à D112-7)](#188)
-          - [Section 1 : Dispositions générales. (art. D112-2 à R112-1)](#189)
-          - [Section 2 : Comité interministériel de l'enfance maltraitée. (art. D112-3 à D112-7)](#190)
-        - [Chapitre III : Personnes âgées (art. D113-1 à D113-6)](#191)
-        - [Chapitre IV : Personnes handicapées (art. R114-1 à R114-3)](#192)
-        - [Chapitre V : Lutte contre la pauvreté et les exclusions (art. R115-1 à R115-4)](#193)
-          - [Section 1 : Dispositions générales. (art. R115-1)](#194)
-          - [Section 2 : Comité interministériel de lutte contre les exclusions. (art. R115-2 à R115-4)](#195)
-      - [Titre II : Compétences (art. R121-1 à R123-65)](#196)
-        - [Chapitre Ier : Collectivités publiques et organismes responsables (art. R121-1 à R121-12)](#197)
-          - [Section 1 : Départements. (art. R121-1)](#198)
-          - [Section 2 : Communes. (art. R121-2 à R121-12)](#199)
-        - [Chapitre III : Organisation administrative (art. R123-1 à R123-65)](#200)
-          - [Section 2 : Centre communal ou intercommunal d'action sociale (art. R123-1 à R123-65)](#201)
-            - [Sous-section 1 : Missions. (art. R123-1 à R123-6)](#202)
-            - [Sous-section 2 : Dispositions relatives au centre communal d'action sociale (art. R123-7 à R123-26)](#203)
-              - [Paragraphe 1 : Composition du conseil d'administration. (art. R123-7 à R123-15)](#204)
-              - [Paragraphe 2 : Fonctionnement du conseil d'administration. (art. R123-16 à R123-26)](#205)
-            - [Sous-section 3 : Dispositions relatives au centre intercommunal d'action sociale. (art. R123-27 à R123-30)](#206)
-            - [Sous-section 4 : Dispositions relatives aux sections des centres d'action sociale des communes associées. (art. R123-31 à R123-38)](#207)
-            - [Sous-section 5 : Dispositions relatives au centre d'action sociale de la ville de Paris (art. R123-39 à R123-61)](#208)
-              - [Paragraphe 1 : Dispositions générales. (art. R123-39 à R123-48)](#209)
-              - [Paragraphe 2 : Dispositions relatives aux sections d'arrondissement et aux autres services du centre d'action sociale. (art. R123-49 à R123-61)](#210)
-            - [Sous-section 6 : Dispositions particulières applicables aux centres communaux d'action sociale de Marseille et de Lyon (art. R123-62 à R123-65)](#211)
-              - [Paragraphe 1 : Marseille. (art. R123-62 à R123-63)](#212)
-              - [Paragraphe 2 : Lyon. (art. R123-64 à R123-65)](#213)
-      - [Titre III : Procédures (art. R131-1 à R134-12)](#214)
-        - [Chapitre Ier : Admission (art. R131-1 à R131-7)](#215)
-        - [Chapitre II : Participation et récupération (art. R132-1 à R132-16)](#216)
-          - [Section 1 : Appréciation des revenus des postulants. (art. R132-1)](#217)
-          - [Section 2 : Participation des personnes accueillies en établissement pour personnes âgées. (art. R132-2 à R132-7)](#218)
-          - [Section 3 : Participation des familles. (art. R132-8)](#219)
-          - [Section 4 : Mise en jeu de l'obligation alimentaire. (art. R132-9 à R132-10)](#220)
-          - [Section 5 : Recours en récupération. (art. R132-11 à R132-12)](#221)
-          - [Section 6 : Hypothèque légale. (art. R132-13 à R132-16)](#222)
-        - [Chapitre IV : Contentieux (art. R134-1 à R134-12)](#223)
-          - [Section 1 : Commission départementale. (art. R134-1 à R134-2)](#224)
-          - [Section 2 : Commission centrale d'aide sociale. (art. R134-3 à R134-9)](#225)
-          - [Section 3 : Dispositions communes. (art. R134-10 à R134-12)](#226)
-      - [Titre IV : Institutions (art. D*141-1 à R14-10-31)](#227)
-        - [Chapitre Ier : Haut Conseil de la population et de la famille. (art. D*141-1 à D*141-7)](#228)
-        - [Chapitre II : Conseil supérieur du travail social (art. D142-1)](#229)
-        - [Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale (art. D143-6 à R143-5)](#230)
-        - [Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale (art. R144-1 à R144-4)](#231)
-        - [Chapitre V : Coordination des interventions (art. R145-1 à R145-3)](#232)
-          - [Section 1 : Conventions entre les acteurs engagés dans la prévention et la lutte contre les exclusions. (art. R145-1 à R145-3)](#233)
-        - [Chapitre VI : Consultation des personnes handicapées (art. D146-1 à D146-15)](#234)
-          - [Section 1 : Conseil national consultatif des personnes handicapées (art. D146-1 à D146-9)](#235)
-          - [Section 2 : Conseil départemental consultatif des personnes handicapées (art. D146-10 à D146-15)](#236)
-        - [Chapitre VII : Conseil national pour l'accès aux origines personnelles (art. D147-11 à R147-33)](#237)
-          - [Section 1 : Composition et fonctionnement du conseil national pour l'accès aux origines personnelles (art. D147-11 à R147-20)](#238)
-          - [Section 2 : Information et accompagnement des mères de naissance (art. R147-21 à R147-24)](#239)
-          - [Section 3 : Conditions de traitement et de conservation des informations et renseignements nécessaires à l'accès aux origines personnelles (art. R147-25 à R147-33)](#240)
-        - [Chapitre VIII : Conseil supérieur de l'adoption et autorité centrale pour l'adoption internationale (art. D148-1 à R*148-10)](#241)
-          - [Section 1 : Conseil supérieur de l'adoption (art. D148-1 à D148-3)](#242)
-          - [Section 2 : Autorité centrale pour l'adoption internationale (art. R*148-4 à R*148-10)](#243)
-        - [Chapitre IX : Comité national et comités départementaux des retraités et des personnes âgées (art. D149-1 à D149-9)](#244)
-          - [Section 1 : Comité national des retraités et des personnes âgées (art. D149-1 à D149-6)](#245)
-          - [Section 2 : Comités départementaux des retraités et des personnes âgées. (art. D149-7 à D149-9)](#246)
-        - [Chapitre X : Caisse nationale de solidarité pour l'autonomie (art. R14-10-1 à R14-10-31)](#247)
-          - [Section 1 : Conseil (art. R14-10-1 à R14-10-14)](#248)
-            - [Sous-section 1 : Compétence (art. R14-10-1)](#249)
-            - [Sous-section 2 : Composition (art. R14-10-2 à R14-10-5)](#250)
-            - [Sous-section 3 : Fonctionnement (art. R14-10-6 à R14-10-14)](#251)
-          - [Section 2 : Directeur (art. R14-10-15 à R14-10-20)](#252)
-          - [Section 3 : Agent comptable (art. R14-10-21 à R14-10-22)](#253)
-          - [Section 4 : Conseil scientifique (art. R14-10-23 à R14-10-31)](#254)
-            - [Sous-section 1 : Composition (art. R14-10-23)](#255)
-            - [Sous-section 2 : Rôle et modalités de fonctionnement (art. R14-10-24 à R14-10-31)](#256)
-    - [Livre II : Différentes formes d'aide et d'action sociales (art. R211-1 à R263-2)](#257)
-      - [Titre Ier : Famille (art. R211-1 à R215-16)](#258)
-        - [Chapitre Ier : Associations familiales (art. R211-1 à R211-7)](#259)
-        - [Chapitre III : Education et conseil familial (art. R213-1)](#260)
-        - [Chapitre IV : Accueil des jeunes enfants (art. D214-1 à D214-6)](#261)
-        - [Chapitre V : Dispositions diverses en faveur des familles (art. D215-2 à R215-16)](#262)
-          - [Section 1 : Fête des mères (art. D215-2 à R215-1)](#263)
-          - [Section 2 : Carte nationale de priorité de la famille (art. R215-3 à R215-6)](#264)
-          - [Section 3 : Médaille de la famille (art. D215-7 à D215-13)](#265)
-          - [Section 4 : Dispositions pénales et sanctions. (art. R215-14 à R215-16)](#266)
-      - [Titre II : Enfance (art. R221-1 à R228-3)](#267)
-        - [Chapitre Ier : Service de l'aide sociale à l'enfance (art. R221-1 à R221-4)](#268)
-          - [Section 1 : Protection sociale de l'enfance en danger (art. R221-1 à R221-3)](#269)
-          - [Section 2 : Mesures d'assistance éducative (art. R221-4)](#270)
-        - [Chapitre II : Prestations d'aide sociale à l'enfance (art. R222-1 à R222-5)](#271)
-          - [Section 1 : Aide à domicile (art. R222-1 à R222-4)](#272)
-          - [Section 2 : Information des mères de naissance (art. R222-5)](#273)
-        - [Chapitre III : Droits des familles dans leurs rapports avec les services de l'aide sociale à l'enfance (art. R223-1 à R223-11)](#274)
-        - [Chapitre IV : Pupilles de l'Etat (art. R224-1 à R224-25)](#275)
-          - [Section 1 : Organes chargés de la tutelle (art. R224-1 à R224-25)](#276)
-            - [Sous-section 1 : Composition du conseil de famille. (art. R224-1 à R224-6)](#277)
-            - [Sous-section 2 : Fonctionnement du conseil de famille. (art. R224-7 à R224-11)](#278)
-            - [Sous-section 3 : Rôle du conseil de famille. (art. R224-12 à R224-25)](#279)
-        - [Chapitre V : Adoption (art. R225-1 à R225-46)](#280)
-          - [Section 1 : Adoption des pupilles de l'Etat (art. R225-1 à R225-11)](#281)
-            - [Sous-section 1 : Dispositions relatives à l'agrément (art. R225-1 à R225-8)](#282)
-            - [Sous-section 2 : Dispositions relatives à la commission d'agrément (art. R225-9 à R225-11)](#283)
-          - [Section 2 : Organismes autorisés et habilités pour l'adoption (art. R225-12 à R225-46)](#284)
-            - [Sous-section 1 : Missions des organismes (art. R225-12 à R225-14)](#285)
-            - [Sous-section 2 : Autorisation et déclaration de fonctionnement (art. R225-15 à R225-32)](#286)
-              - [Paragraphe 1 : Autorisation. (art. R225-15 à R225-21)](#287)
-              - [Paragraphe 2 : Déclaration. (art. R225-22 à R225-23)](#288)
-              - [Paragraphe 3 : Recueil d'enfants nés sur le territoire français. (art. R225-24 à R225-29)](#289)
-              - [Paragraphe 4 : Retrait d'autorisation et interdiction de fonctionnement. (art. R225-30 à R225-32)](#290)
-            - [Sous-section 3 : Habilitation (art. R225-33 à R225-39)](#291)
-            - [Sous-section 4 : Dispositions communes aux organismes autorisés et habilités (art. R225-40 à R225-46)](#292)
-        - [Chapitre VI : Protection des mineurs maltraités (art. D226-1 à R226-2)](#293)
-          - [Section 1 : Formation des professionnels (art. D226-1)](#294)
-          - [Section 2 : Service d'accueil téléphonique (art. R226-2)](#295)
-        - [Chapitre VII : Mineurs accueillis hors du domicile parental (art. R227-1 à R227-30)](#296)
-          - [Section 1 : Protection des mineurs à l'occasion des vacances scolaires, des congés professionnels et des loisirs (art. R227-1 à R227-22)](#297)
-            - [Sous-section unique : Dispositions générales (art. R227-1 à R227-22)](#298)
-              - [Paragraphe 1 : Dispositions relatives à l'hygiène et à la sécurité (art. R227-5 à R227-11)](#299)
-              - [Paragraphe 2 : Dispositions relatives à la qualification des personnes encadrant les mineurs dans les centres de vacances et les centres de loisirs (art. R227-12 à R227-22)](#300)
-          - [Section 2 : Projet éducatif (art. R227-23 à R227-26)](#301)
-          - [Section 3 : Obligation d'assurance de responsabilité civile relative aux accueils de mineurs (art. R227-27 à R227-30)](#302)
-        - [Chapitre VIII : Dispositions financières (art. R228-1 à R228-3)](#303)
-          - [Section unique : Contribution à la prise en charge par l'aide sociale à l'enfance (art. R228-1 à R228-3)](#304)
-      - [Titre III : Personnes âgées (art. R231-1 à R232-61)](#305)
-        - [Chapitre Ier : Aide à domicile et placement (art. R231-1 à R231-6)](#306)
-        - [Chapitre II : Allocation personnalisée d'autonomie (art. R232-1 à R232-61)](#307)
-          - [Section 1 : Allocation personnalisée d'autonomie et qualité des services rendus aux personnes âgées (art. R232-1 à D232-22)](#308)
-            - [Sous-section 1 : Conditions générales d'attribution de l'allocation personnalisée d'autonomie (art. R232-1 à R232-6)](#309)
-            - [Sous-section 2 : Allocation personnalisée d'autonomie à domicile (art. R232-7 à R232-17)](#310)
-              - [Paragraphe 1 : Procédure d'instruction et modalités d'élaboration du plan d'aide (art. R232-7 à R232-9)](#311)
-              - [Paragraphe 2 : Montant de l'allocation (art. R232-10 à R232-11)](#312)
-              - [Paragraphe 3 : Dispositions particulières visant à la qualité du service rendu (art. R232-12 à R232-14)](#313)
-              - [Paragraphe 4 : Contrôle d'effectivité et suspension de l'aide (art. R232-15 à R232-17)](#314)
-            - [Sous-section 3 : Allocation personnalisée d'autonomie en établissement (art. R232-18 à D232-22)](#315)
-              - [Paragraphe 1 : Dispositions générales (art. R232-18 à R232-19)](#316)
-              - [Paragraphe 2 : Dispositions particulières relatives à certains établissements (art. D232-20 à D232-22)](#317)
-          - [Section 2 : Gestion de l'allocation personnalisée d'autonomie (art. R232-23 à R232-39)](#318)
-            - [Sous-section 1 : Instruction des demandes (art. R232-23 à D232-26)](#319)
-              - [Paragraphe 1 : Constitution du dossier de demande (art. R232-23 à R232-24)](#320)
-              - [Paragraphe 2 : Commission de proposition et de conciliation (art. D232-25 à D232-26)](#321)
-            - [Sous-section 2 : Décision d'attribution (art. R232-27 à R232-29)](#322)
-            - [Sous-section 3 : Versement de l'allocation personnalisée d'autonomie (art. D232-31 à R232-34)](#323)
-              - [Paragraphe 1 : Dispositions communes (art. D232-31 à R232-32)](#324)
-              - [Paragraphe 2 : Dispositions particulières à l'allocation à domicile (art. D232-33)](#325)
-              - [Paragraphe 3 : Dispositions particulières à l'allocation en établissement (art. D232-35 à R232-34)](#326)
-            - [Sous-section 4 : Dispositions diverses (art. D232-36 à R232-39)](#327)
-              - [Paragraphe 1 : Le comité scientifique. (art. D232-36 à D232-37)](#328)
-              - [Paragraphe 2 : Système d'information (art. R232-38)](#329)
-              - [Paragraphe 3 : Agrément des organismes pour l'élection de domicile. (art. R232-39)](#330)
-          - [Section 3 : Financement de l'allocation personnalisée d'autonomie (art. R232-40 à R232-57)](#331)
-            - [Sous-section 1 : Organisation et gestion du fonds de financement de l'allocation personnalisée d'autonomie. (art. R232-40 à R232-50)](#332)
-            - [Sous-section 2 : Dispositions financières relatives à l'allocation personnalisée d'autonomie (art. R232-51 à R232-57)](#333)
-          - [Section 4 : Dispositions communes (art. R232-58 à R232-61)](#334)
-      - [Titre IV : Personnes handicapées (art. R241-1 à R245-20)](#335)
-        - [Chapitre Ier : Dispositions générales (art. R241-1 à R241-23)](#336)
-          - [Section 1 : Prestations (art. R241-1 à R241-3)](#337)
-          - [Section 2 : Allocation différentielle (art. R241-4 à R241-11)](#338)
-          - [Section 3 : Carte d'invalidité. (art. R241-12 à R241-15)](#339)
-          - [Section 4 : Macaron "Grand Invalide civil". (art. R241-16 à R241-20)](#340)
-          - [Section 5 : Dispositions pénales (art. R241-21 à R241-23)](#341)
-        - [Chapitre II : Education spéciale (art. R242-1 à R242-18)](#342)
-          - [Section 1 : Commission d'éducation spéciale (art. R242-1 à R242-13)](#343)
-            - [Sous-section 1 : Composition et fonctionnement. (art. R242-1 à R242-5)](#344)
-            - [Sous-section 2 : Commissions de circonscription. (art. R242-6 à R242-13)](#345)
-          - [Section 2 : Prise en charge. (art. D242-14 à R242-15)](#346)
-          - [Section 3 : Allocation d'éducation spéciale. (art. R242-16)](#347)
-          - [Section 4 : Dispositions communes. (art. R242-17 à R242-18)](#348)
-        - [Chapitre III : Travailleurs handicapés (art. R243-1 à R243-17)](#349)
-          - [Section 1 : Commission technique d'orientation et de reclassement professionnel. (art. R243-1 à R243-4)](#350)
-          - [Section 2 : Dispositions favorisant le travail (art. R243-5 à D243-16)](#351)
-            - [Sous-section 1 : Dispositions générales. (art. R243-5)](#352)
-            - [Sous-section 2 : Garantie de ressources. (art. R243-6 à R243-13)](#353)
-            - [Sous-section 3 : Bonifications. (art. D243-14 à D243-16)](#354)
-          - [Section 3 : Participation de l'Etat au paiement des accessoires de salaire. (art. R243-17)](#355)
-        - [Chapitre IV : Allocation aux adultes handicapés (art. R244-1)](#356)
-        - [Chapitre V : Allocation compensatrice (art. D245-1 à R245-20)](#357)
-          - [Section 1 : Dispositions générales. (art. D245-1 à D245-2)](#358)
-          - [Section 2 : Allocation compensatrice attribuée au titre de la tierce personne. (art. R245-3 à R245-10)](#359)
-          - [Section 3 : Allocation compensatrice attribuée au titre d'une activité professionnelle. (art. R245-11)](#360)
-          - [Section 4 : Dispositions communes. (art. R245-12 à R245-14)](#361)
-          - [Section 5 : Procédure d'attribution. (art. R245-15 à R245-20)](#362)
-      - [Titre VI : Lutte contre la pauvreté et les exclusions (art. R261-1 à R263-2)](#363)
-        - [Chapitre Ier : Logement (art. R261-1 à R261-3)](#364)
-          - [Section 2 : Fourniture d'eau et d'énergie (art. R261-1 à R261-2)](#365)
-            - [Sous-section 1 : Electricité (art. R261-1)](#366)
-              - [Paragraphe 1 : Aide au paiement des factures impayées. (art. R261-1)](#367)
-            - [Sous-section 2 : Gaz. (art. R261-2)](#368)
-          - [Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées. (art. R261-3)](#369)
-        - [Chapitre II : Revenu minimum d'insertion (art. R262-1 à R262-87)](#370)
-          - [Section 1 : Dispositions générales (art. R262-1 à R262-2)](#371)
-          - [Section 2 : Conditions d'ouverture du droit à l'allocation (art. R262-3 à R262-22)](#372)
-            - [Sous-section 1 : Détermination des ressources. (art. R262-3 à R262-13)](#373)
-            - [Sous-section 2 : Dispositions propres aux ressources professionnelles des non-salariés (art. R262-14 à R262-22)](#374)
-              - [Paragraphe 1 : Conditions d'accès à l'allocation. (art. R262-14 à R262-16)](#375)
-              - [Paragraphe 2 : Evaluation des revenus professionnels non salariés. (art. R262-17 à R262-22)](#376)
-          - [Section 3 : Attribution de l'allocation (art. R262-23 à D262-71)](#377)
-            - [Sous-section 1 : Agrément pour le recueil des demandes d'allocation. (art. R262-23 à R262-27)](#378)
-            - [Sous-section 2 : Agrément pour la réception des déclarations d'élection de domicile. (art. R262-28 à R262-35)](#379)
-            - [Sous-section 3 : Liquidation, versement et révision de l'allocation. (art. D262-40 à R262-44)](#380)
-            - [Sous-section 4 : Suspension ou réduction de l'allocation. (art. R262-45 à R262-47)](#381)
-            - [Sous-section 5 : Contrôle. (art. D262-49 à R262-48)](#382)
-            - [Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés. (art. R262-50 à R262-58)](#383)
-            - [Sous-section 7 : Conventions conclues entre le département et les organismes payeurs (art. D262-59 à D262-71)](#384)
-              - [Paragraphe 1 : Missions exercées par les organismes payeurs à titre gratuit. (art. D262-59 à D262-62)](#385)
-              - [Paragraphe 2 : Autres missions pouvant être exercées par les organismes payeurs. (art. D262-63 à D262-66)](#386)
-              - [Paragraphe 3 : Relations financières entre l'organisme payeur et le département. (art. D262-67)](#387)
-              - [Paragraphe 4 : Dispositions communes et transitoires. (art. D262-68 à D262-71)](#388)
-          - [Section 5 : Recours et récupération (art. R262-72 à R262-73)](#389)
-          - [Section 6 : Suivi statistique, évaluation et contrôle (art. D262-74 à R262-87)](#390)
-            - [Sous-section 1 : Informations relatives au revenu minimum d'insertion et au contrat insertion-revenu minimum d'activité. (art. D262-74 à R262-78)](#391)
-            - [Sous-section 2 : Informations relatives aux minima sociaux. (art. R262-83 à R262-87)](#392)
-        - [Chapitre III : Actions d'insertion (art. R263-1 à R263-2)](#393)
-          - [Section 1 : Dispositif départemental d'insertion (art. R263-1)](#394)
-          - [Section 4 : Personnes bénéficiaires de l'allocation de parent isolé (art. R263-2)](#395)
-    - [Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services (art. D311 à R351-41)](#396)
-      - [Titre Ier : Etablissements et services soumis à autorisation (art. D311 à D316-4)](#397)
-        - [Chapitre Ier : Dispositions générales (art. D311 à R311-37)](#398)
-          - [Section 1 : Missions (art. D311)](#399)
-          - [Section 2 : Droit des usagers (art. R311-1 à R311-37)](#400)
-            - [Sous-section 2 : Personne qualifiée. (art. R311-1 à R311-2)](#401)
-            - [Sous-section 3 : Conseil de la vie sociale et autres formes de participation (art. D311-3 à D311-32-1)](#402)
-              - [Paragraphe 1 : Dispositions générales. (art. D311-3)](#403)
-              - [Paragraphe 2 : Composition et fonctionnement. (art. D311-4 à D311-20)](#404)
-              - [Paragraphe 3 : Autres formes de participation. (art. D311-21 à D311-25)](#405)
-              - [Paragraphe 4 : Dispositions communes. (art. D311-26 à D311-32-1)](#406)
-            - [Sous-section 4 : Règlement de fonctionnement. (art. R311-33 à R311-37)](#407)
-        - [Chapitre II : Organisation de l'action sociale et médico-sociale (art. D312-1 à R312-202)](#408)
-          - [Section 1 : Etablissements et services sociaux et médico-sociaux (art. D312-1 à D312-176)](#409)
-            - [Sous-section 1 : Prestations délivrées (art. D312-1 à D312-10)](#410)
-              - [Paragraphe 1er : Services d'assistance à domicile (art. D312-1 à D312-7-1)](#411)
-                - [Sous-paragraphe 1er : Services de soins infirmiers à domicile. (art. D312-1 à D312-5-1)](#412)
-                - [Sous-paragraphe 2 : Services d'aide et d'accompagnement à domicile. (art. D312-6)](#413)
-                - [Sous-paragraphe 3 : Services polyvalents d'aide et de soins à domicile. (art. D312-7)](#414)
-                - [Sous-paragraphe 4 : Dispositions communes. (art. D312-7-1)](#415)
-              - [Paragraphe 2 : Accueil temporaire. (art. D312-8 à D312-10)](#416)
-            - [Sous-section 2 : Conditions techniques minimales d'organisation et de fonctionnement des établissements (art. D312-11 à D312-176)](#417)
-              - [Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles (art. D312-11 à D312-59)](#418)
-                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-11 à D312-14)](#419)
-                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-15 à D312-19)](#420)
-                - [Sous-paragraphe 3 : Personnels. (art. D312-20 à D312-26)](#421)
-                - [Sous-paragraphe 4 : Installations. (art. D312-27 à D312-33)](#422)
-                - [Sous-paragraphe 5 : Fonctionnement de l'établissement. (art. D312-34 à D312-40)](#423)
-                - [Sous-paragraphe 6 : Centres d'accueil familial spécialisé. (art. D312-41 à D312-54)](#424)
-                - [Sous-paragraphe 7 : Services d'éducation spéciale et de soins à domicile. (art. D312-55 à D312-59)](#425)
-              - [Paragraphe 1 bis : Les instituts thérapeutiques, éducatifs et pédagogiques (art. D312-59-1 à D312-59-18)](#426)
-                - [Sous-paragraphe 1 : Dispositions générales (art. D312-59-1 à D312-59-3)](#427)
-                - [Sous-paragraphe 2 : Organisation de l'établissement (art. D312-59-4 à D312-59-6)](#428)
-                - [Sous-paragraphe 3 : Les personnels (art. D312-59-7 à D312-59-13)](#429)
-                - [Sous-paragraphe 4 : Fonctionnement de l'établissement (art. D312-59-14 à D312-59-16)](#430)
-                - [Sous-paragraphe 5 : Des installations (art. D312-59-17)](#431)
-                - [Sous-paragraphe 6 : Dispositions transitoires (art. D312-59-18)](#432)
-              - [Paragraphe 2 : Etablissements et services prenant en charge des enfants ou adolescents présentant une déficience motrice (art. D312-60 à D312-82)](#433)
-                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-60 à D312-63)](#434)
-                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-64 à D312-65)](#435)
-                - [Sous-paragraphe 3 : Personnels. (art. D312-66 à D312-69)](#436)
-                - [Sous-paragraphe 4 : Installation. (art. D312-70 à D312-74)](#437)
-                - [Sous-paragraphe 5 : Service d'éducation spéciale et de soins à domicile. (art. D312-75 à D312-79)](#438)
-                - [Sous-paragraphe 6 : Dispositions diverses. (art. D312-80 à D312-82)](#439)
-              - [Paragraphe 3 : Etablissements et services prenant en charge des enfants ou adolescents polyhandicapés (art. D312-83 à D312-97)](#440)
-                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-83 à D312-85)](#441)
-                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-86 à D312-87)](#442)
-                - [Sous-paragraphe 3 : Les personnels. (art. D312-88 à D312-89)](#443)
-                - [Sous-paragraphe 4 : Installations. (art. D312-90 à D312-94)](#444)
-                - [Sous-paragraphe 5 : Services de soins et d'aide à domicile. (art. D312-95 à D312-97)](#445)
-              - [Paragraphe 4 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience auditive grave. (art. D312-98 à D312-110)](#446)
-              - [Paragraphe 5 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience visuelle grave ou de cécité. (art. D312-111 à D312-122)](#447)
-              - [Paragraphe 6 : Pouponnières à caractère social (art. D312-123 à D312-152)](#448)
-                - [Sous-paragraphe 1 : Locaux. (art. D312-123 à D312-136)](#449)
-                - [Sous-paragraphe 2 : Admission et surveillance des enfants. (art. D312-137 à D312-145)](#450)
-                - [Sous-paragraphe 3 : Personnel. (art. D312-146 à D312-150)](#451)
-                - [Sous-paragraphe 4 : Mesures administratives. (art. D312-151 à D312-152)](#452)
-              - [Paragraphe 7 : Centres spécialisés de soins aux toxicomanes. (art. D312-153)](#453)
-              - [Paragraphe 8 : Appartements de coordination thérapeutique. (art. D312-154 à D312-155)](#454)
-              - [Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes (art. D312-155-1 à D312-161)](#455)
-              - [Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés (art. D312-162 à D312-176)](#456)
-                - [Sous-paragraphe 1 : Services d'accompagnement à la vie sociale (art. D312-162 à D312-165)](#457)
-                - [Sous-paragraphe 2 : Les services d'accompagnement médico-social pour adultes handicapés (art. D312-166 à D312-169)](#458)
-                - [Sous-paragraphe 3 : Dispositions communes (art. D312-170 à D312-176)](#459)
-          - [Section 2 : Organismes consultatifs (art. R312-177 à R312-192)](#460)
-            - [Sous-section 1 : Section sociale du Comité national de l'organisation sanitaire et sociale (art. R312-177 à R312-179)](#461)
-            - [Sous-section 2 : Comités régionaux de l'organisation sociale et médico-sociale (art. R312-180 à R312-192)](#462)
-              - [Paragraphe 1 : Composition du comité régional de l'organisation sociale et médico-sociale. (art. R312-180 à R312-184)](#463)
-              - [Paragraphe 2 : Fonctionnement du comité. (art. R312-185 à R312-192)](#464)
-          - [Section 3 : Schémas d'organisation sociale et médico-sociale (art. D312-193 à D312-194)](#465)
-            - [Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale (art. D312-193 à D312-194)](#466)
-          - [Section 5 : Evaluation et systèmes d'information (art. R312-195 à R312-202)](#467)
-            - [Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale. (art. R312-195 à R312-202)](#468)
-        - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. R313-1 à D313-27)](#469)
-          - [Section 1 : Autorisation de création, d'extension ou de transformation (art. R313-1 à D313-14)](#470)
-            - [Sous-section 1 : Dispositions générales. (art. R313-1 à R313-10)](#471)
-            - [Sous-section 2 : Contrôle de conformité des établissements. (art. D313-11 à D313-14)](#472)
-          - [Section 3 : Contrats ou conventions pluriannuels (art. D313-15 à D313-24)](#473)
-            - [Sous-section 1 : Modalités de tarification des établissements mentionnés au I de l'article L. 313-12. (art. D313-15)](#474)
-            - [Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12. (art. D313-16 à D313-24)](#475)
-          - [Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux. (art. D313-25 à D313-27)](#476)
-        - [Chapitre IV : Dispositions financières (art. R314-1 à R314-204)](#477)
-          - [Section 1 : Règles de compétences en matière tarifaire. (art. R314-3)](#478)
-          - [Section 2 : Règles budgétaires de financement (art. R314-4 à R314-203)](#479)
-            - [Sous-section 1 : Dispositions générales relatives à la comptabilité, au budget et à la tarification (art. R314-4 à R314-63)](#480)
-              - [Paragraphe 1 : Principes comptables et budgétaires généraux. (art. R314-4 à R314-8)](#481)
-              - [Paragraphe 2 : Présentation budgétaire. (art. R314-9 à R314-13)](#482)
-              - [Paragraphe 3 : Fixation du tarif (art. R314-14 à R314-43)](#483)
-                - [Sous-paragraphe 1 : Etablissement des propositions budgétaires. (art. R314-14 à R314-20)](#484)
-                - [Sous-paragraphe 2 : Transmission des propositions budgétaires et procédure contradictoire. (art. R314-21 à R314-25)](#485)
-                - [Sous-paragraphe 3 : Dépenses pouvant être prises en charge (art. R314-26 à R314-27)](#486)
-                - [Sous-paragraphe 4 : Tableaux de bord. (art. R314-28 à R314-33)](#487)
-                - [Sous-paragraphe 5 : Décision d'autorisation budgétaire et de tarification. (art. R314-34 à R314-38)](#488)
-                - [Sous-paragraphe 6 : Fixation pluriannuelle du budget. (art. R314-39 à R314-43)](#489)
-              - [Paragraphe 4 : Exécution du budget (art. R314-44 à R314-55)](#490)
-                - [Sous-paragraphe 1 : Modifications budgétaires et gestion financière en cours d'exercice. (art. R314-44 à R314-48)](#491)
-                - [Sous-paragraphe 2 : Compte administratif de clôture. (art. R314-49 à R314-55)](#492)
-              - [Paragraphe 5 : Contrôle et évaluation (art. R314-56 à R314-62)](#493)
-                - [Sous-paragraphe 1 : Obligations des établissements et services. (art. R314-56 à R314-60)](#494)
-                - [Sous-paragraphe 2 : Opérations d'évaluation et de contrôle (art. R314-61 à R314-62)](#495)
-              - [Paragraphe 6 : Contentieux. (art. R314-63)](#496)
-            - [Sous-section 2 : Règles comptables et budgétaires applicables aux différentes catégories d'organismes gestionnaires (art. R314-64 à R314-104)](#497)
-              - [Paragraphe 1 : Règles applicables aux établissements publics sociaux et médico-sociaux (art. R314-64 à R314-74)](#498)
-                - [Sous-paragraphe 1 : Champ d'application et règles budgétaires générales. (art. R314-64 à R314-65)](#499)
-                - [Sous-paragraphe 2 : Directeur et comptable de l'établissement public. (art. R314-66 à R314-67)](#500)
-                - [Sous-paragraphe 3 : Exécution du budget. (art. R314-68 à R314-74)](#501)
-              - [Paragraphe 2 : Règles applicables aux établissements publics de santé gérant une activité sociale ou médico-sociale. (art. R314-75 à R314-77)](#502)
-              - [Paragraphe 3 : Règles applicables aux établissements sociaux et médico-sociaux gérés par d'autres personnes morales de droit public. (art. R314-78 à R314-79)](#503)
-              - [Paragraphe 4 : Règles applicables aux établissements et services gérés par des personnes morales de droit privé à but non lucratif (art. R314-80 à R314-100)](#504)
-                - [Sous-paragraphe 1 : Champ d'application et principes budgétaires et comptables. (art. R314-80 à R314-84)](#505)
-                - [Sous-paragraphe 2 : Dépenses autorisées. (art. R314-85 à R314-86)](#506)
-                - [Sous-paragraphe 3 : Frais de siège. (art. R314-87 à R314-94)](#507)
-                - [Sous-paragraphe 4 : Gestion financière. (art. R314-95 à R314-96)](#508)
-                - [Sous-paragraphe 5 : Fermeture de l'établissement ou du service. (art. R314-97 à R314-98)](#509)
-                - [Sous-paragraphe 6 : Contrôle et évaluation. (art. R314-99 à R314-100)](#510)
-              - [Paragraphe 5 : Règles applicables aux établissements et services gérés par des organismes à but lucratif ou non habilités à recevoir des bénéficiaires de l'aide sociale. (art. R314-101 à R314-104)](#511)
-            - [Sous-section 3 : Principes de financement et modalités de versement (art. R314-105 à R314-117)](#512)
-              - [Paragraphe 1 : Financement des établissements et services (art. R314-105)](#513)
-              - [Paragraphe 2 : Modalités de financement (art. R314-106 à R314-117)](#514)
-                - [Sous-paragraphe 1 : Dotation globale de financement. (art. R314-106 à R314-110)](#515)
-                - [Sous-paragraphe 2 : Dispositions propres aux dotations globales et forfaits globaux de soins relevant de l'assurance maladie. (art. R314-111 à R314-112)](#516)
-                - [Sous-paragraphe 3 : Prix de journée. (art. R314-113 à R314-114)](#517)
-                - [Sous-paragraphe 4 : Prix de journée globalisés. (art. R314-115 à R314-117)](#518)
-            - [Sous-section 4 : Dispositions propres à certaines catégories d'établissements (art. R314-118 à R314-196)](#519)
-              - [Paragraphe 1 : Etablissements et services accueillant des mineurs et jeunes adultes handicapés. (art. R314-118 à R314-122)](#520)
-              - [Paragraphe 2 : Centres d'action médico-sociale précoce. (art. R314-123 à R314-124)](#521)
-              - [Paragraphe 3 : Etablissements et services accueillant des mineurs ou des majeurs de moins de vingt et un ans confiés par l'autorité judiciaire. (art. R314-125 à R314-127)](#522)
-              - [Paragraphe 4 : Centres d'aide par le travail. (art. R314-128 à R314-129)](#523)
-              - [Paragraphe 5 : Services d'aide à domicile. (art. R314-130 à R314-136)](#524)
-              - [Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes. (art. R314-137 à R314-139)](#525)
-              - [Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées. (art. R314-140 à R314-146)](#526)
-              - [Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés. (art. R314-147 à R314-149)](#527)
-              - [Paragraphe 9 : Centres d'hébergement et de réinsertion sociale. (art. R314-150 à R314-157)](#528)
-              - [Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes (art. R314-158 à R314-193)](#529)
-                - [Sous-paragraphe 1 : Principes généraux de la tarification (art. R314-158 à R314-161)](#530)
-                - [Sous-paragraphe 2 : Modalités de détermination et de calcul des tarifs (art. R314-162 à R314-193)](#531)
-                  - [1  Structure tarifaire des établissements. (art. R314-162 à R314-166)](#532)
-                  - [2  Dispositions relatives aux prestations de soins. (art. R314-167 à R314-169)](#533)
-                  - [3  Evaluation du degré de dépendance des personnes hébergées dans les établissements. (art. R314-170 à R314-179)](#534)
-                  - [4  Tarifs journaliers afférents à l'hébergement et à la dépendance. (art. R314-180 à R314-184)](#535)
-                  - [5  Tarifs journaliers afférents aux soins et dotation globale de financement relative aux soins. (art. R314-185 à R314-186)](#536)
-                  - [6  Dispositions diverses. (art. R314-187 à R314-193)](#537)
-              - [Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services (art. R314-194 à R314-196)](#538)
-                - [Sous-paragraphe 1 : Accueil temporaire. (art. R314-194)](#539)
-                - [Sous-paragraphe 2 : Dispositions diverses. (art. R314-195 à R314-196)](#540)
-            - [Sous-section 5 : Dispositions relatives à la réglementation du travail (art. R314-197 à R314-203)](#541)
-              - [Paragraphe 1 : Conventions collectives et accords de retraite. (art. R314-197 à R314-200)](#542)
-              - [Paragraphe 2 : Durée du travail. (art. R314-201 à R314-203)](#543)
-          - [Section 3 : Dispositions diverses (art. R314-204)](#544)
-        - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public (art. R315-1 à D315-71)](#545)
-          - [Section 1 : Dispositions générales (art. R315-1 à R315-5)](#546)
-          - [Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique (art. R315-6 à D315-71)](#547)
-            - [Sous-section 1 : Composition et fonctionnement des conseils d'administration. (art. R315-6 à R315-23-5)](#548)
-            - [Sous-section 2 : Dispositions relatives au personnel. (art. R315-24 à R315-26)](#549)
-            - [Sous-section 3 : Modalités de concertation (art. R315-27 à R315-66)](#550)
-              - [Paragraphe 1 : Modalités de constitution des comités techniques d'établissement. (art. R315-27 à R315-50)](#551)
-              - [Paragraphe 2 : Attributions des comités techniques d'établissement. (art. R315-51)](#552)
-              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement. (art. D315-64 à R315-63)](#553)
-              - [Paragraphe 4 : Moyens de fonctionnement. (art. R315-65 à R315-66)](#554)
-            - [Sous-section 4 : Délégations. (art. D315-67 à D315-71)](#555)
-        - [Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation (art. D316-1 à D316-4)](#556)
-          - [Section unique : Lieux de vie et d'accueil (art. D316-1 à D316-4)](#557)
-      - [Titre II : Etablissements soumis à déclaration (art. R321-1 à R322-7)](#558)
-        - [Chapitre Ier : Accueil de mineurs. (art. R321-1 à R321-9)](#559)
-        - [Chapitre II : Accueil d'adultes. (art. R322-1 à R322-7)](#560)
-      - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration (art. D331-1 à R331-6)](#561)
-        - [Chapitre unique (art. D331-1 à R331-6)](#562)
-          - [Section 1 : Conseil départemental de l'enfance. (art. D331-1 à D331-4)](#563)
-          - [Section 2 : Surveillance des établissements. (art. R331-5)](#564)
-          - [Section 3 : Fermeture des établissements. (art. R331-6)](#565)
-      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. D341-1 à R346-1)](#566)
-        - [Chapitre Ier : Pouponnières. (art. D341-1 à D341-7)](#567)
-        - [Chapitre II : Hébergement de personnes âgées. (art. R342-1)](#568)
-        - [Chapitre IV : Centres pour handicapés adultes (art. R344-1 à D344-39)](#569)
-          - [Section 1 : Maisons d'accueil spécialisées. (art. R344-1 à R344-3)](#570)
-          - [Section 2 : Centres d'aide par le travail (art. R344-6 à D344-28)](#571)
-            - [Sous-section 1 : Dispositions générales. (art. R344-6 à R344-19)](#572)
-            - [Sous-section 2 : Exercice d'une activité extérieure. (art. D344-20 à D344-28)](#573)
-          - [Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes (art. R344-29 à D344-39)](#574)
-            - [Sous-section 1 : Contribution aux frais d'hébergement et d'entretien (art. R344-29 à R344-33)](#575)
-            - [Sous-section 2 : Minimum de ressources (art. D344-34 à D344-39)](#576)
-        - [Chapitre V : Centres d'hébergement et de réinsertion sociale (art. R345-1 à R345-7)](#577)
-          - [Section 1 : Activités et organisation (art. R345-1 à R345-3)](#578)
-          - [Section 2 : Accueil et séjour (art. R345-4 à R345-7)](#579)
-        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. R346-1)](#580)
-      - [Titre V : Contentieux de la tarification sanitaire et sociale (art. R351-1 à R351-41)](#581)
-        - [Chapitre unique (art. R351-1 à R351-41)](#582)
-          - [Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale (art. R351-1 à R351-14)](#583)
-            - [Sous-section 1 : Cour nationale de la tarification sanitaire et sociale. (art. R351-1 à R351-6)](#584)
-            - [Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale. (art. R351-7 à R351-14)](#585)
-          - [Section 2 : Règles de procédures applicables (art. R351-15 à R351-40)](#586)
-            - [Sous-section 1 : Introduction des recours. (art. R351-15 à R351-19)](#587)
-            - [Sous-section 2 : Instruction des recours et clôture de l'instruction. (art. R351-20 à R351-28)](#588)
-            - [Sous-section 3 : Séance de jugement et notification. (art. R351-29 à R351-37)](#589)
-            - [Sous-section 4 : Voies de recours. (art. R351-38 à R351-40)](#590)
-          - [Section 3 : Dispositions diverses. (art. R351-41)](#591)
-    - [Livre IV : Professions et activités d'accueil (art. R411-1 à R451-94)](#592)
-      - [Titre Ier : Assistants de service social (art. R411-1 à R411-3)](#593)
-        - [Chapitre unique. (art. R411-1 à R411-3)](#594)
-      - [Titre II : Assistants maternels (art. R421-1 à R422-21)](#595)
-        - [Chapitre Ier : Dispositions générales (art. R421-1 à R421-29)](#596)
-          - [Section 1 : Procédures d'agrément (art. R421-1 à R421-22)](#597)
-            - [Sous-section 1 : Conditions et modalités de délivrance de l'agrément. (art. R421-1 à R421-9)](#598)
-            - [Sous-section 2 : Renouvellement, suspension et retrait de l'agrément. (art. R421-10 à R421-13)](#599)
-            - [Sous-section 3 : Commission consultative paritaire départementale. (art. R421-14 à R421-22)](#600)
-          - [Section 2 : Modalités particulières relatives à l'activité. (art. R421-23 à R421-26)](#601)
-          - [Section 3 : Formation des assistants maternels. (art. D421-27)](#602)
-          - [Section 4 : Dispositions pénales. (art. R421-28 à R421-29)](#603)
-        - [Chapitre II : Assistants maternels employés par des personnes morales de droit public (art. R422-1 à R422-21)](#604)
-          - [Section 1 : Modalités de recrutement et conditions d'emploi. (art. D422-6 à R422-5)](#605)
-          - [Section 2 : Congés. (art. R422-8 à R422-19)](#606)
-          - [Section 3 : Discipline. (art. R422-20)](#607)
-          - [Section 4 : Licenciement. (art. R422-21)](#608)
-      - [Titre III : Autres professions (art. D431-1 à D431-3)](#609)
-        - [Chapitre unique : Techniciens de l'intervention sociale et familiale (art. D431-1 à D431-3)](#610)
-          - [Section unique : Exercice de la profession. (art. D431-1 à D431-3)](#611)
-      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. R441-1 à R442-1)](#612)
-        - [Chapitre Ier : Accueillants familiaux et modalités d'agrément (art. R441-1 à R441-15)](#613)
-          - [Section 1 : Modalités et délai d'instruction de la demande d'agrément. (art. R441-1 à R441-10)](#614)
-          - [Section 2 : Commission consultative de retrait. (art. R441-11 à R441-15)](#615)
-        - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial (art. D442-2 à R442-1)](#616)
-      - [Titre V : Formation des travailleurs sociaux (art. D451-5 à R451-94)](#617)
-        - [Chapitre unique : Dispositions générales (art. D451-5 à R451-94)](#618)
-          - [Section 1 : Etablissements de formation. (art. D451-5 à R451-4-3)](#619)
-          - [Section 2 : Bourses d'études. (art. D451-7)](#620)
-          - [Section 3 : Formations et diplômes (art. R451-11 à R451-94)](#621)
-            - [Sous-section 1 : Formations supérieures et diplômes d'encadrement (art. R451-11 à R451-28)](#622)
-              - [Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale. (art. R451-11 à R451-16)](#623)
-              - [Paragraphe 2 : Diplôme supérieur en travail social. (art. D451-17 à D451-19)](#624)
-              - [Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale. (art. R451-20 à R451-28)](#625)
-            - [Sous-section 2 : Formations et diplômes professionnels d'intervention sociale (art. D451-29 à R451-94)](#626)
-              - [Paragraphe 1 : Diplôme d'Etat d'assistant de service social. (art. D451-29 à R451-37)](#627)
-              - [Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé. (art. D451-41 à D451-46)](#628)
-              - [Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants. (art. D451-47 à D451-51)](#629)
-              - [Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé. (art. D451-52 à D451-56)](#630)
-              - [Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale. (art. D451-57)](#631)
-              - [Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation. (art. D451-58 à D451-65)](#632)
-              - [Paragraphe 7 : Diplôme d'Etat de médiateur familial. (art. R451-66 à R451-72)](#633)
-              - [Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur. (art. D451-73 à D451-80)](#634)
-              - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale. (art. D451-81 à D451-87)](#635)
-              - [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale. (art. R451-88 à R451-93)](#636)
-              - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique. (art. R451-94)](#637)
-    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. R521-1 à R571-1)](#638)
-      - [Titre II : Départements d'outre-mer (art. R521-1 à R523-1)](#639)
-        - [Chapitre Ier : Dispositions générales (art. R521-1 à R521-3)](#640)
-          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R521-1 à R521-2)](#641)
-          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R521-3)](#642)
-        - [Chapitre II : Revenu minimum d'insertion (art. R522-1 à R522-68)](#643)
-          - [Section 1 : Allocation (art. R522-1 à R522-3)](#644)
-          - [Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion (art. R522-4 à R522-7)](#645)
-          - [Section 3 : Agences d'insertion (art. R522-8 à R522-62)](#646)
-            - [Sous-section 1 : Organisation (art. R522-8 à R522-26)](#647)
-            - [Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale (art. R522-27 à R522-32)](#648)
-            - [Sous-section 3 : Dispositions financières et comptables (art. D522-35 à R522-39)](#649)
-            - [Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale (art. R522-40 à R522-55)](#650)
-            - [Sous-section 5 : Conventions avec les organismes utilisateurs (art. R522-56 à R522-62)](#651)
-          - [Section 4 : Revenu de solidarité (art. R522-63 à R522-68)](#652)
-        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. R523-1)](#653)
-          - [Section 2 : Aide à la famille (art. R523-1)](#654)
-      - [Titre III : Saint-Pierre-et-Miquelon (art. R531-1 à R533-1)](#655)
-        - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#656)
-          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R531-1)](#657)
-          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R531-2)](#658)
-        - [Chapitre II : Personnes handicapées (art. R532-1 à R532-5)](#659)
-        - [Chapitre IV : Adoption (art. R533-1)](#660)
-      - [Titre IV : Mayotte (art. R541-1 à R544-2)](#661)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R541-1)](#662)
-        - [Chapitre II : Aide sociale (art. D542-2 à R542-1)](#663)
-        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption (art. R544-1 à R544-2)](#664)
-          - [Section 1 : Organes chargés de la tutelle (art. R544-1)](#665)
-          - [Section 2 : Adoption (art. R544-2)](#666)
-            - [Sous-section 1 : Adoption des pupilles de l'Etat (art. R544-2)](#667)
-      - [Titre V : Territoire des Iles Wallis et Futuna (art. R551-1)](#668)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R551-1)](#669)
-      - [Titre VI : Polynésie française (art. R561-1)](#670)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R561-1)](#671)
-      - [Titre VII : Nouvelle-Calédonie (art. R571-1)](#672)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R571-1)](#673)
-  - [Annexe (art. Annexe 2-4 à Annexe 4-1)](#674)
+        - [Chapitre V : Dispositions pénales. (art. L135-1 à L135-2)](#27)
+      - [Titre IV : Institutions (art. L143-1 à L14-10-8)](#28)
+        - [Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale. (art. L143-1)](#29)
+        - [Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale. (art. L144-1)](#30)
+        - [Chapitre VI : Institutions relatives aux personnes handicapées. (art. L146-1 A à L146-13)](#31)
+          - [Section 1 : Consultation des personnes handicapées. (art. L146-1 à L146-2)](#32)
+          - [Section 2 : Maisons départementales des personnes handicapées. (art. L146-3 à L146-12)](#33)
+          - [Section 3 : Traitement amiable des litiges. (art. L146-13)](#34)
+        - [Chapitre VII : Conseil national pour l'accès aux origines personnelles (art. L147-1 à L147-11)](#35)
+        - [Chapitre VIII : Conseil supérieur de l'adoption et Autorité centrale pour l'adoption internationale (art. L148-1 à L148-2)](#36)
+        - [Chapitre IX : Comités départementaux des retraités et personnes âgées (art. L149-1)](#37)
+        - [Chapitre X : Caisse nationale de solidarité pour l'autonomie. (art. L14-10-1 à L14-10-8)](#38)
+    - [Livre II : Différentes formes d'aide et d'action sociales (art. L211-1 à L263-19)](#39)
+      - [Titre Ier : Famille (art. L211-1 à L215-3)](#40)
+        - [Chapitre Ier : Associations familiales. (art. L211-1 à L211-14)](#41)
+        - [Chapitre II : Aide sociale aux familles. (art. L212-1 à L212-2)](#42)
+        - [Chapitre III : Education et conseil familial. (art. L213-1 à L213-2)](#43)
+        - [Chapitre IV : Accueil des jeunes enfants. (art. L214-1 à L214-6)](#44)
+        - [Chapitre V : Dispositions diverses en faveur des familles. (art. L215-1 à L215-3)](#45)
+      - [Titre II : Enfance (art. L221-1 à L228-6)](#46)
+        - [Chapitre Ier : Service de l'aide sociale à l'enfance. (art. L221-1 à L221-9)](#47)
+        - [Chapitre II : Prestations d'aide sociale à l'enfance. (art. L222-1 à L222-7)](#48)
+        - [Chapitre III : Droits des familles dans leurs rapports avec les services de l'aide sociale à l'enfance. (art. L223-1 à L223-8)](#49)
+        - [Chapitre IV : Pupilles de l'Etat (art. L224-1 à L224-12)](#50)
+          - [Section 1 : Organes chargés de la tutelle. (art. L224-1 à L224-3)](#51)
+          - [Section 2 : Admission en qualité de pupille de l'Etat. (art. L224-4 à L224-8)](#52)
+          - [Section 3 : Statut des pupilles. (art. L224-9 à L224-11)](#53)
+          - [Section 4 : Dispositions communes. (art. L224-12)](#54)
+        - [Chapitre V : Adoption (art. L225-1 à L225-20)](#55)
+          - [Section 1 : Adoption des pupilles de l'Etat. (art. L225-1 à L225-10)](#56)
+          - [Section 2 : Organismes autorisés et habilités pour l'adoption. (art. L225-11 à L225-14-2)](#57)
+          - [Section 3 : Agence française de l'adoption. (art. L225-15 à L225-16)](#58)
+          - [Section 4 : Adoption internationale. (art. L225-17 à L225-20)](#59)
+        - [Chapitre VI : Protection des mineurs maltraités. (art. L226-1 à L226-13)](#60)
+        - [Chapitre VII : Mineurs accueillis hors du domicile parental. (art. L227-1 à L227-12)](#61)
+        - [Chapitre VIII : Dispositions financières. (art. L228-1 à L228-6)](#62)
+      - [Titre III : Personnes âgées (art. L231-1 à L232-28)](#63)
+        - [Chapitre Ier : Aide à domicile et placement. (art. L231-1 à L231-6)](#64)
+        - [Chapitre II : Allocation personnalisée d'autonomie (art. L232-1 à L232-28)](#65)
+          - [Section 1 : Allocation personnalisée d'autonomie et qualité des services aux personnes âgées. (art. L232-1 à L232-11)](#66)
+            - [Sous-section 1 : Prise en charge et allocation personnalisée d'autonomie à domicile (art. L232-3 à L232-7)](#67)
+            - [Sous-section 2 : Allocation personnalisée d'autonomie en établissement (art. L232-8 à L232-11)](#68)
+          - [Section 2 : Gestion de l'allocation personnalisée d'autonomie (art. L232-12 à L232-20)](#69)
+          - [Section 4 : Dispositions communes. (art. L232-22 à L232-28)](#70)
+      - [Titre IV : Personnes handicapées (art. L241-1 à L248-1)](#71)
+        - [Chapitre Ier : Dispositions générales. (art. L241-1 à L241-4)](#72)
+        - [Chapitre Ier bis : Commission des droits et de l'autonomie des personnes handicapées. (art. L241-5 à L241-11)](#73)
+        - [Chapitre II : Enfance et adolescence handicapées (art. L242-1 à L242-14)](#74)
+          - [Section 1 : Scolarité et accompagnement des enfants et des adolescents handicapés. (art. L242-1 à L242-13)](#75)
+          - [Section 2 : Allocation d'éducation de l'enfant handicapé. (art. L242-14)](#76)
+        - [Chapitre III : Travailleurs handicapés (art. L243-4 à L243-7)](#77)
+        - [Chapitre IV : Allocation aux adultes handicapés. (art. L244-1)](#78)
+        - [Chapitre V : Prestation de compensation. (art. L245-1 à L245-14)](#79)
+        - [Chapitre VI : Personnes atteintes de syndrome autistique et personnes atteintes de polyhandicap. (art. L246-1)](#80)
+        - [Chapitre VII : Gestion et suivi statistique (art. L247-1 à L247-7)](#81)
+        - [Chapitre VIII : Formation des aidants familiaux (art. L248-1)](#82)
+      - [Titre V : Personnes non bénéficiaires de la couverture maladie universelle (art. L251-1 à L254-2)](#83)
+        - [Chapitre Ier : Droit à l'aide médicale de l'Etat. (art. L251-1 à L251-3)](#84)
+        - [Chapitre II : Modalités d'admission. (art. L252-1 à L252-5)](#85)
+        - [Chapitre III : Dispositions financières. (art. L253-1 à L253-4)](#86)
+        - [Chapitre IV : Prise en charge des soins urgents (art. L254-1 à L254-2)](#87)
+      - [Titre VI : Lutte contre la pauvreté et les exclusions (art. L261-1 à L263-19)](#88)
+        - [Chapitre Ier : Logement (art. L261-1 à L261-6)](#89)
+          - [Section 1 : Aides générales au logement. (art. L261-1 à L261-3)](#90)
+          - [Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées. (art. L261-5 à L261-6)](#91)
+        - [Chapitre II : Revenu minimum d'insertion (art. L262-1 à L262-55)](#92)
+          - [Section 1 : Dispositions générales (art. L262-1 à L262-6-1)](#93)
+          - [Section 2 : Conditions d'ouverture du droit à l'allocation. (art. L262-7 à L262-12-1)](#94)
+          - [Section 3 : Attribution de l'allocation (art. L262-13 à L262-36)](#95)
+          - [Section 4 : Contrat d'insertion (art. L262-37 à L262-38-1)](#96)
+          - [Section 5 : Recours et récupération (art. L262-39 à L262-47)](#97)
+          - [Section 6 : Suivi statistique, évaluation et contrôle (art. L262-48 à L262-54)](#98)
+          - [Section 7 : Dispositions communes (art. L262-55)](#99)
+        - [Chapitre III : Actions d'insertion (art. L263-1 à L263-19)](#100)
+          - [Section 1 : Dispositif départemental d'insertion. (art. L263-1 à L263-5)](#101)
+          - [Section 2 : Dispositif local d'insertion. (art. L263-10 à L263-14)](#102)
+          - [Section 4 : Fonds d'aide aux jeunes en difficulté. (art. L263-15 à L263-17)](#103)
+          - [Section 5 : Personnes bénéficiaires de l'allocation de parent isolé. (art. L263-18 à L263-19)](#104)
+    - [Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services (art. L311-1 à L351-8)](#105)
+      - [Titre Ier : Etablissements et services soumis à autorisation (art. L311-1 à L315-19)](#106)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-9)](#107)
+          - [Section 1 : Missions (art. L311-1 à L311-2)](#108)
+          - [Section 2 : Droits des usagers (art. L311-3 à L311-9)](#109)
+        - [Chapitre II : Organisation de l'action sociale et médico-sociale (art. L312-1 à L312-9)](#110)
+          - [Section 1 : Etablissements et services sociaux et médico-sociaux (art. L312-1)](#111)
+          - [Section 2 : Organismes consultatifs (art. L312-3)](#112)
+          - [Section 3 : Schémas d'organisation sociale et médico-sociale (art. L312-4 à L312-5-2)](#113)
+          - [Section 4 : Coordination des interventions (art. L312-6 à L312-7)](#114)
+          - [Section 5 : Evaluation et systèmes d'information (art. L312-8 à L312-9)](#115)
+        - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. L313-1 à L313-26)](#116)
+          - [Section 1 : Autorisation et agrément (art. L313-1 à L313-9)](#117)
+          - [Section 2 : Habilitation à recevoir des mineurs confiés par l'autorité judiciaire (art. L313-10)](#118)
+          - [Section 3 : Contrats ou conventions pluriannuels (art. L313-11 à L313-12-1)](#119)
+          - [Section 4 : Contrôle (art. L313-13 à L313-20)](#120)
+          - [Section 5 : Dispositions pénales (art. L313-21 à L313-23)](#121)
+          - [Section 5 bis : Dispositions relatives à l'organisation du travail (art. L313-23-1 à L313-23-2)](#122)
+          - [Section 6 : Dispositions communes (art. L313-24 à L313-26)](#123)
+        - [Chapitre IV : Dispositions financières (art. L314-1 à L314-13)](#124)
+          - [Section 1 : Règles de compétences en matière tarifaire (art. L314-1 à L314-2)](#125)
+          - [Section 2 : Règles budgétaires et de financement (art. L314-3 à L314-9)](#126)
+          - [Section 3 : Dispositions diverses (art. L314-10 à L314-13)](#127)
+        - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public (art. L315-1 à L315-19)](#128)
+          - [Section 1 : Dispositions générales (art. L315-1 à L315-8)](#129)
+          - [Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique (art. L315-9 à L315-19)](#130)
+      - [Titre II : Etablissements soumis à déclaration (art. L321-1 à L322-9)](#131)
+        - [Chapitre Ier : Accueil de mineurs. (art. L321-1 à L321-4)](#132)
+        - [Chapitre II : Accueil d'adultes. (art. L322-1 à L322-9)](#133)
+      - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration (art. L331-1 à L331-9)](#134)
+        - [Chapitre unique. (art. L331-1 à L331-9)](#135)
+      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. L342-1 à L347-2)](#136)
+        - [Chapitre II : Hébergement de personnes âgées. (art. L342-1 à L342-5)](#137)
+        - [Chapitre III : Centres d'action médico-sociale précoce. (art. L343-1 à L343-2)](#138)
+        - [Chapitre IV : Centres pour handicapés adultes. (art. L344-1 à L344-7)](#139)
+        - [Chapitre V : Centres d'hébergement et de réinsertion sociale. (art. L345-1 à L345-4)](#140)
+        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. L346-1)](#141)
+        - [Chapitre VII : Services d'aide et d'accompagnement non soumis à autorisation (art. L347-1 à L347-2)](#142)
+      - [Titre V : Contentieux de la tarification sanitaire et sociale (art. L351-1 à L351-8)](#143)
+        - [Chapitre unique. (art. L351-1 à L351-8)](#144)
+    - [Livre IV : Professions et activités d'accueil (art. L411-1 à L451-4)](#145)
+      - [Titre Ier : Assistants de service social (art. L411-1 à L411-6)](#146)
+        - [Chapitre unique. (art. L411-1 à L411-6)](#147)
+      - [Titre II : Assistants maternels et assistants familiaux (art. L421-1 à L422-8)](#148)
+        - [Chapitre Ier : Dispositions générales. (art. L421-1 à L421-18)](#149)
+        - [Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public. (art. L422-1 à L422-8)](#150)
+      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. L441-1 à L443-12)](#151)
+        - [Chapitre Ier : Accueillants familiaux et modalités d'agrément. (art. L441-1 à L441-4)](#152)
+        - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial. (art. L442-1)](#153)
+        - [Chapitre III : Dispositions communes. (art. L443-4 à L443-12)](#154)
+      - [Titre V : Formation des travailleurs sociaux (art. L451-1 à L451-4)](#155)
+        - [Chapitre Ier : Dispositions générales. (art. L451-1 à L451-4)](#156)
+    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. L511-1 à L581-1)](#157)
+      - [Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L511-1 à L512-2)](#158)
+        - [Chapitre Ier : Aide sociale communale (art. L511-1 à L511-10)](#159)
+        - [Chapitre II : Revenu minimum d'insertion. (art. L512-1 à L512-2)](#160)
+      - [Titre II : Départements d'outre-mer (art. L521-1 à L523-2)](#161)
+        - [Chapitre Ier : Dispositions générales. (art. L521-1)](#162)
+        - [Chapitre II : Revenu minimum d'insertion. (art. L522-1 à L522-18)](#163)
+        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. L523-1 à L523-2)](#164)
+          - [Section unique : Service d'accueil téléphonique. (art. L523-1 à L523-2)](#165)
+      - [Titre III : Saint-Pierre-et-Miquelon (art. L531-1 à L531-7)](#166)
+        - [Chapitre unique : Dispositions générales. (art. L531-1 à L531-7)](#167)
+      - [Titre IV : Mayotte (art. L540-1 à L545-6)](#168)
+        - [Chapitre préliminaire : Principes généraux. (art. L540-1)](#169)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L541-1 à L541-2)](#170)
+        - [Chapitre II : Aide sociale. (art. L542-1 à L542-9)](#171)
+        - [Chapitre III : Familles et aide sociale à l'enfance. (art. L543-1 à L543-14)](#172)
+        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption. (art. L544-1 à L544-4)](#173)
+        - [Chapitre V : Dispositions communes. (art. L545-1 à L545-6)](#174)
+      - [Titre V : Territoire des îles Wallis et Futuna (art. L551-1 à L552-5)](#175)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L551-1 à L551-2)](#176)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L552-1 à L552-5)](#177)
+      - [Titre VI : Polynésie française (art. L560-1 à L562-5)](#178)
+        - [Chapitre Ier A : Dispositions relatives à l'obligation alimentaire (art. L560-1 à L560-3)](#179)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L561-1 à L561-2)](#180)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L562-1 à L562-5)](#181)
+      - [Titre VII : Nouvelle-Calédonie (art. L571-1 à L572-5)](#182)
+        - [Chapitre Ier : Accès aux origines personnelles (art. L571-1 à L571-2)](#183)
+        - [Chapitre II : Statut des pupilles de l'Etat. (art. L572-1 à L572-5)](#184)
+      - [Titre VIII : Terres australes et antarctiques françaises (art. L581-1)](#185)
+        - [Chapitre unique : Principes généraux. (art. L581-1)](#186)
+  - [Partie réglementaire (art. D112-2 à R571-1)](#187)
+    - [Livre Ier : Dispositions générales (art. D112-2 à R14-10-31)](#188)
+      - [Titre Ier : Principes généraux (art. D112-2 à R115-4)](#189)
+        - [Chapitre II : Politique familiale (art. D112-2 à D112-7)](#190)
+          - [Section 1 : Dispositions générales. (art. D112-2 à R112-1)](#191)
+          - [Section 2 : Comité interministériel de l'enfance maltraitée. (art. D112-3 à D112-7)](#192)
+        - [Chapitre III : Personnes âgées (art. D113-1 à D113-6)](#193)
+        - [Chapitre IV : Personnes handicapées (art. R114-1 à R114-3)](#194)
+        - [Chapitre V : Lutte contre la pauvreté et les exclusions (art. R115-1 à R115-4)](#195)
+          - [Section 1 : Dispositions générales. (art. R115-1)](#196)
+          - [Section 2 : Comité interministériel de lutte contre les exclusions. (art. R115-2 à R115-4)](#197)
+      - [Titre II : Compétences (art. R121-1 à R123-65)](#198)
+        - [Chapitre Ier : Collectivités publiques et organismes responsables (art. R121-1 à R121-12)](#199)
+          - [Section 1 : Départements. (art. R121-1)](#200)
+          - [Section 2 : Communes. (art. R121-2 à R121-12)](#201)
+        - [Chapitre III : Organisation administrative (art. R123-1 à R123-65)](#202)
+          - [Section 2 : Centre communal ou intercommunal d'action sociale (art. R123-1 à R123-65)](#203)
+            - [Sous-section 1 : Missions. (art. R123-1 à R123-6)](#204)
+            - [Sous-section 2 : Dispositions relatives au centre communal d'action sociale (art. R123-7 à R123-26)](#205)
+              - [Paragraphe 1 : Composition du conseil d'administration. (art. R123-7 à R123-15)](#206)
+              - [Paragraphe 2 : Fonctionnement du conseil d'administration. (art. R123-16 à R123-26)](#207)
+            - [Sous-section 3 : Dispositions relatives au centre intercommunal d'action sociale. (art. R123-27 à R123-30)](#208)
+            - [Sous-section 4 : Dispositions relatives aux sections des centres d'action sociale des communes associées. (art. R123-31 à R123-38)](#209)
+            - [Sous-section 5 : Dispositions relatives au centre d'action sociale de la ville de Paris (art. R123-39 à R123-61)](#210)
+              - [Paragraphe 1 : Dispositions générales. (art. R123-39 à R123-48)](#211)
+              - [Paragraphe 2 : Dispositions relatives aux sections d'arrondissement et aux autres services du centre d'action sociale. (art. R123-49 à R123-61)](#212)
+            - [Sous-section 6 : Dispositions particulières applicables aux centres communaux d'action sociale de Marseille et de Lyon (art. R123-62 à R123-65)](#213)
+              - [Paragraphe 1 : Marseille. (art. R123-62 à R123-63)](#214)
+              - [Paragraphe 2 : Lyon. (art. R123-64 à R123-65)](#215)
+      - [Titre III : Procédures (art. R131-1 à R134-12)](#216)
+        - [Chapitre Ier : Admission (art. R131-1 à R131-7)](#217)
+        - [Chapitre II : Participation et récupération (art. R132-1 à R132-16)](#218)
+          - [Section 1 : Appréciation des revenus des postulants. (art. R132-1)](#219)
+          - [Section 2 : Participation des personnes accueillies en établissement pour personnes âgées. (art. R132-2 à R132-7)](#220)
+          - [Section 3 : Participation des familles. (art. R132-8)](#221)
+          - [Section 4 : Mise en jeu de l'obligation alimentaire. (art. R132-9 à R132-10)](#222)
+          - [Section 5 : Recours en récupération. (art. R132-11 à R132-12)](#223)
+          - [Section 6 : Hypothèque légale. (art. R132-13 à R132-16)](#224)
+        - [Chapitre IV : Contentieux (art. R134-1 à R134-12)](#225)
+          - [Section 1 : Commission départementale. (art. R134-1 à R134-2)](#226)
+          - [Section 2 : Commission centrale d'aide sociale. (art. R134-3 à R134-9)](#227)
+          - [Section 3 : Dispositions communes. (art. R134-10 à R134-12)](#228)
+      - [Titre IV : Institutions (art. D*141-1 à R14-10-31)](#229)
+        - [Chapitre Ier : Haut Conseil de la population et de la famille. (art. D*141-1 à D*141-7)](#230)
+        - [Chapitre II : Conseil supérieur du travail social (art. D142-1)](#231)
+        - [Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale (art. D143-6 à R143-5)](#232)
+        - [Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale (art. R144-1 à R144-4)](#233)
+        - [Chapitre V : Coordination des interventions (art. R145-1 à R145-3)](#234)
+          - [Section 1 : Conventions entre les acteurs engagés dans la prévention et la lutte contre les exclusions. (art. R145-1 à R145-3)](#235)
+        - [Chapitre VI : Consultation des personnes handicapées (art. D146-1 à D146-15)](#236)
+          - [Section 1 : Conseil national consultatif des personnes handicapées (art. D146-1 à D146-9)](#237)
+          - [Section 2 : Conseil départemental consultatif des personnes handicapées (art. D146-10 à D146-15)](#238)
+        - [Chapitre VII : Conseil national pour l'accès aux origines personnelles (art. D147-11 à R147-33)](#239)
+          - [Section 1 : Composition et fonctionnement du conseil national pour l'accès aux origines personnelles (art. D147-11 à R147-20)](#240)
+          - [Section 2 : Information et accompagnement des mères de naissance (art. R147-21 à R147-24)](#241)
+          - [Section 3 : Conditions de traitement et de conservation des informations et renseignements nécessaires à l'accès aux origines personnelles (art. R147-25 à R147-33)](#242)
+        - [Chapitre VIII : Conseil supérieur de l'adoption et autorité centrale pour l'adoption internationale (art. D148-1 à R*148-10)](#243)
+          - [Section 1 : Conseil supérieur de l'adoption (art. D148-1 à D148-3)](#244)
+          - [Section 2 : Autorité centrale pour l'adoption internationale (art. R*148-4 à R*148-10)](#245)
+        - [Chapitre IX : Comité national et comités départementaux des retraités et des personnes âgées (art. D149-1 à D149-9)](#246)
+          - [Section 1 : Comité national des retraités et des personnes âgées (art. D149-1 à D149-6)](#247)
+          - [Section 2 : Comités départementaux des retraités et des personnes âgées. (art. D149-7 à D149-9)](#248)
+        - [Chapitre X : Caisse nationale de solidarité pour l'autonomie (art. R14-10-1 à R14-10-31)](#249)
+          - [Section 1 : Conseil (art. R14-10-1 à R14-10-14)](#250)
+            - [Sous-section 1 : Compétence (art. R14-10-1)](#251)
+            - [Sous-section 2 : Composition (art. R14-10-2 à R14-10-5)](#252)
+            - [Sous-section 3 : Fonctionnement (art. R14-10-6 à R14-10-14)](#253)
+          - [Section 2 : Directeur (art. R14-10-15 à R14-10-20)](#254)
+          - [Section 3 : Agent comptable (art. R14-10-21 à R14-10-22)](#255)
+          - [Section 4 : Conseil scientifique (art. R14-10-23 à R14-10-31)](#256)
+            - [Sous-section 1 : Composition (art. R14-10-23)](#257)
+            - [Sous-section 2 : Rôle et modalités de fonctionnement (art. R14-10-24 à R14-10-31)](#258)
+    - [Livre II : Différentes formes d'aide et d'action sociales (art. R211-1 à R263-2)](#259)
+      - [Titre Ier : Famille (art. R211-1 à R215-16)](#260)
+        - [Chapitre Ier : Associations familiales (art. R211-1 à R211-7)](#261)
+        - [Chapitre III : Education et conseil familial (art. R213-1)](#262)
+        - [Chapitre IV : Accueil des jeunes enfants (art. D214-1 à D214-6)](#263)
+        - [Chapitre V : Dispositions diverses en faveur des familles (art. D215-2 à R215-16)](#264)
+          - [Section 1 : Fête des mères (art. D215-2 à R215-1)](#265)
+          - [Section 2 : Carte nationale de priorité de la famille (art. R215-3 à R215-6)](#266)
+          - [Section 3 : Médaille de la famille (art. D215-7 à D215-13)](#267)
+          - [Section 4 : Dispositions pénales et sanctions. (art. R215-14 à R215-16)](#268)
+      - [Titre II : Enfance (art. R221-1 à R228-3)](#269)
+        - [Chapitre Ier : Service de l'aide sociale à l'enfance (art. R221-1 à R221-4)](#270)
+          - [Section 1 : Protection sociale de l'enfance en danger (art. R221-1 à R221-3)](#271)
+          - [Section 2 : Mesures d'assistance éducative (art. R221-4)](#272)
+        - [Chapitre II : Prestations d'aide sociale à l'enfance (art. R222-1 à R222-5)](#273)
+          - [Section 1 : Aide à domicile (art. R222-1 à R222-4)](#274)
+          - [Section 2 : Information des mères de naissance (art. R222-5)](#275)
+        - [Chapitre III : Droits des familles dans leurs rapports avec les services de l'aide sociale à l'enfance (art. R223-1 à R223-11)](#276)
+        - [Chapitre IV : Pupilles de l'Etat (art. R224-1 à R224-25)](#277)
+          - [Section 1 : Organes chargés de la tutelle (art. R224-1 à R224-25)](#278)
+            - [Sous-section 1 : Composition du conseil de famille. (art. R224-1 à R224-6)](#279)
+            - [Sous-section 2 : Fonctionnement du conseil de famille. (art. R224-7 à R224-11)](#280)
+            - [Sous-section 3 : Rôle du conseil de famille. (art. R224-12 à R224-25)](#281)
+        - [Chapitre V : Adoption (art. R225-1 à R225-46)](#282)
+          - [Section 1 : Adoption des pupilles de l'Etat (art. R225-1 à R225-11)](#283)
+            - [Sous-section 1 : Dispositions relatives à l'agrément (art. R225-1 à R225-8)](#284)
+            - [Sous-section 2 : Dispositions relatives à la commission d'agrément (art. R225-9 à R225-11)](#285)
+          - [Section 2 : Organismes autorisés et habilités pour l'adoption (art. R225-12 à R225-46)](#286)
+            - [Sous-section 1 : Missions des organismes (art. R225-12 à R225-14)](#287)
+            - [Sous-section 2 : Autorisation et déclaration de fonctionnement (art. R225-15 à R225-32)](#288)
+              - [Paragraphe 1 : Autorisation. (art. R225-15 à R225-21)](#289)
+              - [Paragraphe 2 : Déclaration. (art. R225-22 à R225-23)](#290)
+              - [Paragraphe 3 : Recueil d'enfants nés sur le territoire français. (art. R225-24 à R225-29)](#291)
+              - [Paragraphe 4 : Retrait d'autorisation et interdiction de fonctionnement. (art. R225-30 à R225-32)](#292)
+            - [Sous-section 3 : Habilitation (art. R225-33 à R225-39)](#293)
+            - [Sous-section 4 : Dispositions communes aux organismes autorisés et habilités (art. R225-40 à R225-46)](#294)
+        - [Chapitre VI : Protection des mineurs maltraités (art. D226-1 à R226-2)](#295)
+          - [Section 1 : Formation des professionnels (art. D226-1)](#296)
+          - [Section 2 : Service d'accueil téléphonique (art. R226-2)](#297)
+        - [Chapitre VII : Mineurs accueillis hors du domicile parental (art. R227-1 à R227-30)](#298)
+          - [Section 1 : Protection des mineurs à l'occasion des vacances scolaires, des congés professionnels et des loisirs (art. R227-1 à R227-22)](#299)
+            - [Sous-section unique : Dispositions générales (art. R227-1 à R227-22)](#300)
+              - [Paragraphe 1 : Dispositions relatives à l'hygiène et à la sécurité (art. R227-5 à R227-11)](#301)
+              - [Paragraphe 2 : Dispositions relatives à la qualification des personnes encadrant les mineurs dans les centres de vacances et les centres de loisirs (art. R227-12 à R227-22)](#302)
+          - [Section 2 : Projet éducatif (art. R227-23 à R227-26)](#303)
+          - [Section 3 : Obligation d'assurance de responsabilité civile relative aux accueils de mineurs (art. R227-27 à R227-30)](#304)
+        - [Chapitre VIII : Dispositions financières (art. R228-1 à R228-3)](#305)
+          - [Section unique : Contribution à la prise en charge par l'aide sociale à l'enfance (art. R228-1 à R228-3)](#306)
+      - [Titre III : Personnes âgées (art. R231-1 à R232-61)](#307)
+        - [Chapitre Ier : Aide à domicile et placement (art. R231-1 à R231-6)](#308)
+        - [Chapitre II : Allocation personnalisée d'autonomie (art. R232-1 à R232-61)](#309)
+          - [Section 1 : Allocation personnalisée d'autonomie et qualité des services rendus aux personnes âgées (art. R232-1 à D232-22)](#310)
+            - [Sous-section 1 : Conditions générales d'attribution de l'allocation personnalisée d'autonomie (art. R232-1 à R232-6)](#311)
+            - [Sous-section 2 : Allocation personnalisée d'autonomie à domicile (art. R232-7 à R232-17)](#312)
+              - [Paragraphe 1 : Procédure d'instruction et modalités d'élaboration du plan d'aide (art. R232-7 à R232-9)](#313)
+              - [Paragraphe 2 : Montant de l'allocation (art. R232-10 à R232-11)](#314)
+              - [Paragraphe 3 : Dispositions particulières visant à la qualité du service rendu (art. R232-12 à R232-14)](#315)
+              - [Paragraphe 4 : Contrôle d'effectivité et suspension de l'aide (art. R232-15 à R232-17)](#316)
+            - [Sous-section 3 : Allocation personnalisée d'autonomie en établissement (art. R232-18 à D232-22)](#317)
+              - [Paragraphe 1 : Dispositions générales (art. R232-18 à R232-19)](#318)
+              - [Paragraphe 2 : Dispositions particulières relatives à certains établissements (art. D232-20 à D232-22)](#319)
+          - [Section 2 : Gestion de l'allocation personnalisée d'autonomie (art. R232-23 à R232-39)](#320)
+            - [Sous-section 1 : Instruction des demandes (art. R232-23 à D232-26)](#321)
+              - [Paragraphe 1 : Constitution du dossier de demande (art. R232-23 à R232-24)](#322)
+              - [Paragraphe 2 : Commission de proposition et de conciliation (art. D232-25 à D232-26)](#323)
+            - [Sous-section 2 : Décision d'attribution (art. R232-27 à R232-29)](#324)
+            - [Sous-section 3 : Versement de l'allocation personnalisée d'autonomie (art. D232-31 à R232-34)](#325)
+              - [Paragraphe 1 : Dispositions communes (art. D232-31 à R232-32)](#326)
+              - [Paragraphe 2 : Dispositions particulières à l'allocation à domicile (art. D232-33)](#327)
+              - [Paragraphe 3 : Dispositions particulières à l'allocation en établissement (art. D232-35 à R232-34)](#328)
+            - [Sous-section 4 : Dispositions diverses (art. D232-36 à R232-39)](#329)
+              - [Paragraphe 1 : Le comité scientifique. (art. D232-36 à D232-37)](#330)
+              - [Paragraphe 2 : Système d'information (art. R232-38)](#331)
+              - [Paragraphe 3 : Agrément des organismes pour l'élection de domicile. (art. R232-39)](#332)
+          - [Section 3 : Financement de l'allocation personnalisée d'autonomie (art. R232-40 à R232-57)](#333)
+            - [Sous-section 1 : Organisation et gestion du fonds de financement de l'allocation personnalisée d'autonomie. (art. R232-40 à R232-50)](#334)
+            - [Sous-section 2 : Dispositions financières relatives à l'allocation personnalisée d'autonomie (art. R232-51 à R232-57)](#335)
+          - [Section 4 : Dispositions communes (art. R232-58 à R232-61)](#336)
+      - [Titre IV : Personnes handicapées (art. R241-1 à R245-20)](#337)
+        - [Chapitre Ier : Dispositions générales (art. R241-1 à R241-23)](#338)
+          - [Section 1 : Prestations (art. R241-1 à R241-3)](#339)
+          - [Section 2 : Allocation différentielle (art. R241-4 à R241-11)](#340)
+          - [Section 3 : Carte d'invalidité. (art. R241-12 à R241-15)](#341)
+          - [Section 4 : Macaron "Grand Invalide civil". (art. R241-16 à R241-20)](#342)
+          - [Section 5 : Dispositions pénales (art. R241-21 à R241-23)](#343)
+        - [Chapitre II : Education spéciale (art. R242-1 à R242-18)](#344)
+          - [Section 1 : Commission d'éducation spéciale (art. R242-1 à R242-13)](#345)
+            - [Sous-section 1 : Composition et fonctionnement. (art. R242-1 à R242-5)](#346)
+            - [Sous-section 2 : Commissions de circonscription. (art. R242-6 à R242-13)](#347)
+          - [Section 2 : Prise en charge. (art. D242-14 à R242-15)](#348)
+          - [Section 3 : Allocation d'éducation spéciale. (art. R242-16)](#349)
+          - [Section 4 : Dispositions communes. (art. R242-17 à R242-18)](#350)
+        - [Chapitre III : Travailleurs handicapés (art. R243-1 à R243-17)](#351)
+          - [Section 1 : Commission technique d'orientation et de reclassement professionnel. (art. R243-1 à R243-4)](#352)
+          - [Section 2 : Dispositions favorisant le travail (art. R243-5 à D243-16)](#353)
+            - [Sous-section 1 : Dispositions générales. (art. R243-5)](#354)
+            - [Sous-section 2 : Garantie de ressources. (art. R243-6 à R243-13)](#355)
+            - [Sous-section 3 : Bonifications. (art. D243-14 à D243-16)](#356)
+          - [Section 3 : Participation de l'Etat au paiement des accessoires de salaire. (art. R243-17)](#357)
+        - [Chapitre IV : Allocation aux adultes handicapés (art. R244-1)](#358)
+        - [Chapitre V : Allocation compensatrice (art. D245-1 à R245-20)](#359)
+          - [Section 1 : Dispositions générales. (art. D245-1 à D245-2)](#360)
+          - [Section 2 : Allocation compensatrice attribuée au titre de la tierce personne. (art. R245-3 à R245-10)](#361)
+          - [Section 3 : Allocation compensatrice attribuée au titre d'une activité professionnelle. (art. R245-11)](#362)
+          - [Section 4 : Dispositions communes. (art. R245-12 à R245-14)](#363)
+          - [Section 5 : Procédure d'attribution. (art. R245-15 à R245-20)](#364)
+      - [Titre VI : Lutte contre la pauvreté et les exclusions (art. R261-1 à R263-2)](#365)
+        - [Chapitre Ier : Logement (art. R261-1 à R261-3)](#366)
+          - [Section 2 : Fourniture d'eau et d'énergie (art. R261-1 à R261-2)](#367)
+            - [Sous-section 1 : Electricité (art. R261-1)](#368)
+              - [Paragraphe 1 : Aide au paiement des factures impayées. (art. R261-1)](#369)
+            - [Sous-section 2 : Gaz. (art. R261-2)](#370)
+          - [Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées. (art. R261-3)](#371)
+        - [Chapitre II : Revenu minimum d'insertion (art. R262-1 à R262-87)](#372)
+          - [Section 1 : Dispositions générales (art. R262-1 à R262-2)](#373)
+          - [Section 2 : Conditions d'ouverture du droit à l'allocation (art. R262-3 à R262-22)](#374)
+            - [Sous-section 1 : Détermination des ressources. (art. R262-3 à R262-13)](#375)
+            - [Sous-section 2 : Dispositions propres aux ressources professionnelles des non-salariés (art. R262-14 à R262-22)](#376)
+              - [Paragraphe 1 : Conditions d'accès à l'allocation. (art. R262-14 à R262-16)](#377)
+              - [Paragraphe 2 : Evaluation des revenus professionnels non salariés. (art. R262-17 à R262-22)](#378)
+          - [Section 3 : Attribution de l'allocation (art. R262-23 à D262-71)](#379)
+            - [Sous-section 1 : Agrément pour le recueil des demandes d'allocation. (art. R262-23 à R262-27)](#380)
+            - [Sous-section 2 : Agrément pour la réception des déclarations d'élection de domicile. (art. R262-28 à R262-35)](#381)
+            - [Sous-section 3 : Liquidation, versement et révision de l'allocation. (art. D262-40 à R262-44)](#382)
+            - [Sous-section 4 : Suspension ou réduction de l'allocation. (art. R262-45 à R262-47)](#383)
+            - [Sous-section 5 : Contrôle. (art. D262-49 à R262-48)](#384)
+            - [Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés. (art. R262-50 à R262-58)](#385)
+            - [Sous-section 7 : Conventions conclues entre le département et les organismes payeurs (art. D262-59 à D262-71)](#386)
+              - [Paragraphe 1 : Missions exercées par les organismes payeurs à titre gratuit. (art. D262-59 à D262-62)](#387)
+              - [Paragraphe 2 : Autres missions pouvant être exercées par les organismes payeurs. (art. D262-63 à D262-66)](#388)
+              - [Paragraphe 3 : Relations financières entre l'organisme payeur et le département. (art. D262-67)](#389)
+              - [Paragraphe 4 : Dispositions communes et transitoires. (art. D262-68 à D262-71)](#390)
+          - [Section 5 : Recours et récupération (art. R262-72 à R262-73)](#391)
+          - [Section 6 : Suivi statistique, évaluation et contrôle (art. D262-74 à R262-87)](#392)
+            - [Sous-section 1 : Informations relatives au revenu minimum d'insertion et au contrat insertion-revenu minimum d'activité. (art. D262-74 à R262-78)](#393)
+            - [Sous-section 2 : Informations relatives aux minima sociaux. (art. R262-83 à R262-87)](#394)
+        - [Chapitre III : Actions d'insertion (art. R263-1 à R263-2)](#395)
+          - [Section 1 : Dispositif départemental d'insertion (art. R263-1)](#396)
+          - [Section 4 : Personnes bénéficiaires de l'allocation de parent isolé (art. R263-2)](#397)
+    - [Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services (art. D311 à R351-41)](#398)
+      - [Titre Ier : Etablissements et services soumis à autorisation (art. D311 à D316-4)](#399)
+        - [Chapitre Ier : Dispositions générales (art. D311 à R311-37)](#400)
+          - [Section 1 : Missions (art. D311)](#401)
+          - [Section 2 : Droit des usagers (art. R311-1 à R311-37)](#402)
+            - [Sous-section 2 : Personne qualifiée. (art. R311-1 à R311-2)](#403)
+            - [Sous-section 3 : Conseil de la vie sociale et autres formes de participation (art. D311-3 à D311-32-1)](#404)
+              - [Paragraphe 1 : Dispositions générales. (art. D311-3)](#405)
+              - [Paragraphe 2 : Composition et fonctionnement. (art. D311-4 à D311-20)](#406)
+              - [Paragraphe 3 : Autres formes de participation. (art. D311-21 à D311-25)](#407)
+              - [Paragraphe 4 : Dispositions communes. (art. D311-26 à D311-32-1)](#408)
+            - [Sous-section 4 : Règlement de fonctionnement. (art. R311-33 à R311-37)](#409)
+        - [Chapitre II : Organisation de l'action sociale et médico-sociale (art. D312-1 à R312-202)](#410)
+          - [Section 1 : Etablissements et services sociaux et médico-sociaux (art. D312-1 à D312-176)](#411)
+            - [Sous-section 1 : Prestations délivrées (art. D312-1 à D312-10)](#412)
+              - [Paragraphe 1er : Services d'assistance à domicile (art. D312-1 à D312-7-1)](#413)
+                - [Sous-paragraphe 1er : Services de soins infirmiers à domicile. (art. D312-1 à D312-5-1)](#414)
+                - [Sous-paragraphe 2 : Services d'aide et d'accompagnement à domicile. (art. D312-6)](#415)
+                - [Sous-paragraphe 3 : Services polyvalents d'aide et de soins à domicile. (art. D312-7)](#416)
+                - [Sous-paragraphe 4 : Dispositions communes. (art. D312-7-1)](#417)
+              - [Paragraphe 2 : Accueil temporaire. (art. D312-8 à D312-10)](#418)
+            - [Sous-section 2 : Conditions techniques minimales d'organisation et de fonctionnement des établissements (art. D312-11 à D312-176)](#419)
+              - [Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles (art. D312-11 à D312-59)](#420)
+                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-11 à D312-14)](#421)
+                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-15 à D312-19)](#422)
+                - [Sous-paragraphe 3 : Personnels. (art. D312-20 à D312-26)](#423)
+                - [Sous-paragraphe 4 : Installations. (art. D312-27 à D312-33)](#424)
+                - [Sous-paragraphe 5 : Fonctionnement de l'établissement. (art. D312-34 à D312-40)](#425)
+                - [Sous-paragraphe 6 : Centres d'accueil familial spécialisé. (art. D312-41 à D312-54)](#426)
+                - [Sous-paragraphe 7 : Services d'éducation spéciale et de soins à domicile. (art. D312-55 à D312-59)](#427)
+              - [Paragraphe 1 bis : Les instituts thérapeutiques, éducatifs et pédagogiques (art. D312-59-1 à D312-59-18)](#428)
+                - [Sous-paragraphe 1 : Dispositions générales (art. D312-59-1 à D312-59-3)](#429)
+                - [Sous-paragraphe 2 : Organisation de l'établissement (art. D312-59-4 à D312-59-6)](#430)
+                - [Sous-paragraphe 3 : Les personnels (art. D312-59-7 à D312-59-13)](#431)
+                - [Sous-paragraphe 4 : Fonctionnement de l'établissement (art. D312-59-14 à D312-59-16)](#432)
+                - [Sous-paragraphe 5 : Des installations (art. D312-59-17)](#433)
+                - [Sous-paragraphe 6 : Dispositions transitoires (art. D312-59-18)](#434)
+              - [Paragraphe 2 : Etablissements et services prenant en charge des enfants ou adolescents présentant une déficience motrice (art. D312-60 à D312-82)](#435)
+                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-60 à D312-63)](#436)
+                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-64 à D312-65)](#437)
+                - [Sous-paragraphe 3 : Personnels. (art. D312-66 à D312-69)](#438)
+                - [Sous-paragraphe 4 : Installation. (art. D312-70 à D312-74)](#439)
+                - [Sous-paragraphe 5 : Service d'éducation spéciale et de soins à domicile. (art. D312-75 à D312-79)](#440)
+                - [Sous-paragraphe 6 : Dispositions diverses. (art. D312-80 à D312-82)](#441)
+              - [Paragraphe 3 : Etablissements et services prenant en charge des enfants ou adolescents polyhandicapés (art. D312-83 à D312-97)](#442)
+                - [Sous-paragraphe 1 : Dispositions générales. (art. D312-83 à D312-85)](#443)
+                - [Sous-paragraphe 2 : Organisation de l'établissement ou du service. (art. D312-86 à D312-87)](#444)
+                - [Sous-paragraphe 3 : Les personnels. (art. D312-88 à D312-89)](#445)
+                - [Sous-paragraphe 4 : Installations. (art. D312-90 à D312-94)](#446)
+                - [Sous-paragraphe 5 : Services de soins et d'aide à domicile. (art. D312-95 à D312-97)](#447)
+              - [Paragraphe 4 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience auditive grave. (art. D312-98 à D312-110)](#448)
+              - [Paragraphe 5 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience visuelle grave ou de cécité. (art. D312-111 à D312-122)](#449)
+              - [Paragraphe 6 : Pouponnières à caractère social (art. D312-123 à D312-152)](#450)
+                - [Sous-paragraphe 1 : Locaux. (art. D312-123 à D312-136)](#451)
+                - [Sous-paragraphe 2 : Admission et surveillance des enfants. (art. D312-137 à D312-145)](#452)
+                - [Sous-paragraphe 3 : Personnel. (art. D312-146 à D312-150)](#453)
+                - [Sous-paragraphe 4 : Mesures administratives. (art. D312-151 à D312-152)](#454)
+              - [Paragraphe 7 : Centres spécialisés de soins aux toxicomanes. (art. D312-153)](#455)
+              - [Paragraphe 8 : Appartements de coordination thérapeutique. (art. D312-154 à D312-155)](#456)
+              - [Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes (art. D312-155-1 à D312-161)](#457)
+              - [Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés (art. D312-162 à D312-176)](#458)
+                - [Sous-paragraphe 1 : Services d'accompagnement à la vie sociale (art. D312-162 à D312-165)](#459)
+                - [Sous-paragraphe 2 : Les services d'accompagnement médico-social pour adultes handicapés (art. D312-166 à D312-169)](#460)
+                - [Sous-paragraphe 3 : Dispositions communes (art. D312-170 à D312-176)](#461)
+          - [Section 2 : Organismes consultatifs (art. R312-177 à R312-192)](#462)
+            - [Sous-section 1 : Section sociale du Comité national de l'organisation sanitaire et sociale (art. R312-177 à R312-179)](#463)
+            - [Sous-section 2 : Comités régionaux de l'organisation sociale et médico-sociale (art. R312-180 à R312-192)](#464)
+              - [Paragraphe 1 : Composition du comité régional de l'organisation sociale et médico-sociale. (art. R312-180 à R312-184)](#465)
+              - [Paragraphe 2 : Fonctionnement du comité. (art. R312-185 à R312-192)](#466)
+          - [Section 3 : Schémas d'organisation sociale et médico-sociale (art. D312-193 à D312-194)](#467)
+            - [Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale (art. D312-193 à D312-194)](#468)
+          - [Section 5 : Evaluation et systèmes d'information (art. R312-195 à R312-202)](#469)
+            - [Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale. (art. R312-195 à R312-202)](#470)
+        - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. R313-1 à D313-27)](#471)
+          - [Section 1 : Autorisation de création, d'extension ou de transformation (art. R313-1 à D313-14)](#472)
+            - [Sous-section 1 : Dispositions générales. (art. R313-1 à R313-10)](#473)
+            - [Sous-section 2 : Contrôle de conformité des établissements. (art. D313-11 à D313-14)](#474)
+          - [Section 3 : Contrats ou conventions pluriannuels (art. D313-15 à D313-24)](#475)
+            - [Sous-section 1 : Modalités de tarification des établissements mentionnés au I de l'article L. 313-12. (art. D313-15)](#476)
+            - [Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12. (art. D313-16 à D313-24)](#477)
+          - [Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux. (art. D313-25 à D313-27)](#478)
+        - [Chapitre IV : Dispositions financières (art. R314-1 à R314-204)](#479)
+          - [Section 1 : Règles de compétences en matière tarifaire. (art. R314-3)](#480)
+          - [Section 2 : Règles budgétaires de financement (art. R314-4 à R314-203)](#481)
+            - [Sous-section 1 : Dispositions générales relatives à la comptabilité, au budget et à la tarification (art. R314-4 à R314-63)](#482)
+              - [Paragraphe 1 : Principes comptables et budgétaires généraux. (art. R314-4 à R314-8)](#483)
+              - [Paragraphe 2 : Présentation budgétaire. (art. R314-9 à R314-13)](#484)
+              - [Paragraphe 3 : Fixation du tarif (art. R314-14 à R314-43)](#485)
+                - [Sous-paragraphe 1 : Etablissement des propositions budgétaires. (art. R314-14 à R314-20)](#486)
+                - [Sous-paragraphe 2 : Transmission des propositions budgétaires et procédure contradictoire. (art. R314-21 à R314-25)](#487)
+                - [Sous-paragraphe 3 : Dépenses pouvant être prises en charge (art. R314-26 à R314-27)](#488)
+                - [Sous-paragraphe 4 : Tableaux de bord. (art. R314-28 à R314-33)](#489)
+                - [Sous-paragraphe 5 : Décision d'autorisation budgétaire et de tarification. (art. R314-34 à R314-38)](#490)
+                - [Sous-paragraphe 6 : Fixation pluriannuelle du budget. (art. R314-39 à R314-43)](#491)
+              - [Paragraphe 4 : Exécution du budget (art. R314-44 à R314-55)](#492)
+                - [Sous-paragraphe 1 : Modifications budgétaires et gestion financière en cours d'exercice. (art. R314-44 à R314-48)](#493)
+                - [Sous-paragraphe 2 : Compte administratif de clôture. (art. R314-49 à R314-55)](#494)
+              - [Paragraphe 5 : Contrôle et évaluation (art. R314-56 à R314-62)](#495)
+                - [Sous-paragraphe 1 : Obligations des établissements et services. (art. R314-56 à R314-60)](#496)
+                - [Sous-paragraphe 2 : Opérations d'évaluation et de contrôle (art. R314-61 à R314-62)](#497)
+              - [Paragraphe 6 : Contentieux. (art. R314-63)](#498)
+            - [Sous-section 2 : Règles comptables et budgétaires applicables aux différentes catégories d'organismes gestionnaires (art. R314-64 à R314-104)](#499)
+              - [Paragraphe 1 : Règles applicables aux établissements publics sociaux et médico-sociaux (art. R314-64 à R314-74)](#500)
+                - [Sous-paragraphe 1 : Champ d'application et règles budgétaires générales. (art. R314-64 à R314-65)](#501)
+                - [Sous-paragraphe 2 : Directeur et comptable de l'établissement public. (art. R314-66 à R314-67)](#502)
+                - [Sous-paragraphe 3 : Exécution du budget. (art. R314-68 à R314-74)](#503)
+              - [Paragraphe 2 : Règles applicables aux établissements publics de santé gérant une activité sociale ou médico-sociale. (art. R314-75 à R314-77)](#504)
+              - [Paragraphe 3 : Règles applicables aux établissements sociaux et médico-sociaux gérés par d'autres personnes morales de droit public. (art. R314-78 à R314-79)](#505)
+              - [Paragraphe 4 : Règles applicables aux établissements et services gérés par des personnes morales de droit privé à but non lucratif (art. R314-80 à R314-100)](#506)
+                - [Sous-paragraphe 1 : Champ d'application et principes budgétaires et comptables. (art. R314-80 à R314-84)](#507)
+                - [Sous-paragraphe 2 : Dépenses autorisées. (art. R314-85 à R314-86)](#508)
+                - [Sous-paragraphe 3 : Frais de siège. (art. R314-87 à R314-94)](#509)
+                - [Sous-paragraphe 4 : Gestion financière. (art. R314-95 à R314-96)](#510)
+                - [Sous-paragraphe 5 : Fermeture de l'établissement ou du service. (art. R314-97 à R314-98)](#511)
+                - [Sous-paragraphe 6 : Contrôle et évaluation. (art. R314-99 à R314-100)](#512)
+              - [Paragraphe 5 : Règles applicables aux établissements et services gérés par des organismes à but lucratif ou non habilités à recevoir des bénéficiaires de l'aide sociale. (art. R314-101 à R314-104)](#513)
+            - [Sous-section 3 : Principes de financement et modalités de versement (art. R314-105 à R314-117)](#514)
+              - [Paragraphe 1 : Financement des établissements et services (art. R314-105)](#515)
+              - [Paragraphe 2 : Modalités de financement (art. R314-106 à R314-117)](#516)
+                - [Sous-paragraphe 1 : Dotation globale de financement. (art. R314-106 à R314-110)](#517)
+                - [Sous-paragraphe 2 : Dispositions propres aux dotations globales et forfaits globaux de soins relevant de l'assurance maladie. (art. R314-111 à R314-112)](#518)
+                - [Sous-paragraphe 3 : Prix de journée. (art. R314-113 à R314-114)](#519)
+                - [Sous-paragraphe 4 : Prix de journée globalisés. (art. R314-115 à R314-117)](#520)
+            - [Sous-section 4 : Dispositions propres à certaines catégories d'établissements (art. R314-118 à R314-196)](#521)
+              - [Paragraphe 1 : Etablissements et services accueillant des mineurs et jeunes adultes handicapés. (art. R314-118 à R314-122)](#522)
+              - [Paragraphe 2 : Centres d'action médico-sociale précoce. (art. R314-123 à R314-124)](#523)
+              - [Paragraphe 3 : Etablissements et services accueillant des mineurs ou des majeurs de moins de vingt et un ans confiés par l'autorité judiciaire. (art. R314-125 à R314-127)](#524)
+              - [Paragraphe 4 : Centres d'aide par le travail. (art. R314-128 à R314-129)](#525)
+              - [Paragraphe 5 : Services d'aide à domicile. (art. R314-130 à R314-136)](#526)
+              - [Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes. (art. R314-137 à R314-139)](#527)
+              - [Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées. (art. R314-140 à R314-146)](#528)
+              - [Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés. (art. R314-147 à R314-149)](#529)
+              - [Paragraphe 9 : Centres d'hébergement et de réinsertion sociale. (art. R314-150 à R314-157)](#530)
+              - [Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes (art. R314-158 à R314-193)](#531)
+                - [Sous-paragraphe 1 : Principes généraux de la tarification (art. R314-158 à R314-161)](#532)
+                - [Sous-paragraphe 2 : Modalités de détermination et de calcul des tarifs (art. R314-162 à R314-193)](#533)
+                  - [1  Structure tarifaire des établissements. (art. R314-162 à R314-166)](#534)
+                  - [2  Dispositions relatives aux prestations de soins. (art. R314-167 à R314-169)](#535)
+                  - [3  Evaluation du degré de dépendance des personnes hébergées dans les établissements. (art. R314-170 à R314-179)](#536)
+                  - [4  Tarifs journaliers afférents à l'hébergement et à la dépendance. (art. R314-180 à R314-184)](#537)
+                  - [5  Tarifs journaliers afférents aux soins et dotation globale de financement relative aux soins. (art. R314-185 à R314-186)](#538)
+                  - [6  Dispositions diverses. (art. R314-187 à R314-193)](#539)
+              - [Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services (art. R314-194 à R314-196)](#540)
+                - [Sous-paragraphe 1 : Accueil temporaire. (art. R314-194)](#541)
+                - [Sous-paragraphe 2 : Dispositions diverses. (art. R314-195 à R314-196)](#542)
+            - [Sous-section 5 : Dispositions relatives à la réglementation du travail (art. R314-197 à R314-203)](#543)
+              - [Paragraphe 1 : Conventions collectives et accords de retraite. (art. R314-197 à R314-200)](#544)
+              - [Paragraphe 2 : Durée du travail. (art. R314-201 à R314-203)](#545)
+          - [Section 3 : Dispositions diverses (art. R314-204)](#546)
+        - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public (art. R315-1 à D315-71)](#547)
+          - [Section 1 : Dispositions générales (art. R315-1 à R315-5)](#548)
+          - [Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique (art. R315-6 à D315-71)](#549)
+            - [Sous-section 1 : Composition et fonctionnement des conseils d'administration. (art. R315-6 à R315-23-5)](#550)
+            - [Sous-section 2 : Dispositions relatives au personnel. (art. R315-24 à R315-26)](#551)
+            - [Sous-section 3 : Modalités de concertation (art. R315-27 à R315-66)](#552)
+              - [Paragraphe 1 : Modalités de constitution des comités techniques d'établissement. (art. R315-27 à R315-50)](#553)
+              - [Paragraphe 2 : Attributions des comités techniques d'établissement. (art. R315-51)](#554)
+              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement. (art. D315-64 à R315-63)](#555)
+              - [Paragraphe 4 : Moyens de fonctionnement. (art. R315-65 à R315-66)](#556)
+            - [Sous-section 4 : Délégations. (art. D315-67 à D315-71)](#557)
+        - [Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation (art. D316-1 à D316-4)](#558)
+          - [Section unique : Lieux de vie et d'accueil (art. D316-1 à D316-4)](#559)
+      - [Titre II : Etablissements soumis à déclaration (art. R321-1 à R322-7)](#560)
+        - [Chapitre Ier : Accueil de mineurs. (art. R321-1 à R321-9)](#561)
+        - [Chapitre II : Accueil d'adultes. (art. R322-1 à R322-7)](#562)
+      - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration (art. D331-1 à R331-6)](#563)
+        - [Chapitre unique (art. D331-1 à R331-6)](#564)
+          - [Section 1 : Conseil départemental de l'enfance. (art. D331-1 à D331-4)](#565)
+          - [Section 2 : Surveillance des établissements. (art. R331-5)](#566)
+          - [Section 3 : Fermeture des établissements. (art. R331-6)](#567)
+      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. D341-1 à R346-1)](#568)
+        - [Chapitre Ier : Pouponnières. (art. D341-1 à D341-7)](#569)
+        - [Chapitre II : Hébergement de personnes âgées. (art. R342-1)](#570)
+        - [Chapitre IV : Centres pour handicapés adultes (art. R344-1 à D344-39)](#571)
+          - [Section 1 : Maisons d'accueil spécialisées. (art. R344-1 à R344-3)](#572)
+          - [Section 2 : Centres d'aide par le travail (art. R344-6 à D344-28)](#573)
+            - [Sous-section 1 : Dispositions générales. (art. R344-6 à R344-19)](#574)
+            - [Sous-section 2 : Exercice d'une activité extérieure. (art. D344-20 à D344-28)](#575)
+          - [Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes (art. R344-29 à D344-39)](#576)
+            - [Sous-section 1 : Contribution aux frais d'hébergement et d'entretien (art. R344-29 à R344-33)](#577)
+            - [Sous-section 2 : Minimum de ressources (art. D344-34 à D344-39)](#578)
+        - [Chapitre V : Centres d'hébergement et de réinsertion sociale (art. R345-1 à R345-7)](#579)
+          - [Section 1 : Activités et organisation (art. R345-1 à R345-3)](#580)
+          - [Section 2 : Accueil et séjour (art. R345-4 à R345-7)](#581)
+        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. R346-1)](#582)
+      - [Titre V : Contentieux de la tarification sanitaire et sociale (art. R351-1 à R351-41)](#583)
+        - [Chapitre unique (art. R351-1 à R351-41)](#584)
+          - [Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale (art. R351-1 à R351-14)](#585)
+            - [Sous-section 1 : Cour nationale de la tarification sanitaire et sociale. (art. R351-1 à R351-6)](#586)
+            - [Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale. (art. R351-7 à R351-14)](#587)
+          - [Section 2 : Règles de procédures applicables (art. R351-15 à R351-40)](#588)
+            - [Sous-section 1 : Introduction des recours. (art. R351-15 à R351-19)](#589)
+            - [Sous-section 2 : Instruction des recours et clôture de l'instruction. (art. R351-20 à R351-28)](#590)
+            - [Sous-section 3 : Séance de jugement et notification. (art. R351-29 à R351-37)](#591)
+            - [Sous-section 4 : Voies de recours. (art. R351-38 à R351-40)](#592)
+          - [Section 3 : Dispositions diverses. (art. R351-41)](#593)
+    - [Livre IV : Professions et activités d'accueil (art. R411-1 à R451-94)](#594)
+      - [Titre Ier : Assistants de service social (art. R411-1 à R411-3)](#595)
+        - [Chapitre unique. (art. R411-1 à R411-3)](#596)
+      - [Titre II : Assistants maternels (art. R421-1 à R422-21)](#597)
+        - [Chapitre Ier : Dispositions générales (art. R421-1 à R421-29)](#598)
+          - [Section 1 : Procédures d'agrément (art. R421-1 à R421-22)](#599)
+            - [Sous-section 1 : Conditions et modalités de délivrance de l'agrément. (art. R421-1 à R421-9)](#600)
+            - [Sous-section 2 : Renouvellement, suspension et retrait de l'agrément. (art. R421-10 à R421-13)](#601)
+            - [Sous-section 3 : Commission consultative paritaire départementale. (art. R421-14 à R421-22)](#602)
+          - [Section 2 : Modalités particulières relatives à l'activité. (art. R421-23 à R421-26)](#603)
+          - [Section 3 : Formation des assistants maternels. (art. D421-27)](#604)
+          - [Section 4 : Dispositions pénales. (art. R421-28 à R421-29)](#605)
+        - [Chapitre II : Assistants maternels employés par des personnes morales de droit public (art. R422-1 à R422-21)](#606)
+          - [Section 1 : Modalités de recrutement et conditions d'emploi. (art. D422-6 à R422-5)](#607)
+          - [Section 2 : Congés. (art. R422-8 à R422-19)](#608)
+          - [Section 3 : Discipline. (art. R422-20)](#609)
+          - [Section 4 : Licenciement. (art. R422-21)](#610)
+      - [Titre III : Autres professions (art. D431-1 à D431-3)](#611)
+        - [Chapitre unique : Techniciens de l'intervention sociale et familiale (art. D431-1 à D431-3)](#612)
+          - [Section unique : Exercice de la profession. (art. D431-1 à D431-3)](#613)
+      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. R441-1 à R442-1)](#614)
+        - [Chapitre Ier : Accueillants familiaux et modalités d'agrément (art. R441-1 à R441-15)](#615)
+          - [Section 1 : Modalités et délai d'instruction de la demande d'agrément. (art. R441-1 à R441-10)](#616)
+          - [Section 2 : Commission consultative de retrait. (art. R441-11 à R441-15)](#617)
+        - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial (art. D442-2 à R442-1)](#618)
+      - [Titre V : Formation des travailleurs sociaux (art. D451-5 à R451-94)](#619)
+        - [Chapitre unique : Dispositions générales (art. D451-5 à R451-94)](#620)
+          - [Section 1 : Etablissements de formation. (art. D451-5 à R451-4-3)](#621)
+          - [Section 2 : Bourses d'études. (art. D451-7)](#622)
+          - [Section 3 : Formations et diplômes (art. R451-11 à R451-94)](#623)
+            - [Sous-section 1 : Formations supérieures et diplômes d'encadrement (art. R451-11 à R451-28)](#624)
+              - [Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale. (art. R451-11 à R451-16)](#625)
+              - [Paragraphe 2 : Diplôme supérieur en travail social. (art. D451-17 à D451-19)](#626)
+              - [Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale. (art. R451-20 à R451-28)](#627)
+            - [Sous-section 2 : Formations et diplômes professionnels d'intervention sociale (art. D451-29 à R451-94)](#628)
+              - [Paragraphe 1 : Diplôme d'Etat d'assistant de service social. (art. D451-29 à R451-37)](#629)
+              - [Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé. (art. D451-41 à D451-46)](#630)
+              - [Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants. (art. D451-47 à D451-51)](#631)
+              - [Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé. (art. D451-52 à D451-56)](#632)
+              - [Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale. (art. D451-57)](#633)
+              - [Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation. (art. D451-58 à D451-65)](#634)
+              - [Paragraphe 7 : Diplôme d'Etat de médiateur familial. (art. R451-66 à R451-72)](#635)
+              - [Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur. (art. D451-73 à D451-80)](#636)
+              - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale. (art. D451-81 à D451-87)](#637)
+              - [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale. (art. R451-88 à R451-93)](#638)
+              - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique. (art. R451-94)](#639)
+    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. R521-1 à R571-1)](#640)
+      - [Titre II : Départements d'outre-mer (art. R521-1 à R523-1)](#641)
+        - [Chapitre Ier : Dispositions générales (art. R521-1 à R521-3)](#642)
+          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R521-1 à R521-2)](#643)
+          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R521-3)](#644)
+        - [Chapitre II : Revenu minimum d'insertion (art. R522-1 à R522-68)](#645)
+          - [Section 1 : Allocation (art. R522-1 à R522-3)](#646)
+          - [Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion (art. R522-4 à R522-7)](#647)
+          - [Section 3 : Agences d'insertion (art. R522-8 à R522-62)](#648)
+            - [Sous-section 1 : Organisation (art. R522-8 à R522-26)](#649)
+            - [Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale (art. R522-27 à R522-32)](#650)
+            - [Sous-section 3 : Dispositions financières et comptables (art. D522-35 à R522-39)](#651)
+            - [Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale (art. R522-40 à R522-55)](#652)
+            - [Sous-section 5 : Conventions avec les organismes utilisateurs (art. R522-56 à R522-62)](#653)
+          - [Section 4 : Revenu de solidarité (art. R522-63 à R522-68)](#654)
+        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. R523-1)](#655)
+          - [Section 2 : Aide à la famille (art. R523-1)](#656)
+      - [Titre III : Saint-Pierre-et-Miquelon (art. R531-1 à R533-1)](#657)
+        - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#658)
+          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R531-1)](#659)
+          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R531-2)](#660)
+        - [Chapitre II : Personnes handicapées (art. R532-1 à R532-5)](#661)
+        - [Chapitre IV : Adoption (art. R533-1)](#662)
+      - [Titre IV : Mayotte (art. R541-1 à R544-2)](#663)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R541-1)](#664)
+        - [Chapitre II : Aide sociale (art. D542-2 à R542-1)](#665)
+        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption (art. R544-1 à R544-2)](#666)
+          - [Section 1 : Organes chargés de la tutelle (art. R544-1)](#667)
+          - [Section 2 : Adoption (art. R544-2)](#668)
+            - [Sous-section 1 : Adoption des pupilles de l'Etat (art. R544-2)](#669)
+      - [Titre V : Territoire des Iles Wallis et Futuna (art. R551-1)](#670)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R551-1)](#671)
+      - [Titre VI : Polynésie française (art. R561-1)](#672)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R561-1)](#673)
+      - [Titre VII : Nouvelle-Calédonie (art. R571-1)](#674)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R571-1)](#675)
+  - [Annexe (art. Annexe 2-4 à Annexe 4-1)](#676)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -3897,12 +3899,44 @@ _Cité par_:
 
 ###### Article L133-6
 
-Le fait de percevoir frauduleusement ou de tenter de percevoir frauduleusement des prestations au titre de l'aide sociale est
-puni des peines prévues par les articles 313-1, 313-7 et 313-8 du code pénal.
+Nul ne peut exploiter ni diriger l'un quelconque des établissements, services ou lieux de vie et d'accueil régis par le
+présent code, y exercer une fonction à quelque titre que ce soit, ou être agréé au titre des dispositions du présent code,
+s'il a été condamné définitivement pour crime ou à une peine d'au moins deux mois d'emprisonnement sans sursis pour les
+délits prévus : 
 
-**Nota:**
+1° Au chapitre Ier, à l'exception du premier alinéa de l'article L. 221-6, du titre II du livre II du code pénal ; 
 
-Code de l'action sociale et des familles L541-2 : les dispositions du présent article sont applicables à Mayotte.
+2° Au chapitre II, à l'exception du premier alinéa de l'article L. 222-19, du titre II du livre II du même code ; 
+
+3° Aux chapitres III, IV, V et VII du titre II du livre II du même code ; 
+
+4° Au titre Ier du livre III du même code ; 
+
+5° Au chapitre Ier du titre II du livre III du même code ; 
+
+6° Aux paragraphes 2 et 5 de la section 3 du chapitre II du titre III du livre IV du même code ; 
+
+7° A la section 1 du chapitre III du titre III du livre IV du même code ; 
+
+8° A la section 2 du chapitre IV du titre III du livre IV du même code ; 
+
+9° Au chapitre Ier du titre IV du livre IV du même code, 
+
+ainsi que pour le délit prévu à l'article L. 3421-4 du code de la santé publique. 
+
+En cas de condamnation, prononcée par une juridiction étrangère et passée en force de chose jugée, pour une infraction
+constituant, selon la loi française, un crime ou l'un des délits mentionnés aux alinéas précédents, le tribunal de grande
+instance du domicile du condamné, statuant en matière correctionnelle, déclare, à la requête du ministère public, qu'il y a
+lieu à l'application de l'incapacité d'exercice prévue au présent article, après constatation de la régularité et de la
+légalité de la condamnation et l'intéressé dûment appelé en chambre du conseil. 
+
+Les personnes frappées d'une incapacité d'exercice peuvent demander à en être relevées dans les conditions prévues aux
+articles 132-21 du code pénal, 702-1 et 703 du code de procédure pénale. Cette requête est portée devant la chambre des
+appels correctionnels de la cour d'appel dans le ressort de laquelle le requérant réside lorsque la condamnation résulte
+d'une condamnation étrangère et qu'il a été fait application des dispositions de l'alinéa précédent. 
+
+Ces dispositions s'appliquent également aux établissements, services et lieux de vie et d'accueil mentionnés à l'article L.
+2324-1 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -3911,7 +3945,7 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Transféré par_:
+_Modifié par_:
 
   - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 13 () JORF 2 décembre 2005
 
@@ -3939,9 +3973,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 313-1 (M)
-  - Code pénal - art. 313-7 (MMN)
-  - Code pénal - art. 313-8 (M)
+  - Code pénal - art. 132-21 (V)
+  - Code de procédure pénale - art. 702-1 (V)
+  - Code de procédure pénale - art. 703 (V)
+  - Code de la santé publique - art. L3421-4 (V)
+  - Code de l'action sociale et des familles - art. L221-6 (VT)
 
 _Nouveaux textes_:
 
@@ -3987,8 +4023,8 @@ _Cite_:
 
 ###### Article L133-7
 
-Sauf disposition contraire, les modalités d'application des articles L. 133-1, L. 133-2, L. 133-3 et des articles L. 133-5 et
-L. 133-6 sont déterminées par décret en Conseil d'Etat.
+Sauf disposition contraire, les modalités d'application des articles L. 133-1, L. 133-2, L. 133-3 sont déterminées par décret
+en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -3997,13 +4033,13 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L133-1 (V)
-  - Code de l'action sociale et des familles - art. L133-2 (M)
-  - Code de l'action sociale et des familles - art. L133-3 (M)
-  - Code de l'action sociale et des familles - art. L133-5 (M)
-  - Code de l'action sociale et des familles - art. L133-6 (T)
 
 
 #### Chapitre IV : Contentieux.<a id=26></a>
@@ -4340,9 +4376,67 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 202 (Ab)
 
 
-### Titre IV : Institutions<a id=27></a>
+#### Chapitre V : Dispositions pénales.<a id=27></a>
 
-#### Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale.<a id=28></a>
+###### Article L135-1
+
+Le fait de percevoir frauduleusement ou de tenter de percevoir frauduleusement des prestations au titre de l'aide sociale est
+puni des peines prévues par les articles 313-1, 313-7 et 313-8 du code pénal.
+
+**Nota:**
+
+Dans sa décision n° 2013-328 QPC du 28 juin 2013 (NOR : CSCX1316951S), le Conseil constitutionnel a déclaré contraire à la
+Constitution l'article L. 135-1 du code de l'action sociale et des familles. La déclaration d'inconstitutionnalité prend
+effet à compter de la publication de la présente décision dans les conditions fixées par son considérant 8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 13 () JORF 2 décembre 2005
+
+_Abrogé par_:
+
+  - Décision n°2013-328 QPC du 28 juin 2013 - art. 1, v. init.
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. L133-6 (T)
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L114-16-2 (V)
+
+
+###### Article L135-2
+
+Est puni de deux ans d'emprisonnement et de 30 000 d'amende le fait d'exercer à quelque titre que ce soit l'une des activités
+visées à l'article L. 133-6 malgré les incapacités résultant d'une des condamnations énoncées à cet article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 13 () JORF 2 décembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L133-6 (V)
+
+
+### Titre IV : Institutions<a id=28></a>
+
+#### Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale.<a id=29></a>
 
 ###### Article L143-1
 
@@ -4380,7 +4474,7 @@ _Cité par_:
   - Code monétaire et financier - art. R312-9 (V)
 
 
-#### Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale.<a id=29></a>
+#### Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale.<a id=30></a>
 
 ###### Article L144-1
 
@@ -4419,7 +4513,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R144-1 (VD)
 
 
-#### Chapitre VI : Institutions relatives aux personnes handicapées.<a id=30></a>
+#### Chapitre VI : Institutions relatives aux personnes handicapées.<a id=31></a>
 
 ###### Article L146-1 A
 
@@ -4446,7 +4540,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Section 1 : Consultation des personnes handicapées.<a id=31></a>
+##### Section 1 : Consultation des personnes handicapées.<a id=32></a>
 
 ###### Article L146-1
 
@@ -4622,7 +4716,7 @@ _Abrogé par_:
   - Loi n°2015-1776 du 28 décembre 2015 - art. 81
 
 
-##### Section 2 : Maisons départementales des personnes handicapées.<a id=32></a>
+##### Section 2 : Maisons départementales des personnes handicapées.<a id=33></a>
 
 ###### Article L146-3
 
@@ -5203,7 +5297,7 @@ _Créé par_:
   - Loi n°2005-102 du 11 février 2005 - art. 64 () JORF 12 février 2005
 
 
-##### Section 3 : Traitement amiable des litiges.<a id=33></a>
+##### Section 3 : Traitement amiable des litiges.<a id=34></a>
 
 ###### Article L146-13
 
@@ -5243,7 +5337,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L143-9-1 (VT)
 
 
-#### Chapitre VII : Conseil national pour l'accès aux origines personnelles<a id=34></a>
+#### Chapitre VII : Conseil national pour l'accès aux origines personnelles<a id=35></a>
 
 ###### Article L147-1
 
@@ -5655,7 +5749,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L147-5 (V)
 
 
-#### Chapitre VIII : Conseil supérieur de l'adoption et Autorité centrale pour l'adoption internationale<a id=35></a>
+#### Chapitre VIII : Conseil supérieur de l'adoption et Autorité centrale pour l'adoption internationale<a id=36></a>
 
 ###### Article L148-1
 
@@ -5723,7 +5817,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R*148-4 (V)
 
 
-#### Chapitre IX : Comités départementaux des retraités et personnes âgées<a id=36></a>
+#### Chapitre IX : Comités départementaux des retraités et personnes âgées<a id=37></a>
 
 ###### Article L149-1
 
@@ -5779,7 +5873,7 @@ _Cité par_:
   - Code de la santé publique - art. D1443-20 (V)
 
 
-#### Chapitre X : Caisse nationale de solidarité pour l'autonomie.<a id=37></a>
+#### Chapitre X : Caisse nationale de solidarité pour l'autonomie.<a id=38></a>
 
 ###### Article L14-10-1
 
@@ -6521,11 +6615,11 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L14-10-5 (V)
 
 
-## Livre II : Différentes formes d'aide et d'action sociales<a id=38></a>
+## Livre II : Différentes formes d'aide et d'action sociales<a id=39></a>
 
-### Titre Ier : Famille<a id=39></a>
+### Titre Ier : Famille<a id=40></a>
 
-#### Chapitre Ier : Associations familiales.<a id=40></a>
+#### Chapitre Ier : Associations familiales.<a id=41></a>
 
 ###### Article L211-1
 
@@ -7072,7 +7166,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L543-1 (V)
 
 
-#### Chapitre II : Aide sociale aux familles.<a id=41></a>
+#### Chapitre II : Aide sociale aux familles.<a id=42></a>
 
 ###### Article L212-1
 
@@ -7128,7 +7222,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 156 (Ab)
 
 
-#### Chapitre III : Education et conseil familial.<a id=42></a>
+#### Chapitre III : Education et conseil familial.<a id=43></a>
 
 ###### Article L213-1
 
@@ -7166,76 +7260,79 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre IV : Accueil des jeunes enfants.<a id=43></a>
+#### Chapitre IV : Accueil des jeunes enfants.<a id=44></a>
 
 ###### Article L214-1
 
 Les règles relatives à l'accueil des enfants de moins de six ans sont fixées par les dispositions des articles L. 2324-1, L.
-2324-2, L. 2324-3, L. 2324-4 et L. 2326-4 du code de la santé publique ci-après reproduites :
+2324-2, L. 2324-3, L. 2324-4 et L. 2326-4 du code de la santé publique ci-après reproduites : 
 
-" Art. L. 2324-1. - Si elles ne sont pas soumises à un régime d'autorisation en vertu d'une autre disposition législative, la
+" Art.L. 2324-1.-Si elles ne sont pas soumises à un régime d'autorisation en vertu d'une autre disposition législative, la
 création, l'extension et la transformation des établissements et services gérés par une personne physique ou morale de droit
 privé accueillant des enfants de moins de six ans sont subordonnées à une autorisation délivrée par le président du conseil
-général, après avis du maire de la commune d'implantation.
+général, après avis du maire de la commune d'implantation. 
 
 Sous la même réserve, la création, l'extension et la transformation des établissements et services publics accueillant des
 enfants de moins de six ans sont décidées par la collectivité publique intéressée, après avis du président du conseil
 général.
 
-La création, l'extension ou la transformation des centres de vacances, de loisirs ou de placement de vacances, publics ou
-privés, qui accueillent des enfants de moins de six ans est subordonnée à une autorisation délivrée par le représentant de
-l'Etat dans le département, après avis du médecin responsable du service départemental de protection maternelle et infantile.
+L'organisation d'un accueil collectif à caractère éducatif hors du domicile parental, à l'occasion des vacances scolaires,
+des congés professionnels ou des loisirs, public ou privé, ouvert à des enfants scolarisés de moins de six ans est
+subordonnée à une autorisation délivrée par le représentant de l'Etat dans le département, après avis du médecin responsable
+du service départemental de protection maternelle et infantile. 
 
 Les conditions de qualification ou d'expérience professionnelle, de moralité et d'aptitude physique requises des personnes
 exerçant leur activité dans les établissements ou services mentionnés aux alinéas précédents ainsi que les conditions
-d'installation et de fonctionnement de ces établissements ou services sont fixées par voie réglementaire.
+d'installation et de fonctionnement de ces établissements ou services sont fixées par voie réglementaire. 
 
-" Art. L. 2324-2. - " Les établissements et services mentionnés à l'article L. 2324-1 sont soumis au contrôle et à la
+Les dispositions de l'article L. 133-6 du code de l'action sociale et des familles s'appliquent aux établissements, services
+et lieux de vie et d'accueil mentionnés au présent chapitre. " 
+
+" Art.L. 2324-2.-" " Les établissements et services mentionnés à l'article L. 2324-1 sont soumis au contrôle et à la
 surveillance du médecin responsable du service départemental de protection maternelle et infantile. "
 
-" Art. L. 2324-3. - Lorsqu'il estime que la santé physique ou mentale ou l'éducation des enfants sont compromises ou
-menacées :
+" Art.L. 2324-3.-Lorsqu'il estime que la santé physique ou mentale ou l'éducation des enfants sont compromises ou menacées : 
 
 1° Le représentant de l'Etat dans le département ou le président du conseil général peut adresser des injonctions aux
-établissements et services mentionnés au premier alinéa de l'article L. 2324-1 ;
+établissements et services mentionnés au premier alinéa de l'article L. 2324-1 ; 
 
 2° Le représentant de l'Etat dans le département peut adresser des injonctions aux établissements et services mentionnés aux
-alinéas 2 et 3 de l'article L. 2324-1.
+alinéas 2 et 3 de l'article L. 2324-1. 
 
 Dans le cas où il n'a pas été satisfait aux injonctions, le représentant de l'Etat dans le département peut prononcer la
 fermeture totale ou partielle, provisoire ou définitive, des établissements ou services mentionnés à l'article L. 2324-1,
 après avis du président du conseil général en ce qui concerne les établissements et services mentionnés aux deux premiers
-alinéas de cet article.
+alinéas de cet article. 
 
-La fermeture définitive vaut retrait des autorisations instituées aux alinéas 1 et 3 de l'article L. 2324-1.
+La fermeture définitive vaut retrait des autorisations instituées aux alinéas 1 et 3 de l'article L. 2324-1. 
 
 En cas d'urgence, le représentant de l'Etat dans le département peut prononcer, par arrêté motivé, la fermeture immédiate, à
-titre provisoire, des établissements mentionnés à l'article L. 2324-1. Il en informe le président du conseil général. "
+titre provisoire, des établissements mentionnés à l'article L. 2324-1. Il en informe le président du conseil général. " 
 
-" Art. L. 2324-4. - Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret
-en Conseil d'Etat. "
+" Art.L. 2324-4.-Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en
+Conseil d'Etat. " 
 
-" Art. L. 2326-4. - " La création, l'extension ou la transformation des établissements et services privés mentionnés à
-l'article L. 2324-1 sans l'autorisation mentionnée aux alinéas premier et troisième de l'article L. 2324-1 est punie de trois
-mois d'emprisonnement et de 3750 euros d'amende.
+" Art.L. 2326-4.-" La création, l'extension ou la transformation des établissements et services privés mentionnés à l'article
+L. 2324-1 sans l'autorisation mentionnée aux alinéas premier et troisième de l'article L. 2324-1 est punie de trois mois
+d'emprisonnement et de 3750 euros d'amende. 
 
 Les personnes physiques coupables de l'infraction mentionnée à l'alinéa précédent encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
-1° L'interdiction, temporaire ou définitive, de diriger tout établissement ou service mentionné à l'article L. 2324-1 ;
+1° L'interdiction, temporaire ou définitive, de diriger tout établissement ou service mentionné à l'article L. 2324-1 ; 
 
 2° La fermeture, temporaire ou définitive, des établissements ou services. "
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -7244,6 +7341,16 @@ _Cite_:
   - Code de la santé publique - art. L2324-3 (V)
   - Code de la santé publique - art. L2324-4 (V)
   - Code de la santé publique - art. L2326-4 (M)
+  - Code de l'action sociale et des familles - art. L133-6 (T)
+  - Code de l'action sociale et des familles L133-6, L2324-1
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2324-1 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2324-2 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2324-3 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2324-4 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L2326-4 (V)
 
 _Cité par_:
 
@@ -7416,7 +7523,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R421-1 (VD)
 
 
-#### Chapitre V : Dispositions diverses en faveur des familles.<a id=44></a>
+#### Chapitre V : Dispositions diverses en faveur des familles.<a id=45></a>
 
 ###### Article L215-1
 
@@ -7497,9 +7604,9 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 36 (Ab)
 
 
-### Titre II : Enfance<a id=45></a>
+### Titre II : Enfance<a id=46></a>
 
-#### Chapitre Ier : Service de l'aide sociale à l'enfance.<a id=46></a>
+#### Chapitre Ier : Service de l'aide sociale à l'enfance.<a id=47></a>
 
 ###### Article L221-1
 
@@ -7820,7 +7927,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 82 (Ab)
 
 
-#### Chapitre II : Prestations d'aide sociale à l'enfance.<a id=47></a>
+#### Chapitre II : Prestations d'aide sociale à l'enfance.<a id=48></a>
 
 ###### Article L222-1
 
@@ -8102,7 +8209,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre III : Droits des familles dans leurs rapports avec les services de l'aide sociale à l'enfance.<a id=48></a>
+#### Chapitre III : Droits des familles dans leurs rapports avec les services de l'aide sociale à l'enfance.<a id=49></a>
 
 ###### Article L223-1
 
@@ -8415,9 +8522,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L223-7 (T)
 
 
-#### Chapitre IV : Pupilles de l'Etat<a id=49></a>
+#### Chapitre IV : Pupilles de l'Etat<a id=50></a>
 
-##### Section 1 : Organes chargés de la tutelle.<a id=50></a>
+##### Section 1 : Organes chargés de la tutelle.<a id=51></a>
 
 ###### Article L224-1
 
@@ -8549,7 +8656,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 60 (Ab)
 
 
-##### Section 2 : Admission en qualité de pupille de l'Etat.<a id=51></a>
+##### Section 2 : Admission en qualité de pupille de l'Etat.<a id=52></a>
 
 ###### Article L224-4
 
@@ -8799,7 +8906,7 @@ _Cité par_:
   - Code de procédure civile - art. 1231-2 (Ab)
 
 
-##### Section 3 : Statut des pupilles.<a id=52></a>
+##### Section 3 : Statut des pupilles.<a id=53></a>
 
 ###### Article L224-9
 
@@ -8893,7 +9000,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1067 (V)
 
 
-##### Section 4 : Dispositions communes.<a id=53></a>
+##### Section 4 : Dispositions communes.<a id=54></a>
 
 ###### Article L224-12
 
@@ -8925,9 +9032,9 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 60 (Ab)
 
 
-#### Chapitre V : Adoption<a id=54></a>
+#### Chapitre V : Adoption<a id=55></a>
 
-##### Section 1 : Adoption des pupilles de l'Etat.<a id=55></a>
+##### Section 1 : Adoption des pupilles de l'Etat.<a id=56></a>
 
 ###### Article L225-1
 
@@ -9284,7 +9391,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1067 (V)
 
 
-##### Section 2 : Organismes autorisés et habilités pour l'adoption.<a id=56></a>
+##### Section 2 : Organismes autorisés et habilités pour l'adoption.<a id=57></a>
 
 ###### Article L225-11
 
@@ -9479,7 +9586,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L225-16 (V)
 
 
-##### Section 3 : Agence française de l'adoption.<a id=57></a>
+##### Section 3 : Agence française de l'adoption.<a id=58></a>
 
 ###### Article L225-15
 
@@ -9599,7 +9706,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 100-4 (Ab)
 
 
-##### Section 4 : Adoption internationale.<a id=58></a>
+##### Section 4 : Adoption internationale.<a id=59></a>
 
 ###### Article L225-17
 
@@ -9767,7 +9874,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L225-18 (T)
 
 
-#### Chapitre VI : Protection des mineurs maltraités.<a id=59></a>
+#### Chapitre VI : Protection des mineurs maltraités.<a id=60></a>
 
 ###### Article L226-1
 
@@ -10157,7 +10264,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L226-6 (M)
 
 
-#### Chapitre VII : Mineurs accueillis hors du domicile parental.<a id=60></a>
+#### Chapitre VII : Mineurs accueillis hors du domicile parental.<a id=61></a>
 
 ###### Article L227-1
 
@@ -10434,90 +10541,6 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L227-4 (V)
 
 
-###### Article L227-7
-
-Nul ne peut exercer des fonctions, à quelque titre que ce soit, en vue de l'accueil des mineurs mentionné à l'article L.
-227-4 ou exploiter des locaux accueillant ces mineurs, s'il a fait l'objet d'une condamnation définitive pour crime ou à une
-peine d'emprisonnement pour l'un des délits prévus :
-
-- aux sections 1, 2, 3 et 4 du chapitre II du titre II du livre II du code pénal ;
-
-- à la section 2 du chapitre V du titre II du livre II du même code ;
-
-- à la section 5 du chapitre VII du titre II du livre II du même code ;
-
-- au chapitre II du titre Ier du livre III du même code ;
-
-- à la section 1 du chapitre III du titre Ier du livre III du même code ;
-
-- à la section 1 du chapitre IV du titre Ier du livre III du même code ;
-
-- à l'article L. 3421-4 du code de la santé publique.
-
-Les personnes exerçant l'une des activités mentionnées au premier alinéa qui font l'objet des condamnations prévues au
-présent article doivent cesser leur activité dans un délai de deux mois à compter de la date à laquelle la décision de
-justice est devenue définitive.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Modifié par_:
-
-  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 5 () JORF 2 septembre 2005
-
-_Cité par_:
-
-  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 11 (V)
-  - Code de l'action sociale et des familles - art. L227-11 (M)
-  - Code de l'action sociale et des familles - art. L227-7-1 (Ab)
-  - Code de l'action sociale et des familles - art. L227-8 (M)
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
-
-_Cite_:
-
-  - Code de la santé publique - art. L3421-4 (M)
-  - Code de l'action sociale et des familles - art. L227-4 (M)
-
-
-###### Article L227-7-1
-
-En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
-constituant, selon la loi française, un crime ou l'un des délits mentionnés à l'article L. 227-7, le tribunal de grande
-instance du domicile du condamné, statuant en matière correctionnelle, à la requête du ministère public, déclare, après
-constatation de la régularité et de la légalité de la condamnation et l'intéressé dûment appelé en chambre du conseil, qu'il
-y a lieu à l'application de l'incapacité prévue à l'article L. 227-7.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Créé par_:
-
-  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 6 () JORF 2 septembre 2005
-
-_Cité par_:
-
-  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 11 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L227-7 (M)
-
-
 ###### Article L227-8
 
 Est puni de six mois d'emprisonnement et de 3750 euros d'amende :
@@ -10535,7 +10558,7 @@ des fonctions dont sont chargés les agents mentionnés à l'article L. 227-9.
 Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
 
 1° Le fait d'exercer des fonctions à quelque titre que ce soit en vue de l'accueil de mineurs mentionnés à l'article L.
-227-4, ou d'exploiter les locaux accueillant ces mineurs malgré les incapacités prévues à l'article L. 227-7 ;
+227-4, ou d'exploiter les locaux accueillant ces mineurs malgré les incapacités prévues à l'article L. 133-6 ;
 
 2° Le fait de ne pas exécuter les décisions préfectorales prévues aux articles L. 227-5, L. 227-10 et L. 227-11.
 
@@ -10557,16 +10580,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 7 () JORF 2 septembre 2005
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 ()
 
 _Cite_:
 
   - Code pénal - art. 121-2 (M)
+  - Code de l'action sociale et des familles - art. L133-6 (T)
   - Code de l'action sociale et des familles - art. L227-10 (M)
   - Code de l'action sociale et des familles - art. L227-11 (M)
   - Code de l'action sociale et des familles - art. L227-4 (M)
   - Code de l'action sociale et des familles - art. L227-5 (M)
-  - Code de l'action sociale et des familles - art. L227-7 (M)
 
 
 ###### Article L227-9
@@ -10699,9 +10722,8 @@ _Cite_:
 
 ###### Article L227-11
 
-I. - Le représentant de l'Etat dans le département peut adresser, à toute personne qui exerce une responsabilité dans
-l'accueil des mineurs mentionné à l'article L. 227-4 ou aux exploitants des locaux les accueillant, une injonction pour
-mettre fin :
+I.-Le représentant de l'Etat dans le département peut adresser, à toute personne qui exerce une responsabilité dans l'accueil
+des mineurs mentionné à l'article L. 227-4 ou aux exploitants des locaux les accueillant, une injonction pour mettre fin :
 
 - aux manquements aux dispositions prévues à l'article L. 227-5 ;
 
@@ -10709,25 +10731,25 @@ mettre fin :
 
 - aux manquements aux dispositions relatives au projet éducatif prévues à l'article L. 227-4 ;
 
-- aux manquements aux dispositions prévues à l'article L. 227-7 et à l'article L. 227-10.
+- aux manquements aux dispositions prévues à l'article L. 133-6 et à l'article L. 227-10. 
 
 A l'expiration du délai fixé dans l'injonction, le représentant de l'Etat dans le département peut, de manière totale ou
 partielle, interdire ou interrompre l'accueil de mineurs mentionné à l'article L. 227-4, ainsi que prononcer la fermeture
 temporaire ou définitive des locaux dans lesquels il se déroule, si la ou les personnes qui exercent une responsabilité dans
 l'accueil des mineurs mentionné à l'article L. 227-4 ou les exploitants des locaux les accueillant n'ont pas remédié aux
-situations qui ont justifié l'injonction.
+situations qui ont justifié l'injonction. 
 
 En cas d'urgence ou lorsque l'une des personnes mentionnées à l'alinéa précédent refuse de se soumettre à la visite prévue à
 l'article L. 227-9, le représentant de l'Etat dans le département peut décider, sans injonction préalable, d'interdire ou
-d'interrompre l'accueil ou de fermer les locaux dans lesquels il se déroule.
+d'interrompre l'accueil ou de fermer les locaux dans lesquels il se déroule. 
 
 Le cas échéant, il prend, avec la personne responsable de l'accueil, les mesures nécessaires en vue de pourvoir au retour des
-mineurs dans leur famille.
+mineurs dans leur famille. 
 
-II. - Lorsque les conditions d'accueil présentent ou sont susceptibles de présenter des risques pour la santé ou la sécurité
+II.-Lorsque les conditions d'accueil présentent ou sont susceptibles de présenter des risques pour la santé ou la sécurité
 physique ou morale des mineurs ou que sont constatés des manquements aux obligations rappelées au I, le représentant de
 l'Etat dans le département peut adresser à la personne morale qui organise l'accueil de mineurs mentionné à l'article L.
-227-4 les injonctions nécessaires pour prévenir ces risques ou mettre fin à ces manquements.
+227-4 les injonctions nécessaires pour prévenir ces risques ou mettre fin à ces manquements. 
 
 Si, à l'expiration du délai fixé, il n'a pas été mis fin aux dysfonctionnements constatés, le représentant de l'Etat dans le
 département peut, après avis de la commission mentionnée à l'article L. 227-10, prononcer à l'encontre de la personne morale
@@ -10752,14 +10774,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 9 () JORF 2 septembre 2005
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 ()
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L227-10 (M)
-  - Code de l'action sociale et des familles - art. L227-4 (M)
-  - Code de l'action sociale et des familles - art. L227-5 (M)
-  - Code de l'action sociale et des familles - art. L227-7 (M)
+  - Code de l'action sociale et des familles - art. L133-6 (V)
+  - Code de l'action sociale et des familles - art. L227-10 (V)
+  - Code de l'action sociale et des familles - art. L227-4 (V)
+  - Code de l'action sociale et des familles - art. L227-5 (V)
   - Code de l'action sociale et des familles - art. L227-9 (V)
 
 
@@ -10784,7 +10806,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L227-11 (V)
 
 
-#### Chapitre VIII : Dispositions financières.<a id=61></a>
+#### Chapitre VIII : Dispositions financières.<a id=62></a>
 
 ###### Article L228-1
 
@@ -10991,9 +11013,9 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 88 (Ab)
 
 
-### Titre III : Personnes âgées<a id=62></a>
+### Titre III : Personnes âgées<a id=63></a>
 
-#### Chapitre Ier : Aide à domicile et placement.<a id=63></a>
+#### Chapitre Ier : Aide à domicile et placement.<a id=64></a>
 
 ###### Article L231-1
 
@@ -11192,9 +11214,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L231-3 (V)
 
 
-#### Chapitre II : Allocation personnalisée d'autonomie<a id=64></a>
+#### Chapitre II : Allocation personnalisée d'autonomie<a id=65></a>
 
-##### Section 1 : Allocation personnalisée d'autonomie et qualité des services aux personnes âgées.<a id=65></a>
+##### Section 1 : Allocation personnalisée d'autonomie et qualité des services aux personnes âgées.<a id=66></a>
 
 ###### Article L232-1
 
@@ -11379,7 +11401,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 199 sexdecies (V)
 
 
-##### Sous-section 1 : Prise en charge et allocation personnalisée d'autonomie à domicile<a id=66></a>
+##### Sous-section 1 : Prise en charge et allocation personnalisée d'autonomie à domicile<a id=67></a>
 
 ###### Article L232-3
 
@@ -11665,7 +11687,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L232-6 (M)
 
 
-##### Sous-section 2 : Allocation personnalisée d'autonomie en établissement<a id=67></a>
+##### Sous-section 2 : Allocation personnalisée d'autonomie en établissement<a id=68></a>
 
 ###### Article L232-8
 
@@ -11882,7 +11904,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L542-3 (V)
 
 
-##### Section 2 : Gestion de l'allocation personnalisée d'autonomie<a id=68></a>
+##### Section 2 : Gestion de l'allocation personnalisée d'autonomie<a id=69></a>
 
 ###### Article L232-12
 
@@ -12312,7 +12334,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L134-6 (V)
 
 
-##### Section 4 : Dispositions communes.<a id=69></a>
+##### Section 4 : Dispositions communes.<a id=70></a>
 
 ###### Article L232-22
 
@@ -12554,9 +12576,9 @@ _Créé par_:
   - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 
-### Titre IV : Personnes handicapées<a id=70></a>
+### Titre IV : Personnes handicapées<a id=71></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=71></a>
+#### Chapitre Ier : Dispositions générales.<a id=72></a>
 
 ###### Article L241-1
 
@@ -12891,7 +12913,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre Ier bis : Commission des droits et de l'autonomie des personnes handicapées.<a id=72></a>
+#### Chapitre Ier bis : Commission des droits et de l'autonomie des personnes handicapées.<a id=73></a>
 
 ###### Article L241-5
 
@@ -13211,9 +13233,9 @@ _Créé par_:
   - Loi n°2005-102 du 11 février 2005 - art. 66 () JORF 12 février 2005
 
 
-#### Chapitre II : Enfance et adolescence handicapées<a id=73></a>
+#### Chapitre II : Enfance et adolescence handicapées<a id=74></a>
 
-##### Section 1 : Scolarité et accompagnement des enfants et des adolescents handicapés.<a id=74></a>
+##### Section 1 : Scolarité et accompagnement des enfants et des adolescents handicapés.<a id=75></a>
 
 ###### Article L242-1
 
@@ -13274,6 +13296,21 @@ Au vu du rapport biennal susvisé, toutes les dispositions sont prises en suffis
 programmation pluriannuelle, les places en établissement nécessaires à l'accueil des jeunes personnes handicapées âgées de
 plus de vingt ans.
 
+Lorsque le jeune adulte handicapé est orienté vers un établissement relevant de la compétence du département, le tarif
+journalier de l'établissement pour mineurs dans lequel le jeune adulte handicapé est maintenu est pris en charge par l'aide
+sociale du département dans lequel il a son domicile de secours.
+
+Lorsque le jeune adulte handicapé est orienté vers un établissement et service mentionné au V de l'article L. 314-1, le prix
+de journée de l'établissement pour mineur à la charge de l'aide sociale du département est diminué du forfait journalier
+plafond afférent aux soins fixé pour l'exercice précédent, qui est facturé aux organismes d'assurance maladie.
+
+Dans les autres cas, ce tarif journalier est pris en charge par les organismes d'assurance maladie et est facturé par
+l'établissement à ces derniers.
+
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -13295,13 +13332,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 67 () JORF 12 février 2005
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 6 () JORF 2 décembre 2005
 
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L146-1 (M)
   - Code de l'action sociale et des familles - art. L146-9 (V)
   - Code de l'action sociale et des familles - art. L312-1 (M)
+  - Code de l'action sociale et des familles - art. L314-1 (M)
 
 
 ###### Article L242-10
@@ -13448,7 +13486,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L111-2 (V)
 
 
-##### Section 2 : Allocation d'éducation de l'enfant handicapé.<a id=75></a>
+##### Section 2 : Allocation d'éducation de l'enfant handicapé.<a id=76></a>
 
 ###### Article L242-14
 
@@ -13478,7 +13516,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R241-6 (V)
 
 
-#### Chapitre III : Travailleurs handicapés<a id=76></a>
+#### Chapitre III : Travailleurs handicapés<a id=77></a>
 
 ###### Article L243-4
 
@@ -13635,7 +13673,7 @@ _Modifié par_:
   - Loi n°2005-102 du 11 février 2005 - art. 67 () JORF 12 février 2005
 
 
-#### Chapitre IV : Allocation aux adultes handicapés.<a id=77></a>
+#### Chapitre IV : Allocation aux adultes handicapés.<a id=78></a>
 
 ###### Article L244-1
 
@@ -13807,7 +13845,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R241-7 (V)
 
 
-#### Chapitre V : Prestation de compensation.<a id=78></a>
+#### Chapitre V : Prestation de compensation.<a id=79></a>
 
 ###### Article L245-1
 
@@ -14501,7 +14539,7 @@ _Créé par_:
   - Loi n°2005-102 du 11 février 2005 - art. 12 () JORF 12 février 2005
 
 
-#### Chapitre VI : Personnes atteintes de syndrome autistique et personnes atteintes de polyhandicap.<a id=79></a>
+#### Chapitre VI : Personnes atteintes de syndrome autistique et personnes atteintes de polyhandicap.<a id=80></a>
 
 ###### Article L246-1
 
@@ -14529,7 +14567,7 @@ _Modifié par_:
   - Loi n°2005-102 du 11 février 2005 - art. 90 () JORF 12 février 2005
 
 
-#### Chapitre VII : Gestion et suivi statistique<a id=80></a>
+#### Chapitre VII : Gestion et suivi statistique<a id=81></a>
 
 ###### Article L247-1
 
@@ -14726,7 +14764,7 @@ _Créé par_:
   - Loi n°2005-102 du 11 février 2005 - art. 88 () JORF 12 février 2005
 
 
-#### Chapitre VIII : Formation des aidants familiaux<a id=81></a>
+#### Chapitre VIII : Formation des aidants familiaux<a id=82></a>
 
 ###### Article L248-1
 
@@ -14749,9 +14787,9 @@ _Abrogé par_:
   - Loi n°2011-525 du 17 mai 2011 - art. 141
 
 
-### Titre V : Personnes non bénéficiaires de la couverture maladie universelle<a id=82></a>
+### Titre V : Personnes non bénéficiaires de la couverture maladie universelle<a id=83></a>
 
-#### Chapitre Ier : Droit à l'aide médicale de l'Etat.<a id=83></a>
+#### Chapitre Ier : Droit à l'aide médicale de l'Etat.<a id=84></a>
 
 ###### Article L251-1
 
@@ -14914,7 +14952,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre II : Modalités d'admission.<a id=84></a>
+#### Chapitre II : Modalités d'admission.<a id=85></a>
 
 ###### Article L252-1
 
@@ -15059,7 +15097,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre III : Dispositions financières.<a id=85></a>
+#### Chapitre III : Dispositions financières.<a id=86></a>
 
 ###### Article L253-1
 
@@ -15153,7 +15191,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 202 (Ab)
 
 
-#### Chapitre IV : Prise en charge des soins urgents<a id=86></a>
+#### Chapitre IV : Prise en charge des soins urgents<a id=87></a>
 
 ###### Article L254-1
 
@@ -15229,11 +15267,11 @@ _Cite_:
   - Code de l'action sociale et des familles L174-2, L251-1, L254-1
 
 
-### Titre VI : Lutte contre la pauvreté et les exclusions<a id=87></a>
+### Titre VI : Lutte contre la pauvreté et les exclusions<a id=88></a>
 
-#### Chapitre Ier : Logement<a id=88></a>
+#### Chapitre Ier : Logement<a id=89></a>
 
-##### Section 1 : Aides générales au logement.<a id=89></a>
+##### Section 1 : Aides générales au logement.<a id=90></a>
 
 ###### Article L261-1
 
@@ -15286,7 +15324,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L831-1 (V)
 
 
-##### Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées.<a id=90></a>
+##### Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées.<a id=91></a>
 
 ###### Article L261-5
 
@@ -15347,9 +15385,9 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre II : Revenu minimum d'insertion<a id=91></a>
+#### Chapitre II : Revenu minimum d'insertion<a id=92></a>
 
-##### Section 1 : Dispositions générales<a id=92></a>
+##### Section 1 : Dispositions générales<a id=93></a>
 
 ###### Article L262-1
 
@@ -15893,7 +15931,7 @@ _Cite_:
   - Code du travail - art. L322-4-15-1
 
 
-##### Section 2 : Conditions d'ouverture du droit à l'allocation.<a id=93></a>
+##### Section 2 : Conditions d'ouverture du droit à l'allocation.<a id=94></a>
 
 ###### Article L262-7
 
@@ -16236,7 +16274,7 @@ _Cite_:
   - Code du travail - art. L322-4-15-6 (M)
 
 
-##### Section 3 : Attribution de l'allocation<a id=94></a>
+##### Section 3 : Attribution de l'allocation<a id=95></a>
 
 ###### Article L262-13
 
@@ -16456,13 +16494,14 @@ _Modifié par_:
 
 ###### Article L262-18
 
-Une personne sans résidence stable doit, pour demander le bénéfice de l'allocation, élire domicile auprès d'un organisme
-agréé à cette fin par le président du conseil général ou auprès d'un centre communal ou intercommunal d'action sociale.
+Par dérogation aux dispositions du chapitre II du titre II du livre Ier, l'allocation est attribuée par le département de
+résidence du demandeur. A défaut de résidence, le département compétent est celui dans lequel le demandeur a élu domicile.
+L'élection de domicile est réalisée auprès d'un organisme agréé à cette fin par le président du conseil général ou auprès
+d'un centre communal ou intercommunal d'action sociale.
 
-Les personnes circulant en France sans domicile ni résidence fixe, au sens de la loi n° 69-3 du 3 janvier 1969 relative à
-l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence
-fixe, élisent domicile auprès d'un organisme agréé ou d'un centre communal ou intercommunal d'action sociale, situé ou non
-dans leur commune de rattachement.
+Les personnes relevant de la loi n° 69-3 du 3 janvier 1969 relative à l'exercice des activités ambulantes et au régime
+applicable aux personnes circulant en France sans domicile ni résidence fixe élisent domicile auprès d'un organisme agréé ou
+d'un centre communal ou intercommunal d'action sociale, situé ou non dans leur commune de rattachement.
 
 L'agrément précise les conditions dans lesquelles les organismes peuvent, le cas échéant, refuser de recevoir la déclaration
 d'élection de domicile.
@@ -16478,6 +16517,7 @@ La demande d'allocation qui y est déposée est réputée valoir élection de do
 _Cite_:
 
   - Loi n°69-3 1969-01-03
+  - Loi n°2003-1200 2003-12-18
 
 _Anciens textes_:
 
@@ -16497,14 +16537,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-1200 du 18 décembre 2003 - art. 13 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 2 () JORF 2 décembre 2005
 
 
 ###### Article L262-19
 
-Lors de la demande initiale, l'allocation est attribuée pour une durée de trois mois par le président du conseil général du
-département de résidence du demandeur ou, le cas échéant, de celui dans lequel il a élu domicile, dans les conditions prévues
-à l'article L. 262-3.
+Lors de la demande initiale, l'allocation est attribuée, dans les conditions prévues à l'article L. 262-3, pour une durée de
+trois mois par le président du conseil général du département compétent.
 
 Le droit à l'allocation est prorogé pour une durée de trois mois à un an par le président du conseil général au vu du contrat
 d'insertion établi dans les conditions fixées à l'article L. 262-37.
@@ -16517,6 +16556,14 @@ Si, du fait de l'intéressé et sans motif légitime, le contrat d'insertion n'e
 mentionné au premier alinéa, le versement de l'allocation est suspendu par le président du conseil général après avis de la
 commission locale d'insertion prévue à l'article L. 263-10, après que l'intéressé, assisté, le cas échéant, de la personne de
 son choix, a été mis en mesure de faire connaître ses observations.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X).
 
 **Liens relatifs à cet article**
 
@@ -16542,15 +16589,15 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Modifié par_:
-
-  - Loi n°2003-1200 du 18 décembre 2003 - art. 14 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-
 _Cite_:
 
+  - Loi n°2003-1200 2003-12-18
   - Code de l'action sociale et des familles - art. L262-3 (V)
   - Code de l'action sociale et des familles - art. L262-37 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 2 () JORF 2 décembre 2005
 
 
 ###### Article L262-20
@@ -17383,7 +17430,7 @@ _Modifié par_:
   - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 
-##### Section 4 : Contrat d'insertion<a id=95></a>
+##### Section 4 : Contrat d'insertion<a id=96></a>
 
 ###### Article L262-37
 
@@ -17551,7 +17598,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L262-38
 
 
-##### Section 5 : Recours et récupération<a id=96></a>
+##### Section 5 : Recours et récupération<a id=97></a>
 
 ###### Article L262-39
 
@@ -17924,7 +17971,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L554-2 (M)
 
 
-##### Section 6 : Suivi statistique, évaluation et contrôle<a id=97></a>
+##### Section 6 : Suivi statistique, évaluation et contrôle<a id=98></a>
 
 ###### Article L262-48
 
@@ -18162,7 +18209,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R262-81 (V)
 
 
-##### Section 7 : Dispositions communes<a id=98></a>
+##### Section 7 : Dispositions communes<a id=99></a>
 
 ###### Article L262-55
 
@@ -18193,9 +18240,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L262-48 (MMN)
 
 
-#### Chapitre III : Actions d'insertion<a id=99></a>
+#### Chapitre III : Actions d'insertion<a id=100></a>
 
-##### Section 1 : Dispositif départemental d'insertion.<a id=100></a>
+##### Section 1 : Dispositif départemental d'insertion.<a id=101></a>
 
 ###### Article L263-1
 
@@ -18424,7 +18471,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R263-1 (VT)
 
 
-##### Section 2 : Dispositif local d'insertion.<a id=101></a>
+##### Section 2 : Dispositif local d'insertion.<a id=102></a>
 
 ###### Article L263-10
 
@@ -18602,7 +18649,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L263-4 (M)
 
 
-##### Section 4 : Fonds d'aide aux jeunes en difficulté.<a id=102></a>
+##### Section 4 : Fonds d'aide aux jeunes en difficulté.<a id=103></a>
 
 ###### Article L263-15
 
@@ -18740,7 +18787,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R263-8 (Ab)
 
 
-##### Section 5 : Personnes bénéficiaires de l'allocation de parent isolé.<a id=103></a>
+##### Section 5 : Personnes bénéficiaires de l'allocation de parent isolé.<a id=104></a>
 
 ###### Article L263-18
 
@@ -18802,13 +18849,13 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L263-5 (VD)
 
 
-## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services<a id=104></a>
+## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services<a id=105></a>
 
-### Titre Ier : Etablissements et services soumis à autorisation<a id=105></a>
+### Titre Ier : Etablissements et services soumis à autorisation<a id=106></a>
 
-#### Chapitre Ier : Dispositions générales<a id=106></a>
+#### Chapitre Ier : Dispositions générales<a id=107></a>
 
-##### Section 1 : Missions<a id=107></a>
+##### Section 1 : Missions<a id=108></a>
 
 ###### Article L311-1
 
@@ -18910,7 +18957,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L315-4 (M)
 
 
-##### Section 2 : Droits des usagers<a id=108></a>
+##### Section 2 : Droits des usagers<a id=109></a>
 
 ###### Article L311-3
 
@@ -19337,9 +19384,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-#### Chapitre II : Organisation de l'action sociale et médico-sociale<a id=109></a>
+#### Chapitre II : Organisation de l'action sociale et médico-sociale<a id=110></a>
 
-##### Section 1 : Etablissements et services sociaux et médico-sociaux<a id=110></a>
+##### Section 1 : Etablissements et services sociaux et médico-sociaux<a id=111></a>
 
 ###### Article L312-1
 
@@ -19347,7 +19394,7 @@ I. - Sont des établissements et services sociaux et médico-sociaux, au sens du
 services, dotés ou non d'une personnalité morale propre, énumérés ci-après :
 
 1° Les établissements ou services prenant en charge habituellement, y compris au titre de la prévention, des mineurs et des
-majeurs de moins de vingt et un ans relevant de l'article L. 222-5 ;
+majeurs de moins de vingt et un ans relevant des articles L. 221-1, L. 222-3 et L. 222-5 ;
 
 2° Les établissements ou services d'enseignement qui assurent, à titre principal, une éducation adaptée et un accompagnement
 social ou médico-social aux mineurs ou jeunes adultes handicapés ou présentant des difficultés d'adaptation ;
@@ -19356,7 +19403,9 @@ social ou médico-social aux mineurs ou jeunes adultes handicapés ou présentan
 
 4° Les établissements ou services mettant en oeuvre les mesures éducatives ordonnées par l'autorité judiciaire en application
 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ou des articles 375 à 375-8 du code civil ou
-concernant des majeurs de moins de vingt et un ans ;
+concernant des majeurs de moins de vingt et un ans ou les mesures d'investigation préalables aux mesures d'assistance
+éducative prévues au nouveau code de procédure civile et par l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance
+délinquante ;
 
 5° Les établissements ou services :
 
@@ -19417,6 +19466,11 @@ prévues au titre II du livre IV relatives aux assistants maternels, ni de celle
 personnes âgées ou handicapées prévues au titre IV dudit livre. Un décret fixe le nombre minimal et maximal des personnes que
 ces structures peuvent accueillir.
 
+IV. - Les équipes de prévention spécialisée relevant du 1° du I ne sont pas soumises aux dispositions des articles L. 311-4 à
+L. 311-7. Ces dispositions ne s'appliquent pas non plus aux mesures d'investigation préalables aux mesures d'assistance
+éducative prévues au nouveau code de procédure civile et par l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance
+délinquante.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -19426,7 +19480,9 @@ _Cite_:
   - Code du travail - art. L322-4-16 (M)
   - Code du travail - art. L323-15 (M)
   - Code de la santé publique - art. L2132-4 (V)
-  - Code de l'action sociale et des familles L222-5, L311-4 à L311-8, L313-1, L313-13 à L313-25
+  - Code de l'action sociale et des familles - art. L221-1 (M)
+  - Code de l'action sociale et des familles - art. L222-3 (M)
+  - Code de l'action sociale et des familles L221-1, L222-3, L222-5, L311-4 à L311-8, L313-1, L313-13 à L313-25, L311-4 à L311-7
   - Code de la construction et de l'habitation. - art. L351-2 (M)
   - Code de la construction et de l'habitation. - art. L353-2 (M)
 
@@ -20302,12 +20358,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 38 () JORF 12 février 2005
-  - Loi n°2005-102 du 11 février 2005 - art. 67 () JORF 12 février 2005
-  - Loi n°2005-102 du 11 février 2005 - art. 82 () JORF 12 février 2005
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 3 () JORF 2 décembre 2005
 
 
-##### Section 2 : Organismes consultatifs<a id=111></a>
+##### Section 2 : Organismes consultatifs<a id=112></a>
 
 ###### Article L312-3
 
@@ -20404,7 +20458,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D412-79 (VD)
 
 
-##### Section 3 : Schémas d'organisation sociale et médico-sociale<a id=112></a>
+##### Section 3 : Schémas d'organisation sociale et médico-sociale<a id=113></a>
 
 ###### Article L312-4
 
@@ -20660,7 +20714,38 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-5 (M)
 
 
-##### Section 4 : Coordination des interventions<a id=113></a>
+###### Article L312-5-2
+
+Le programme interdépartemental mentionné à l'article L. 312-5-1 comporte, en annexe :
+
+- pour l'année considérée, les dotations fixées en application de l'article L. 314-3 ;
+
+- le cas échéant, au titre de l'une ou l'autre des deux années suivantes, les dotations fixées en application de l'article L.
+314-3-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 5 () JORF 2 décembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L312-5-1 (V)
+  - Code de l'action sociale et des familles - art. L314-3-4 (V)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L313-4 (V)
+  - Code de l'action sociale et des familles - art. L314-3 (VD)
+
+
+##### Section 4 : Coordination des interventions<a id=114></a>
 
 ###### Article L312-6
 
@@ -20824,7 +20909,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Section 5 : Evaluation et systèmes d'information<a id=114></a>
+##### Section 5 : Evaluation et systèmes d'information<a id=115></a>
 
 ###### Article L312-8
 
@@ -21003,14 +21088,14 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-#### Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux<a id=115></a>
+#### Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux<a id=116></a>
 
-##### Section 1 : Autorisations<a id=116></a>
+##### Section 1 : Autorisation et agrément<a id=117></a>
 
 ###### Article L313-1
 
 La création, la transformation ou l'extension des établissements et services mentionnés à l'article L. 312-1 sont soumises à
-autorisation.
+autorisation, sous réserve des dispositions de l'article L. 313-1-1.
 
 La section sociale du Comité national de l'organisation sanitaire et sociale ou le comité régional de l'organisation sociale
 et médico-sociale compétent émet un avis sur tous les projets de création ainsi que sur les projets de transformation et
@@ -21019,7 +21104,7 @@ de droit public ou privé. Cet avis peut être rendu selon une procédure simpli
 
 En outre, le comité de coordination régional de l'emploi et de la formation professionnelle et le conseil régional émettent
 un avis sur tous les projets de création, d'extension ou de transformation des établissements visés au b du 5° du I de
-l'article 312-1.
+l'article L. 312-1.
 
 Sauf pour les établissements et services mentionnés au 4° du I de l'article L. 312-1, l'autorisation est accordée pour une
 durée de quinze ans. Le renouvellement, total ou partiel, est exclusivement subordonné aux résultats de l'évaluation externe
@@ -21184,12 +21269,94 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-1487 du 20 décembre 2002 - art. 38 (V) JORF 24 décembre 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L312-8 (M)
-  - Code de l'action sociale et des familles L312-1, 312-1, L312-8
+
+
+###### Article L313-1-1
+
+La création, la transformation et l'extension des services d'aide et d'accompagnement à domicile mentionnés aux 1°, 6° et 7°
+du I de l'article L. 312-1 sont soumises, à la demande de l'organisme gestionnaire :
+
+1° Soit à l'autorisation prévue à la présente section  ;
+
+2° Soit, à condition qu'ils remplissent la condition d'activité exclusive prévue par les dispositions de l'article L. 129-1
+du code du travail, à l'agrément prévu par ce même article.
+
+Les services auxquels un agrément est délivré en vertu du 2° sont tenus de conclure un contrat dans les mêmes conditions que
+celles prévues au premier alinéa de l'article L. 342-2. Les dispositions des articles L. 311-3 et L. 311-4 relatives au
+livret d'accueil et de l'article L. 331-1 leur sont applicables. Les conditions et les délais dans lesquels sont applicables
+à ces services les dispositions de l'article L. 312-8 sont fixés par décret.
+
+Les services mentionnés au premier alinéa peuvent, même en l'absence d'habilitation à recevoir des bénéficiaires de l'aide
+sociale, intervenir auprès des bénéficiaires de l'allocation personnalisée d'autonomie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
+
+_Cité par_:
+
+  - Décret n°2010-534 du 20 mai 2010 - art. 22 (V)
+  - Décret n°2010-534 du 20 mai 2010 - art. 4 (V)
+  - Ordonnance n°2012-785 du 31 mai 2012 - art. 11 (V)
+  - Décret n°2014-1286 du 23 octobre 2014 - art. (V)
+  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
+  - Décret n°2015-1293 du 16 octobre 2015 - art. 2 (V)
+  - Loi n°2015-1776 du 28 décembre 2015 - art. 47 (V)
+  - Loi n°2016-41 du 26 janvier 2016 - art. 43 (V)
+  - Arrêté du 3 mars 2017 (V)
+  - Décret n°2017-1862 du 29 décembre 2017 - art. 2 (V)
+  - Code de l'action sociale et des familles - art. D313-2 (V)
+  - Code de l'action sociale et des familles - art. D316-1 (V)
+  - Code de l'action sociale et des familles - art. D316-2 (V)
+  - Code de l'action sociale et des familles - art. D316-4 (V)
+  - Code de l'action sociale et des familles - art. D316-5 (V)
+  - Code de l'action sociale et des familles - art. D347-3 (V)
+  - Code de l'action sociale et des familles - art. L313-1 (VD)
+  - Code de l'action sociale et des familles - art. L313-14 (V)
+  - Code de l'action sociale et des familles - art. L313-21 (V)
+  - Code de l'action sociale et des familles - art. L313-22 (V)
+  - Code de l'action sociale et des familles - art. L313-4 (V)
+  - Code de l'action sociale et des familles - art. L313-6 (V)
+  - Code de l'action sociale et des familles - art. L315-2 (VD)
+  - Code de l'action sociale et des familles - art. L347-1 (V)
+  - Code de l'action sociale et des familles - art. L581-7 (VD)
+  - Code de l'action sociale et des familles - art. R313-1 (V)
+  - Code de l'action sociale et des familles - art. R313-2-1 (V)
+  - Code de l'action sociale et des familles - art. R313-7-1 (V)
+  - Code de l'action sociale et des familles - art. R313-7-4 (V)
+  - Code de l'action sociale et des familles - art. R313-7-6 (V)
+  - Code de l'action sociale et des familles - art. R313-7-7 (V)
+  - Code de l'action sociale et des familles - art. R313-7-8 (V)
+  - Code de l'action sociale et des familles - art. R313-8 (V)
+  - Code de l'action sociale et des familles - art. R315-1 (V)
+  - Code du travail - art. L7232-4 (V)
+
+_Cite_:
+
+  - Code du travail - art. L129-1 (M)
+  - Code de l'action sociale et des familles - art. L311-3 (M)
+  - Code de l'action sociale et des familles - art. L311-4 (M)
+  - Code de l'action sociale et des familles - art. L312-1 (M)
+  - Code de l'action sociale et des familles - art. L312-8 (M)
+  - Code de l'action sociale et des familles - art. L331-1 (M)
+  - Code de l'action sociale et des familles - art. L342-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L313-1-2 (VD)
 
 
 ###### Article L313-2
@@ -21241,7 +21408,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 28 () JORF 6 septembre 2003
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 
 ###### Article L313-3
@@ -21336,7 +21503,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-809 du 13 août 2004 - art. 56 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -21360,7 +21527,9 @@ et services fournissant des prestations comparables ;
 
 4° Est compatible, lorsqu'il en relève, avec le programme interdépartemental mentionné à l'article L. 312-5-1, et présente un
 coût de fonctionnement en année pleine compatible avec le montant des dotations mentionnées, selon le cas, aux articles L.
-313-8, L. 314-3 et L. 314-4, au titre de l'exercice correspondant à la date de ladite autorisation.
+313-8, L. 314-3 et L. 314-4, au titre de l'exercice au cours duquel prend effet cette autorisation.
+
+L'autorisation fixe l'exercice au cours de laquelle elle prend effet.
 
 L'autorisation, ou son renouvellement, peuvent être assortis de conditions particulières imposées dans l'intérêt des
 personnes accueillies.
@@ -21412,7 +21581,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 58 () JORF 12 février 2005
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 5 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -21450,13 +21620,6 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Modifié par_:
-
-  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 29 JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 29 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-
 _Cité par_:
 
   - Décret n°2003-1135 du 26 novembre 2003 - art. 2 (Ab)
@@ -21468,6 +21631,10 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L546-3 (Ab)
   - Code de l'action sociale et des familles - art. R313-10-3 (V)
   - Code de l'action sociale et des familles - art. R313-2 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 
 ###### Article L313-6
@@ -21512,10 +21679,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 30 JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 30 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -21549,10 +21713,6 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Modifié par_:
-
-  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
-
 _Cité par_:
 
   - Décret n°2003-1134 du 26 novembre 2003 - art. 1 (Ab)
@@ -21569,6 +21729,10 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R312-189 (Ab)
   - Code de l'action sociale et des familles - art. R312-195 (Ab)
   - Code de l'action sociale et des familles - art. R313-7-3 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -21608,13 +21772,6 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Modifié par_:
-
-  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 32 JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 32 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-
 _Cité par_:
 
   - Décret n°2003-1010 du 22 octobre 2003 - art. 21 (Ab)
@@ -21646,6 +21803,10 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-75 (V)
   - Code de la santé publique - art. L1434-3 (V)
   - Code de la santé publique - art. R1434-7 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -21693,10 +21854,6 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Créé par_:
-
-  - Loi n°2002-2 du 2 janvier 2002 - art. 33 () JORF 3 janvier 2002
-
 _Cité par_:
 
   - Loi - art. 37 (V)
@@ -21708,6 +21865,10 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L313-12 (V)
   - Code de l'action sociale et des familles - art. R345-1 (V)
   - Code général des impôts, CGI. - art. 1605 ter (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 
 ###### Article L313-9
@@ -21751,13 +21912,6 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Modifié par_:
-
-  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 34 JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 34 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-
 _Cité par_:
 
   - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
@@ -21772,12 +21926,16 @@ _Cité par_:
   - Code de la santé publique - art. R1434-7 (V)
   - Code du travail - art. R5212-5 (VT)
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L313-8 (M)
 
 
-##### Section 2 : Habilitation à recevoir des mineurs confiés par l'autorité judiciaire<a id=117></a>
+##### Section 2 : Habilitation à recevoir des mineurs confiés par l'autorité judiciaire<a id=118></a>
 
 ###### Article L313-10
 
@@ -21821,7 +21979,7 @@ _Modifié par_:
   - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 
-##### Section 3 : Contrats ou conventions pluriannuels<a id=118></a>
+##### Section 3 : Contrats ou conventions pluriannuels<a id=119></a>
 
 ###### Article L313-11
 
@@ -21829,10 +21987,13 @@ Sans préjudice des dispositions de l'article L. 313-12, des contrats pluriannue
 physiques et morales gestionnaires d'établissements et services et la ou les autorités chargées de l'autorisation et, le cas
 échéant, les organismes de protection sociale, afin notamment de permettre la réalisation des objectifs retenus par le schéma
 d'organisation sociale et médico-sociale dont ils relèvent, la mise en oeuvre du projet d'établissement ou de service ou de
-la coopération des actions sociales et médico-sociales.
+la coopération des actions sociales et médico-sociales. 
 
 Ces contrats fixent les obligations respectives des parties signataires et prévoient les moyens nécessaires à la réalisation
-des objectifs poursuivis, sur une durée maximale de cinq ans.
+des objectifs poursuivis, sur une durée maximale de cinq ans notamment dans le cadre de la tarification. Dans ce cas, les
+tarifs annuels ne sont pas soumis à la procédure budgétaire annuelle prévue aux II et III de l'article L. 314-7. 
+
+Ces contrats peuvent concerner plusieurs établissements et services.
 
 **Liens relatifs à cet article**
 
@@ -21845,13 +22006,6 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Modifié par_:
-
-  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, IV, art. 36 JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 36 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 _Cité par_:
 
@@ -21900,6 +22054,10 @@ _Cité par_:
   - Code de la santé publique - art. R6316-6 (Ab)
   - Code de la sécurité sociale. - art. R174-16-1 (VD)
   - Code du travail - art. L5213-2-1 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 7 () JORF 2 décembre 2005
 
 
 ###### Article L313-12
@@ -22176,7 +22334,35 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L633-1 (M)
 
 
-##### Section 4 : Contrôle<a id=119></a>
+###### Article L313-12-1
+
+L'autorité administrative chargée de l'autorisation, de l'habilitation à l'aide sociale ou de la tarification des services
+mentionnés aux 1°, 6° et 7° du I de l'article L. 312-1, qui dispensent des prestations d'aide à domicile et ne bénéficient
+pas d'un financement de l'assurance maladie, peut conclure une convention avec un ou plusieurs groupements départementaux
+ayant la personnalité morale, afin de solliciter les autorisations et habilitations et d'obtenir une tarification pour le
+compte de ses adhérents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 7 () JORF 2 décembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L546-3 (Ab)
+
+
+##### Section 4 : Contrôle<a id=120></a>
 
 ###### Article L313-13
 
@@ -22240,12 +22426,12 @@ _Cite_:
 
 ###### Article L313-14
 
-Dans des conditions fixées par décret en Conseil d'Etat et sans préjudice des dispositions de l'article L. 331-7, dès que
-sont constatés dans l'établissement ou le service des infractions aux lois et règlements ou des dysfonctionnements dans la
-gestion ou l'organisation susceptibles d'affecter la prise en charge ou l'accompagnement des usagers ou le respect de leurs
-droits, l'autorité qui a délivré l'autorisation adresse au gestionnaire de l'établissement ou du service une injonction d'y
-remédier, dans un délai qu'elle fixe. Ce délai doit être raisonnable et adapté à l'objectif recherché. Elle en informe les
-représentants des usagers, des familles et du personnel et, le cas échéant, le représentant de l'Etat dans le département.
+Dès que sont constatés dans l'établissement ou le service des infractions aux lois et règlements ou des dysfonctionnements
+dans la gestion ou l'organisation susceptibles d'affecter la prise en charge ou l'accompagnement des usagers ou le respect de
+leurs droits, l'autorité qui a délivré l'autorisation adresse au gestionnaire de l'établissement ou du service une injonction
+d'y remédier, dans un délai qu'elle fixe. Ce délai doit être raisonnable et adapté à l'objectif recherché. Elle en informe
+les représentants des usagers, des familles et du personnel et, le cas échéant, le représentant de l'Etat dans le
+département.
 
 Cette injonction peut inclure des mesures de réorganisation et, le cas échéant, des mesures individuelles conservatoires,
 dans les conditions prévues par le code du travail ou par les accords collectifs.
@@ -22265,13 +22451,6 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Créé par_:
-
-  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 39 JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 39 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-
 _Cité par_:
 
   - Décret n°2003-1010 du 22 octobre 2003 - art. 61 (Ab)
@@ -22282,6 +22461,10 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L543-1 (V)
   - Code de l'action sociale et des familles - art. R314-62 (M)
   - Code de l'action sociale et des familles - art. R331-7 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 10 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -22328,23 +22511,21 @@ _Cité par_:
 
 ###### Article L313-16
 
-L'autorité qui a délivré l'autorisation prononce la fermeture, totale ou partielle, provisoire ou définitive, d'un service ou
+L'autorité qui a délivré l'autorisation ou, le cas échéant, le représentant de l'Etat dans le département dans les conditions
+prévues au présent article prononce la fermeture, totale ou partielle, provisoire ou définitive, d'un service ou
 établissement dans les conditions prévues aux articles L. 313-17 et L. 313-18 :
 
 1° Lorsque les conditions techniques minimales d'organisation et de fonctionnement prévues au II de l'article L. 312-1 ne
 sont pas respectées ;
 
-2° Lorsque la santé, la sécurité ou le bien-être physique ou moral des personnes bénéficiaires se trouvent compromis par les
-conditions d'installation, d'organisation ou de fonctionnement de l'établissement ou du service ou par un fonctionnement des
-instances de l'organisme gestionnaire non conformes à ses propres statuts :
-
-3° Lorsque sont constatées dans l'établissement ou le service et du fait de celui-ci des infractions aux lois et règlements
+2° Lorsque sont constatées dans l'établissement ou le service et du fait de celui-ci des infractions aux lois et règlements
 susceptibles d'entraîner la mise en cause de la responsabilité civile de l'établissement ou du service ou de la
 responsabilité pénale de ses dirigeants ou de la personne morale gestionnaire.
 
-Lorsque l'autorité qui a délivré l'autorisation est le président du conseil général et en cas de carence de ce dernier,
-constatée dans des conditions fixées par décret en Conseil d'Etat, le représentant de l'Etat dans le département peut, après
-mise en demeure restée sans résultat, prononcer la fermeture de l'établissement ou du service.
+Lorsque l'autorité qui a délivré l'autorisation est le président du conseil général et en cas de carence de ce dernier, le
+représentant de l'Etat dans le département peut, après mise en demeure restée sans résultat, prononcer la fermeture de
+l'établissement ou du service. En cas d'urgence, le représentant de l'Etat peut, sans mise en demeure adressée au préalable,
+prononcer par arrêté motivé et à titre provisoire la fermeture totale ou partielle de l'établissement ou du service.
 
 Lorsque l'établissement ou le service relève d'une autorisation conjointe de l'autorité compétente de l'Etat et du président
 du conseil général, la décision de fermeture de cet établissement ou de ce service est prise conjointement par ces deux
@@ -22376,7 +22557,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 84 () JORF 12 février 2005
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 10 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -22537,13 +22718,13 @@ _Cite_:
   - Code de l'action sociale et des familles L313-3, L133-2, 312-1
 
 
-##### Section 5 : Dispositions pénales<a id=120></a>
+##### Section 5 : Dispositions pénales<a id=121></a>
 
 ###### Article L313-21
 
-Les infractions aux dispositions des articles L. 311-4 à L. 311-9 du présent code sont constatées et poursuivies dans les
-conditions fixées par les premier et troisième alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-7, L.
-450-8 et L. 470-5 du code de commerce.
+Les infractions aux dispositions des articles L. 311-4 à L. 311-9 et du troisième alinéa de l'article L. 313-1-1 du présent
+code sont constatées et poursuivies dans les conditions fixées par les premier et troisième alinéas de l'article L. 450-1 et
+les articles L. 450-2, L. 450-3, L. 450-7, L. 450-8 et L. 470-5 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -22552,12 +22733,9 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, VI, art. 46 JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 46 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -22566,7 +22744,8 @@ _Cite_:
   - Code de commerce. - art. L450-7 (V)
   - Code de commerce. - art. L450-8 (M)
   - Code de commerce. - art. L470-5 (V)
-  - Code de l'action sociale et des familles L311-4 à L311-9, L450-1
+  - Code de l'action sociale et des familles - art. L313-1-1 (M)
+  - Code de l'action sociale et des familles L313-1-1, L450-1
 
 _Cité par_:
 
@@ -22580,7 +22759,7 @@ _Cité par_:
 Est puni d'un emprisonnement de trois mois et d'une amende de 3 750 euros :
 
 1° La création, la transformation et l'extension des établissements et services énumérés à l'article L. 312-1, sans avoir
-obtenu l'autorisation prévue à l'article L. 313-1 ;
+obtenu l'autorisation prévue à l'article L. 313-1 ou l'agrément prévu au troisième alinéa de l'article L. 313-1-1 ;
 
 2° La cession de l'autorisation prévue à l'article L. 313-1 sans l'accord préalable de l'autorité administrative qui l'a
 délivrée ;
@@ -22601,17 +22780,39 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-303 du 4 mars 2002 - art. 40 () JORF 5 mars 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 _Cite_:
 
   - Code pénal L131-27
   - Code de l'action sociale et des familles - art. L312-1 (M)
   - Code de l'action sociale et des familles - art. L313-1 (M)
+  - Code de l'action sociale et des familles - art. L313-1-1 (M)
 
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. L543-1 (V)
+
+
+###### Article L313-22-1
+
+Est puni des peines prévues à l'article L. 1425-1 du code de la santé publique le fait de faire obstacle au contrôle prévu à
+la section 4 du chapitre III du titre Ier et au titre III du livre III.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 11 () JORF 2 décembre 2005
+
+_Cite_:
+
+  - Code de la santé publique - art. L1425-1 (V)
 
 
 ###### Article L313-23
@@ -22652,7 +22853,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-12 (M)
 
 
-##### Section 5 bis : Dispositions relatives à l'organisation du travail<a id=121></a>
+##### Section 5 bis : Dispositions relatives à l'organisation du travail<a id=122></a>
 
 ###### Article L313-23-1
 
@@ -22717,7 +22918,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L546-3 (Ab)
 
 
-##### Section 6 : Dispositions communes<a id=122></a>
+##### Section 6 : Dispositions communes<a id=123></a>
 
 ###### Article L313-24
 
@@ -22725,9 +22926,11 @@ Dans les établissements et services mentionnés à l'article L. 312-1, le fait 
 traitements ou privations infligés à une personne accueillie ou relaté de tels agissements ne peut être pris en considération
 pour décider de mesures défavorables le concernant en matière d'embauche, de rémunération, de formation, d'affectation, de
 qualification, de classification, de promotion professionnelle, de mutation ou de renouvellement du contrat de travail, ou
-pour décider la résiliation du contrat de travail ou une sanction disciplinaire.
+pour décider la résiliation du contrat de travail ou une sanction disciplinaire. 
 
-En cas de licenciement, le juge peut prononcer la réintégration du salarié concerné si celui-ci le demande.
+En cas de licenciement, le juge peut prononcer la réintégration du salarié concerné si celui-ci le demande. 
+
+Ces dispositions sont applicables aux salariés de l'accueillant familial visé à l'article L. 441-1.
 
 **Liens relatifs à cet article**
 
@@ -22736,16 +22939,14 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, VII, art. 48 JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 48 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L312-1 (M)
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de l'action sociale et des familles - art. L441-1 (VT)
 
 _Cité par_:
 
@@ -22778,6 +22979,51 @@ _Créé par_:
 
 ###### Article L313-25
 
+I.-Les administrateurs et les cadres dirigeants salariés au sens de l'article L. 212-15-1 du code du travail d'une personne
+morale de droit privé à but non lucratif gérant un établissement social et médico-social, les directeurs des établissements
+sociaux et médico-sociaux relevant de l'article L. 312-1 déclarent les conventions passées directement ou par personne
+interposée avec la personne morale dans les cas prévus aux deux premiers alinéas de l'article L. 612-5 du code de commerce et
+dans les conditions fixées par ce même article. 
+
+Il en est de même pour les conventions auxquelles sont parties les membres de la famille des administrateurs, des cadres
+dirigeants et des directeurs des établissements sociaux et médico-sociaux qui sont salariés par le même organisme
+gestionnaire dans lequel exercent ces administrateurs et ces cadres dirigeants. 
+
+II.-Les financements apportés par un établissement social ou médico-social soit en espèces, soit en nature sous forme de mise
+à disposition de locaux, de personnels ou de moyens techniques, entrant dans le calcul des tarifs fixés par les autorités de
+tarification, sont évalués par le directeur ou la personne qualifiée pour représenter l'établissement. Ce dernier communique
+ces informations aux autorités de tarification concernées qui peuvent exercer leur contrôle sur ces associations ainsi
+financées. 
+
+Les contrôles des autorités de tarification peuvent s'étendre, d'une part, aux autres activités de l'organisme gestionnaire
+et, d'autre part, aux sociétés et filiales créées par l'organisme gestionnaire de l'établissement ou du service social ou
+médico-social et qui sont des prestataires de services de ce dernier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 12 () JORF 2 décembre 2005
+
+_Cite_:
+
+  - Code de commerce - art. L612-5 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L543-1 (V)
+  - Code de l'action sociale et des familles - art. R314-59 (V)
+  - Code de l'action sociale et des familles - art. R314-61 (V)
+
+
+###### Article L313-26
+
 Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
@@ -22789,29 +23035,24 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, VII, art. 49 JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 49 () JORF 3 janvier 2002
-
-_Transféré par_:
-
   - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 12 () JORF 2 décembre 2005
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2009-879 du 21 juillet 2009 - art. 124 (V)
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. L313-25 (T)
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. L313-26 (V)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L543-1 (V)
-  - Code de l'action sociale et des familles - art. R314-59 (V)
-  - Code de l'action sociale et des familles - art. R314-61 (V)
+  - Code de l'action sociale et des familles - art. L313-27 (V)
 
 
-#### Chapitre IV : Dispositions financières<a id=123></a>
+#### Chapitre IV : Dispositions financières<a id=124></a>
 
-##### Section 1 : Règles de compétences en matière tarifaire<a id=124></a>
+##### Section 1 : Règles de compétences en matière tarifaire<a id=125></a>
 
 ###### Article L314-1
 
@@ -22834,7 +23075,8 @@ IV. - La tarification des centres d'action médico-sociale précoce mentionnés 
 publique est arrêtée conjointement par le représentant de l'Etat dans le département et le président du conseil général après
 avis de la caisse régionale d'assurance maladie.
 
-V. - La tarification des foyers d'accueil médicalisés mentionnés au 7° du I de l'article L. 312-1 est arrêtée :
+V. - La tarification des foyers d'accueil médicalisés et des services d'accompagnement médico-social pour adultes handicapés
+mentionnés au 7° du I de l'article L. 312-1 est arrêtée :
 
 a) Pour les prestations de soins remboursables aux assurés sociaux, par le représentant de l'Etat dans le département ;
 
@@ -22847,6 +23089,10 @@ interrégional de la tarification sanitaire et sociale dont la décision s'impos
 
 VII. - Le pouvoir de tarification peut être confié à un autre département que celui d'implantation d'un établissement, par
 convention signée entre plusieurs départements utilisateurs de cet établissement.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -22894,9 +23140,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 51 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 6 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -22918,10 +23162,6 @@ avis de l'autorité compétente de l'Etat ;
 3° Pour les prestations relatives à l'hébergement, dans les établissements habilités à recevoir des bénéficiaires de l'aide
 sociale, par le président du conseil général.
 
-Cette tarification est notifiée aux établissements au plus tard soixante jours à compter de la date de notification des
-dotations régionales limitatives mentionnées à l'article L. 314-3, pour l'exercice en cours, lorsque les documents
-nécessaires à la fixation de cette tarification ont été transmis aux autorités compétentes.
-
 Pour les établissements visés à l'article L. 342-1, les prix des prestations mentionnées au 3° ci-dessus sont fixés dans les
 conditions prévues par les articles L. 342-2 à L. 342-6.
 
@@ -22936,12 +23176,6 @@ _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Modifié par_:
-
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 52 () JORF 3 janvier 2002
 
 _Cité par_:
 
@@ -22976,15 +23210,18 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L162-31-1 (M)
   - Code de la sécurité sociale. - art. R174-9 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 7 () JORF 2 décembre 2005
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L232-2 (M)
-  - Code de l'action sociale et des familles - art. L314-3 (M)
   - Code de l'action sociale et des familles - art. L342-1 (M)
-  - Code de l'action sociale et des familles L313-12, L232-2, L314-3, L342-1, L342-2 à L342-6
+  - Code de l'action sociale et des familles L313-12, L232-2, L342-1, L342-2 à L342-6
 
 
-##### Section 2 : Règles budgétaires et de financement<a id=125></a>
+##### Section 2 : Règles budgétaires et de financement<a id=126></a>
 
 ###### Article L314-3
 
@@ -23156,6 +23393,35 @@ _Cite_:
 
   - Code de la santé publique - art. L6111-2 (V)
   - Code de l'action sociale et des familles - art. L312-1 (M)
+
+
+###### Article L314-3-4
+
+I.-L'arrêté mentionné au dernier alinéa du I de l'article L. 314-3 fixe le cas échéant, pour les établissements mentionnés à
+cet article ou pour certaines catégories d'entre eux, le montant indicatif de leurs crédits de fonctionnement prévisionnels,
+conformément aux objectifs figurant pour les quatre années à venir dans le rapport mentionné à l'article LO 111-4 du code de
+la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 5 () JORF 2 décembre 2005
+
+_Cité par_:
+
+  - Arrêté du 30 avril 2015 - art. 4 (V)
+  - Code de l'action sociale et des familles - art. L312-5-2 (V)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. LO111-4 (V)
+  - Code de l'action sociale et des familles - art. L314-3 (V)
 
 
 ###### Article L314-4
@@ -23387,8 +23653,8 @@ Les dispositions mentionnées aux 1° et 2° ne sont pas applicables aux établi
 Un décret en Conseil d'Etat précise les conditions dans lesquelles ces charges, produits et résultats sont retracés dans des
 comptes distincts, en fonction de la nature des prestations, de leur tarification et de leur financement.
 
-II. - Le montant global des dépenses autorisées ainsi que les tarifs des établissements et services mentionnés au I de
-l'article L. 312-1 sont notifiés par l'autorité compétente en matière de tarification, au terme d'une procédure
+II. - Le montant global des dépenses autorisées des établissements et services mentionnés au I de l'article L. 312-1 et au I
+de l'article L. 313-12 sont fixés par l'autorité compétente en matière de tarification, au terme d'une procédure
 contradictoire, au plus tard soixante jours à compter de la date de notification des dotations mentionnées, selon le cas, aux
 articles L. 313-8, L. 314-3 et L. 314-4, selon des modalités fixées par décret en Conseil d'Etat.
 
@@ -23408,8 +23674,17 @@ d'accompagnement.
 
 La décision de modification doit être motivée.
 
-IV. - Les dépenses de l'établissement ou du service imputables à des décisions n'ayant pas fait l'objet des procédures
+IV - Sauf dans le cas où une convention conclue en vertu du deuxième alinéa de l'article L. 313-11 prévoit des dispositions
+tarifaires, les dépenses de l'établissement ou du service imputables à des décisions n'ayant pas fait l'objet des procédures
 mentionnées au présent article ne sont pas opposables aux collectivités publiques et organismes de sécurité sociale.
+
+IV bis. - Dans le cas où les tarifs n'ont pas été arrêtés avant le 1er janvier de l'exercice en cause, et jusqu'à
+l'intervention de la décision fixant le montant de ces tarifs, les recettes relatives à la facturation desdits tarifs
+journaliers sont liquidées et perçues dans les conditions en vigueur au cours de l'exercice précédent.
+
+Les tarifs de l'exercice dont la date d'effet est précisée dans l'arrêté tarifaire sont calculés en prenant en compte, en
+application du précédent alinéa, les produits facturés sur la base de l'exercice précédent entre le 1er janvier et ladite
+date d'effet.
 
 V. - Les charges et produits des établissements et services mentionnés au I de l'article L. 312-1, dont les prestations ne
 sont pas prises en charge ou ne le sont que partiellement par les collectivités et organismes susmentionnés, sont retracés
@@ -23478,9 +23753,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 55 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 7 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -23627,7 +23900,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L351-1 (M)
 
 
-##### Section 3 : Dispositions diverses<a id=126></a>
+##### Section 3 : Dispositions diverses<a id=127></a>
 
 ###### Article L314-10
 
@@ -23760,9 +24033,9 @@ _Modifié par_:
   - Loi n°2002-2 du 2 janvier 2002 - art. 58 () JORF 3 janvier 2002
 
 
-#### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public<a id=127></a>
+#### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public<a id=128></a>
 
-##### Section 1 : Dispositions générales<a id=128></a>
+##### Section 1 : Dispositions générales<a id=129></a>
 
 ###### Article L315-1
 
@@ -24120,7 +24393,7 @@ _Modifié par_:
   - Loi n°2002-2 du 2 janvier 2002 - art. 64 () JORF 3 janvier 2002
 
 
-##### Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique<a id=129></a>
+##### Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique<a id=130></a>
 
 ###### Article L315-9
 
@@ -24295,7 +24568,7 @@ Le conseil d'administration des établissements publics sociaux ou médico-socia
 l'établissement et délibère sur :
 
 1° Le projet d'établissement ou de service mentionné à l'article L. 311-7, ainsi que les contrats pluriannuels mentionnés à
-l'article L. 313-11 ;
+l'article L. 313-11 et les conventions d'aide sociale mentionnées au II de l'article L. 342-3-1 ;
 
 2° Les programmes d'investissement ;
 
@@ -24338,12 +24611,6 @@ _Codifié par_:
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-_Modifié par_:
-
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 68 () JORF 3 janvier 2002
-
 _Cité par_:
 
   - Décret n°2004-135 du 11 février 2004 - art. 5 (Ab)
@@ -24356,10 +24623,15 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2242-5 (Ab)
   - Code général des collectivités territoriales - art. L3213-7 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 8 () JORF 2 décembre 2005
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L311-7 (V)
   - Code de l'action sociale et des familles - art. L313-11 (M)
+  - Code de l'action sociale et des familles - art. L342-3-1 (V)
 
 
 ###### Article L315-13
@@ -24682,9 +24954,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1618-2 (V)
 
 
-### Titre II : Etablissements soumis à déclaration<a id=130></a>
+### Titre II : Etablissements soumis à déclaration<a id=131></a>
 
-#### Chapitre Ier : Accueil de mineurs.<a id=131></a>
+#### Chapitre Ier : Accueil de mineurs.<a id=132></a>
 
 ###### Article L321-1
 
@@ -24748,15 +25020,9 @@ _Anciens textes_:
 
 ###### Article L321-2
 
-Ne peuvent exploiter ou diriger un établissement mentionné à l'article L. 321-1 et ne peuvent y être employées :
-
-1° Les personnes condamnées pour crime ou délits de vol, escroquerie, recel, abus de confiance, agressions sexuelles,
-soustraction commise par un dépositaire de l'autorité publique, faux témoignage, corruption et trafic d'influence, faux, et
-pour les délits punis des peines de vol, de l'escroquerie et de l'abus de confiance ;
-
-2° Les personnes qui ont fait l'objet d'un retrait total ou partiel de l'autorité parentale ou dont un enfant ou pupille a
-fait l'objet, en application des articles 375 à 375-8 du code civil, d'une mesure d'assistance éducative qui n'a pas été
-prise à sa requête.
+Ne peuvent exploiter ou diriger un établissement mentionné à l'article L. 321-1 et ne peuvent y être employées les personnes
+qui ont fait l'objet d'un retrait total ou partiel de l'autorité parentale ou dont un enfant ou pupille a fait l'objet, en
+application des articles 375 à 375-8 du code civil, d'une mesure d'assistance éducative qui n'a pas été prise à sa requête.
 
 **Liens relatifs à cet article**
 
@@ -24771,12 +25037,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
 
 _Cite_:
 
-  - Code civil 375 à 375-8
-  - Code de l'action sociale et des familles - art. L321-1 (M)
+  - Code civil - art. 375 (VT)
+  - Code de l'action sociale et des familles - art. L321-1 (VT)
 
 _Anciens textes_:
 
@@ -24825,15 +25091,12 @@ l'article L. 321-1, sans avoir effectué la déclaration préalable auprès du p
 président du conseil général ou de procéder à l'ouverture ou à la transformation de l'établissement malgré l'opposition du
 président du conseil général ;
 
-3° Le fait de diriger, d'exploiter ou d'être employé au sein de l'établissement, malgré les incapacités prévues à l'article
-L. 321-1 ;
-
-4° Le fait, pour le responsable de l'établissement, de ne pas se conformer aux injonctions préfectorales ou du président du
+3° Le fait, pour le responsable de l'établissement, de ne pas se conformer aux injonctions préfectorales ou du président du
 conseil général ou de ne pas respecter l'arrêté préfectoral de fermeture de l'établissement prévu à l'article L. 331-7 ou
 d'ouvrir à nouveau l'établissement, après fermeture administrative, sans solliciter l'autorisation préfectorale prévue à
 l'article L. 322-6 ;
 
-5° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ou de faire obstacle aux demandes de renseignements et au
+4° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ou de faire obstacle aux demandes de renseignements et au
 droit d'entrée des agents chargés de la surveillance prévus aux articles L. 331-1 et L. 331-3.
 
 Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
@@ -24844,15 +25107,14 @@ En cas de récidive, les peines prévues au présent article peuvent être port�
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-
 _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -24875,7 +25137,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 99 (Ab)
 
 
-#### Chapitre II : Accueil d'adultes.<a id=132></a>
+#### Chapitre II : Accueil d'adultes.<a id=133></a>
 
 ###### Article L322-1
 
@@ -25021,41 +25283,6 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 205 (Ab)
 
 
-###### Article L322-5
-
-Ne peut exploiter ou diriger un établissement défini à l'article L. 322-1 ou y être employée toute personne condamnée soit
-pour crime, soit pour les délits de vol, escroquerie, recel, abus de confiance, agression sexuelle, soustraction commise par
-un dépositaire de l'autorité publique, faux témoignage, corruption et trafic d'influence, faux, et pour les délits punis des
-peines de vol, de l'escroquerie et de l'abus de confiance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Modifié par_:
-
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L322-1 (M)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L322-8 (M)
-
-_Anciens textes_:
-
-  - Code de la famille et de l'aide sociale. - art. 206 (Ab)
-
-
 ###### Article L322-6
 
 Un établissement dont la fermeture a été régulièrement prononcée ne peut être ouvert de nouveau qu'après autorisation du
@@ -25137,12 +25364,9 @@ l'arrêté préfectoral de fermeture de l'établissement prévu à l'article L. 
 4° Le fait d'ouvrir à nouveau l'établissement, après fermeture administrative, sans solliciter l'autorisation préfectorale
 prévue à l'article L. 322-6 ;
 
-5° Le fait de diriger, d'exploiter ou d'être employé au sein de l'établissement, malgré l'incapacité prévue à l'article L.
-322-5 ;
+5° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ;
 
-6° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ;
-
-7° Le fait de faire obstacle aux demandes de renseignements et au droit d'entrée des agents chargés de la surveillance prévus
+6° Le fait de faire obstacle aux demandes de renseignements et au droit d'entrée des agents chargés de la surveillance prévus
 aux articles L. 331-1 et L. 331-3.
 
 Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
@@ -25153,15 +25377,14 @@ En cas de récidive, les peines prévues au présent article peuvent être port�
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-
 _Codifié par_:
 
   - Ordonnance 2000-1249 2000-12-21
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
 
 _Cite_:
 
@@ -25169,7 +25392,6 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L322-1 (M)
   - Code de l'action sociale et des familles - art. L322-3 (M)
   - Code de l'action sociale et des familles - art. L322-4 (M)
-  - Code de l'action sociale et des familles - art. L322-5 (M)
   - Code de l'action sociale et des familles - art. L322-6 (M)
   - Code de l'action sociale et des familles - art. L331-1 (M)
   - Code de l'action sociale et des familles - art. L331-2 (M)
@@ -25224,9 +25446,9 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 203 (Ab)
 
 
-### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration<a id=133></a>
+### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration<a id=134></a>
 
-#### Chapitre unique.<a id=134></a>
+#### Chapitre unique.<a id=135></a>
 
 ###### Article L331-1
 
@@ -25318,7 +25540,8 @@ vingt et une heures et avant six heures, qu'en cas d'appel provenant de l'intér
 réclamation, ou sur autorisation du procureur de la République. En cas de visite de nuit, les motifs de l'inspection doivent
 être portés par écrit à la connaissance du directeur de l'établissement.
 
-Les établissements à personnel féminin ne peuvent être inspectés de nuit que par des agents de sexe féminin.
+Les contrôles s'effectuent dans les conditions prévues à l'article L. 1421-3 du code de la santé publique avec le concours
+des professionnels mentionnés à l'article L. 1421-1 du même code.
 
 Les personnes chargées de la surveillance sont tenues au secret professionnel dans les conditions et sous les peines fixées
 par l'article 226-13 du code pénal.
@@ -25332,11 +25555,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 10 () JORF 2 décembre 2005
 
 _Cite_:
 
   - Code pénal - art. 226-13 (M)
+  - Code de la santé publique - art. L1421-1 (M)
+  - Code de la santé publique - art. L1421-3 (V)
   - Code de l'action sociale et des familles - art. L331-2 (M)
 
 _Anciens textes_:
@@ -25391,13 +25616,12 @@ ou physique des personnes hébergées sont menacés ou compromis par les conditi
 fonctionnement de l'établissement, le représentant de l'Etat enjoint aux responsables de celui-ci de remédier aux
 insuffisances, inconvénients ou abus dans le délai qu'il leur fixe à cet effet.
 
-S'il n'a pas été satisfait à l'injonction dans ce délai, le représentant de l'Etat ordonne, après avoir pris l'avis du
-conseil départemental d'hygiène, la fermeture totale ou partielle, définitive ou provisoire, de l'établissement.
+S'il n'a pas été satisfait à l'injonction dans ce délai, le représentant de l'Etat ordonne la fermeture totale ou partielle,
+définitive ou provisoire, de l'établissement.
 
 En cas d'urgence ou lorsque le responsable de l'établissement refuse de se soumettre à la surveillance prévue à l'article L.
-331-3, le représentant de l'Etat peut, sans injonction préalable ni consultation du conseil départemental d'hygiène,
-prononcer par arrêté motivé et à titre provisoire une mesure de fermeture immédiate, à charge pour lui d'en saisir pour avis
-ledit conseil, dans le délai d'un mois.
+331-3, le représentant de l'Etat peut, sans injonction préalable, prononcer par arrêté motivé et à titre provisoire une
+mesure de fermeture immédiate, à charge pour lui d'en saisir pour avis ledit conseil, dans le délai d'un mois.
 
 En cas de décision de fermeture prise par le président du conseil général, le représentant de l'Etat dans le département
 exécute cette décision en appliquant, avec le concours de celui-ci, les dispositions prévues à l'article L. 331-6.
@@ -25411,7 +25635,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 84 () JORF 12 février 2005
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 10 () JORF 2 décembre 2005
 
 _Anciens textes_:
 
@@ -25582,23 +25806,26 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 215 (Ab)
 
 
-### Titre IV : Dispositions spécifiques à certaines catégories d'établissements<a id=135></a>
+### Titre IV : Dispositions spécifiques à certaines catégories d'établissements<a id=136></a>
 
-#### Chapitre II : Hébergement de personnes âgées.<a id=136></a>
+#### Chapitre II : Hébergement de personnes âgées.<a id=137></a>
 
 ###### Article L342-1
 
-Sont soumis aux dispositions du présent chapitre :
+Sont soumis aux dispositions du présent chapitre : 
 
 1° Les établissements mentionnés au 6° du I de l'article L. 312-1, lorsqu'ils ne sont ni habilités à recevoir des
-bénéficiaires de l'aide sociale ni conventionnés au titre de l'aide personnalisée au logement ;
+bénéficiaires de l'aide sociale ni conventionnés au titre de l'aide personnalisée au logement ; 
 
 2° Les mêmes établissements, lorsqu'ils n'accueillent pas à titre principal des bénéficiaires de l'aide sociale pour la
-fraction de leur capacité au titre de laquelle ils ne sont pas habilités à recevoir des bénéficiaires de l'aide sociale ;
+fraction de leur capacité au titre de laquelle ils ne sont pas habilités à recevoir des bénéficiaires de l'aide sociale ; 
 
 3° Les établissements conventionnés au titre de l'aide personnalisée au logement et non habilités à recevoir des
 bénéficiaires de l'aide sociale pour les prestations non prises en compte dans le calcul de la redevance définie aux articles
-R. 353-156 à R. 353-159 du code de la construction et de l'habitation.
+R. 353-156 à R. 353-159 du code de la construction et de l'habitation ; 
+
+4° Les établissements d'hébergement pour personnes âgées habilités au titre de l'aide sociale, dans les conditions précisées
+au I de l'article L. 342-3-1. 
 
 Ces établissements ne peuvent héberger une personne âgée sans qu'au préalable un contrat écrit ait été passé avec cette
 personne ou son représentant légal. Pour la signature de ce contrat, la personne ou son représentant légal peut se faire
@@ -25669,13 +25896,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 77 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 8 () JORF 2 décembre 2005
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L312-1 (M)
-  - Code de la construction et de l'habitation R353-156 à R353-159
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de l'action sociale et des familles - art. L342-3-1 (VT)
+  - Code de la construction et de l'habitation. - art. R353-156 (V)
 
 
 ###### Article L342-2
@@ -25794,6 +26021,56 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-2 (VT)
 
 
+###### Article L342-3-1
+
+Les établissements d'hébergement pour personnes âgées habilités au titre de l'aide sociale mentionnés au 6° du I de l'article
+L. 312-1 peuvent être soumis aux dispositions du présent chapitre, à leur demande et après accord du président du conseil
+général compétent, dans le cadre d'une convention d'aide sociale, lorsqu'il est constaté que l'établissement a accueilli en
+moyenne moins de 50 % de bénéficiaires de l'aide sociale par rapport à sa dernière capacité agréée sur les trois exercices
+précédant celui de la demande. 
+
+Dans ce cas, une convention d'aide sociale, dont le contenu minimal est fixé par décret, est conclue pour une durée maximale
+de cinq ans entre le représentant de l'établissement et le président du conseil général. Elle précise notamment : 
+
+1° Les conditions de réservation et de mise à disposition des places pour les bénéficiaires de l'aide sociale à l'hébergement
+des personnes âgées ; 
+
+2° Le montant des différents tarifs afférents à l'hébergement pouvant être pris en charge par l'aide sociale départementale
+et la définition des prestations garanties auxquelles ces tarifs correspondent. 
+
+Les tarifs afférents à l'hébergement pouvant être pris en charge par l'aide sociale départementale sont revalorisés chaque
+année pendant toute la durée de la convention du pourcentage prévu à l'article L. 342-3.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 8 () JORF 2 décembre 2005
+
+_Cité par_:
+
+  - Arrêté du 3 mars 2017 - art. (V)
+  - Code de l'action sociale et des familles - art. D342-2 (V)
+  - Code de l'action sociale et des familles - art. L313-12 (V)
+  - Code de l'action sociale et des familles - art. L315-12 (V)
+  - Code de l'action sociale et des familles - art. L342-1 (V)
+  - Code de l'action sociale et des familles - art. R314-183 (M)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de l'action sociale et des familles - art. L342-3 (V)
+
+
 ###### Article L342-4
 
 Le représentant de l'Etat dans le département peut fixer un pourcentage supérieur en cas d'augmentation importante des coûts
@@ -25828,8 +26105,9 @@ _Cité par_:
 
 ###### Article L342-5
 
-Le prix de chacune des prestations dont la personne hébergée bénéficiait au 12 juillet 1990 reste applicable sous réserve des
-variations autorisées en vertu des articles L. 342-3 et L. 342-4.
+Les infractions aux dispositions des articles L. 342-1, L. 342-2, L. 342-3 et L. 342-4 sont constatées et poursuivies dans
+les conditions fixées par les premier et troisième alinéas de l'article L. 450-1 et par les articles L. 450-2, L. 450-3, L.
+450-8 et L. 470-5 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -25845,12 +26123,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
 
 _Cite_:
 
+  - Code de commerce. - art. L450-2 (V)
+  - Code de commerce. - art. L450-3 (M)
+  - Code de commerce. - art. L450-8 (M)
+  - Code de commerce. - art. L470-5 (V)
+  - Code de l'action sociale et des familles - art. L342-1 (M)
+  - Code de l'action sociale et des familles - art. L342-2 (M)
   - Code de l'action sociale et des familles - art. L342-3 (M)
   - Code de l'action sociale et des familles - art. L342-4 (M)
+  - Code de l'action sociale et des familles L342-1, L342-2, L342-3, L342-4, L450-1
 
 _Cité par_:
 
@@ -25858,45 +26143,7 @@ _Cité par_:
   - Code de la consommation - art. L511-7 (VD)
 
 
-###### Article L342-6
-
-Les infractions aux dispositions des articles L. 342-1 à L. 342-5 sont constatées et poursuivies dans les conditions fixées
-par les articles L. 450-1 alinéas 1 et 3, L. 450-2, L. 450-3, L. 450-8, L. 470-5 du code de commerce.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°90-600 du 6 juillet 1990 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Modifié par_:
-
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
-
-_Cite_:
-
-  - Code de commerce. - art. L450-1 (M)
-  - Code de commerce. - art. L450-2 (V)
-  - Code de commerce. - art. L450-3 (M)
-  - Code de commerce. - art. L450-8 (M)
-  - Code de commerce. - art. L470-5 (V)
-  - Code de l'action sociale et des familles L342-1 à L342-5
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. Annexe 3-3 (Ab)
-
-
-#### Chapitre III : Centres d'action médico-sociale précoce.<a id=137></a>
+#### Chapitre III : Centres d'action médico-sociale précoce.<a id=138></a>
 
 ###### Article L343-1
 
@@ -25974,7 +26221,7 @@ _Cite_:
   - Code de la santé publique - art. L2132-4
 
 
-#### Chapitre IV : Centres pour handicapés adultes.<a id=138></a>
+#### Chapitre IV : Centres pour handicapés adultes.<a id=139></a>
 
 ###### Article L344-1
 
@@ -26472,7 +26719,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L344-1 (V)
 
 
-#### Chapitre V : Centres d'hébergement et de réinsertion sociale.<a id=139></a>
+#### Chapitre V : Centres d'hébergement et de réinsertion sociale.<a id=140></a>
 
 ###### Article L345-1
 
@@ -26691,7 +26938,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L301-5-1 (VD)
 
 
-#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=140></a>
+#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=141></a>
 
 ###### Article L346-1
 
@@ -26743,9 +26990,77 @@ _Modifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L6147-2 (V)
 
 
-### Titre V : Contentieux de la tarification sanitaire et sociale<a id=141></a>
+#### Chapitre VII : Services d'aide et d'accompagnement non soumis à autorisation<a id=142></a>
 
-#### Chapitre unique.<a id=142></a>
+###### Article L347-1
+
+Dans les services mentionnés au 2° de l'article L. 313-1-1, les prix des prestations de service sont librement fixés lors de
+la signature du contrat conclu entre le prestataire de service et le bénéficiaire.
+
+Les prix des prestations contractuelles varient ensuite dans la limite d'un pourcentage fixé par arrêté du ministre chargé de
+l'économie et des finances compte tenu de l'évolution des salaires et du coût des services.
+
+Le représentant de l'Etat dans le département peut fixer un pourcentage supérieur en cas d'augmentation importante des coûts
+d'exploitation résultant de l'amélioration des prestations existantes ou de la modification des conditions de gestion ou
+d'exploitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre  2005
+
+_Cité par_:
+
+  - Arrêté du 18 décembre 2008 - art. 1 (V)
+  - Arrêté du 28 décembre 2009 - art. 1 (V)
+  - Arrêté du 24 décembre 2010 - art. 1 (V)
+  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+  - Arrêté du 23 décembre 2016 - art. 1 (V)
+  - Code de l'action sociale et des familles - art. L347-2 (VD)
+  - Code de la consommation - art. L141-1 (VT)
+  - Code de la consommation - art. L511-7 (M)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L313-1-1 (M)
+
+
+###### Article L347-2
+
+Les infractions aux dispositions de l'article L. 347-1 sont constatées et poursuivies dans les conditions fixées par les
+premier et troisième alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-8 et L. 470-5 du code de
+commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1249 2000-12-21
+  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+_Créé par_:
+
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
+
+_Cite_:
+
+  - Code de commerce. - art. L450-2 (V)
+  - Code de commerce. - art. L450-3 (M)
+  - Code de commerce. - art. L450-8 (M)
+  - Code de commerce. - art. L470-5 (V)
+  - Code de l'action sociale et des familles - art. L347-1 (V)
+  - Code de l'action sociale et des familles L347-1, L450-1
+
+
+### Titre V : Contentieux de la tarification sanitaire et sociale<a id=143></a>
+
+#### Chapitre unique.<a id=144></a>
 
 ###### Article L351-1
 
@@ -26969,14 +27284,15 @@ _Cité par_:
 
 ###### Article L351-6
 
-Les décisions du tribunal interrégional de la tarification sanitaire et sociale et de la Cour nationale fixant le montant des
-dotations globales, les dotations annuelles, les forfaits annuels, remboursements forfaitaires, prix de journée et autres
-tarifs, ont effet à compter de la date fixée dans la décision donnant lieu au litige.
+Les décisions du juge du tarif sont mises en oeuvre lors de l'exercice au cours duquel elles sont notifiées à l'autorité de
+tarification par une décision budgétaire modificative.
 
-**Nota:**
+Lorsqu'une décision du juge du tarif passée en force de chose jugée fixe, ou entraîne nécessairement, une modification du
+tarif pour un exercice déjà clos, l'exécution de la décision fait l'objet de modalités comptables et financières simplifiées
+fixées par décret en Conseil d'Etat.
 
-Ordonnance 2005-1088 2005-09-01 art. 4 : les présentes dispositions entrent en vigueur à une date fixée par décret en Conseil
-d'Etat et au plus tard à l'expiration du délai de 6 mois suivant la publication de l'ordonnance n° 2005-1088.
+Tout paiement de sommes supplémentaires tient compte, le cas échéant, des sommes déjà versées au même titre par l'autorité de
+tarification.
 
 **Liens relatifs à cet article**
 
@@ -26992,7 +27308,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-406 du 2 mai 2005 - art. 18 () JORF 3 mai 2005
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 9 () JORF 2 décembre 2005
+
+_Cite_:
+
+  - Code de la santé publique - art. L4383-5 (V)
 
 _Anciens textes_:
 
@@ -27001,7 +27321,7 @@ _Anciens textes_:
 
 ###### Article L351-7
 
-Les articles L. 113-1 et L. 911-1 à L. 911-8 du code de justice administrative sont applicables par la Cour nationale de la
+Les articles L. 113-1 et L. 911-1 à L. 911-3 du code de justice administrative sont applicables par la Cour nationale de la
 tarification sanitaire et sociale et par les tribunaux interrégionaux de la tarification sanitaire et sociale.
 
 **Liens relatifs à cet article**
@@ -27017,13 +27337,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 9 () JORF 2 décembre 2005
 
 _Cite_:
 
-  - Code de justice administrative L113-1, L911-1 à L911-8
-  - Code de justice administrative. - art. L113-1 (V)
+  - Code de justice administrative - art. L113-1 (V)
+  - Code de justice administrative - art. L911-1 (V)
 
 _Anciens textes_:
 
@@ -27050,11 +27369,11 @@ _Créé par_:
   - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
 
 
-## Livre IV : Professions et activités d'accueil<a id=143></a>
+## Livre IV : Professions et activités d'accueil<a id=145></a>
 
-### Titre Ier : Assistants de service social<a id=144></a>
+### Titre Ier : Assistants de service social<a id=146></a>
 
-#### Chapitre unique.<a id=145></a>
+#### Chapitre unique.<a id=147></a>
 
 ###### Article L411-1
 
@@ -27305,9 +27624,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L411-1 (M)
 
 
-### Titre II : Assistants maternels et assistants familiaux<a id=146></a>
+### Titre II : Assistants maternels et assistants familiaux<a id=148></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=147></a>
+#### Chapitre Ier : Dispositions générales.<a id=149></a>
 
 ###### Article L421-1
 
@@ -28264,7 +28583,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L544-2 (VD)
 
 
-#### Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public.<a id=148></a>
+#### Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public.<a id=150></a>
 
 ###### Article L422-1
 
@@ -28531,31 +28850,35 @@ _Modifié par_:
   - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
 
 
-### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=149></a>
+### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=151></a>
 
-#### Chapitre Ier : Accueillants familiaux et modalités d'agrément.<a id=150></a>
+#### Chapitre Ier : Accueillants familiaux et modalités d'agrément.<a id=152></a>
 
 ###### Article L441-1
 
 Pour accueillir habituellement à son domicile, à titre onéreux, des personnes âgées ou handicapées adultes n'appartenant pas
 à sa famille jusqu'au quatrième degré inclus et, s'agissant des personnes handicapées adultes, ne relevant pas des
 dispositions de l'article L. 344-1, une personne ou un couple doit, au préalable, faire l'objet d'un agrément, renouvelable,
-par le président du conseil général de son département de résidence qui en instruit la demande.
+par le président du conseil général de son département de résidence qui en instruit la demande. 
 
-La personne ou le couple agréé est dénommé accueillant familial.
+La personne ou le couple agréé est dénommé accueillant familial. 
 
-La décision d'agrément fixe, dans la limite de trois, le nombre de personnes pouvant être accueillies.
+La décision d'agrément fixe, dans la limite de trois, le nombre de personnes pouvant être accueillies. 
 
 L'agrément ne peut être accordé que si les conditions d'accueil garantissent la continuité de celui-ci, la protection de la
 santé, la sécurité et le bien-être physique et moral des personnes accueillies, si les accueillants se sont engagés à suivre
-une formation initiale et continue et si un suivi social et médico-social de celles-ci peut être assuré. Tout refus
-d'agrément est motivé.
+une formation initiale et continue organisée par le président du conseil général et si un suivi social et médico-social de
+celles-ci peut être assuré. Tout refus d'agrément est motivé. 
 
 En cas de changement de résidence, l'agrément demeure valable sous réserve d'une déclaration préalable auprès du président du
-conseil général du nouveau lieu de résidence qui s'assure que les conditions mentionnées au quatrième alinéa sont remplies.
+conseil général du nouveau lieu de résidence qui s'assure que les conditions mentionnées au quatrième alinéa sont remplies. 
 
 L'agrément vaut, sauf mention contraire, habilitation à recevoir des bénéficiaires de l'aide sociale au titre des articles L.
 113-1 et L. 241-1.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -28620,14 +28943,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-73 2002-01-17 art. 51 I 1°, 2° JORF 18 janvier 2002
-  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 16 () JORF 2 décembre 2005
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L113-1 (M)
+  - Code de l'action sociale et des familles - art. L113-1 (V)
   - Code de l'action sociale et des familles - art. L241-1 (V)
-  - Code de l'action sociale et des familles - art. L344-1 (M)
+  - Code de l'action sociale et des familles - art. L344-1 (V)
 
 
 ###### Article L441-2
@@ -28741,7 +29063,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L544-4 (VD)
 
 
-#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial.<a id=151></a>
+#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial.<a id=153></a>
 
 ###### Article L442-1
 
@@ -28851,38 +29173,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L351-2 (V)
 
 
-#### Chapitre III : Dispositions communes.<a id=152></a>
-
-###### Article L443-2
-
-Les personnes condamnées pour les délits de vol, escroquerie, recel, abus de confiance, agression sexuelle, soustraction
-commise par un dépositaire de l'autorité publique, faux témoignage, corruption et trafic d'influence, faux, et pour les
-délits punis des peines de vol, de l'escroquerie et de l'abus de confiance, ne peuvent être agréées au titre de l'article L.
-441-1.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°89-475 du 10 juillet 1989 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Modifié par_:
-
-  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L441-1 (M)
-
+#### Chapitre III : Dispositions communes.<a id=154></a>
 
 ###### Article L443-4
 
@@ -29128,35 +29419,6 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L442-1 (M)
 
 
-###### Article L443-11
-
-Les dispositions de l'article L. 315-14-1 sont applicables aux salariés d'une personne ou d'un couple accueillant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1249 2000-12-21
-  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-_Créé par_:
-
-  - Loi n°2001-1066 du 16 novembre 2001 - art. 8 () JORF 17 novembre 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
-
-_Cité par_:
-
-  - Loi n°2015-1776 du 28 décembre 2015 - art. 96 (V)
-  - Code de l'action sociale et des familles - art. R14-10-49 (V)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L315-14-1 (Ab)
-
-
 ###### Article L443-12
 
 Les personnes morales de droit public ou de droit privé qui gèrent des établissements et services mentionnés aux 5° à 7° de
@@ -29181,9 +29443,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-### Titre V : Formation des travailleurs sociaux<a id=153></a>
+### Titre V : Formation des travailleurs sociaux<a id=155></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=154></a>
+#### Chapitre Ier : Dispositions générales.<a id=156></a>
 
 ###### Article L451-1
 
@@ -29437,11 +29699,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L451-1 (V)
 
 
-## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=155></a>
+## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=157></a>
 
-### Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=156></a>
+### Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=158></a>
 
-#### Chapitre Ier : Aide sociale communale<a id=157></a>
+#### Chapitre Ier : Aide sociale communale<a id=159></a>
 
 ###### Article L511-1
 
@@ -29652,7 +29914,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L511-1 (V)
 
 
-#### Chapitre II : Revenu minimum d'insertion.<a id=158></a>
+#### Chapitre II : Revenu minimum d'insertion.<a id=160></a>
 
 ###### Article L512-1
 
@@ -29693,9 +29955,9 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-### Titre II : Départements d'outre-mer<a id=159></a>
+### Titre II : Départements d'outre-mer<a id=161></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=160></a>
+#### Chapitre Ier : Dispositions générales.<a id=162></a>
 
 ###### Article L521-1
 
@@ -29733,7 +29995,7 @@ _Codifié par_:
   - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
-#### Chapitre II : Revenu minimum d'insertion.<a id=161></a>
+#### Chapitre II : Revenu minimum d'insertion.<a id=163></a>
 
 ###### Article L522-1
 
@@ -30447,9 +30709,9 @@ _Cite_:
   - Code du travail - art. L322-4-15-9 (M)
 
 
-#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=162></a>
+#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=164></a>
 
-##### Section unique : Service d'accueil téléphonique.<a id=163></a>
+##### Section unique : Service d'accueil téléphonique.<a id=165></a>
 
 ###### Article L523-1
 
@@ -30503,9 +30765,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L226-10 (V)
 
 
-### Titre III : Saint-Pierre-et-Miquelon<a id=164></a>
+### Titre III : Saint-Pierre-et-Miquelon<a id=166></a>
 
-#### Chapitre unique : Dispositions générales.<a id=165></a>
+#### Chapitre unique : Dispositions générales.<a id=167></a>
 
 ###### Article L531-1
 
@@ -30750,9 +31012,9 @@ _Créé par_:
   - Loi n°2005-102 2005-02-11 art. 93 1° JORF 12 février 2005
 
 
-### Titre IV : Mayotte<a id=166></a>
+### Titre IV : Mayotte<a id=168></a>
 
-#### Chapitre préliminaire : Principes généraux.<a id=167></a>
+#### Chapitre préliminaire : Principes généraux.<a id=169></a>
 
 ###### Article L540-1
 
@@ -30772,7 +31034,7 @@ _Créé par_:
   - Loi n°2005-102 du 11 février 2005 - art. 2 (V)
 
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=168></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=170></a>
 
 ###### Article L541-1
 
@@ -30845,7 +31107,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 243 (Ab)
 
 
-#### Chapitre II : Aide sociale.<a id=169></a>
+#### Chapitre II : Aide sociale.<a id=171></a>
 
 ###### Article L542-1
 
@@ -31182,7 +31444,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L543-9 (V)
 
 
-#### Chapitre III : Familles et aide sociale à l'enfance.<a id=170></a>
+#### Chapitre III : Familles et aide sociale à l'enfance.<a id=172></a>
 
 ###### Article L543-1
 
@@ -31606,7 +31868,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L224-5 (M)
 
 
-#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption.<a id=171></a>
+#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption.<a id=173></a>
 
 ###### Article L544-1
 
@@ -31733,7 +31995,7 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 254 (Ab)
 
 
-#### Chapitre V : Dispositions communes.<a id=172></a>
+#### Chapitre V : Dispositions communes.<a id=174></a>
 
 ###### Article L545-1
 
@@ -31978,9 +32240,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L548-6 (VD)
 
 
-### Titre V : Territoire des îles Wallis et Futuna<a id=173></a>
+### Titre V : Territoire des îles Wallis et Futuna<a id=175></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=174></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=176></a>
 
 ###### Article L551-1
 
@@ -32083,7 +32345,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L224-5 (V)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=175></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=177></a>
 
 ###### Article L552-1
 
@@ -32298,9 +32560,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L551-5 (T)
 
 
-### Titre VI : Polynésie française<a id=176></a>
+### Titre VI : Polynésie française<a id=178></a>
 
-#### Chapitre Ier A : Dispositions relatives à l'obligation alimentaire<a id=177></a>
+#### Chapitre Ier A : Dispositions relatives à l'obligation alimentaire<a id=179></a>
 
 ###### Article L560-1
 
@@ -32392,7 +32654,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L132-9 (M)
 
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=178></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=180></a>
 
 ###### Article L561-1
 
@@ -32496,7 +32758,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L562-2 (M)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=179></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=181></a>
 
 ###### Article L562-1
 
@@ -32736,9 +32998,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L561-5 (T)
 
 
-### Titre VII : Nouvelle-Calédonie<a id=180></a>
+### Titre VII : Nouvelle-Calédonie<a id=182></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=181></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=183></a>
 
 ###### Article L571-1
 
@@ -32842,7 +33104,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L572-2 (M)
 
 
-#### Chapitre II : Statut des pupilles de l'Etat.<a id=182></a>
+#### Chapitre II : Statut des pupilles de l'Etat.<a id=184></a>
 
 ###### Article L572-1
 
@@ -33057,9 +33319,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. L571-5 (T)
 
 
-### Titre VIII : Terres australes et antarctiques françaises<a id=183></a>
+### Titre VIII : Terres australes et antarctiques françaises<a id=185></a>
 
-#### Chapitre unique : Principes généraux.<a id=184></a>
+#### Chapitre unique : Principes généraux.<a id=186></a>
 
 ###### Article L581-1
 
@@ -33093,15 +33355,15 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L591-1 (V)
 
 
-# Partie réglementaire<a id=185></a>
+# Partie réglementaire<a id=187></a>
 
-## Livre Ier : Dispositions générales<a id=186></a>
+## Livre Ier : Dispositions générales<a id=188></a>
 
-### Titre Ier : Principes généraux<a id=187></a>
+### Titre Ier : Principes généraux<a id=189></a>
 
-#### Chapitre II : Politique familiale<a id=188></a>
+#### Chapitre II : Politique familiale<a id=190></a>
 
-##### Section 1 : Dispositions générales.<a id=189></a>
+##### Section 1 : Dispositions générales.<a id=191></a>
 
 ###### Article D112-2
 
@@ -33157,7 +33419,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Comité interministériel de l'enfance maltraitée.<a id=190></a>
+##### Section 2 : Comité interministériel de l'enfance maltraitée.<a id=192></a>
 
 ###### Article D112-3
 
@@ -33290,7 +33552,7 @@ _Abrogé par_:
   - Décret n°2016-1248 du 22 septembre 2016 - art. 1
 
 
-#### Chapitre III : Personnes âgées<a id=191></a>
+#### Chapitre III : Personnes âgées<a id=193></a>
 
 ###### Article D113-1
 
@@ -33479,7 +33741,7 @@ _Abrogé par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 1
 
 
-#### Chapitre IV : Personnes handicapées<a id=192></a>
+#### Chapitre IV : Personnes handicapées<a id=194></a>
 
 ###### Article R114-1
 
@@ -33539,9 +33801,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre V : Lutte contre la pauvreté et les exclusions<a id=193></a>
+#### Chapitre V : Lutte contre la pauvreté et les exclusions<a id=195></a>
 
-##### Section 1 : Dispositions générales.<a id=194></a>
+##### Section 1 : Dispositions générales.<a id=196></a>
 
 ###### Article R115-1
 
@@ -33571,7 +33833,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R541-1 (V)
 
 
-##### Section 2 : Comité interministériel de lutte contre les exclusions.<a id=195></a>
+##### Section 2 : Comité interministériel de lutte contre les exclusions.<a id=197></a>
 
 ###### Article R115-2
 
@@ -33654,11 +33916,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R115-3 (V)
 
 
-### Titre II : Compétences<a id=196></a>
+### Titre II : Compétences<a id=198></a>
 
-#### Chapitre Ier : Collectivités publiques et organismes responsables<a id=197></a>
+#### Chapitre Ier : Collectivités publiques et organismes responsables<a id=199></a>
 
-##### Section 1 : Départements.<a id=198></a>
+##### Section 1 : Départements.<a id=200></a>
 
 ###### Article R121-1
 
@@ -33676,7 +33938,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1614-28 (V)
 
 
-##### Section 2 : Communes.<a id=199></a>
+##### Section 2 : Communes.<a id=201></a>
 
 ###### Article R121-2
 
@@ -33975,11 +34237,11 @@ _Créé par_:
   - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
 
 
-#### Chapitre III : Organisation administrative<a id=200></a>
+#### Chapitre III : Organisation administrative<a id=202></a>
 
-##### Section 2 : Centre communal ou intercommunal d'action sociale<a id=201></a>
+##### Section 2 : Centre communal ou intercommunal d'action sociale<a id=203></a>
 
-##### Sous-section 1 : Missions.<a id=202></a>
+##### Sous-section 1 : Missions.<a id=204></a>
 
 ###### Article R123-1
 
@@ -34102,9 +34364,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R123-32 (V)
 
 
-##### Sous-section 2 : Dispositions relatives au centre communal d'action sociale<a id=203></a>
+##### Sous-section 2 : Dispositions relatives au centre communal d'action sociale<a id=205></a>
 
-##### Paragraphe 1 : Composition du conseil d'administration.<a id=204></a>
+##### Paragraphe 1 : Composition du conseil d'administration.<a id=206></a>
 
 ###### Article R123-7
 
@@ -34317,7 +34579,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 2 : Fonctionnement du conseil d'administration.<a id=205></a>
+##### Paragraphe 2 : Fonctionnement du conseil d'administration.<a id=207></a>
 
 ###### Article R123-16
 
@@ -34639,7 +34901,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R123-48 (V)
 
 
-##### Sous-section 3 : Dispositions relatives au centre intercommunal d'action sociale.<a id=206></a>
+##### Sous-section 3 : Dispositions relatives au centre intercommunal d'action sociale.<a id=208></a>
 
 ###### Article R123-27
 
@@ -34731,7 +34993,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 4 : Dispositions relatives aux sections des centres d'action sociale des communes associées.<a id=207></a>
+##### Sous-section 4 : Dispositions relatives aux sections des centres d'action sociale des communes associées.<a id=209></a>
 
 ###### Article R123-31
 
@@ -34925,9 +35187,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2113-16 (V)
 
 
-##### Sous-section 5 : Dispositions relatives au centre d'action sociale de la ville de Paris<a id=208></a>
+##### Sous-section 5 : Dispositions relatives au centre d'action sociale de la ville de Paris<a id=210></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=209></a>
+##### Paragraphe 1 : Dispositions générales.<a id=211></a>
 
 ###### Article R123-39
 
@@ -35151,7 +35413,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R123-7 (V)
 
 
-##### Paragraphe 2 : Dispositions relatives aux sections d'arrondissement et aux autres services du centre d'action sociale.<a id=210></a>
+##### Paragraphe 2 : Dispositions relatives aux sections d'arrondissement et aux autres services du centre d'action sociale.<a id=212></a>
 
 ###### Article R123-49
 
@@ -35484,9 +35746,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R123-52 (V)
 
 
-##### Sous-section 6 : Dispositions particulières applicables aux centres communaux d'action sociale de Marseille et de Lyon<a id=211></a>
+##### Sous-section 6 : Dispositions particulières applicables aux centres communaux d'action sociale de Marseille et de Lyon<a id=213></a>
 
-##### Paragraphe 1 : Marseille.<a id=212></a>
+##### Paragraphe 1 : Marseille.<a id=214></a>
 
 ###### Article R123-62
 
@@ -35531,7 +35793,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 2 : Lyon.<a id=213></a>
+##### Paragraphe 2 : Lyon.<a id=215></a>
 
 ###### Article R123-64
 
@@ -35576,9 +35838,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-### Titre III : Procédures<a id=214></a>
+### Titre III : Procédures<a id=216></a>
 
-#### Chapitre Ier : Admission<a id=215></a>
+#### Chapitre Ier : Admission<a id=217></a>
 
 ###### Article R131-1
 
@@ -35852,9 +36114,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2512-10 (M)
 
 
-#### Chapitre II : Participation et récupération<a id=216></a>
+#### Chapitre II : Participation et récupération<a id=218></a>
 
-##### Section 1 : Appréciation des revenus des postulants.<a id=217></a>
+##### Section 1 : Appréciation des revenus des postulants.<a id=219></a>
 
 ###### Article R132-1
 
@@ -35887,7 +36149,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R471-5-2 (VD)
 
 
-##### Section 2 : Participation des personnes accueillies en établissement pour personnes âgées.<a id=218></a>
+##### Section 2 : Participation des personnes accueillies en établissement pour personnes âgées.<a id=220></a>
 
 ###### Article R132-2
 
@@ -36035,7 +36297,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R132-4 (VT)
 
 
-##### Section 3 : Participation des familles.<a id=219></a>
+##### Section 3 : Participation des familles.<a id=221></a>
 
 ###### Article R132-8
 
@@ -36072,7 +36334,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R541-3 (VD)
 
 
-##### Section 4 : Mise en jeu de l'obligation alimentaire.<a id=220></a>
+##### Section 4 : Mise en jeu de l'obligation alimentaire.<a id=222></a>
 
 ###### Article R132-9
 
@@ -36133,7 +36395,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L132-8 (M)
 
 
-##### Section 5 : Recours en récupération.<a id=221></a>
+##### Section 5 : Recours en récupération.<a id=223></a>
 
 ###### Article R132-11
 
@@ -36201,7 +36463,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R541-3 (VD)
 
 
-##### Section 6 : Hypothèque légale.<a id=222></a>
+##### Section 6 : Hypothèque légale.<a id=224></a>
 
 ###### Article R132-13
 
@@ -36295,9 +36557,9 @@ _Cite_:
   - Code de l'action sociale et des familles R132-13 à R132-15, R132-11
 
 
-#### Chapitre IV : Contentieux<a id=223></a>
+#### Chapitre IV : Contentieux<a id=225></a>
 
-##### Section 1 : Commission départementale.<a id=224></a>
+##### Section 1 : Commission départementale.<a id=226></a>
 
 ###### Article R134-1
 
@@ -36336,7 +36598,7 @@ _Abrogé par_:
   - Décret n°2018-928 du 29 octobre 2018 - art. 4
 
 
-##### Section 2 : Commission centrale d'aide sociale.<a id=225></a>
+##### Section 2 : Commission centrale d'aide sociale.<a id=227></a>
 
 ###### Article R134-3
 
@@ -36496,7 +36758,7 @@ _Abrogé par_:
   - Décret n°2018-928 du 29 octobre 2018 - art. 4
 
 
-##### Section 3 : Dispositions communes.<a id=226></a>
+##### Section 3 : Dispositions communes.<a id=228></a>
 
 ###### Article R134-10
 
@@ -36588,9 +36850,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D311-1 (V)
 
 
-### Titre IV : Institutions<a id=227></a>
+### Titre IV : Institutions<a id=229></a>
 
-#### Chapitre Ier : Haut Conseil de la population et de la famille.<a id=228></a>
+#### Chapitre Ier : Haut Conseil de la population et de la famille.<a id=230></a>
 
 ###### Article D*141-1
 
@@ -36746,7 +37008,7 @@ _Abrogé par_:
   - Décret n°2008-1112 du 30 octobre 2008 - art. 1
 
 
-#### Chapitre II : Conseil supérieur du travail social<a id=229></a>
+#### Chapitre II : Conseil supérieur du travail social<a id=231></a>
 
 ###### Article D142-1
 
@@ -36794,7 +37056,7 @@ _Cité par_:
   - Décret n°2015-626 du 5 juin 2015 - art. Annexe II (V)
 
 
-#### Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale<a id=230></a>
+#### Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale<a id=232></a>
 
 ###### Article D143-6
 
@@ -37046,7 +37308,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R143-2 (V)
 
 
-#### Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale<a id=231></a>
+#### Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale<a id=233></a>
 
 ###### Article R144-1
 
@@ -37144,9 +37406,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre V : Coordination des interventions<a id=232></a>
+#### Chapitre V : Coordination des interventions<a id=234></a>
 
-##### Section 1 : Conventions entre les acteurs engagés dans la prévention et la lutte contre les exclusions.<a id=233></a>
+##### Section 1 : Conventions entre les acteurs engagés dans la prévention et la lutte contre les exclusions.<a id=235></a>
 
 ###### Article R145-1
 
@@ -37226,9 +37488,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R145-10 (T)
 
 
-#### Chapitre VI : Consultation des personnes handicapées<a id=234></a>
+#### Chapitre VI : Consultation des personnes handicapées<a id=236></a>
 
-##### Section 1 : Conseil national consultatif des personnes handicapées<a id=235></a>
+##### Section 1 : Conseil national consultatif des personnes handicapées<a id=237></a>
 
 ###### Article D146-1
 
@@ -37439,7 +37701,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Conseil départemental consultatif des personnes handicapées<a id=236></a>
+##### Section 2 : Conseil départemental consultatif des personnes handicapées<a id=238></a>
 
 ###### Article D146-10
 
@@ -37644,9 +37906,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L146-2
 
 
-#### Chapitre VII : Conseil national pour l'accès aux origines personnelles<a id=237></a>
+#### Chapitre VII : Conseil national pour l'accès aux origines personnelles<a id=239></a>
 
-##### Section 1 : Composition et fonctionnement du conseil national pour l'accès aux origines personnelles<a id=238></a>
+##### Section 1 : Composition et fonctionnement du conseil national pour l'accès aux origines personnelles<a id=240></a>
 
 ###### Article D147-11
 
@@ -38131,7 +38393,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L147-2 (V)
 
 
-##### Section 2 : Information et accompagnement des mères de naissance<a id=239></a>
+##### Section 2 : Information et accompagnement des mères de naissance<a id=241></a>
 
 ###### Article R147-21
 
@@ -38281,7 +38543,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R147-29 (V)
 
 
-##### Section 3 : Conditions de traitement et de conservation des informations et renseignements nécessaires à l'accès aux origines personnelles<a id=240></a>
+##### Section 3 : Conditions de traitement et de conservation des informations et renseignements nécessaires à l'accès aux origines personnelles<a id=242></a>
 
 ###### Article R147-25
 
@@ -38580,9 +38842,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-28 (V)
 
 
-#### Chapitre VIII : Conseil supérieur de l'adoption et autorité centrale pour l'adoption internationale<a id=241></a>
+#### Chapitre VIII : Conseil supérieur de l'adoption et autorité centrale pour l'adoption internationale<a id=243></a>
 
-##### Section 1 : Conseil supérieur de l'adoption<a id=242></a>
+##### Section 1 : Conseil supérieur de l'adoption<a id=244></a>
 
 ###### Article D148-1
 
@@ -38688,7 +38950,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Autorité centrale pour l'adoption internationale<a id=243></a>
+##### Section 2 : Autorité centrale pour l'adoption internationale<a id=245></a>
 
 ###### Article R*148-4
 
@@ -38828,9 +39090,9 @@ _Cité par_:
   - Décret n°2014-1268 du 23 octobre 2014 - art. (V)
 
 
-#### Chapitre IX : Comité national et comités départementaux des retraités et des personnes âgées<a id=244></a>
+#### Chapitre IX : Comité national et comités départementaux des retraités et des personnes âgées<a id=246></a>
 
-##### Section 1 : Comité national des retraités et des personnes âgées<a id=245></a>
+##### Section 1 : Comité national des retraités et des personnes âgées<a id=247></a>
 
 ###### Article D149-1
 
@@ -39039,7 +39301,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Comités départementaux des retraités et des personnes âgées.<a id=246></a>
+##### Section 2 : Comités départementaux des retraités et des personnes âgées.<a id=248></a>
 
 ###### Article D149-7
 
@@ -39153,11 +39415,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D149-8 (Ab)
 
 
-#### Chapitre X : Caisse nationale de solidarité pour l'autonomie<a id=247></a>
+#### Chapitre X : Caisse nationale de solidarité pour l'autonomie<a id=249></a>
 
-##### Section 1 : Conseil<a id=248></a>
+##### Section 1 : Conseil<a id=250></a>
 
-##### Sous-section 1 : Compétence<a id=249></a>
+##### Sous-section 1 : Compétence<a id=251></a>
 
 ###### Article R14-10-1
 
@@ -39183,7 +39445,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L14-10-3 (V)
 
 
-##### Sous-section 2 : Composition<a id=250></a>
+##### Sous-section 2 : Composition<a id=252></a>
 
 ###### Article R14-10-2
 
@@ -39374,7 +39636,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R14-10-2 (V)
 
 
-##### Sous-section 3 : Fonctionnement<a id=251></a>
+##### Sous-section 3 : Fonctionnement<a id=253></a>
 
 ###### Article R14-10-6
 
@@ -39570,7 +39832,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R14-10-31 (V)
 
 
-##### Section 2 : Directeur<a id=252></a>
+##### Section 2 : Directeur<a id=254></a>
 
 ###### Article R14-10-15
 
@@ -39716,7 +39978,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L14-10-5 (V)
 
 
-##### Section 3 : Agent comptable<a id=253></a>
+##### Section 3 : Agent comptable<a id=255></a>
 
 ###### Article R14-10-21
 
@@ -39760,9 +40022,9 @@ _Créé par_:
   - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
 
 
-##### Section 4 : Conseil scientifique<a id=254></a>
+##### Section 4 : Conseil scientifique<a id=256></a>
 
-##### Sous-section 1 : Composition<a id=255></a>
+##### Sous-section 1 : Composition<a id=257></a>
 
 ###### Article R14-10-23
 
@@ -39820,7 +40082,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R312-196 (M)
 
 
-##### Sous-section 2 : Rôle et modalités de fonctionnement<a id=256></a>
+##### Sous-section 2 : Rôle et modalités de fonctionnement<a id=258></a>
 
 ###### Article R14-10-24
 
@@ -39973,11 +40235,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R14-10-14 (V)
 
 
-## Livre II : Différentes formes d'aide et d'action sociales<a id=257></a>
+## Livre II : Différentes formes d'aide et d'action sociales<a id=259></a>
 
-### Titre Ier : Famille<a id=258></a>
+### Titre Ier : Famille<a id=260></a>
 
-#### Chapitre Ier : Associations familiales<a id=259></a>
+#### Chapitre Ier : Associations familiales<a id=261></a>
 
 ###### Article R211-1
 
@@ -40120,7 +40382,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L211-1 (V)
 
 
-#### Chapitre III : Education et conseil familial<a id=260></a>
+#### Chapitre III : Education et conseil familial<a id=262></a>
 
 ###### Article R213-1
 
@@ -40138,7 +40400,7 @@ _Cite_:
   - Code de la santé publique - art. R2311-1 (V)
 
 
-#### Chapitre IV : Accueil des jeunes enfants<a id=261></a>
+#### Chapitre IV : Accueil des jeunes enfants<a id=263></a>
 
 ###### Article D214-1
 
@@ -40354,9 +40616,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre V : Dispositions diverses en faveur des familles<a id=262></a>
+#### Chapitre V : Dispositions diverses en faveur des familles<a id=264></a>
 
-##### Section 1 : Fête des mères<a id=263></a>
+##### Section 1 : Fête des mères<a id=265></a>
 
 ###### Article D215-2
 
@@ -40394,7 +40656,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Carte nationale de priorité de la famille<a id=264></a>
+##### Section 2 : Carte nationale de priorité de la famille<a id=266></a>
 
 ###### Article R215-3
 
@@ -40503,7 +40765,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Médaille de la famille<a id=265></a>
+##### Section 3 : Médaille de la famille<a id=267></a>
 
 ###### Article D215-7
 
@@ -40707,7 +40969,7 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 
-##### Section 4 : Dispositions pénales et sanctions.<a id=266></a>
+##### Section 4 : Dispositions pénales et sanctions.<a id=268></a>
 
 ###### Article R215-14
 
@@ -40803,11 +41065,11 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R215-20 (V)
 
 
-### Titre II : Enfance<a id=267></a>
+### Titre II : Enfance<a id=269></a>
 
-#### Chapitre Ier : Service de l'aide sociale à l'enfance<a id=268></a>
+#### Chapitre Ier : Service de l'aide sociale à l'enfance<a id=270></a>
 
-##### Section 1 : Protection sociale de l'enfance en danger<a id=269></a>
+##### Section 1 : Protection sociale de l'enfance en danger<a id=271></a>
 
 ###### Article R221-1
 
@@ -40889,7 +41151,7 @@ _Anciens textes_:
   - Décret n°59-100 1959-01-07 art. 4
 
 
-##### Section 2 : Mesures d'assistance éducative<a id=270></a>
+##### Section 2 : Mesures d'assistance éducative<a id=272></a>
 
 ###### Article R221-4
 
@@ -40918,9 +41180,9 @@ _Cite_:
   - Code civil - art. 375 (VT)
 
 
-#### Chapitre II : Prestations d'aide sociale à l'enfance<a id=271></a>
+#### Chapitre II : Prestations d'aide sociale à l'enfance<a id=273></a>
 
-##### Section 1 : Aide à domicile<a id=272></a>
+##### Section 1 : Aide à domicile<a id=274></a>
 
 ###### Article R222-1
 
@@ -41011,7 +41273,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R222-3 (V)
 
 
-##### Section 2 : Information des mères de naissance<a id=273></a>
+##### Section 2 : Information des mères de naissance<a id=275></a>
 
 ###### Article R222-5
 
@@ -41029,7 +41291,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-22 (V)
 
 
-#### Chapitre III : Droits des familles dans leurs rapports avec les services de l'aide sociale à l'enfance<a id=274></a>
+#### Chapitre III : Droits des familles dans leurs rapports avec les services de l'aide sociale à l'enfance<a id=276></a>
 
 ###### Article R223-1
 
@@ -41336,11 +41598,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-23 (V)
 
 
-#### Chapitre IV : Pupilles de l'Etat<a id=275></a>
+#### Chapitre IV : Pupilles de l'Etat<a id=277></a>
 
-##### Section 1 : Organes chargés de la tutelle<a id=276></a>
+##### Section 1 : Organes chargés de la tutelle<a id=278></a>
 
-##### Sous-section 1 : Composition du conseil de famille.<a id=277></a>
+##### Sous-section 1 : Composition du conseil de famille.<a id=279></a>
 
 ###### Article R224-1
 
@@ -41486,7 +41748,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L224-2 (V)
 
 
-##### Sous-section 2 : Fonctionnement du conseil de famille.<a id=278></a>
+##### Sous-section 2 : Fonctionnement du conseil de famille.<a id=280></a>
 
 ###### Article R224-7
 
@@ -41685,7 +41947,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D221-20 (V)
 
 
-##### Sous-section 3 : Rôle du conseil de famille.<a id=279></a>
+##### Sous-section 3 : Rôle du conseil de famille.<a id=281></a>
 
 ###### Article R224-12
 
@@ -42115,11 +42377,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L224-6 (V)
 
 
-#### Chapitre V : Adoption<a id=280></a>
+#### Chapitre V : Adoption<a id=282></a>
 
-##### Section 1 : Adoption des pupilles de l'Etat<a id=281></a>
+##### Section 1 : Adoption des pupilles de l'Etat<a id=283></a>
 
-##### Sous-section 1 : Dispositions relatives à l'agrément<a id=282></a>
+##### Sous-section 1 : Dispositions relatives à l'agrément<a id=284></a>
 
 ###### Article R225-1
 
@@ -42364,7 +42626,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. Annexe 2-6 (V)
 
 
-##### Sous-section 2 : Dispositions relatives à la commission d'agrément<a id=283></a>
+##### Sous-section 2 : Dispositions relatives à la commission d'agrément<a id=285></a>
 
 ###### Article R225-9
 
@@ -42455,9 +42717,9 @@ _Cite_:
   - Code pénal - art. 226-13 (V)
 
 
-##### Section 2 : Organismes autorisés et habilités pour l'adoption<a id=284></a>
+##### Section 2 : Organismes autorisés et habilités pour l'adoption<a id=286></a>
 
-##### Sous-section 1 : Missions des organismes<a id=285></a>
+##### Sous-section 1 : Missions des organismes<a id=287></a>
 
 ###### Article R225-12
 
@@ -42555,9 +42817,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R225-13 (V)
 
 
-##### Sous-section 2 : Autorisation et déclaration de fonctionnement<a id=286></a>
+##### Sous-section 2 : Autorisation et déclaration de fonctionnement<a id=288></a>
 
-##### Paragraphe 1 : Autorisation.<a id=287></a>
+##### Paragraphe 1 : Autorisation.<a id=289></a>
 
 ###### Article R225-15
 
@@ -42814,7 +43076,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R225-22 (V)
 
 
-##### Paragraphe 2 : Déclaration.<a id=288></a>
+##### Paragraphe 2 : Déclaration.<a id=290></a>
 
 ###### Article R225-22
 
@@ -42890,7 +43152,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R225-22 (VT)
 
 
-##### Paragraphe 3 : Recueil d'enfants nés sur le territoire français.<a id=289></a>
+##### Paragraphe 3 : Recueil d'enfants nés sur le territoire français.<a id=291></a>
 
 ###### Article R225-24
 
@@ -43076,7 +43338,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 4 : Retrait d'autorisation et interdiction de fonctionnement.<a id=290></a>
+##### Paragraphe 4 : Retrait d'autorisation et interdiction de fonctionnement.<a id=292></a>
 
 ###### Article R225-30
 
@@ -43195,7 +43457,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R225-41 (V)
 
 
-##### Sous-section 3 : Habilitation<a id=291></a>
+##### Sous-section 3 : Habilitation<a id=293></a>
 
 ###### Article R225-33
 
@@ -43453,7 +43715,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R225-50 (V)
 
 
-##### Sous-section 4 : Dispositions communes aux organismes autorisés et habilités<a id=292></a>
+##### Sous-section 4 : Dispositions communes aux organismes autorisés et habilités<a id=294></a>
 
 ###### Article R225-40
 
@@ -43622,9 +43884,9 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 100-2-1 (Ab)
 
 
-#### Chapitre VI : Protection des mineurs maltraités<a id=293></a>
+#### Chapitre VI : Protection des mineurs maltraités<a id=295></a>
 
-##### Section 1 : Formation des professionnels<a id=294></a>
+##### Section 1 : Formation des professionnels<a id=296></a>
 
 ###### Article D226-1
 
@@ -43643,7 +43905,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Service d'accueil téléphonique<a id=295></a>
+##### Section 2 : Service d'accueil téléphonique<a id=297></a>
 
 ###### Article R226-2
 
@@ -43671,11 +43933,11 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 71 (Ab)
 
 
-#### Chapitre VII : Mineurs accueillis hors du domicile parental<a id=296></a>
+#### Chapitre VII : Mineurs accueillis hors du domicile parental<a id=298></a>
 
-##### Section 1 : Protection des mineurs à l'occasion des vacances scolaires, des congés professionnels et des loisirs<a id=297></a>
+##### Section 1 : Protection des mineurs à l'occasion des vacances scolaires, des congés professionnels et des loisirs<a id=299></a>
 
-##### Sous-section unique : Dispositions générales<a id=298></a>
+##### Sous-section unique : Dispositions générales<a id=300></a>
 
 ###### Article R227-1
 
@@ -43852,7 +44114,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R227-1 (M)
 
 
-##### Paragraphe 1 : Dispositions relatives à l'hygiène et à la sécurité<a id=299></a>
+##### Paragraphe 1 : Dispositions relatives à l'hygiène et à la sécurité<a id=301></a>
 
 ###### Article R227-5
 
@@ -44023,7 +44285,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 2 : Dispositions relatives à la qualification des personnes encadrant les mineurs dans les centres de vacances et les centres de loisirs<a id=300></a>
+##### Paragraphe 2 : Dispositions relatives à la qualification des personnes encadrant les mineurs dans les centres de vacances et les centres de loisirs<a id=302></a>
 
 ###### Article R227-12
 
@@ -44435,7 +44697,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-2 (VD)
 
 
-##### Section 2 : Projet éducatif<a id=301></a>
+##### Section 2 : Projet éducatif<a id=303></a>
 
 ###### Article R227-23
 
@@ -44557,7 +44819,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R227-25 (M)
 
 
-##### Section 3 : Obligation d'assurance de responsabilité civile relative aux accueils de mineurs<a id=302></a>
+##### Section 3 : Obligation d'assurance de responsabilité civile relative aux accueils de mineurs<a id=304></a>
 
 ###### Article R227-27
 
@@ -44674,9 +44936,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R227-29 (V)
 
 
-#### Chapitre VIII : Dispositions financières<a id=303></a>
+#### Chapitre VIII : Dispositions financières<a id=305></a>
 
-##### Section unique : Contribution à la prise en charge par l'aide sociale à l'enfance<a id=304></a>
+##### Section unique : Contribution à la prise en charge par l'aide sociale à l'enfance<a id=306></a>
 
 ###### Article R228-1
 
@@ -44749,9 +45011,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L228-3 (V)
 
 
-### Titre III : Personnes âgées<a id=305></a>
+### Titre III : Personnes âgées<a id=307></a>
 
-#### Chapitre Ier : Aide à domicile et placement<a id=306></a>
+#### Chapitre Ier : Aide à domicile et placement<a id=308></a>
 
 ###### Article R231-1
 
@@ -44922,11 +45184,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L132-3 (V)
 
 
-#### Chapitre II : Allocation personnalisée d'autonomie<a id=307></a>
+#### Chapitre II : Allocation personnalisée d'autonomie<a id=309></a>
 
-##### Section 1 : Allocation personnalisée d'autonomie et qualité des services rendus aux personnes âgées<a id=308></a>
+##### Section 1 : Allocation personnalisée d'autonomie et qualité des services rendus aux personnes âgées<a id=310></a>
 
-##### Sous-section 1 : Conditions générales d'attribution de l'allocation personnalisée d'autonomie<a id=309></a>
+##### Sous-section 1 : Conditions générales d'attribution de l'allocation personnalisée d'autonomie<a id=311></a>
 
 ###### Article R232-1
 
@@ -45127,9 +45389,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R232-19 (M)
 
 
-##### Sous-section 2 : Allocation personnalisée d'autonomie à domicile<a id=310></a>
+##### Sous-section 2 : Allocation personnalisée d'autonomie à domicile<a id=312></a>
 
-##### Paragraphe 1 : Procédure d'instruction et modalités d'élaboration du plan d'aide<a id=311></a>
+##### Paragraphe 1 : Procédure d'instruction et modalités d'élaboration du plan d'aide<a id=313></a>
 
 ###### Article R232-7
 
@@ -45241,7 +45503,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-6 (M)
 
 
-##### Paragraphe 2 : Montant de l'allocation<a id=312></a>
+##### Paragraphe 2 : Montant de l'allocation<a id=314></a>
 
 ###### Article R232-10
 
@@ -45365,7 +45627,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R232-6 (V)
 
 
-##### Paragraphe 3 : Dispositions particulières visant à la qualité du service rendu<a id=313></a>
+##### Paragraphe 3 : Dispositions particulières visant à la qualité du service rendu<a id=315></a>
 
 ###### Article R232-12
 
@@ -45447,7 +45709,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 4 : Contrôle d'effectivité et suspension de l'aide<a id=314></a>
+##### Paragraphe 4 : Contrôle d'effectivité et suspension de l'aide<a id=316></a>
 
 ###### Article R232-15
 
@@ -45519,9 +45781,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D232-25 (Ab)
 
 
-##### Sous-section 3 : Allocation personnalisée d'autonomie en établissement<a id=315></a>
+##### Sous-section 3 : Allocation personnalisée d'autonomie en établissement<a id=317></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=316></a>
+##### Paragraphe 1 : Dispositions générales<a id=318></a>
 
 ###### Article R232-18
 
@@ -45620,7 +45882,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R232-6 (V)
 
 
-##### Paragraphe 2 : Dispositions particulières relatives à certains établissements<a id=317></a>
+##### Paragraphe 2 : Dispositions particulières relatives à certains établissements<a id=319></a>
 
 ###### Article D232-20
 
@@ -45751,11 +46013,11 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-3 (M)
 
 
-##### Section 2 : Gestion de l'allocation personnalisée d'autonomie<a id=318></a>
+##### Section 2 : Gestion de l'allocation personnalisée d'autonomie<a id=320></a>
 
-##### Sous-section 1 : Instruction des demandes<a id=319></a>
+##### Sous-section 1 : Instruction des demandes<a id=321></a>
 
-##### Paragraphe 1 : Constitution du dossier de demande<a id=320></a>
+##### Paragraphe 1 : Constitution du dossier de demande<a id=322></a>
 
 ###### Article R232-23
 
@@ -45819,7 +46081,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R232-24-1 (V)
 
 
-##### Paragraphe 2 : Commission de proposition et de conciliation<a id=321></a>
+##### Paragraphe 2 : Commission de proposition et de conciliation<a id=323></a>
 
 ###### Article D232-25
 
@@ -45905,7 +46167,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L232-18
 
 
-##### Sous-section 2 : Décision d'attribution<a id=322></a>
+##### Sous-section 2 : Décision d'attribution<a id=324></a>
 
 ###### Article R232-27
 
@@ -45990,9 +46252,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L232-3 (M)
 
 
-##### Sous-section 3 : Versement de l'allocation personnalisée d'autonomie<a id=323></a>
+##### Sous-section 3 : Versement de l'allocation personnalisée d'autonomie<a id=325></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=324></a>
+##### Paragraphe 1 : Dispositions communes<a id=326></a>
 
 ###### Article D232-31
 
@@ -46074,7 +46336,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 2 : Dispositions particulières à l'allocation à domicile<a id=325></a>
+##### Paragraphe 2 : Dispositions particulières à l'allocation à domicile<a id=327></a>
 
 ###### Article D232-33
 
@@ -46101,7 +46363,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L232-14 (M)
 
 
-##### Paragraphe 3 : Dispositions particulières à l'allocation en établissement<a id=326></a>
+##### Paragraphe 3 : Dispositions particulières à l'allocation en établissement<a id=328></a>
 
 ###### Article D232-35
 
@@ -46160,9 +46422,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-3 (V)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=327></a>
+##### Sous-section 4 : Dispositions diverses<a id=329></a>
 
-##### Paragraphe 1 : Le comité scientifique.<a id=328></a>
+##### Paragraphe 1 : Le comité scientifique.<a id=330></a>
 
 ###### Article D232-36
 
@@ -46223,7 +46485,7 @@ _Abrogé par_:
   - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
 
 
-##### Paragraphe 2 : Système d'information<a id=329></a>
+##### Paragraphe 2 : Système d'information<a id=331></a>
 
 ###### Article R232-38
 
@@ -46255,7 +46517,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 3 : Agrément des organismes pour l'élection de domicile.<a id=330></a>
+##### Paragraphe 3 : Agrément des organismes pour l'élection de domicile.<a id=332></a>
 
 ###### Article R232-39
 
@@ -46286,9 +46548,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L232-2 (M)
 
 
-##### Section 3 : Financement de l'allocation personnalisée d'autonomie<a id=331></a>
+##### Section 3 : Financement de l'allocation personnalisée d'autonomie<a id=333></a>
 
-##### Sous-section 1 : Organisation et gestion du fonds de financement de l'allocation personnalisée d'autonomie.<a id=332></a>
+##### Sous-section 1 : Organisation et gestion du fonds de financement de l'allocation personnalisée d'autonomie.<a id=334></a>
 
 ###### Article R232-40
 
@@ -46724,7 +46986,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L232-21 (M)
 
 
-##### Sous-section 2 : Dispositions financières relatives à l'allocation personnalisée d'autonomie<a id=333></a>
+##### Sous-section 2 : Dispositions financières relatives à l'allocation personnalisée d'autonomie<a id=335></a>
 
 ###### Article R232-51
 
@@ -47057,7 +47319,7 @@ _Abrogé par_:
   - Décret n°2016-210 du 26 février 2016 - art. 3
 
 
-##### Section 4 : Dispositions communes<a id=334></a>
+##### Section 4 : Dispositions communes<a id=336></a>
 
 ###### Article R232-58
 
@@ -47171,11 +47433,11 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-### Titre IV : Personnes handicapées<a id=335></a>
+### Titre IV : Personnes handicapées<a id=337></a>
 
-#### Chapitre Ier : Dispositions générales<a id=336></a>
+#### Chapitre Ier : Dispositions générales<a id=338></a>
 
-##### Section 1 : Prestations<a id=337></a>
+##### Section 1 : Prestations<a id=339></a>
 
 ###### Article R241-1
 
@@ -47260,7 +47522,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R241-2 (V)
 
 
-##### Section 2 : Allocation différentielle<a id=338></a>
+##### Section 2 : Allocation différentielle<a id=340></a>
 
 ###### Article R241-4
 
@@ -47471,7 +47733,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Carte d'invalidité.<a id=339></a>
+##### Section 3 : Carte d'invalidité.<a id=341></a>
 
 ###### Article R241-12
 
@@ -47589,7 +47851,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 4 : Macaron "Grand Invalide civil".<a id=340></a>
+##### Section 4 : Macaron "Grand Invalide civil".<a id=342></a>
 
 ###### Article R241-16
 
@@ -47724,7 +47986,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R241-20-1 (V)
 
 
-##### Section 5 : Dispositions pénales<a id=341></a>
+##### Section 5 : Dispositions pénales<a id=343></a>
 
 ###### Article R241-21
 
@@ -47798,11 +48060,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R241-18 (M)
 
 
-#### Chapitre II : Education spéciale<a id=342></a>
+#### Chapitre II : Education spéciale<a id=344></a>
 
-##### Section 1 : Commission d'éducation spéciale<a id=343></a>
+##### Section 1 : Commission d'éducation spéciale<a id=345></a>
 
-##### Sous-section 1 : Composition et fonctionnement.<a id=344></a>
+##### Sous-section 1 : Composition et fonctionnement.<a id=346></a>
 
 ###### Article R242-1
 
@@ -47978,7 +48240,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R242-4 (Ab)
 
 
-##### Sous-section 2 : Commissions de circonscription.<a id=345></a>
+##### Sous-section 2 : Commissions de circonscription.<a id=347></a>
 
 ###### Article R242-6
 
@@ -48217,7 +48479,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R242-12 (Ab)
 
 
-##### Section 2 : Prise en charge.<a id=346></a>
+##### Section 2 : Prise en charge.<a id=348></a>
 
 ###### Article D242-14
 
@@ -48286,7 +48548,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-4 (VD)
 
 
-##### Section 3 : Allocation d'éducation spéciale.<a id=347></a>
+##### Section 3 : Allocation d'éducation spéciale.<a id=349></a>
 
 ###### Article R242-16
 
@@ -48308,7 +48570,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-4 (VD)
 
 
-##### Section 4 : Dispositions communes.<a id=348></a>
+##### Section 4 : Dispositions communes.<a id=350></a>
 
 ###### Article R242-17
 
@@ -48357,9 +48619,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R242-17 (M)
 
 
-#### Chapitre III : Travailleurs handicapés<a id=349></a>
+#### Chapitre III : Travailleurs handicapés<a id=351></a>
 
-##### Section 1 : Commission technique d'orientation et de reclassement professionnel.<a id=350></a>
+##### Section 1 : Commission technique d'orientation et de reclassement professionnel.<a id=352></a>
 
 ###### Article R243-1
 
@@ -48482,9 +48744,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R243-3 (V)
 
 
-##### Section 2 : Dispositions favorisant le travail<a id=351></a>
+##### Section 2 : Dispositions favorisant le travail<a id=353></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=352></a>
+##### Sous-section 1 : Dispositions générales.<a id=354></a>
 
 ###### Article R243-5
 
@@ -48518,7 +48780,7 @@ _Cite_:
   - Code de l'action sociale et des familles L243-4 à L243-6
 
 
-##### Sous-section 2 : Garantie de ressources.<a id=353></a>
+##### Sous-section 2 : Garantie de ressources.<a id=355></a>
 
 ###### Article R243-6
 
@@ -48774,7 +49036,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-4 (VD)
 
 
-##### Sous-section 3 : Bonifications.<a id=354></a>
+##### Sous-section 3 : Bonifications.<a id=356></a>
 
 ###### Article D243-14
 
@@ -48876,7 +49138,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D243-14 (Ab)
 
 
-##### Section 3 : Participation de l'Etat au paiement des accessoires de salaire.<a id=355></a>
+##### Section 3 : Participation de l'Etat au paiement des accessoires de salaire.<a id=357></a>
 
 ###### Article R243-17
 
@@ -48910,7 +49172,7 @@ _Cite_:
   - Code du travail - art. R323-63-1-1 (Ab)
 
 
-#### Chapitre IV : Allocation aux adultes handicapés<a id=356></a>
+#### Chapitre IV : Allocation aux adultes handicapés<a id=358></a>
 
 ###### Article R244-1
 
@@ -48936,9 +49198,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-4 (VD)
 
 
-#### Chapitre V : Allocation compensatrice<a id=357></a>
+#### Chapitre V : Allocation compensatrice<a id=359></a>
 
-##### Section 1 : Dispositions générales.<a id=358></a>
+##### Section 1 : Dispositions générales.<a id=360></a>
 
 ###### Article D245-1
 
@@ -48996,7 +49258,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L245-4 (M)
 
 
-##### Section 2 : Allocation compensatrice attribuée au titre de la tierce personne.<a id=359></a>
+##### Section 2 : Allocation compensatrice attribuée au titre de la tierce personne.<a id=361></a>
 
 ###### Article R245-3
 
@@ -49256,7 +49518,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R245-9 (Ab)
 
 
-##### Section 3 : Allocation compensatrice attribuée au titre d'une activité professionnelle.<a id=360></a>
+##### Section 3 : Allocation compensatrice attribuée au titre d'une activité professionnelle.<a id=362></a>
 
 ###### Article R245-11
 
@@ -49289,7 +49551,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L341-4 (V)
 
 
-##### Section 4 : Dispositions communes.<a id=361></a>
+##### Section 4 : Dispositions communes.<a id=363></a>
 
 ###### Article R245-12
 
@@ -49379,7 +49641,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R245-18 (Ab)
 
 
-##### Section 5 : Procédure d'attribution.<a id=362></a>
+##### Section 5 : Procédure d'attribution.<a id=364></a>
 
 ###### Article R245-15
 
@@ -49545,15 +49807,15 @@ _Abrogé par_:
   - Décret n°2005-1588 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
 
 
-### Titre VI : Lutte contre la pauvreté et les exclusions<a id=363></a>
+### Titre VI : Lutte contre la pauvreté et les exclusions<a id=365></a>
 
-#### Chapitre Ier : Logement<a id=364></a>
+#### Chapitre Ier : Logement<a id=366></a>
 
-##### Section 2 : Fourniture d'eau et d'énergie<a id=365></a>
+##### Section 2 : Fourniture d'eau et d'énergie<a id=367></a>
 
-##### Sous-section 1 : Electricité<a id=366></a>
+##### Sous-section 1 : Electricité<a id=368></a>
 
-##### Paragraphe 1 : Aide au paiement des factures impayées.<a id=367></a>
+##### Paragraphe 1 : Aide au paiement des factures impayées.<a id=369></a>
 
 ###### Article R261-1
 
@@ -49593,7 +49855,7 @@ _Abrogé par_:
   - Décret n°2008-780 du 13 août 2008 - art. 15
 
 
-##### Sous-section 2 : Gaz.<a id=368></a>
+##### Sous-section 2 : Gaz.<a id=370></a>
 
 ###### Article R261-2
 
@@ -49619,7 +49881,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R261-9 (T)
 
 
-##### Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées.<a id=369></a>
+##### Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées.<a id=371></a>
 
 ###### Article R261-3
 
@@ -49645,9 +49907,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R261-10 (T)
 
 
-#### Chapitre II : Revenu minimum d'insertion<a id=370></a>
+#### Chapitre II : Revenu minimum d'insertion<a id=372></a>
 
-##### Section 1 : Dispositions générales<a id=371></a>
+##### Section 1 : Dispositions générales<a id=373></a>
 
 ###### Article R262-1
 
@@ -49733,9 +49995,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-6 (VD)
 
 
-##### Section 2 : Conditions d'ouverture du droit à l'allocation<a id=372></a>
+##### Section 2 : Conditions d'ouverture du droit à l'allocation<a id=374></a>
 
-##### Sous-section 1 : Détermination des ressources.<a id=373></a>
+##### Sous-section 1 : Détermination des ressources.<a id=375></a>
 
 ###### Article R262-3
 
@@ -50324,9 +50586,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D553-1 (V)
 
 
-##### Sous-section 2 : Dispositions propres aux ressources professionnelles des non-salariés<a id=374></a>
+##### Sous-section 2 : Dispositions propres aux ressources professionnelles des non-salariés<a id=376></a>
 
-##### Paragraphe 1 : Conditions d'accès à l'allocation.<a id=375></a>
+##### Paragraphe 1 : Conditions d'accès à l'allocation.<a id=377></a>
 
 ###### Article R262-14
 
@@ -50439,7 +50701,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D553-1 (M)
 
 
-##### Paragraphe 2 : Evaluation des revenus professionnels non salariés.<a id=376></a>
+##### Paragraphe 2 : Evaluation des revenus professionnels non salariés.<a id=378></a>
 
 ###### Article R262-17
 
@@ -50621,9 +50883,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Attribution de l'allocation<a id=377></a>
+##### Section 3 : Attribution de l'allocation<a id=379></a>
 
-##### Sous-section 1 : Agrément pour le recueil des demandes d'allocation.<a id=378></a>
+##### Sous-section 1 : Agrément pour le recueil des demandes d'allocation.<a id=380></a>
 
 ###### Article R262-23
 
@@ -50775,7 +51037,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R262-23 (M)
 
 
-##### Sous-section 2 : Agrément pour la réception des déclarations d'élection de domicile.<a id=379></a>
+##### Sous-section 2 : Agrément pour la réception des déclarations d'élection de domicile.<a id=381></a>
 
 ###### Article R262-28
 
@@ -50955,7 +51217,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R262-40 (V)
 
 
-##### Sous-section 3 : Liquidation, versement et révision de l'allocation.<a id=380></a>
+##### Sous-section 3 : Liquidation, versement et révision de l'allocation.<a id=382></a>
 
 ###### Article D262-40
 
@@ -51199,7 +51461,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R262-1 (V)
 
 
-##### Sous-section 4 : Suspension ou réduction de l'allocation.<a id=381></a>
+##### Sous-section 4 : Suspension ou réduction de l'allocation.<a id=383></a>
 
 ###### Article R262-45
 
@@ -51295,7 +51557,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-6 (VD)
 
 
-##### Sous-section 5 : Contrôle.<a id=382></a>
+##### Sous-section 5 : Contrôle.<a id=384></a>
 
 ###### Article D262-49
 
@@ -51345,7 +51607,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L262-33 (M)
 
 
-##### Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés.<a id=383></a>
+##### Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés.<a id=385></a>
 
 ###### Article R262-50
 
@@ -51537,9 +51799,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R262-50 (M)
 
 
-##### Sous-section 7 : Conventions conclues entre le département et les organismes payeurs<a id=384></a>
+##### Sous-section 7 : Conventions conclues entre le département et les organismes payeurs<a id=386></a>
 
-##### Paragraphe 1 : Missions exercées par les organismes payeurs à titre gratuit.<a id=385></a>
+##### Paragraphe 1 : Missions exercées par les organismes payeurs à titre gratuit.<a id=387></a>
 
 ###### Article D262-59
 
@@ -51641,7 +51903,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-6 (VD)
 
 
-##### Paragraphe 2 : Autres missions pouvant être exercées par les organismes payeurs.<a id=386></a>
+##### Paragraphe 2 : Autres missions pouvant être exercées par les organismes payeurs.<a id=388></a>
 
 ###### Article D262-63
 
@@ -51744,7 +52006,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R545-2 (V)
 
 
-##### Paragraphe 3 : Relations financières entre l'organisme payeur et le département.<a id=387></a>
+##### Paragraphe 3 : Relations financières entre l'organisme payeur et le département.<a id=389></a>
 
 ###### Article D262-67
 
@@ -51782,7 +52044,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L262-31 (M)
 
 
-##### Paragraphe 4 : Dispositions communes et transitoires.<a id=388></a>
+##### Paragraphe 4 : Dispositions communes et transitoires.<a id=390></a>
 
 ###### Article D262-68
 
@@ -51897,7 +52159,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-6 (VD)
 
 
-##### Section 5 : Recours et récupération<a id=389></a>
+##### Section 5 : Recours et récupération<a id=391></a>
 
 ###### Article R262-72
 
@@ -51954,9 +52216,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-6 (VD)
 
 
-##### Section 6 : Suivi statistique, évaluation et contrôle<a id=390></a>
+##### Section 6 : Suivi statistique, évaluation et contrôle<a id=392></a>
 
-##### Sous-section 1 : Informations relatives au revenu minimum d'insertion et au contrat insertion-revenu minimum d'activité.<a id=391></a>
+##### Sous-section 1 : Informations relatives au revenu minimum d'insertion et au contrat insertion-revenu minimum d'activité.<a id=393></a>
 
 ###### Article D262-74
 
@@ -52191,7 +52453,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-6 (VD)
 
 
-##### Sous-section 2 : Informations relatives aux minima sociaux.<a id=392></a>
+##### Sous-section 2 : Informations relatives aux minima sociaux.<a id=394></a>
 
 ###### Article R262-83
 
@@ -52363,9 +52625,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-6 (VD)
 
 
-#### Chapitre III : Actions d'insertion<a id=393></a>
+#### Chapitre III : Actions d'insertion<a id=395></a>
 
-##### Section 1 : Dispositif départemental d'insertion<a id=394></a>
+##### Section 1 : Dispositif départemental d'insertion<a id=396></a>
 
 ###### Article R263-1
 
@@ -52423,7 +52685,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L263-5
 
 
-##### Section 4 : Personnes bénéficiaires de l'allocation de parent isolé<a id=395></a>
+##### Section 4 : Personnes bénéficiaires de l'allocation de parent isolé<a id=397></a>
 
 ###### Article R263-2
 
@@ -52458,13 +52720,13 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R263-9 (Ab)
 
 
-## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services<a id=396></a>
+## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services<a id=398></a>
 
-### Titre Ier : Etablissements et services soumis à autorisation<a id=397></a>
+### Titre Ier : Etablissements et services soumis à autorisation<a id=399></a>
 
-#### Chapitre Ier : Dispositions générales<a id=398></a>
+#### Chapitre Ier : Dispositions générales<a id=400></a>
 
-##### Section 1 : Missions<a id=399></a>
+##### Section 1 : Missions<a id=401></a>
 
 ###### Article D311
 
@@ -52587,9 +52849,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L442-1 (M)
 
 
-##### Section 2 : Droit des usagers<a id=400></a>
+##### Section 2 : Droit des usagers<a id=402></a>
 
-##### Sous-section 2 : Personne qualifiée.<a id=401></a>
+##### Sous-section 2 : Personne qualifiée.<a id=403></a>
 
 ###### Article R311-1
 
@@ -52666,9 +52928,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 3 : Conseil de la vie sociale et autres formes de participation<a id=402></a>
+##### Sous-section 3 : Conseil de la vie sociale et autres formes de participation<a id=404></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=403></a>
+##### Paragraphe 1 : Dispositions générales.<a id=405></a>
 
 ###### Article D311-3
 
@@ -52723,7 +52985,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L344-2 (M)
 
 
-##### Paragraphe 2 : Composition et fonctionnement.<a id=404></a>
+##### Paragraphe 2 : Composition et fonctionnement.<a id=406></a>
 
 ###### Article D311-4
 
@@ -53213,7 +53475,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D311-16 (V)
 
 
-##### Paragraphe 3 : Autres formes de participation.<a id=405></a>
+##### Paragraphe 3 : Autres formes de participation.<a id=407></a>
 
 ###### Article D311-21
 
@@ -53365,7 +53627,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D311-30 (V)
 
 
-##### Paragraphe 4 : Dispositions communes.<a id=406></a>
+##### Paragraphe 4 : Dispositions communes.<a id=408></a>
 
 ###### Article D311-26
 
@@ -53535,7 +53797,7 @@ _Créé par_:
   - Décret n°2005-1367 du 2 novembre 2005 - art. 18 () JORF 4 novembre 2005
 
 
-##### Sous-section 4 : Règlement de fonctionnement.<a id=407></a>
+##### Sous-section 4 : Règlement de fonctionnement.<a id=409></a>
 
 ###### Article R311-33
 
@@ -53680,15 +53942,15 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L311-4 (V)
 
 
-#### Chapitre II : Organisation de l'action sociale et médico-sociale<a id=408></a>
+#### Chapitre II : Organisation de l'action sociale et médico-sociale<a id=410></a>
 
-##### Section 1 : Etablissements et services sociaux et médico-sociaux<a id=409></a>
+##### Section 1 : Etablissements et services sociaux et médico-sociaux<a id=411></a>
 
-##### Sous-section 1 : Prestations délivrées<a id=410></a>
+##### Sous-section 1 : Prestations délivrées<a id=412></a>
 
-##### Paragraphe 1er : Services d'assistance à domicile<a id=411></a>
+##### Paragraphe 1er : Services d'assistance à domicile<a id=413></a>
 
-##### Sous-paragraphe 1er : Services de soins infirmiers à domicile.<a id=412></a>
+##### Sous-paragraphe 1er : Services de soins infirmiers à domicile.<a id=414></a>
 
 ###### Article D312-1
 
@@ -53915,7 +54177,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Sous-paragraphe 2 : Services d'aide et d'accompagnement à domicile.<a id=413></a>
+##### Sous-paragraphe 2 : Services d'aide et d'accompagnement à domicile.<a id=415></a>
 
 ###### Article D312-6
 
@@ -53966,7 +54228,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Sous-paragraphe 3 : Services polyvalents d'aide et de soins à domicile.<a id=414></a>
+##### Sous-paragraphe 3 : Services polyvalents d'aide et de soins à domicile.<a id=416></a>
 
 ###### Article D312-7
 
@@ -54001,7 +54263,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R162-33-1 (V)
 
 
-##### Sous-paragraphe 4 : Dispositions communes.<a id=415></a>
+##### Sous-paragraphe 4 : Dispositions communes.<a id=417></a>
 
 ###### Article D312-7-1
 
@@ -54034,7 +54296,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Paragraphe 2 : Accueil temporaire.<a id=416></a>
+##### Paragraphe 2 : Accueil temporaire.<a id=418></a>
 
 ###### Article D312-8
 
@@ -54173,11 +54435,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L243-1 (V)
 
 
-##### Sous-section 2 : Conditions techniques minimales d'organisation et de fonctionnement des établissements<a id=417></a>
+##### Sous-section 2 : Conditions techniques minimales d'organisation et de fonctionnement des établissements<a id=419></a>
 
-##### Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles<a id=418></a>
+##### Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles<a id=420></a>
 
-##### Sous-paragraphe 1 : Dispositions générales.<a id=419></a>
+##### Sous-paragraphe 1 : Dispositions générales.<a id=421></a>
 
 ###### Article D312-11
 
@@ -54306,7 +54568,7 @@ _Modifié par_:
   - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
-##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=420></a>
+##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=422></a>
 
 ###### Article D312-15
 
@@ -54472,7 +54734,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-87 (V)
 
 
-##### Sous-paragraphe 3 : Personnels.<a id=421></a>
+##### Sous-paragraphe 3 : Personnels.<a id=423></a>
 
 ###### Article D312-20
 
@@ -54732,7 +54994,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-122 (V)
 
 
-##### Sous-paragraphe 4 : Installations.<a id=422></a>
+##### Sous-paragraphe 4 : Installations.<a id=424></a>
 
 ###### Article D312-27
 
@@ -54938,7 +55200,7 @@ _Modifié par_:
   - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
-##### Sous-paragraphe 5 : Fonctionnement de l'établissement.<a id=423></a>
+##### Sous-paragraphe 5 : Fonctionnement de l'établissement.<a id=425></a>
 
 ###### Article D312-34
 
@@ -55153,7 +55415,7 @@ _Modifié par_:
   - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
-##### Sous-paragraphe 6 : Centres d'accueil familial spécialisé.<a id=424></a>
+##### Sous-paragraphe 6 : Centres d'accueil familial spécialisé.<a id=426></a>
 
 ###### Article D312-41
 
@@ -55495,7 +55757,7 @@ _Modifié par_:
   - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
-##### Sous-paragraphe 7 : Services d'éducation spéciale et de soins à domicile.<a id=425></a>
+##### Sous-paragraphe 7 : Services d'éducation spéciale et de soins à domicile.<a id=427></a>
 
 ###### Article D312-55
 
@@ -55657,9 +55919,9 @@ _Abrogé par_:
   - Décret n°2017-982 du 9 mai 2017 - art. 1
 
 
-##### Paragraphe 1 bis : Les instituts thérapeutiques, éducatifs et pédagogiques<a id=426></a>
+##### Paragraphe 1 bis : Les instituts thérapeutiques, éducatifs et pédagogiques<a id=428></a>
 
-##### Sous-paragraphe 1 : Dispositions générales<a id=427></a>
+##### Sous-paragraphe 1 : Dispositions générales<a id=429></a>
 
 ###### Article D312-59-1
 
@@ -55777,7 +56039,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L311-4 (V)
 
 
-##### Sous-paragraphe 2 : Organisation de l'établissement<a id=428></a>
+##### Sous-paragraphe 2 : Organisation de l'établissement<a id=430></a>
 
 ###### Article D312-59-4
 
@@ -55913,7 +56175,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-59-15 (V)
 
 
-##### Sous-paragraphe 3 : Les personnels<a id=429></a>
+##### Sous-paragraphe 3 : Les personnels<a id=431></a>
 
 ###### Article D312-59-7
 
@@ -56151,7 +56413,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-34 (V)
 
 
-##### Sous-paragraphe 4 : Fonctionnement de l'établissement<a id=430></a>
+##### Sous-paragraphe 4 : Fonctionnement de l'établissement<a id=432></a>
 
 ###### Article D312-59-14
 
@@ -56240,7 +56502,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-59-4 (V)
 
 
-##### Sous-paragraphe 5 : Des installations<a id=431></a>
+##### Sous-paragraphe 5 : Des installations<a id=433></a>
 
 ###### Article D312-59-17
 
@@ -56281,7 +56543,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-59-9 (V)
 
 
-##### Sous-paragraphe 6 : Dispositions transitoires<a id=432></a>
+##### Sous-paragraphe 6 : Dispositions transitoires<a id=434></a>
 
 ###### Article D312-59-18
 
@@ -56308,9 +56570,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Paragraphe 2 : Etablissements et services prenant en charge des enfants ou adolescents présentant une déficience motrice<a id=433></a>
+##### Paragraphe 2 : Etablissements et services prenant en charge des enfants ou adolescents présentant une déficience motrice<a id=435></a>
 
-##### Sous-paragraphe 1 : Dispositions générales.<a id=434></a>
+##### Sous-paragraphe 1 : Dispositions générales.<a id=436></a>
 
 ###### Article D312-60
 
@@ -56412,7 +56674,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=435></a>
+##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=437></a>
 
 ###### Article D312-64
 
@@ -56476,7 +56738,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-16 (V)
 
 
-##### Sous-paragraphe 3 : Personnels.<a id=436></a>
+##### Sous-paragraphe 3 : Personnels.<a id=438></a>
 
 ###### Article D312-66
 
@@ -56647,7 +56909,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 4 : Installation.<a id=437></a>
+##### Sous-paragraphe 4 : Installation.<a id=439></a>
 
 ###### Article D312-70
 
@@ -56759,7 +57021,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 5 : Service d'éducation spéciale et de soins à domicile.<a id=438></a>
+##### Sous-paragraphe 5 : Service d'éducation spéciale et de soins à domicile.<a id=440></a>
 
 ###### Article D312-75
 
@@ -56899,7 +57161,7 @@ _Abrogé par_:
   - Décret n°2017-982 du 9 mai 2017 - art. 1
 
 
-##### Sous-paragraphe 6 : Dispositions diverses.<a id=439></a>
+##### Sous-paragraphe 6 : Dispositions diverses.<a id=441></a>
 
 ###### Article D312-80
 
@@ -56968,9 +57230,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-24 (V)
 
 
-##### Paragraphe 3 : Etablissements et services prenant en charge des enfants ou adolescents polyhandicapés<a id=440></a>
+##### Paragraphe 3 : Etablissements et services prenant en charge des enfants ou adolescents polyhandicapés<a id=442></a>
 
-##### Sous-paragraphe 1 : Dispositions générales.<a id=441></a>
+##### Sous-paragraphe 1 : Dispositions générales.<a id=443></a>
 
 ###### Article D312-83
 
@@ -57062,7 +57324,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=442></a>
+##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.<a id=444></a>
 
 ###### Article D312-86
 
@@ -57103,7 +57365,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-19 (V)
 
 
-##### Sous-paragraphe 3 : Les personnels.<a id=443></a>
+##### Sous-paragraphe 3 : Les personnels.<a id=445></a>
 
 ###### Article D312-88
 
@@ -57208,7 +57470,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-88 (V)
 
 
-##### Sous-paragraphe 4 : Installations.<a id=444></a>
+##### Sous-paragraphe 4 : Installations.<a id=446></a>
 
 ###### Article D312-90
 
@@ -57319,7 +57581,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 5 : Services de soins et d'aide à domicile.<a id=445></a>
+##### Sous-paragraphe 5 : Services de soins et d'aide à domicile.<a id=447></a>
 
 ###### Article D312-95
 
@@ -57397,7 +57659,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-24 (V)
 
 
-##### Paragraphe 4 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience auditive grave.<a id=446></a>
+##### Paragraphe 4 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience auditive grave.<a id=448></a>
 
 ###### Article D312-98
 
@@ -57807,7 +58069,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-27 (V)
 
 
-##### Paragraphe 5 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience visuelle grave ou de cécité.<a id=447></a>
+##### Paragraphe 5 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience visuelle grave ou de cécité.<a id=449></a>
 
 ###### Article D312-111
 
@@ -58177,9 +58439,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D312-27 (V)
 
 
-##### Paragraphe 6 : Pouponnières à caractère social<a id=448></a>
+##### Paragraphe 6 : Pouponnières à caractère social<a id=450></a>
 
-##### Sous-paragraphe 1 : Locaux.<a id=449></a>
+##### Sous-paragraphe 1 : Locaux.<a id=451></a>
 
 ###### Article D312-123
 
@@ -58456,7 +58718,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 2 : Admission et surveillance des enfants.<a id=450></a>
+##### Sous-paragraphe 2 : Admission et surveillance des enfants.<a id=452></a>
 
 ###### Article D312-137
 
@@ -58648,7 +58910,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 3 : Personnel.<a id=451></a>
+##### Sous-paragraphe 3 : Personnel.<a id=453></a>
 
 ###### Article D312-146
 
@@ -58768,7 +59030,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 4 : Mesures administratives.<a id=452></a>
+##### Sous-paragraphe 4 : Mesures administratives.<a id=454></a>
 
 ###### Article D312-151
 
@@ -58842,7 +59104,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 7 : Centres spécialisés de soins aux toxicomanes.<a id=453></a>
+##### Paragraphe 7 : Centres spécialisés de soins aux toxicomanes.<a id=455></a>
 
 ###### Article D312-153
 
@@ -58865,7 +59127,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Paragraphe 8 : Appartements de coordination thérapeutique.<a id=454></a>
+##### Paragraphe 8 : Appartements de coordination thérapeutique.<a id=456></a>
 
 ###### Article D312-154
 
@@ -58915,7 +59177,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D312-154-0 (V)
 
 
-##### Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes<a id=455></a>
+##### Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes<a id=457></a>
 
 ###### Article D312-155-1
 
@@ -59201,9 +59463,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-12 (M)
 
 
-##### Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés<a id=456></a>
+##### Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés<a id=458></a>
 
-##### Sous-paragraphe 1 : Services d'accompagnement à la vie sociale<a id=457></a>
+##### Sous-paragraphe 1 : Services d'accompagnement à la vie sociale<a id=459></a>
 
 ###### Article D312-162
 
@@ -59370,7 +59632,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-174 (V)
 
 
-##### Sous-paragraphe 2 : Les services d'accompagnement médico-social pour adultes handicapés<a id=458></a>
+##### Sous-paragraphe 2 : Les services d'accompagnement médico-social pour adultes handicapés<a id=460></a>
 
 ###### Article D312-166
 
@@ -59521,7 +59783,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-174 (V)
 
 
-##### Sous-paragraphe 3 : Dispositions communes<a id=459></a>
+##### Sous-paragraphe 3 : Dispositions communes<a id=461></a>
 
 ###### Article D312-170
 
@@ -59790,9 +60052,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Section 2 : Organismes consultatifs<a id=460></a>
+##### Section 2 : Organismes consultatifs<a id=462></a>
 
-##### Sous-section 1 : Section sociale du Comité national de l'organisation sanitaire et sociale<a id=461></a>
+##### Sous-section 1 : Section sociale du Comité national de l'organisation sanitaire et sociale<a id=463></a>
 
 ###### Article R312-177
 
@@ -59954,9 +60216,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R312-200 (Ab)
 
 
-##### Sous-section 2 : Comités régionaux de l'organisation sociale et médico-sociale<a id=462></a>
+##### Sous-section 2 : Comités régionaux de l'organisation sociale et médico-sociale<a id=464></a>
 
-##### Paragraphe 1 : Composition du comité régional de l'organisation sociale et médico-sociale.<a id=463></a>
+##### Paragraphe 1 : Composition du comité régional de l'organisation sociale et médico-sociale.<a id=465></a>
 
 ###### Article R312-180
 
@@ -60242,7 +60504,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R312-163 (T)
 
 
-##### Paragraphe 2 : Fonctionnement du comité.<a id=464></a>
+##### Paragraphe 2 : Fonctionnement du comité.<a id=466></a>
 
 ###### Article R312-185
 
@@ -60526,9 +60788,9 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R312-171 (T)
 
 
-##### Section 3 : Schémas d'organisation sociale et médico-sociale<a id=465></a>
+##### Section 3 : Schémas d'organisation sociale et médico-sociale<a id=467></a>
 
-##### Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale<a id=466></a>
+##### Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale<a id=468></a>
 
 ###### Article D312-193
 
@@ -60601,9 +60863,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-193 (V)
 
 
-##### Section 5 : Evaluation et systèmes d'information<a id=467></a>
+##### Section 5 : Evaluation et systèmes d'information<a id=469></a>
 
-##### Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale.<a id=468></a>
+##### Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale.<a id=470></a>
 
 ###### Article R312-195
 
@@ -60938,11 +61200,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R312-198 (M)
 
 
-#### Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux<a id=469></a>
+#### Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux<a id=471></a>
 
-##### Section 1 : Autorisation de création, d'extension ou de transformation<a id=470></a>
+##### Section 1 : Autorisation de création, d'extension ou de transformation<a id=472></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=471></a>
+##### Sous-section 1 : Dispositions générales.<a id=473></a>
 
 ###### Article R313-1
 
@@ -61365,7 +61627,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Sous-section 2 : Contrôle de conformité des établissements.<a id=472></a>
+##### Sous-section 2 : Contrôle de conformité des établissements.<a id=474></a>
 
 ###### Article D313-11
 
@@ -61552,9 +61814,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-1 (M)
 
 
-##### Section 3 : Contrats ou conventions pluriannuels<a id=473></a>
+##### Section 3 : Contrats ou conventions pluriannuels<a id=475></a>
 
-##### Sous-section 1 : Modalités de tarification des établissements mentionnés au I de l'article L. 313-12.<a id=474></a>
+##### Sous-section 1 : Modalités de tarification des établissements mentionnés au I de l'article L. 313-12.<a id=476></a>
 
 ###### Article D313-15
 
@@ -61590,7 +61852,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R313-15 (T)
 
 
-##### Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12.<a id=475></a>
+##### Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12.<a id=477></a>
 
 ###### Article D313-16
 
@@ -61915,7 +62177,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L342-1 (M)
 
 
-##### Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux.<a id=476></a>
+##### Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux.<a id=478></a>
 
 ###### Article D313-25
 
@@ -62033,7 +62295,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D313-30 (V)
 
 
-#### Chapitre IV : Dispositions financières<a id=477></a>
+#### Chapitre IV : Dispositions financières<a id=479></a>
 
 ###### Article R314-1
 
@@ -62092,7 +62354,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-3 (V)
 
 
-##### Section 1 : Règles de compétences en matière tarifaire.<a id=478></a>
+##### Section 1 : Règles de compétences en matière tarifaire.<a id=480></a>
 
 ###### Article R314-3
 
@@ -62177,11 +62439,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-2 (M)
 
 
-##### Section 2 : Règles budgétaires de financement<a id=479></a>
+##### Section 2 : Règles budgétaires de financement<a id=481></a>
 
-##### Sous-section 1 : Dispositions générales relatives à la comptabilité, au budget et à la tarification<a id=480></a>
+##### Sous-section 1 : Dispositions générales relatives à la comptabilité, au budget et à la tarification<a id=482></a>
 
-##### Paragraphe 1 : Principes comptables et budgétaires généraux.<a id=481></a>
+##### Paragraphe 1 : Principes comptables et budgétaires généraux.<a id=483></a>
 
 ###### Article R314-4
 
@@ -62338,7 +62600,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-75 (VD)
 
 
-##### Paragraphe 2 : Présentation budgétaire.<a id=482></a>
+##### Paragraphe 2 : Présentation budgétaire.<a id=484></a>
 
 ###### Article R314-9
 
@@ -62579,9 +62841,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-162 (M)
 
 
-##### Paragraphe 3 : Fixation du tarif<a id=483></a>
+##### Paragraphe 3 : Fixation du tarif<a id=485></a>
 
-##### Sous-paragraphe 1 : Etablissement des propositions budgétaires.<a id=484></a>
+##### Sous-paragraphe 1 : Etablissement des propositions budgétaires.<a id=486></a>
 
 ###### Article R314-14
 
@@ -62869,7 +63131,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-48 (V)
 
 
-##### Sous-paragraphe 2 : Transmission des propositions budgétaires et procédure contradictoire.<a id=485></a>
+##### Sous-paragraphe 2 : Transmission des propositions budgétaires et procédure contradictoire.<a id=487></a>
 
 ###### Article R314-21
 
@@ -63082,7 +63344,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-4 (M)
 
 
-##### Sous-paragraphe 3 : Dépenses pouvant être prises en charge<a id=486></a>
+##### Sous-paragraphe 3 : Dépenses pouvant être prises en charge<a id=488></a>
 
 ###### Article R314-26
 
@@ -63174,7 +63436,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-20 (V)
 
 
-##### Sous-paragraphe 4 : Tableaux de bord.<a id=487></a>
+##### Sous-paragraphe 4 : Tableaux de bord.<a id=489></a>
 
 ###### Article R314-28
 
@@ -63426,7 +63688,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-29 (V)
 
 
-##### Sous-paragraphe 5 : Décision d'autorisation budgétaire et de tarification.<a id=488></a>
+##### Sous-paragraphe 5 : Décision d'autorisation budgétaire et de tarification.<a id=490></a>
 
 ###### Article R314-34
 
@@ -63624,7 +63886,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-36 (M)
 
 
-##### Sous-paragraphe 6 : Fixation pluriannuelle du budget.<a id=489></a>
+##### Sous-paragraphe 6 : Fixation pluriannuelle du budget.<a id=491></a>
 
 ###### Article R314-39
 
@@ -63816,9 +64078,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-51 (M)
 
 
-##### Paragraphe 4 : Exécution du budget<a id=490></a>
+##### Paragraphe 4 : Exécution du budget<a id=492></a>
 
-##### Sous-paragraphe 1 : Modifications budgétaires et gestion financière en cours d'exercice.<a id=491></a>
+##### Sous-paragraphe 1 : Modifications budgétaires et gestion financière en cours d'exercice.<a id=493></a>
 
 ###### Article R314-44
 
@@ -64028,7 +64290,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-49 (M)
 
 
-##### Sous-paragraphe 2 : Compte administratif de clôture.<a id=492></a>
+##### Sous-paragraphe 2 : Compte administratif de clôture.<a id=494></a>
 
 ###### Article R314-49
 
@@ -64310,9 +64572,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-51 (M)
 
 
-##### Paragraphe 5 : Contrôle et évaluation<a id=493></a>
+##### Paragraphe 5 : Contrôle et évaluation<a id=495></a>
 
-##### Sous-paragraphe 1 : Obligations des établissements et services.<a id=494></a>
+##### Sous-paragraphe 1 : Obligations des établissements et services.<a id=496></a>
 
 ###### Article R314-56
 
@@ -64439,7 +64701,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Sous-paragraphe 2 : Opérations d'évaluation et de contrôle<a id=495></a>
+##### Sous-paragraphe 2 : Opérations d'évaluation et de contrôle<a id=497></a>
 
 ###### Article R314-61
 
@@ -64551,7 +64813,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-16 (M)
 
 
-##### Paragraphe 6 : Contentieux.<a id=496></a>
+##### Paragraphe 6 : Contentieux.<a id=498></a>
 
 ###### Article R314-63
 
@@ -64589,11 +64851,11 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D440 (Ab)
 
 
-##### Sous-section 2 : Règles comptables et budgétaires applicables aux différentes catégories d'organismes gestionnaires<a id=497></a>
+##### Sous-section 2 : Règles comptables et budgétaires applicables aux différentes catégories d'organismes gestionnaires<a id=499></a>
 
-##### Paragraphe 1 : Règles applicables aux établissements publics sociaux et médico-sociaux<a id=498></a>
+##### Paragraphe 1 : Règles applicables aux établissements publics sociaux et médico-sociaux<a id=500></a>
 
-##### Sous-paragraphe 1 : Champ d'application et règles budgétaires générales.<a id=499></a>
+##### Sous-paragraphe 1 : Champ d'application et règles budgétaires générales.<a id=501></a>
 
 ###### Article R314-64
 
@@ -64651,7 +64913,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-15 (V)
 
 
-##### Sous-paragraphe 2 : Directeur et comptable de l'établissement public.<a id=500></a>
+##### Sous-paragraphe 2 : Directeur et comptable de l'établissement public.<a id=502></a>
 
 ###### Article R314-66
 
@@ -64716,7 +64978,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-5 (V)
 
 
-##### Sous-paragraphe 3 : Exécution du budget.<a id=501></a>
+##### Sous-paragraphe 3 : Exécution du budget.<a id=503></a>
 
 ###### Article R314-68
 
@@ -64943,7 +65205,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 2 : Règles applicables aux établissements publics de santé gérant une activité sociale ou médico-sociale.<a id=502></a>
+##### Paragraphe 2 : Règles applicables aux établissements publics de santé gérant une activité sociale ou médico-sociale.<a id=504></a>
 
 ###### Article R314-75
 
@@ -65055,7 +65317,7 @@ _Cité par_:
   - Décret n°2016-1814 du 21 décembre 2016 - art. 5 (V)
 
 
-##### Paragraphe 3 : Règles applicables aux établissements sociaux et médico-sociaux gérés par d'autres personnes morales de droit public.<a id=503></a>
+##### Paragraphe 3 : Règles applicables aux établissements sociaux et médico-sociaux gérés par d'autres personnes morales de droit public.<a id=505></a>
 
 ###### Article R314-78
 
@@ -65116,9 +65378,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R612-16 (V)
 
 
-##### Paragraphe 4 : Règles applicables aux établissements et services gérés par des personnes morales de droit privé à but non lucratif<a id=504></a>
+##### Paragraphe 4 : Règles applicables aux établissements et services gérés par des personnes morales de droit privé à but non lucratif<a id=506></a>
 
-##### Sous-paragraphe 1 : Champ d'application et principes budgétaires et comptables.<a id=505></a>
+##### Sous-paragraphe 1 : Champ d'application et principes budgétaires et comptables.<a id=507></a>
 
 ###### Article R314-80
 
@@ -65265,7 +65527,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-79 (V)
 
 
-##### Sous-paragraphe 2 : Dépenses autorisées.<a id=506></a>
+##### Sous-paragraphe 2 : Dépenses autorisées.<a id=508></a>
 
 ###### Article R314-85
 
@@ -65343,7 +65605,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-60 (V)
 
 
-##### Sous-paragraphe 3 : Frais de siège.<a id=507></a>
+##### Sous-paragraphe 3 : Frais de siège.<a id=509></a>
 
 ###### Article R314-87
 
@@ -65669,7 +65931,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-51 (V)
 
 
-##### Sous-paragraphe 4 : Gestion financière.<a id=508></a>
+##### Sous-paragraphe 4 : Gestion financière.<a id=510></a>
 
 ###### Article R314-95
 
@@ -65753,7 +66015,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Sous-paragraphe 5 : Fermeture de l'établissement ou du service.<a id=509></a>
+##### Sous-paragraphe 5 : Fermeture de l'établissement ou du service.<a id=511></a>
 
 ###### Article R314-97
 
@@ -65821,7 +66083,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-97 (M)
 
 
-##### Sous-paragraphe 6 : Contrôle et évaluation.<a id=510></a>
+##### Sous-paragraphe 6 : Contrôle et évaluation.<a id=512></a>
 
 ###### Article R314-99
 
@@ -65891,7 +66153,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R316-7 (V)
 
 
-##### Paragraphe 5 : Règles applicables aux établissements et services gérés par des organismes à but lucratif ou non habilités à recevoir des bénéficiaires de l'aide sociale.<a id=511></a>
+##### Paragraphe 5 : Règles applicables aux établissements et services gérés par des organismes à but lucratif ou non habilités à recevoir des bénéficiaires de l'aide sociale.<a id=513></a>
 
 ###### Article R314-101
 
@@ -66023,9 +66285,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-49 (M)
 
 
-##### Sous-section 3 : Principes de financement et modalités de versement<a id=512></a>
+##### Sous-section 3 : Principes de financement et modalités de versement<a id=514></a>
 
-##### Paragraphe 1 : Financement des établissements et services<a id=513></a>
+##### Paragraphe 1 : Financement des établissements et services<a id=515></a>
 
 ###### Article R314-105
 
@@ -66219,9 +66481,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R481-4 (V)
 
 
-##### Paragraphe 2 : Modalités de financement<a id=514></a>
+##### Paragraphe 2 : Modalités de financement<a id=516></a>
 
-##### Sous-paragraphe 1 : Dotation globale de financement.<a id=515></a>
+##### Sous-paragraphe 1 : Dotation globale de financement.<a id=517></a>
 
 ###### Article R314-106
 
@@ -66356,7 +66618,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-paragraphe 2 : Dispositions propres aux dotations globales et forfaits globaux de soins relevant de l'assurance maladie.<a id=516></a>
+##### Sous-paragraphe 2 : Dispositions propres aux dotations globales et forfaits globaux de soins relevant de l'assurance maladie.<a id=518></a>
 
 ###### Article R314-111
 
@@ -66424,7 +66686,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-113 (V)
 
 
-##### Sous-paragraphe 3 : Prix de journée.<a id=517></a>
+##### Sous-paragraphe 3 : Prix de journée.<a id=519></a>
 
 ###### Article R314-113
 
@@ -66487,7 +66749,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Sous-paragraphe 4 : Prix de journée globalisés.<a id=518></a>
+##### Sous-paragraphe 4 : Prix de journée globalisés.<a id=520></a>
 
 ###### Article R314-115
 
@@ -66577,9 +66839,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-125 (VD)
 
 
-##### Sous-section 4 : Dispositions propres à certaines catégories d'établissements<a id=519></a>
+##### Sous-section 4 : Dispositions propres à certaines catégories d'établissements<a id=521></a>
 
-##### Paragraphe 1 : Etablissements et services accueillant des mineurs et jeunes adultes handicapés.<a id=520></a>
+##### Paragraphe 1 : Etablissements et services accueillant des mineurs et jeunes adultes handicapés.<a id=522></a>
 
 ###### Article R314-118
 
@@ -66740,7 +67002,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-26 (M)
 
 
-##### Paragraphe 2 : Centres d'action médico-sociale précoce.<a id=521></a>
+##### Paragraphe 2 : Centres d'action médico-sociale précoce.<a id=523></a>
 
 ###### Article R314-123
 
@@ -66796,7 +67058,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-122 (M)
 
 
-##### Paragraphe 3 : Etablissements et services accueillant des mineurs ou des majeurs de moins de vingt et un ans confiés par l'autorité judiciaire.<a id=522></a>
+##### Paragraphe 3 : Etablissements et services accueillant des mineurs ou des majeurs de moins de vingt et un ans confiés par l'autorité judiciaire.<a id=524></a>
 
 ###### Article R314-125
 
@@ -66922,7 +67184,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-1 (V)
 
 
-##### Paragraphe 4 : Centres d'aide par le travail.<a id=523></a>
+##### Paragraphe 4 : Centres d'aide par le travail.<a id=525></a>
 
 ###### Article R314-128
 
@@ -66995,7 +67257,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-51 (M)
 
 
-##### Paragraphe 5 : Services d'aide à domicile.<a id=524></a>
+##### Paragraphe 5 : Services d'aide à domicile.<a id=526></a>
 
 ###### Article R314-130
 
@@ -67248,7 +67510,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-132 (VD)
 
 
-##### Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes.<a id=525></a>
+##### Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes.<a id=527></a>
 
 ###### Article R314-137
 
@@ -67341,7 +67603,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D313-21 (Ab)
 
 
-##### Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées.<a id=526></a>
+##### Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées.<a id=528></a>
 
 ###### Article R314-140
 
@@ -67555,7 +67817,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-140 (V)
 
 
-##### Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés.<a id=527></a>
+##### Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés.<a id=529></a>
 
 ###### Article R314-147
 
@@ -67665,7 +67927,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 9 : Centres d'hébergement et de réinsertion sociale.<a id=528></a>
+##### Paragraphe 9 : Centres d'hébergement et de réinsertion sociale.<a id=530></a>
 
 ###### Article R314-150
 
@@ -67936,9 +68198,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes<a id=529></a>
+##### Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes<a id=531></a>
 
-##### Sous-paragraphe 1 : Principes généraux de la tarification<a id=530></a>
+##### Sous-paragraphe 1 : Principes généraux de la tarification<a id=532></a>
 
 ###### Article R314-158
 
@@ -68054,9 +68316,9 @@ _Cité par_:
   - Décret n°2016-1814 du 21 décembre 2016 - art. 5 (V)
 
 
-##### Sous-paragraphe 2 : Modalités de détermination et de calcul des tarifs<a id=531></a>
+##### Sous-paragraphe 2 : Modalités de détermination et de calcul des tarifs<a id=533></a>
 
-##### 1  Structure tarifaire des établissements.<a id=532></a>
+##### 1  Structure tarifaire des établissements.<a id=534></a>
 
 ###### Article R314-162
 
@@ -68322,7 +68584,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-180 (V)
 
 
-##### 2  Dispositions relatives aux prestations de soins.<a id=533></a>
+##### 2  Dispositions relatives aux prestations de soins.<a id=535></a>
 
 ###### Article R314-167
 
@@ -68504,7 +68766,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-167 (V)
 
 
-##### 3  Evaluation du degré de dépendance des personnes hébergées dans les établissements.<a id=534></a>
+##### 3  Evaluation du degré de dépendance des personnes hébergées dans les établissements.<a id=536></a>
 
 ###### Article R314-170
 
@@ -68864,7 +69126,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-188 (V)
 
 
-##### 4  Tarifs journaliers afférents à l'hébergement et à la dépendance.<a id=535></a>
+##### 4  Tarifs journaliers afférents à l'hébergement et à la dépendance.<a id=537></a>
 
 ###### Article R314-180
 
@@ -69079,7 +69341,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-192 (Ab)
 
 
-##### 5  Tarifs journaliers afférents aux soins et dotation globale de financement relative aux soins.<a id=536></a>
+##### 5  Tarifs journaliers afférents aux soins et dotation globale de financement relative aux soins.<a id=538></a>
 
 ###### Article R314-185
 
@@ -69120,7 +69382,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. Annexe 3-1 (V)
 
 
-##### 6  Dispositions diverses.<a id=537></a>
+##### 6  Dispositions diverses.<a id=539></a>
 
 ###### Article R314-187
 
@@ -69366,9 +69628,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services<a id=538></a>
+##### Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services<a id=540></a>
 
-##### Sous-paragraphe 1 : Accueil temporaire.<a id=539></a>
+##### Sous-paragraphe 1 : Accueil temporaire.<a id=541></a>
 
 ###### Article R314-194
 
@@ -69397,7 +69659,7 @@ _Cite_:
   - Code de l'action sociale et des familles D312-8 à D312-10
 
 
-##### Sous-paragraphe 2 : Dispositions diverses.<a id=540></a>
+##### Sous-paragraphe 2 : Dispositions diverses.<a id=542></a>
 
 ###### Article R314-195
 
@@ -69455,9 +69717,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-149 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à la réglementation du travail<a id=541></a>
+##### Sous-section 5 : Dispositions relatives à la réglementation du travail<a id=543></a>
 
-##### Paragraphe 1 : Conventions collectives et accords de retraite.<a id=542></a>
+##### Paragraphe 1 : Conventions collectives et accords de retraite.<a id=544></a>
 
 ###### Article R314-197
 
@@ -69595,7 +69857,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Paragraphe 2 : Durée du travail.<a id=543></a>
+##### Paragraphe 2 : Durée du travail.<a id=545></a>
 
 ###### Article R314-201
 
@@ -69673,7 +69935,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Dispositions diverses<a id=544></a>
+##### Section 3 : Dispositions diverses<a id=546></a>
 
 ###### Article R314-204
 
@@ -69694,9 +69956,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public<a id=545></a>
+#### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public<a id=547></a>
 
-##### Section 1 : Dispositions générales<a id=546></a>
+##### Section 1 : Dispositions générales<a id=548></a>
 
 ###### Article R315-1
 
@@ -69834,9 +70096,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique<a id=547></a>
+##### Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique<a id=549></a>
 
-##### Sous-section 1 : Composition et fonctionnement des conseils d'administration.<a id=548></a>
+##### Sous-section 1 : Composition et fonctionnement des conseils d'administration.<a id=550></a>
 
 ###### Article R315-6
 
@@ -70689,7 +70951,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R315-23 (T)
 
 
-##### Sous-section 2 : Dispositions relatives au personnel.<a id=549></a>
+##### Sous-section 2 : Dispositions relatives au personnel.<a id=551></a>
 
 ###### Article R315-24
 
@@ -70758,9 +71020,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 3 : Modalités de concertation<a id=550></a>
+##### Sous-section 3 : Modalités de concertation<a id=552></a>
 
-##### Paragraphe 1 : Modalités de constitution des comités techniques d'établissement.<a id=551></a>
+##### Paragraphe 1 : Modalités de constitution des comités techniques d'établissement.<a id=553></a>
 
 ###### Article R315-27
 
@@ -71497,7 +71759,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L315-13
 
 
-##### Paragraphe 2 : Attributions des comités techniques d'établissement.<a id=552></a>
+##### Paragraphe 2 : Attributions des comités techniques d'établissement.<a id=554></a>
 
 ###### Article R315-51
 
@@ -71520,7 +71782,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L315-13 (V)
 
 
-##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement.<a id=553></a>
+##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement.<a id=555></a>
 
 ###### Article D315-64
 
@@ -71787,7 +72049,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 4 : Moyens de fonctionnement.<a id=554></a>
+##### Paragraphe 4 : Moyens de fonctionnement.<a id=556></a>
 
 ###### Article R315-65
 
@@ -71847,7 +72109,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 4 : Délégations.<a id=555></a>
+##### Sous-section 4 : Délégations.<a id=557></a>
 
 ###### Article D315-67
 
@@ -71985,9 +72247,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L315-12 (M)
 
 
-#### Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation<a id=556></a>
+#### Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation<a id=558></a>
 
-##### Section unique : Lieux de vie et d'accueil<a id=557></a>
+##### Section unique : Lieux de vie et d'accueil<a id=559></a>
 
 ###### Article D316-1
 
@@ -72174,9 +72436,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-1 (M)
 
 
-### Titre II : Etablissements soumis à déclaration<a id=558></a>
+### Titre II : Etablissements soumis à déclaration<a id=560></a>
 
-#### Chapitre Ier : Accueil de mineurs.<a id=559></a>
+#### Chapitre Ier : Accueil de mineurs.<a id=561></a>
 
 ###### Article R321-1
 
@@ -72418,7 +72680,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre II : Accueil d'adultes.<a id=560></a>
+#### Chapitre II : Accueil d'adultes.<a id=562></a>
 
 ###### Article R322-1
 
@@ -72613,11 +72875,11 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration<a id=561></a>
+### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration<a id=563></a>
 
-#### Chapitre unique<a id=562></a>
+#### Chapitre unique<a id=564></a>
 
-##### Section 1 : Conseil départemental de l'enfance.<a id=563></a>
+##### Section 1 : Conseil départemental de l'enfance.<a id=565></a>
 
 ###### Article D331-1
 
@@ -72743,7 +73005,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Surveillance des établissements.<a id=564></a>
+##### Section 2 : Surveillance des établissements.<a id=566></a>
 
 ###### Article R331-5
 
@@ -72764,7 +73026,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L331-2 (V)
 
 
-##### Section 3 : Fermeture des établissements.<a id=565></a>
+##### Section 3 : Fermeture des établissements.<a id=567></a>
 
 ###### Article R331-6
 
@@ -72795,9 +73057,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R331-7 (V)
 
 
-### Titre IV : Dispositions spécifiques à certaines catégories d'établissements<a id=566></a>
+### Titre IV : Dispositions spécifiques à certaines catégories d'établissements<a id=568></a>
 
-#### Chapitre Ier : Pouponnières.<a id=567></a>
+#### Chapitre Ier : Pouponnières.<a id=569></a>
 
 ###### Article D341-1
 
@@ -72953,7 +73215,7 @@ _Anciens textes_:
   - Décret n°74-58 du 15 janvier 1974 - art. 14 (Ab)
 
 
-#### Chapitre II : Hébergement de personnes âgées.<a id=568></a>
+#### Chapitre II : Hébergement de personnes âgées.<a id=570></a>
 
 ###### Article R342-1
 
@@ -73001,9 +73263,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L342-4 (M)
 
 
-#### Chapitre IV : Centres pour handicapés adultes<a id=569></a>
+#### Chapitre IV : Centres pour handicapés adultes<a id=571></a>
 
-##### Section 1 : Maisons d'accueil spécialisées.<a id=570></a>
+##### Section 1 : Maisons d'accueil spécialisées.<a id=572></a>
 
 ###### Article R344-1
 
@@ -73086,9 +73348,9 @@ _Abrogé par_:
   - Décret n°2006-422 du 7 avril 2006 - art. 30 () JORF 9 avril 2006
 
 
-##### Section 2 : Centres d'aide par le travail<a id=571></a>
+##### Section 2 : Centres d'aide par le travail<a id=573></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=572></a>
+##### Sous-section 1 : Dispositions générales.<a id=574></a>
 
 ###### Article R344-6
 
@@ -73503,7 +73765,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-4 (V)
 
 
-##### Sous-section 2 : Exercice d'une activité extérieure.<a id=573></a>
+##### Sous-section 2 : Exercice d'une activité extérieure.<a id=575></a>
 
 ###### Article D344-20
 
@@ -73721,9 +73983,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes<a id=574></a>
+##### Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes<a id=576></a>
 
-##### Sous-section 1 : Contribution aux frais d'hébergement et d'entretien<a id=575></a>
+##### Sous-section 1 : Contribution aux frais d'hébergement et d'entretien<a id=577></a>
 
 ###### Article R344-29
 
@@ -73848,7 +74110,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Minimum de ressources<a id=576></a>
+##### Sous-section 2 : Minimum de ressources<a id=578></a>
 
 ###### Article D344-34
 
@@ -74012,9 +74274,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D344-36 (V)
 
 
-#### Chapitre V : Centres d'hébergement et de réinsertion sociale<a id=577></a>
+#### Chapitre V : Centres d'hébergement et de réinsertion sociale<a id=579></a>
 
-##### Section 1 : Activités et organisation<a id=578></a>
+##### Section 1 : Activités et organisation<a id=580></a>
 
 ###### Article R345-1
 
@@ -74127,7 +74389,7 @@ _Cite_:
   - Code du travail - art. L322-4-16 (M)
 
 
-##### Section 2 : Accueil et séjour<a id=579></a>
+##### Section 2 : Accueil et séjour<a id=581></a>
 
 ###### Article R345-4
 
@@ -74257,7 +74519,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R349-3 (V)
 
 
-#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=580></a>
+#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=582></a>
 
 ###### Article R346-1
 
@@ -74272,13 +74534,13 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-### Titre V : Contentieux de la tarification sanitaire et sociale<a id=581></a>
+### Titre V : Contentieux de la tarification sanitaire et sociale<a id=583></a>
 
-#### Chapitre unique<a id=582></a>
+#### Chapitre unique<a id=584></a>
 
-##### Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale<a id=583></a>
+##### Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale<a id=585></a>
 
-##### Sous-section 1 : Cour nationale de la tarification sanitaire et sociale.<a id=584></a>
+##### Sous-section 1 : Cour nationale de la tarification sanitaire et sociale.<a id=586></a>
 
 ###### Article R351-1
 
@@ -74434,7 +74696,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale.<a id=585></a>
+##### Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale.<a id=587></a>
 
 ###### Article R351-7
 
@@ -74652,9 +74914,9 @@ _Modifié par_:
   - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 
-##### Section 2 : Règles de procédures applicables<a id=586></a>
+##### Section 2 : Règles de procédures applicables<a id=588></a>
 
-##### Sous-section 1 : Introduction des recours.<a id=587></a>
+##### Sous-section 1 : Introduction des recours.<a id=589></a>
 
 ###### Article R351-15
 
@@ -74785,7 +75047,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R351-30 (V)
 
 
-##### Sous-section 2 : Instruction des recours et clôture de l'instruction.<a id=588></a>
+##### Sous-section 2 : Instruction des recours et clôture de l'instruction.<a id=590></a>
 
 ###### Article R351-20
 
@@ -74998,7 +75260,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R351-25-1 (V)
 
 
-##### Sous-section 3 : Séance de jugement et notification.<a id=589></a>
+##### Sous-section 3 : Séance de jugement et notification.<a id=591></a>
 
 ###### Article R351-29
 
@@ -75195,7 +75457,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-5 (V)
 
 
-##### Sous-section 4 : Voies de recours.<a id=590></a>
+##### Sous-section 4 : Voies de recours.<a id=592></a>
 
 ###### Article R351-38
 
@@ -75250,7 +75512,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Dispositions diverses.<a id=591></a>
+##### Section 3 : Dispositions diverses.<a id=593></a>
 
 ###### Article R351-41
 
@@ -75270,11 +75532,11 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-## Livre IV : Professions et activités d'accueil<a id=592></a>
+## Livre IV : Professions et activités d'accueil<a id=594></a>
 
-### Titre Ier : Assistants de service social<a id=593></a>
+### Titre Ier : Assistants de service social<a id=595></a>
 
-#### Chapitre unique.<a id=594></a>
+#### Chapitre unique.<a id=596></a>
 
 ###### Article R411-1
 
@@ -75355,13 +75617,13 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R411-10 (V)
 
 
-### Titre II : Assistants maternels<a id=595></a>
+### Titre II : Assistants maternels<a id=597></a>
 
-#### Chapitre Ier : Dispositions générales<a id=596></a>
+#### Chapitre Ier : Dispositions générales<a id=598></a>
 
-##### Section 1 : Procédures d'agrément<a id=597></a>
+##### Section 1 : Procédures d'agrément<a id=599></a>
 
-##### Sous-section 1 : Conditions et modalités de délivrance de l'agrément.<a id=598></a>
+##### Sous-section 1 : Conditions et modalités de délivrance de l'agrément.<a id=600></a>
 
 ###### Article R421-1
 
@@ -75614,7 +75876,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R421-3 (M)
 
 
-##### Sous-section 2 : Renouvellement, suspension et retrait de l'agrément.<a id=599></a>
+##### Sous-section 2 : Renouvellement, suspension et retrait de l'agrément.<a id=601></a>
 
 ###### Article R421-10
 
@@ -75735,7 +75997,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L421-2 (T)
 
 
-##### Sous-section 3 : Commission consultative paritaire départementale.<a id=600></a>
+##### Sous-section 3 : Commission consultative paritaire départementale.<a id=602></a>
 
 ###### Article R421-14
 
@@ -75985,7 +76247,7 @@ _Abrogé par_:
   - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 
-##### Section 2 : Modalités particulières relatives à l'activité.<a id=601></a>
+##### Section 2 : Modalités particulières relatives à l'activité.<a id=603></a>
 
 ###### Article R421-23
 
@@ -76090,7 +76352,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L421-10 (M)
 
 
-##### Section 3 : Formation des assistants maternels.<a id=602></a>
+##### Section 3 : Formation des assistants maternels.<a id=604></a>
 
 ###### Article D421-27
 
@@ -76177,7 +76439,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D421-43 (V)
 
 
-##### Section 4 : Dispositions pénales.<a id=603></a>
+##### Section 4 : Dispositions pénales.<a id=605></a>
 
 ###### Article R421-28
 
@@ -76247,7 +76509,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R421-54 (V)
 
 
-#### Chapitre II : Assistants maternels employés par des personnes morales de droit public<a id=604></a>
+#### Chapitre II : Assistants maternels employés par des personnes morales de droit public<a id=606></a>
 
 ###### Article R422-1
 
@@ -76285,7 +76547,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R422-5 (V)
 
 
-##### Section 1 : Modalités de recrutement et conditions d'emploi.<a id=605></a>
+##### Section 1 : Modalités de recrutement et conditions d'emploi.<a id=607></a>
 
 ###### Article D422-6
 
@@ -76441,7 +76703,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R422-1 (M)
 
 
-##### Section 2 : Congés.<a id=606></a>
+##### Section 2 : Congés.<a id=608></a>
 
 ###### Article R422-8
 
@@ -76746,7 +77008,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Discipline.<a id=607></a>
+##### Section 3 : Discipline.<a id=609></a>
 
 ###### Article R422-20
 
@@ -76773,7 +77035,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D444-1 (V)
 
 
-##### Section 4 : Licenciement.<a id=608></a>
+##### Section 4 : Licenciement.<a id=610></a>
 
 ###### Article R422-21
 
@@ -76814,11 +77076,11 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R544-2 (V)
 
 
-### Titre III : Autres professions<a id=609></a>
+### Titre III : Autres professions<a id=611></a>
 
-#### Chapitre unique : Techniciens de l'intervention sociale et familiale<a id=610></a>
+#### Chapitre unique : Techniciens de l'intervention sociale et familiale<a id=612></a>
 
-##### Section unique : Exercice de la profession.<a id=611></a>
+##### Section unique : Exercice de la profession.<a id=613></a>
 
 ###### Article D431-1
 
@@ -76894,11 +77156,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 5
 
 
-### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=612></a>
+### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=614></a>
 
-#### Chapitre Ier : Accueillants familiaux et modalités d'agrément<a id=613></a>
+#### Chapitre Ier : Accueillants familiaux et modalités d'agrément<a id=615></a>
 
-##### Section 1 : Modalités et délai d'instruction de la demande d'agrément.<a id=614></a>
+##### Section 1 : Modalités et délai d'instruction de la demande d'agrément.<a id=616></a>
 
 ###### Article R441-1
 
@@ -77208,7 +77470,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R441-5 (V)
 
 
-##### Section 2 : Commission consultative de retrait.<a id=615></a>
+##### Section 2 : Commission consultative de retrait.<a id=617></a>
 
 ###### Article R441-11
 
@@ -77324,7 +77586,7 @@ _Créé par_:
   - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
 
 
-#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial<a id=616></a>
+#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial<a id=618></a>
 
 ###### Article D442-2
 
@@ -77413,11 +77675,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L442-1 (V)
 
 
-### Titre V : Formation des travailleurs sociaux<a id=617></a>
+### Titre V : Formation des travailleurs sociaux<a id=619></a>
 
-#### Chapitre unique : Dispositions générales<a id=618></a>
+#### Chapitre unique : Dispositions générales<a id=620></a>
 
-##### Section 1 : Etablissements de formation.<a id=619></a>
+##### Section 1 : Etablissements de formation.<a id=621></a>
 
 ###### Article D451-5
 
@@ -77868,7 +78130,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R451-4
 
 
-##### Section 2 : Bourses d'études.<a id=620></a>
+##### Section 2 : Bourses d'études.<a id=622></a>
 
 ###### Article D451-7
 
@@ -77912,11 +78174,11 @@ _Modifié par_:
   - Décret n°2005-426 du 4 mai 2005 - art. 1 () JORF 7 mai 2005
 
 
-##### Section 3 : Formations et diplômes<a id=621></a>
+##### Section 3 : Formations et diplômes<a id=623></a>
 
-##### Sous-section 1 : Formations supérieures et diplômes d'encadrement<a id=622></a>
+##### Sous-section 1 : Formations supérieures et diplômes d'encadrement<a id=624></a>
 
-##### Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale.<a id=623></a>
+##### Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale.<a id=625></a>
 
 ###### Article R451-11
 
@@ -78040,7 +78302,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 2 : Diplôme supérieur en travail social.<a id=624></a>
+##### Paragraphe 2 : Diplôme supérieur en travail social.<a id=626></a>
 
 ###### Article D451-17
 
@@ -78115,7 +78377,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R544-5 (V)
 
 
-##### Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale.<a id=625></a>
+##### Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale.<a id=627></a>
 
 ###### Article R451-20
 
@@ -78347,9 +78609,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Formations et diplômes professionnels d'intervention sociale<a id=626></a>
+##### Sous-section 2 : Formations et diplômes professionnels d'intervention sociale<a id=628></a>
 
-##### Paragraphe 1 : Diplôme d'Etat d'assistant de service social.<a id=627></a>
+##### Paragraphe 1 : Diplôme d'Etat d'assistant de service social.<a id=629></a>
 
 ###### Article D451-29
 
@@ -78767,7 +79029,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R411-3 (V)
 
 
-##### Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé.<a id=628></a>
+##### Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé.<a id=630></a>
 
 ###### Article D451-41
 
@@ -79020,7 +79282,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-58 (V)
 
 
-##### Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants.<a id=629></a>
+##### Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants.<a id=631></a>
 
 ###### Article D451-47
 
@@ -79252,7 +79514,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-63 (V)
 
 
-##### Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé.<a id=630></a>
+##### Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé.<a id=632></a>
 
 ###### Article D451-52
 
@@ -79444,7 +79706,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. D451-44 (T)
 
 
-##### Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale.<a id=631></a>
+##### Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale.<a id=633></a>
 
 ###### Article D451-57
 
@@ -79474,7 +79736,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. D451-45 (T)
 
 
-##### Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation.<a id=632></a>
+##### Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation.<a id=634></a>
 
 ###### Article D451-58
 
@@ -79752,7 +80014,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-77 (M)
 
 
-##### Paragraphe 7 : Diplôme d'Etat de médiateur familial.<a id=633></a>
+##### Paragraphe 7 : Diplôme d'Etat de médiateur familial.<a id=635></a>
 
 ###### Article R451-66
 
@@ -79936,7 +80198,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R451-60 (T)
 
 
-##### Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur.<a id=634></a>
+##### Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur.<a id=636></a>
 
 ###### Article D451-73
 
@@ -80229,7 +80491,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. D451-68 (T)
 
 
-##### Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale.<a id=635></a>
+##### Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale.<a id=637></a>
 
 ###### Article D451-81
 
@@ -80438,7 +80700,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
-##### Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale.<a id=636></a>
+##### Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale.<a id=638></a>
 
 ###### Article R451-88
 
@@ -80632,7 +80894,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles D. 451-93
 
 
-##### Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique.<a id=637></a>
+##### Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique.<a id=639></a>
 
 ###### Article R451-94
 
@@ -80664,13 +80926,13 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R451-82 (T)
 
 
-## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=638></a>
+## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=640></a>
 
-### Titre II : Départements d'outre-mer<a id=639></a>
+### Titre II : Départements d'outre-mer<a id=641></a>
 
-#### Chapitre Ier : Dispositions générales<a id=640></a>
+#### Chapitre Ier : Dispositions générales<a id=642></a>
 
-##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=641></a>
+##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=643></a>
 
 ###### Article R521-1
 
@@ -80823,7 +81085,7 @@ _Cite_:
   - Code de l'action sociale et des familles R312-177 à R312-189, R312-178, R312-179, R312-182, R312-186
 
 
-##### Section 2 : Dispositions budgétaires, comptables et financières<a id=642></a>
+##### Section 2 : Dispositions budgétaires, comptables et financières<a id=644></a>
 
 ###### Article R521-3
 
@@ -80855,9 +81117,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre II : Revenu minimum d'insertion<a id=643></a>
+#### Chapitre II : Revenu minimum d'insertion<a id=645></a>
 
-##### Section 1 : Allocation<a id=644></a>
+##### Section 1 : Allocation<a id=646></a>
 
 ###### Article R522-1
 
@@ -80943,7 +81205,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion<a id=645></a>
+##### Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion<a id=647></a>
 
 ###### Article R522-4
 
@@ -81046,9 +81308,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Agences d'insertion<a id=646></a>
+##### Section 3 : Agences d'insertion<a id=648></a>
 
-##### Sous-section 1 : Organisation<a id=647></a>
+##### Sous-section 1 : Organisation<a id=649></a>
 
 ###### Article R522-8
 
@@ -81597,7 +81859,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale<a id=648></a>
+##### Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale<a id=650></a>
 
 ###### Article R522-27
 
@@ -81762,7 +82024,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=649></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=651></a>
 
 ###### Article D522-35
 
@@ -81947,7 +82209,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale<a id=650></a>
+##### Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale<a id=652></a>
 
 ###### Article R522-40
 
@@ -82363,7 +82625,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L522-13
 
 
-##### Sous-section 5 : Conventions avec les organismes utilisateurs<a id=651></a>
+##### Sous-section 5 : Conventions avec les organismes utilisateurs<a id=653></a>
 
 ###### Article R522-56
 
@@ -82577,7 +82839,7 @@ _Abrogé par_:
   - Décret n°2015-1722 du 21 décembre 2015 - art. 3
 
 
-##### Section 4 : Revenu de solidarité<a id=652></a>
+##### Section 4 : Revenu de solidarité<a id=654></a>
 
 ###### Article R522-63
 
@@ -82732,9 +82994,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=653></a>
+#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=655></a>
 
-##### Section 2 : Aide à la famille<a id=654></a>
+##### Section 2 : Aide à la famille<a id=656></a>
 
 ###### Article R523-1
 
@@ -82761,11 +83023,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L228-2 (V)
 
 
-### Titre III : Saint-Pierre-et-Miquelon<a id=655></a>
+### Titre III : Saint-Pierre-et-Miquelon<a id=657></a>
 
-#### Chapitre Ier : Dispositions générales<a id=656></a>
+#### Chapitre Ier : Dispositions générales<a id=658></a>
 
-##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=657></a>
+##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=659></a>
 
 ###### Article R531-1
 
@@ -82810,7 +83072,7 @@ _Cite_:
   - Code de l'action sociale et des familles R313-1 à R313-10
 
 
-##### Section 2 : Dispositions budgétaires, comptables et financières<a id=658></a>
+##### Section 2 : Dispositions budgétaires, comptables et financières<a id=660></a>
 
 ###### Article R531-2
 
@@ -82848,7 +83110,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre II : Personnes handicapées<a id=659></a>
+#### Chapitre II : Personnes handicapées<a id=661></a>
 
 ###### Article R532-1
 
@@ -82974,7 +83236,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre IV : Adoption<a id=660></a>
+#### Chapitre IV : Adoption<a id=662></a>
 
 ###### Article R533-1
 
@@ -83009,9 +83271,9 @@ _Cite_:
   - Code de l'action sociale et des familles R225-12 à R225-45
 
 
-### Titre IV : Mayotte<a id=661></a>
+### Titre IV : Mayotte<a id=663></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=662></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=664></a>
 
 ###### Article R541-1
 
@@ -83049,7 +83311,7 @@ _Cite_:
   - Code de l'action sociale et des familles R147-1 à R147-33, L222-6, L223-7, L543-14
 
 
-#### Chapitre II : Aide sociale<a id=663></a>
+#### Chapitre II : Aide sociale<a id=665></a>
 
 ###### Article D542-2
 
@@ -83291,9 +83553,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L542-4 (T)
 
 
-#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption<a id=664></a>
+#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption<a id=666></a>
 
-##### Section 1 : Organes chargés de la tutelle<a id=665></a>
+##### Section 1 : Organes chargés de la tutelle<a id=667></a>
 
 ###### Article R544-1
 
@@ -83312,9 +83574,9 @@ _Cite_:
   - Code de l'action sociale et des familles R224-1 à R224-25
 
 
-##### Section 2 : Adoption<a id=666></a>
+##### Section 2 : Adoption<a id=668></a>
 
-##### Sous-section 1 : Adoption des pupilles de l'Etat<a id=667></a>
+##### Sous-section 1 : Adoption des pupilles de l'Etat<a id=669></a>
 
 ###### Article R544-2
 
@@ -83334,9 +83596,9 @@ _Cite_:
   - Code de l'action sociale et des familles R225-1 à R225-11
 
 
-### Titre V : Territoire des Iles Wallis et Futuna<a id=668></a>
+### Titre V : Territoire des Iles Wallis et Futuna<a id=670></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=669></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=671></a>
 
 ###### Article R551-1
 
@@ -83379,9 +83641,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-1 (V)
 
 
-### Titre VI : Polynésie française<a id=670></a>
+### Titre VI : Polynésie française<a id=672></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=671></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=673></a>
 
 ###### Article R561-1
 
@@ -83418,9 +83680,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-25 (V)
 
 
-### Titre VII : Nouvelle-Calédonie<a id=672></a>
+### Titre VII : Nouvelle-Calédonie<a id=674></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=673></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=675></a>
 
 ###### Article R571-1
 
@@ -83457,7 +83719,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-25 (VT)
 
 
-# Annexe<a id=674></a>
+# Annexe<a id=676></a>
 
 ###### Article Annexe 2-4
 
