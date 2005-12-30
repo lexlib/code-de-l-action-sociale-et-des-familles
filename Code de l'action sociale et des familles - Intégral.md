@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-12-30
+Version Consolidée au 2005-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -347,12 +347,12 @@ Version Consolidée au 2005-12-30
             - [Sous-section 2 : Dispositions financières relatives à l'allocation personnalisée d'autonomie (art. R232-51 à R232-57)](#344)
           - [Section 4 : Dispositions communes (art. R232-58 à R232-61)](#345)
       - [Titre IV : Personnes handicapées (art. R241-1 à R245-72)](#346)
-        - [Chapitre Ier : Dispositions générales (art. R241-1 à R241-23)](#347)
+        - [Chapitre Ier : Dispositions générales (art. R241-1 à R241-22)](#347)
           - [Section 1 : Prestations (art. R241-1 à R241-3)](#348)
           - [Section 2 : Allocation différentielle (art. R241-4 à R241-11)](#349)
           - [Section 3 : Carte d'invalidité et carte de priorité pour personne handicapée (art. R241-12 à R241-15)](#350)
-          - [Section 4 : Macaron "Grand Invalide civil". (art. R241-16 à R241-20)](#351)
-          - [Section 5 : Dispositions pénales (art. R241-21 à R241-23)](#352)
+          - [Section 4 : Carte de stationnement pour personnes handicapées (art. R241-16 à R241-20)](#351)
+          - [Section 5 : Dispositions pénales (art. R241-21 à R241-22)](#352)
         - [Chapitre Ier bis : Commission des droits et de l'autonomie des personnes handicapées (art. R241-24 à R241-34)](#353)
         - [Chapitre II : Enfance et adolescence handicapées (art. D242-14 à R242-18)](#354)
           - [Section 2 : Prise en charge (art. D242-14 à R242-15)](#355)
@@ -371,7 +371,7 @@ Version Consolidée au 2005-12-30
             - [Sous-section 1 : Conditions de résidence (art. R245-1 à R245-2)](#368)
             - [Sous-section 2 : Conditions d'âge (art. D245-3)](#369)
             - [Sous-section 3 : Critères de handicaps (art. D245-4)](#370)
-          - [Section 2 : Conditions particulières d'attribution de chaque élément de la prestation de compensation (art. D245-5 à D245-24)](#371)
+          - [Section 2 : Conditions particulières d'attribution de chaque élément de la prestation de compensation (art. D245-5 à D245-24-3)](#371)
             - [Sous-section 1 : Besoin d'aides humaines (art. D245-5 à R245-7)](#372)
             - [Sous-section 2 : Besoin d'aides techniques (art. D245-10 à R245-12)](#373)
             - [Sous-section 3 : Aménagement du logement, du véhicule et surcoûts résultant du transport (art. D245-13 à D245-22)](#374)
@@ -380,7 +380,7 @@ Version Consolidée au 2005-12-30
                 - [1. Aménagement du logement (art. D245-14 à D245-17)](#377)
                 - [2. Aménagement du véhicule et surcoûts liés au transport (art. D245-18 à D245-22)](#378)
             - [Sous-section 4 : Charges spécifiques ou exceptionnelles (art. D245-23)](#379)
-            - [Sous-section 5 : Attribution et entretien des aides animalières (art. D245-24)](#380)
+            - [Sous-section 5 : Attribution et entretien des aides animalières (art. D245-24 à D245-24-3)](#380)
           - [Section 3 : Gestion de la prestation de compensation (art. D245-25 à R245-72)](#381)
             - [Sous-section 1 : Instruction de la demande (art. D245-25 à D245-28)](#382)
             - [Sous-section 2 : Décision d'attribution (art. D245-29 à R245-36)](#383)
@@ -630,7 +630,7 @@ Version Consolidée au 2005-12-30
             - [Sous-section 3 : Séance de jugement et notification. (art. R351-29 à R351-37)](#627)
             - [Sous-section 4 : Voies de recours. (art. R351-38 à R351-40)](#628)
           - [Section 3 : Dispositions diverses. (art. R351-41)](#629)
-    - [Livre IV : Professions et activités d'accueil (art. R411-1 à R451-94)](#630)
+    - [Livre IV : Professions et activités d'accueil (art. R411-1 à D451-104)](#630)
       - [Titre Ier : Assistants de service social (art. R411-1 à R411-3)](#631)
         - [Chapitre unique. (art. R411-1 à R411-3)](#632)
       - [Titre II : Assistants maternels (art. R421-1 à R422-21)](#633)
@@ -655,16 +655,16 @@ Version Consolidée au 2005-12-30
           - [Section 1 : Modalités et délai d'instruction de la demande d'agrément. (art. R441-1 à R441-10)](#652)
           - [Section 2 : Commission consultative de retrait. (art. R441-11 à R441-15)](#653)
         - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial (art. D442-2 à R442-1)](#654)
-      - [Titre V : Formation des travailleurs sociaux (art. D451-5 à R451-94)](#655)
-        - [Chapitre unique : Dispositions générales (art. D451-5 à R451-94)](#656)
+      - [Titre V : Formation des travailleurs sociaux (art. D451-5 à D451-104)](#655)
+        - [Chapitre unique : Dispositions générales (art. D451-5 à D451-104)](#656)
           - [Section 1 : Etablissements de formation. (art. D451-5 à R451-4-3)](#657)
           - [Section 2 : Bourses d'études. (art. D451-7)](#658)
-          - [Section 3 : Formations et diplômes (art. R451-11 à R451-94)](#659)
+          - [Section 3 : Formations et diplômes (art. R451-11 à D451-104)](#659)
             - [Sous-section 1 : Formations supérieures et diplômes d'encadrement (art. R451-11 à R451-28)](#660)
               - [Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale. (art. R451-11 à R451-16)](#661)
               - [Paragraphe 2 : Diplôme supérieur en travail social. (art. D451-17 à D451-19)](#662)
               - [Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale. (art. R451-20 à R451-28)](#663)
-            - [Sous-section 2 : Formations et diplômes professionnels d'intervention sociale (art. D451-29 à R451-94)](#664)
+            - [Sous-section 2 : Formations et diplômes professionnels d'intervention sociale (art. D451-29 à D451-104)](#664)
               - [Paragraphe 1 : Diplôme d'Etat d'assistant de service social. (art. D451-29 à R451-37)](#665)
               - [Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé. (art. D451-41 à D451-46)](#666)
               - [Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants. (art. D451-47 à D451-51)](#667)
@@ -676,43 +676,44 @@ Version Consolidée au 2005-12-30
               - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale. (art. D451-81 à D451-87)](#673)
               - [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale. (art. R451-88 à R451-93)](#674)
               - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique. (art. R451-94)](#675)
-    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. R521-1 à R571-1)](#676)
-      - [Titre II : Départements d'outre-mer (art. R521-1 à R523-1)](#677)
-        - [Chapitre Ier : Dispositions générales (art. R521-1 à R521-3)](#678)
-          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R521-1 à R521-2)](#679)
-          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R521-3)](#680)
-        - [Chapitre II : Revenu minimum d'insertion (art. R522-1 à R522-68)](#681)
-          - [Section 1 : Allocation (art. R522-1 à R522-3)](#682)
-          - [Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion (art. R522-4 à R522-7)](#683)
-          - [Section 3 : Agences d'insertion (art. R522-8 à R522-62)](#684)
-            - [Sous-section 1 : Organisation (art. R522-8 à R522-26)](#685)
-            - [Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale (art. R522-27 à R522-32)](#686)
-            - [Sous-section 3 : Dispositions financières et comptables (art. D522-35 à R522-39)](#687)
-            - [Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale (art. R522-40 à R522-55)](#688)
-            - [Sous-section 5 : Conventions avec les organismes utilisateurs (art. R522-56 à R522-62)](#689)
-          - [Section 4 : Revenu de solidarité (art. R522-63 à R522-68)](#690)
-        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. R523-1)](#691)
-          - [Section 2 : Aide à la famille (art. R523-1)](#692)
-      - [Titre III : Saint-Pierre-et-Miquelon (art. R531-1 à R533-1)](#693)
-        - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#694)
-          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R531-1)](#695)
-          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R531-2)](#696)
-        - [Chapitre II : Personnes handicapées (art. R532-1 à R532-5)](#697)
-        - [Chapitre IV : Adoption (art. R533-1)](#698)
-      - [Titre IV : Mayotte (art. R541-1 à R544-2)](#699)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R541-1)](#700)
-        - [Chapitre II : Aide sociale (art. D542-2 à R542-1)](#701)
-        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption (art. R544-1 à R544-2)](#702)
-          - [Section 1 : Organes chargés de la tutelle (art. R544-1)](#703)
-          - [Section 2 : Adoption (art. R544-2)](#704)
-            - [Sous-section 1 : Adoption des pupilles de l'Etat (art. R544-2)](#705)
-      - [Titre V : Territoire des Iles Wallis et Futuna (art. R551-1)](#706)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R551-1)](#707)
-      - [Titre VI : Polynésie française (art. R561-1)](#708)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R561-1)](#709)
-      - [Titre VII : Nouvelle-Calédonie (art. R571-1)](#710)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R571-1)](#711)
-  - [Annexe (art. Annexe 2-4 à Annexe 4-1)](#712)
+              - [Paragraphe 12 : Diplôme d'Etat d'assistant familial (art. D451-100 à D451-104)](#676)
+    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. R521-1 à R571-1)](#677)
+      - [Titre II : Départements d'outre-mer (art. R521-1 à R523-1)](#678)
+        - [Chapitre Ier : Dispositions générales (art. R521-1 à R521-3)](#679)
+          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R521-1 à R521-2)](#680)
+          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R521-3)](#681)
+        - [Chapitre II : Revenu minimum d'insertion (art. R522-1 à R522-68)](#682)
+          - [Section 1 : Allocation (art. R522-1 à R522-3)](#683)
+          - [Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion (art. R522-4 à R522-7)](#684)
+          - [Section 3 : Agences d'insertion (art. R522-8 à R522-62)](#685)
+            - [Sous-section 1 : Organisation (art. R522-8 à R522-26)](#686)
+            - [Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale (art. R522-27 à R522-32)](#687)
+            - [Sous-section 3 : Dispositions financières et comptables (art. D522-35 à R522-39)](#688)
+            - [Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale (art. R522-40 à R522-55)](#689)
+            - [Sous-section 5 : Conventions avec les organismes utilisateurs (art. R522-56 à R522-62)](#690)
+          - [Section 4 : Revenu de solidarité (art. R522-63 à R522-68)](#691)
+        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. R523-1)](#692)
+          - [Section 2 : Aide à la famille (art. R523-1)](#693)
+      - [Titre III : Saint-Pierre-et-Miquelon (art. R531-1 à R533-1)](#694)
+        - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#695)
+          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R531-1)](#696)
+          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R531-2)](#697)
+        - [Chapitre II : Personnes handicapées (art. R532-1 à R532-5)](#698)
+        - [Chapitre IV : Adoption (art. R533-1)](#699)
+      - [Titre IV : Mayotte (art. R541-1 à R544-2)](#700)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R541-1)](#701)
+        - [Chapitre II : Aide sociale (art. D542-2 à R542-1)](#702)
+        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption (art. R544-1 à R544-2)](#703)
+          - [Section 1 : Organes chargés de la tutelle (art. R544-1)](#704)
+          - [Section 2 : Adoption (art. R544-2)](#705)
+            - [Sous-section 1 : Adoption des pupilles de l'Etat (art. R544-2)](#706)
+      - [Titre V : Territoire des Iles Wallis et Futuna (art. R551-1)](#707)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R551-1)](#708)
+      - [Titre VI : Polynésie française (art. R561-1)](#709)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R561-1)](#710)
+      - [Titre VII : Nouvelle-Calédonie (art. R571-1)](#711)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R571-1)](#712)
+  - [Annexe (art. Annexe 2-4 à Annexe 4-1)](#713)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -49054,23 +49055,20 @@ _Modifié par_:
   - Décret n°2005-1714 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
 
 
-##### Section 4 : Macaron "Grand Invalide civil".<a id=351></a>
+##### Section 4 : Carte de stationnement pour personnes handicapées<a id=351></a>
 
 ###### Article R241-16
 
-Un macaron "Grand Invalide civil" est accordé par le préfet, sur sa demande, à toute personne handicapée, titulaire de la
-carte d'invalidité prévue à l'article L. 241-3, dont la déficience physique réduit de manière importante sa capacité et son
-autonomie de déplacement à pied ou dont la déficience sensorielle ou mentale impose qu'elle soit accompagnée par une tierce
-personne dans ses déplacements.
+La demande de carte de stationnement pour personnes handicapées, instituée par l'article L. 241-3-2, est adressée :
 
-La demande doit être accompagnée d'un certificat médical.
+1° Soit à la maison départementale des personnes handicapées prévue à l'article L. 146-3 du département de résidence du
+demandeur ;
 
-La décision du préfet est prise, après avis d'un médecin de l'équipe technique de la commission prévue à l'article L. 242-2
-ou de la commission mentionnée à l'article L. 323-11 du code du travail selon le cas.
+2° Soit, pour les personnes relevant du code des pensions militaires d'invalidité et de victimes de la guerre, au service
+départemental de l'Office national des anciens combattants et victimes de guerre de son lieu de résidence.
 
-En cas de désaccord entre le médecin traitant et cet avis, le préfet peut consulter un médecin figurant sur la liste des
-médecins experts du tribunal administratif dans le ressort duquel se trouve le département, choisi d'un commun accord par les
-deux praticiens.
+Elle est accompagnée d'un certificat médical établi à cette fin. Toute demande de renouvellement de la carte de stationnement
+pour personnes handicapées est présentée au minimum quatre mois avant la date d'expiration du titre.
 
 **Liens relatifs à cet article**
 
@@ -49083,11 +49081,9 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Cite_:
+_Modifié par_:
 
-  - Code du travail - art. L323-11 (M)
-  - Code de l'action sociale et des familles - art. L241-3 (M)
-  - Code de l'action sociale et des familles - art. L242-2 (Ab)
+  - Décret n°2005-1766 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -49099,10 +49095,34 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R542-4 (VD)
   - Code de l'action sociale et des familles - art. R585-5 (VD)
 
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L241-3-2 (M)
+
 
 ###### Article R241-17
 
-Le macaron "Grand Invalide civil" est attribué pour la durée de validité restant à courir de la carte d'invalidité.
+L'instruction de la demande mentionnée à l'article R. 241-16 est assurée, selon les cas :
+
+1° Soit par un médecin de l'équipe pluridisciplinaire prévue à l'article L. 146-8 ;
+
+2° Soit par un médecin de la direction des services déconcentrés du ministère chargé des anciens combattants, pour les
+personnes ayant déposé une demande auprès du service départemental de l'Office national des anciens combattants et victimes
+de guerre.
+
+Le médecin, dans le cadre de son instruction, peut, le cas échéant, convoquer le demandeur afin d'évaluer sa capacité de
+déplacement.
+
+Le préfet délivre la carte de stationnement pour personnes handicapées conformément à l'avis du médecin chargé de
+l'instruction de la demande.
+
+La carte de stationnement pour personnes handicapées est attribuée pour une période au minimum d'une année et ne pouvant
+excéder dix ans.
+
+Un arrêté des ministres chargés des personnes handicapées et des anciens combattants définit les modalités d'appréciation
+d'une mobilité pédestre réduite et de la perte d'autonomie dans le déplacement individuel, en tenant compte notamment de la
+limitation du périmètre de marche de la personne ou de la nécessité pour celle-ci de recourir systématiquement à certaines
+aides techniques ou à une aide humaine lors de tous ses déplacements à l'extérieur.
 
 **Liens relatifs à cet article**
 
@@ -49115,6 +49135,15 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1766 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L146-8 (V)
+  - Code de l'action sociale et des familles - art. R241-16 (M)
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R241-21 (V)
@@ -49125,11 +49154,22 @@ _Cité par_:
 
 ###### Article R241-18
 
-Le macaron "Grand Invalide civil" permet à son titulaire ou à l'accompagnateur de la personne handicapée d'utiliser, dans les
-parcs de stationnement automobile, les places réservées et aménagées à cet effet.
+La demande de carte de stationnement pour personnes handicapées par les organismes utilisant un véhicule destiné au transport
+collectif des personnes handicapées est adressée au préfet.
 
-Il permet, dans les mêmes conditions, de bénéficier de dispositions qui peuvent être prises en faveur des personnes
-handicapées par les autorités compétentes en matière de circulation et de stationnement.
+L'organisme indique dans sa demande :
+
+1° Son identité et son adresse ;
+
+2° Ses missions et le public concerné par le transport collectif ;
+
+3° Le type du véhicule utilisé pour ce service et son numéro minéralogique.
+
+Le préfet délivre la carte de stationnement pour personnes handicapées en se fondant sur la nature du public transporté et
+sur la régularité du service de transport effectué.
+
+La carte de stationnement pour personnes handicapées est attribuée pour une période au minimum d'une année et ne pouvant
+excéder dix ans.
 
 **Liens relatifs à cet article**
 
@@ -49142,6 +49182,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1766 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R241-23 (Ab)
@@ -49150,11 +49194,8 @@ _Cité par_:
 
 ###### Article R241-19
 
-Le macaron "Grand Invalide civil", dont le modèle est arrêté par le ministre chargé de l'action sociale, porte le symbole
-international d'accessibilité et les mots "Grand Invalide civil".
-
-Doivent y figurer obligatoirement le nom du titulaire, sa durée de validité ainsi que le timbre et le numéro d'attribution du
-département.
+Le modèle de la carte de stationnement pour personnes handicapées est fixé par arrêté des ministres chargés de l'intérieur,
+des anciens combattants et des personnes handicapées.
 
 **Liens relatifs à cet article**
 
@@ -49167,11 +49208,26 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1766 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2016-1849 du 23 décembre 2016 - art. 1
+
 
 ###### Article R241-20
 
-Le macaron est apposé sur le pare-brise du véhicule utilisé pour le transport de la personne handicapée, de manière à être vu
-aisément par les agents habilités à constater les infractions à la réglementation de la circulation et du stationnement.
+La carte de stationnement pour personnes handicapées permet à son titulaire ou à la personne qui l'accompagne effectivement
+de bénéficier des dispositions qui peuvent être prises en faveur des personnes handicapées par les autorités administratives
+compétentes en matière de circulation et de stationnement, et en particulier d'utiliser les emplacements réservés au
+stationnement des personnes handicapées en tous lieux ouverts au public.
+
+La carte de stationnement pour personnes handicapées est apposée en évidence à l'intérieur et derrière le pare-brise du
+véhicule utilisé pour le transport de la personne handicapée, de manière à être vue aisément par les agents habilités à
+constater les infractions à la réglementation de la circulation et du stationnement. Elle est retirée dès lors que la
+personne handicapée n'utilise plus le véhicule.
 
 **Liens relatifs à cet article**
 
@@ -49184,6 +49240,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1766 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R241-20-1 (V)
@@ -49193,8 +49253,8 @@ _Cité par_:
 
 ###### Article R241-21
 
-L'usage indu de la carte d'invalidité ou de la canne blanche est puni de l'amende prévue pour les contraventions de la 5e
-classe.
+L'usage indu de la carte d'invalidité, de la carte de stationnement pour personnes handicapées ou de la canne blanche est
+puni de l'amende prévue pour les contraventions de la 5e classe. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11 du code pénal.
 
@@ -49210,9 +49270,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1766 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005
+
 _Cite_:
 
-  - Code pénal - art. 132-11 (M)
+  - Code pénal - art. 132-11 (V)
 
 
 ###### Article R241-22
@@ -49244,33 +49308,6 @@ _Cite_:
 
   - Code de l'action sociale et des familles - art. L241-3 (VT)
   - Code de l'action sociale et des familles - art. L245-3 (V)
-
-
-###### Article R241-23
-
-L'usage, hormis le cas de l'accompagnateur d'une personne handicapée, du macaron "Grand Invalide civil" dans l'un des cas
-mentionnés à l'article R. 241-18, sans remplir les conditions exigées par l'article R. 241-16 pour l'attribution de ce
-macaron, est puni de l'amende prévue pour les contraventions de 4e classe.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-1083 1990-12-03 art. 6
-  - Décret n°90-1083 du 3 décembre 1990 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2005-1766 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. R241-16 (M)
-  - Code de l'action sociale et des familles - art. R241-18 (M)
 
 
 #### Chapitre Ier bis : Commission des droits et de l'autonomie des personnes handicapées<a id=353></a>
@@ -51028,6 +51065,147 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+
+
+###### Article D245-24-1
+
+Un label est attribué pour une période de un à cinq ans renouvelable, après avis d'une commission, aux centres d'éducation de
+chiens d'assistance ou aux centres d'éducation de chiens guides d'aveugle qui en font la demande ou, le cas échéant, aux
+organismes gestionnaires desdits centres pour chacun d'entre eux, par arrêté du préfet du département dans lequel le centre
+est implanté.
+
+Un label provisoire, dont la durée de validité ne peut excéder deux ans, est attribué aux centres ou, le cas échéant, aux
+organismes gestionnaires desdits centres, créés après la date de publication du décret n° 2005-1776 du 30 décembre 2005
+relatif à la labellisation des centres d'éducation des chiens d'assistance ou des chiens guides d'aveugle. Au terme de ce
+délai, le label est attribué dans les conditions mentionnées au premier alinéa et au vu d'un rapport adopté par la commission
+susmentionnée portant sur le fonctionnement de ces centres.
+
+La composition et les modalités de fonctionnement de la commission chargée d'examiner et de donner un avis sur les demandes
+de labellisation des centres d'éducation de chiens d'assistance et des centres d'éducation de chiens guides d'aveugle ou, le
+cas échéant, de leur organisme gestionnaire sont fixées par arrêté conjoint du ministre chargé des personnes handicapées et
+du ministre de l'agriculture et de la pêche.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Cite_:
+
+  - Décret n°2005-1776 2005-12-30
+
+_Créé par_:
+
+  - Décret n°2005-1776 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+_Cité par_:
+
+  - Arrêté du 2 août 2006 - art. 1 (Ab)
+  - Arrêté du 20 mars 2014 - art. 1 (V)
+  - Décret n°2014-362 du 20 mars 2014 - art. 6 (V)
+  - Code de l'action sociale et des familles - art. D245-24-2 (V)
+  - Code de l'action sociale et des familles - art. D245-24-3 (V)
+  - Code de l'action sociale et des familles - art. D245-24-4 (V)
+
+
+###### Article D245-24-2
+
+Pour obtenir le label, ou le label provisoire, mentionné à l'article D. 245-24-1 ou son renouvellement, chaque centre ou
+organisme gestionnaire doit remplir les conditions suivantes :
+
+1° Etablir un contrat de mise à disposition du chien avec chaque bénéficiaire de l'aide animalière afin d'assurer un suivi du
+chien garantissant à la personne handicapée la sécurité et l'efficacité de l'aide apportée ;
+
+2° Elaborer un document détaillant avec précision les modalités de sélection et la provenance des chiots ;
+
+3° Tenir, pour chaque chien, un carnet de suivi régulièrement documenté tout au long de son activité d'assistance, tant sur
+le plan sanitaire que comportemental ;
+
+4° Placer à titre gracieux les chiots en famille d'accueil durant une période minimale de dix mois pour un chien guide et de
+seize mois pour un chien d'assistance ;
+
+5° Eduquer les chiens durant une période de six mois minimum en vue de l'assistance aux personnes ;
+
+6° S'assurer d'un placement de qualité des chiens lorsque ceux-ci ont terminé leur travail d'assistance auprès de la personne
+handicapée ;
+
+7° Employer des personnes possédant un titre relatif à l'éducation des chiens guides d'aveugle ou à l'éducation des chiens
+d'assistance inscrit au répertoire national des certifications professionnelles en vue de l'éducation des chiens guides
+d'aveugle ou des chiens d'assistance ;
+
+8° Disposer d'un comité d'attribution des chiens chargé d'examiner les demandes d'attribution et de se prononcer, après
+entretien avec le bénéficiaire, sur l'aptitude de celui-ci à utiliser et à entretenir un chien d'assistance ou un chien guide
+d'aveugle au regard d'un certificat médical datant de moins de trois mois. Ce comité comprend au moins un médecin, un
+éducateur de chien qualifié et, pour les centres d'éducation de chiens guides d'aveugle, un instructeur de locomotion
+titulaire du certificat d'aptitude à l'éducation et à la rééducation de la locomotion auprès des personnes déficientes
+visuelles délivré par le ministre chargé des personnes handicapées ;
+
+9° Attribuer un chien d'assistance ou un chien guide d'aveugle aux seules personnes titulaires d'une carte d'invalidité
+prévue à l'article L. 241-3 du code de l'action sociale et des familles ;
+
+10° Mettre en place, avant toute remise officielle d'un chien à une personne handicapée, un stage d'adaptation entre la
+personne handicapée et le chien, d'une durée minimale de deux semaines. Lorsqu'il s'agit de la remise d'un chien guide
+d'aveugle, l'une des deux semaines doit être effectuée sur le lieu de vie de la personne ;
+
+11° Respecter les critères techniques définis par arrêté conjoint du ministre chargé des personnes handicapées et du ministre
+de l'agriculture et de la pêche.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1776 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+_Cité par_:
+
+  - Arrêté du 2 août 2006 - art. 3 (V)
+  - Arrêté du 20 mars 2014 - art. 4 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D245-24-1 (V)
+  - Code de l'action sociale et des familles - art. L241-3 (M)
+
+
+###### Article D245-24-3
+
+La demande de labellisation est adressée au préfet du département dans lequel le centre est implanté. Elle est accompagnée de
+pièces dont la liste est prévue par arrêté conjoint du ministre chargé des personnes handicapées et du ministre de
+l'agriculture et de la pêche.
+
+Chaque centre labellisé, et, le cas échéant, chaque organisme gestionnaire d'un centre, adresse, annuellement, au préfet et à
+la commission mentionnée à l'article D. 245-24-1 un rapport d'activité et un rapport financier détaillés.
+
+Le préfet peut retirer le label au centre ou à l'organisme ne respectant pas tout ou partie des critères exigés pour
+l'obtention du label, plus particulièrement ceux ayant trait à la sécurité des personnes handicapées et aux conditions
+générales prévues pour l'exercice ou le fonctionnement de cette activité.
+
+Il peut demander un avis préalable à la commission mentionnée à l'article D. 245-24-1, qu'il saisit des renseignements
+collectés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1776 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+_Cité par_:
+
+  - Arrêté du 2 août 2006 - art. 3 (V)
+  - Arrêté du 20 mars 2014 - art. 4 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D245-24-1 (V)
 
 
 ##### Section 3 : Gestion de la prestation de compensation<a id=381></a>
@@ -72078,10 +72256,19 @@ _Cite_:
 
 ###### Article R314-197
 
-Sous réserve des dispositions de l'article R. 314-200, les conventions collectives de travail, les conventions d'entreprise
-ou d'établissement et les accords de retraite applicables aux salariés des établissements et services à caractère social ou
-sanitaire à but non lucratif mentionnés à l'article L. 314-6 ne prennent effet qu'après agrément des ministres chargés de la
-santé et de l'action sociale.
+Sous réserve des dispositions de l'article R. 314-200, l'agrément mentionné à l'article L. 314-6 du code de l'action sociale
+et des familles est donné par les ministres chargés de l'action sociale et de la santé.
+
+Les conventions ou accords sont transmis par lettre recommandée avec avis de réception par toute partie signataire au
+ministre chargé de l'action sociale, dont les services assurent le secrétariat de la Commission nationale d'agrément qui en
+accuse réception par lettre recommandée avec avis de réception.
+
+Les modalités de transmission ainsi que la liste des pièces du dossier de demande d'agrément comprenant notamment une analyse
+des modifications apportées aux stipulations en vigueur par la convention ou l'accord transmis, et le chiffrage de son coût
+indiquant notamment sa répartition entre les différents financeurs sont précisés par arrêté des ministres chargés de l'action
+sociale et de la santé.
+
+En fonction des besoins de l'instruction, des informations complémentaires peuvent être demandées.
 
 **Liens relatifs à cet article**
 
@@ -72093,6 +72280,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1758 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
 
 _Cite_:
 
@@ -72107,27 +72298,42 @@ _Cité par_:
 
 ###### Article R314-198
 
-Les conventions et accords mentionnés à l'article L. 314-6 doivent être communiqués, immédiatement après leur conclusion, aux
-ministres chargés de la santé et de l'action sociale qui les soumet pour avis à une commission comprenant :
+I. - La Commission nationale d'agrément comprend :
 
-1° Un représentant du ministre chargé de l'agriculture ;
+a) Un représentant du ministre chargé de l'action sociale, président ;
 
-2° Deux représentants des ministres chargés de la santé et de l'action sociale ;
+b) Un représentant du ministre chargé du travail ;
 
-3° Un représentant du ministre chargé de la sécurité sociale ;
+c) Un représentant du ministre chargé de la sécurité sociale ;
 
-4° Un représentant du ministre chargé du travail ;
+d) Un représentant du ministre chargé de la santé ;
 
-5° Deux représentants du ministre chargé du budget ;
+e) Un représentant du ministre chargé du budget ;
 
-6° Un représentant du ministre de la justice ;
+f) Un représentant du garde des sceaux, ministre de la justice ;
 
-7° Trois présidents de conseil général désignés par l'assemblée des départements de France ou leurs suppléants ;
+g) Un représentant du ministre chargé des collectivités territoriales ;
 
-8° Deux maires désignés par l'association des maires de France ou leurs suppléants.
+h) Trois présidents de conseil général désignés par l'Assemblée des départements de France ou leurs représentants ;
 
-Le président de la commission est désigné parmi les membres de celle-ci par les ministres chargés de la sécurité sociale et
-de l'action sociale.
+Elle comprend également, à titre consultatif :
+
+a) Le directeur général de la Caisse nationale d'assurance maladie des travailleurs salariés ou son représentant ;
+
+b) Le directeur de la Caisse nationale d'allocations familiales ou son représentant ;
+
+c) Le directeur de la Caisse nationale d'assurance vieillesse des travailleurs salariés ou son représentant ;
+
+d) Le directeur de la Caisse nationale de solidarité pour l'autonomie ou son représentant.
+
+II. - La Commission nationale d'agrément peut consulter tout expert qu'elle juge nécessaire d'entendre.
+
+Les décisions prises après avis de la Commission nationale d'agrément font l'objet d'une notification par lettre recommandée
+avec avis de réception aux signataires de la convention ou de l'accord et d'une publication au Journal officiel de la
+République française.
+
+L'absence de décision dans le délai de quatre mois à compter de la date d'avis de réception de la transmission prévue au
+deuxième alinéa de l'article R. 314-197 vaut décision de rejet.
 
 **Liens relatifs à cet article**
 
@@ -72140,22 +72346,34 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1758 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L314-6 (M)
+  - Code de l'action sociale et des familles - art. R314-197 (M)
 
 
 ###### Article R314-199
 
-Les conventions et accords mentionnés à l'article R. 314-197 sont réputés agréés si, dans le délai de deux mois à compter de
-la date du récépissé de dépôt ou d'envoi délivré par le ministre compétent, une décision portant refus d'agrément n'a pas été
-notifiée à leurs signataires.
+Les paramètres d'évolution de la masse salariale figurent dans le rapport prévu à l'article L. 314-6.
 
-Toutefois, le ministre peut, lorsque l'instruction du dossier l'exige, interrompre le cours de ce délai par une décision
-notifiée avant l'expiration de celui-ci. La décision d'interruption du délai porte à une nouvelle durée qui ne saurait
-excéder six mois le délai fixé au premier alinéa du présent article.
+Dans la limite du montant fixé au premier alinéa de l'article L. 314-4 et compte tenu de l'objectif des dépenses d'assurance
+maladie fixé par la loi de financement de la sécurité sociale et des objectifs mentionnés à l'article L. 313-8, ces
+paramètres sont fixés au regard notamment :
 
-La décision de refus d'agrément doit être motivée.
+a) Des orientations nationales ou locales en matière de prise en charge des personnes ;
+
+b) Des mesures législatives ou réglementaires ayant une incidence sur la masse salariale des établissements et services
+sanitaires, sociaux et médico-sociaux et des services concourant à leur fonctionnement du siège de leurs organismes
+gestionnaires.
+
+Ils peuvent également varier compte tenu de l'évolution prévisionnelle des rémunérations des personnels des établissements et
+services sanitaires, sociaux et médico-sociaux compte tenu de leur ancienneté ou de leur qualification.
+
+Un arrêté du ministre de l'action sociale précise les modalités de recueil auprès des départements des informations relatives
+aux objectifs mentionnés à l'article L. 313-8.
 
 **Liens relatifs à cet article**
 
@@ -72168,30 +72386,27 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2005-1758 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R314-197 (M)
+  - Code de l'action sociale et des familles - art. L313-8 (M)
+  - Code de l'action sociale et des familles - art. L314-4 (M)
+  - Code de l'action sociale et des familles - art. L314-6 (M)
 
 
 ###### Article R314-200
 
-Les conventions collectives et accords de retraite applicables au personnel des organismes de sécurité sociale et des caisses
-de mutualité sociale agricole restent soumis à agrément dans les conditions prévues par le décret n° 53-707 du 9 août 1953
-relatif au contrôle de l'Etat sur les entreprises publiques nationales et certains organismes ayant un objet d'ordre
-économique ou social et par les articles L. 123-1 et L. 123-2 du code de la sécurité sociale.
+Les conventions collectives et accords de retraite applicables au personnel des organismes de sécurité sociale restent soumis
+à agrément dans les conditions prévues à l'article L. 123-1 du code de la sécurité sociale.
 
-Toutefois l'agrément de ces conventions collectives et accords de retraite, en tant qu'ils s'appliquent spécifiquement dans
-des établissements ou services mentionnés à l'article L. 314-6, est donné après consultation des ministres chargés de la
-sécurité sociale et de l'action sociale.
+Toutefois l'agrément des conventions collectives et accords de retraite, en tant qu'ils s'appliquent spécifiquement dans des
+établissements ou services visés à l'article L. 314-6 du code de l'action sociale et des familles, est donné après
+consultation des ministres chargés de l'action sociale et de la santé.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°53-707 1953-08-09
-  - Code de la sécurité sociale. - art. L123-1 (M)
-  - Code de la sécurité sociale. - art. L123-2 (V)
-  - Code de l'action sociale et des familles - art. L314-6 (M)
 
 _Anciens textes_:
 
@@ -72201,6 +72416,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2005-1758 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L123-1 (M)
+  - Code de l'action sociale et des familles - art. L314-6 (M)
 
 _Cité par_:
 
@@ -78706,73 +78930,22 @@ _Cite_:
 
 ###### Article D421-27
 
-Les règles relatives à la formation des assistants maternels agréés pour l'accueil de mineurs à titre permanent ou non
-permanent sont fixées par les dispositions des articles D. 2112-14 à D. 2112-20 du code de la santé publique ci-après
-reproduites :
+Le stage préparatoire à l'accueil d'enfant prévu au premier alinéa de l'article L. 421-15 est d'une durée de soixante heures.
 
-"Article D. 2112-14"
+Pour chaque assistant familial relevant des obligations de formation prévues à l'article L. 421-15, un référent professionnel
+est désigné au début du stage mentionné au premier alinéa du présent article et est chargé de le suivre jusqu'à la fin de la
+formation prévue à l'alinéa suivant du présent article. La personne désignée comme référent professionnel ne doit pas être en
+position d'exercer professionnellement le suivi d'enfants confiés à l'assistant familial.
 
-"La formation de 60 heures prévue à l'article L. 2112-3 organisée et financée par le département doit contribuer à
-l'amélioration des connaissances des assistants maternels agréés pour l'accueil de mineurs à titre non permanent dans quatre
-domaines :
+La formation adaptée aux besoins spécifiques des enfants accueillis que doit suivre tout assistant familial dans le délai de
+trois ans après son premier contrat de travail, conformément au deuxième alinéa de l'article L. 421-15 est dispensée à partir
+de la pratique professionnelle des assistants familiaux sur une durée de 240 heures ; son contenu et ses conditions
+d'organisation sont fixés aux articles D. 451-100 à D. 451-104.
 
-- le développement, les rythmes et les besoins de l'enfant ;
+L'attestation de formation délivrée par l'établissement de formation est remise à l'assistant familial et à son employeur.
 
-- la relation avec les parents au sujet de l'enfant ;
-
-- les aspects éducatifs de l'accueil de l'enfant et le rôle de l'assistant maternel ;
-
-- le cadre institutionnel et social de l'accueil de la petite enfance."
-
-"Article D. 2112-15"
-
-"Sont dispensés de suivre la formation prévue à l'article D. 2112-14 :
-
-- les assistants maternels ayant suivi la formation prévue à l'article L. 773-17 du code du travail ;
-
-- les assistants maternels titulaires d'un diplôme sanctionnant au moins deux années d'études post-secondaires dans le
-domaine de la petite enfance."
-
-"Article D. 2112-16"
-
-"La formation de 120 heures prévue à l'article L. 773-17 du code du travail organisée et financée par l'employeur doit, à
-partir de la pratique professionnelle des assistants maternels employés pour l'accueil de mineurs à titre permanent,
-contribuer à l'amélioration de leurs connaissances dans quatre domaines :
-
-- le développement de l'enfant ;
-
-- la situation spécifique des enfants séparés de leur famille et vivant en accueil familial ;
-
-- le métier d'assistant maternel et le soutien au quotidien par la famille d'accueil d'un enfant qui n'est pas le sien ;
-
-- le cadre institutionnel et administratif de la prise en charge de l'enfant accueilli et le travail en coordination avec les
-différents intervenants de l'équipe d'accueil familial."
-
-"Article D. 2112-17"
-
-"Sont dispensés de suivre la formation prévue à l'article L. 773-17 du code du travail les assistants maternels titulaires
-d'un diplôme d'auxiliaire de puériculture, d'éducateur de jeunes enfants, d'éducateur spécialisé ou de puéricultrice."
-
-"Article D. 2112-18"
-
-"Peuvent dispenser les formations prévues aux articles L. 2112-3 du présent code et L. 773-17 du code du travail les
-organismes de formation agréés à cet effet par le directeur régional des affaires sanitaires et sociales pour une durée de
-cinq ans renouvelable. Les conditions de délivrance de l'agrément et le contenu de la formation sont fixés par arrêté du
-ministre chargé de la famille."
-
-Art. D. 2112-19. -     "Sont dispensés de l'agrément prévu à l'article D. 2112-18 pour délivrer les formations prévues aux
-articles L. 2112-3 du présent code et L. 773-17 du code du travail les établissements agréés par le ministre chargé des
-affaires sociales pour dispenser des formations préparant aux diplômes d'Etat en travail social, les écoles d'auxiliaires de
-puériculture agréés par le ministre chargé de la santé et les services départementaux de la protection maternelle et
-infantile et de l'aide sociale à l'enfance."
-
-Art. D. 2112-20. -     "Une attestation est remise par l'organisme de formation agréé, ou par le président du conseil général
-du département assurant la formation à tout assistant maternel ayant achevé la formation de 60 heures prévue à l'article L.
-2112-3 du présent code ou la formation de 120 heures prévue à l'article L. 773-17 du code du travail.
-
-Un document certifiant que la formation remplit les conditions prévues par la présente section est délivré sur la
-présentation de cette attestation par le directeur régional des affaires sanitaires et sociales de la région du domicile du
-demandeur à tout assistant maternel qui en fait la demande."
+Sont dispensés de suivre la formation prévue au troisième alinéa du présent article les assistants familiaux titulaires d'un
+diplôme d'auxiliaire de puériculture, d'éducateur de jeunes enfants, d'éducateur spécialisé ou de puéricultrice.
 
 **Liens relatifs à cet article**
 
@@ -78780,13 +78953,18 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la santé publique D2112-14 à D2112-20
+  - Décret n°2005-1772 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. D421-43 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L421-15 (AbD)
+  - Code de l'action sociale et des familles L421-15, D451-100 à D451-104
 
 
 ##### Section 4 : Dispositions pénales.<a id=641></a>
@@ -83276,13 +83454,161 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R451-82 (T)
 
 
-## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=676></a>
+##### Paragraphe 12 : Diplôme d'Etat d'assistant familial<a id=676></a>
 
-### Titre II : Départements d'outre-mer<a id=677></a>
+###### Article D451-100
 
-#### Chapitre Ier : Dispositions générales<a id=678></a>
+Le diplôme d'Etat d'assistant familial atteste des compétences nécessaires pour accueillir de manière permanente à son
+domicile et dans sa famille des mineurs ou des jeunes majeurs.
 
-##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=679></a>
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1772 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D421-22 (V)
+  - Code de l'action sociale et des familles - art. D421-43 (V)
+  - Code de l'action sociale et des familles - art. D451-104 (M)
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-75 (M)
+
+
+###### Article D451-101
+
+Le diplôme d'Etat d'assistant familial est structuré en domaines de compétences et peut être obtenu par la voie de la
+formation ou, en tout ou partie, par la validation des acquis de l'expérience.
+
+Le diplôme d'Etat d'assistant familial est délivré par le représentant de l'Etat dans la région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1772 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-75 (M)
+
+
+###### Article D451-102
+
+La formation préparant au diplôme d'Etat d'assistant familial s'effectue après le stage préparatoire mentionné au premier
+alinéa de l'article D. 421-27. Elle est dispensée en alternance et organisée sur une amplitude de 18 à 24 mois. 
+
+Elle se décompose en trois domaines de formation : accueil et intégration de l'enfant ou de l'adolescent dans sa famille
+d'accueil, accompagnement éducatif de l'enfant ou de l'adolescent, communication professionnelle. 
+
+Chaque domaine de compétence validé par la formation est certifié par une épreuve organisée par le représentant de l'Etat
+dans la région. 
+
+La formation préparant au diplôme d'Etat d'assistant familial est dispensée par les établissements ou services de formation
+ayant satisfait à l'obligation de déclaration préalable mentionnée à l'article L. 451-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1772 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-75 (M)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L451-1 (V)
+
+
+###### Article D451-103
+
+Le représentant de l'Etat dans la région nomme le jury du diplôme qui comprend :
+
+1° Le directeur régional des affaires sanitaires ou sociales, ou son représentant, président ;
+
+2° Des formateurs issus des établissements de formation, publics ou privés, préparant au diplôme d'Etat d'assistant
+familial ;
+
+3° Des représentants de l'Etat, des collectivités publiques, des personnes qualifiées dans le domaine de l'accueil familial
+permanent ;
+
+4° Pour un quart au moins de ses membres, des représentants des professionnels de l'accueil familial permanent pour moitié
+employeurs et pour moitié salariés.
+
+Ce jury peut, en tant que de besoin, se subdiviser en groupes d'examinateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1772 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-75 (M)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article D451-104
+
+Un arrêté du ministre chargé des affaires sociales précise les compétences professionnelles mentionnées à l'article D.
+451-100, les modalités d'accès à la formation, le contenu et l'organisation de cette formation ainsi que les modalités de
+certification du diplôme d'Etat d'assistant familial.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1772 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-100 (V)
+
+_Anciens textes_:
+
+  - Code de l'action sociale et des familles - art. D451-75 (M)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R451-2 (V)
+
+
+## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=677></a>
+
+### Titre II : Départements d'outre-mer<a id=678></a>
+
+#### Chapitre Ier : Dispositions générales<a id=679></a>
+
+##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=680></a>
 
 ###### Article R521-1
 
@@ -83433,7 +83759,7 @@ _Cite_:
   - Code de l'action sociale et des familles R312-177 à R312-189, R312-178, R312-179, R312-182, R312-186
 
 
-##### Section 2 : Dispositions budgétaires, comptables et financières<a id=680></a>
+##### Section 2 : Dispositions budgétaires, comptables et financières<a id=681></a>
 
 ###### Article R521-3
 
@@ -83465,9 +83791,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre II : Revenu minimum d'insertion<a id=681></a>
+#### Chapitre II : Revenu minimum d'insertion<a id=682></a>
 
-##### Section 1 : Allocation<a id=682></a>
+##### Section 1 : Allocation<a id=683></a>
 
 ###### Article R522-1
 
@@ -83553,7 +83879,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion<a id=683></a>
+##### Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion<a id=684></a>
 
 ###### Article R522-4
 
@@ -83656,9 +83982,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Agences d'insertion<a id=684></a>
+##### Section 3 : Agences d'insertion<a id=685></a>
 
-##### Sous-section 1 : Organisation<a id=685></a>
+##### Sous-section 1 : Organisation<a id=686></a>
 
 ###### Article R522-8
 
@@ -84207,7 +84533,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale<a id=686></a>
+##### Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale<a id=687></a>
 
 ###### Article R522-27
 
@@ -84372,7 +84698,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=687></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=688></a>
 
 ###### Article D522-35
 
@@ -84557,7 +84883,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale<a id=688></a>
+##### Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale<a id=689></a>
 
 ###### Article R522-40
 
@@ -84973,7 +85299,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L522-13
 
 
-##### Sous-section 5 : Conventions avec les organismes utilisateurs<a id=689></a>
+##### Sous-section 5 : Conventions avec les organismes utilisateurs<a id=690></a>
 
 ###### Article R522-56
 
@@ -85187,7 +85513,7 @@ _Abrogé par_:
   - Décret n°2015-1722 du 21 décembre 2015 - art. 3
 
 
-##### Section 4 : Revenu de solidarité<a id=690></a>
+##### Section 4 : Revenu de solidarité<a id=691></a>
 
 ###### Article R522-63
 
@@ -85342,9 +85668,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=691></a>
+#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=692></a>
 
-##### Section 2 : Aide à la famille<a id=692></a>
+##### Section 2 : Aide à la famille<a id=693></a>
 
 ###### Article R523-1
 
@@ -85371,11 +85697,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L228-2 (V)
 
 
-### Titre III : Saint-Pierre-et-Miquelon<a id=693></a>
+### Titre III : Saint-Pierre-et-Miquelon<a id=694></a>
 
-#### Chapitre Ier : Dispositions générales<a id=694></a>
+#### Chapitre Ier : Dispositions générales<a id=695></a>
 
-##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=695></a>
+##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=696></a>
 
 ###### Article R531-1
 
@@ -85420,7 +85746,7 @@ _Cite_:
   - Code de l'action sociale et des familles R313-1 à R313-10
 
 
-##### Section 2 : Dispositions budgétaires, comptables et financières<a id=696></a>
+##### Section 2 : Dispositions budgétaires, comptables et financières<a id=697></a>
 
 ###### Article R531-2
 
@@ -85458,7 +85784,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre II : Personnes handicapées<a id=697></a>
+#### Chapitre II : Personnes handicapées<a id=698></a>
 
 ###### Article R532-1
 
@@ -85584,7 +85910,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre IV : Adoption<a id=698></a>
+#### Chapitre IV : Adoption<a id=699></a>
 
 ###### Article R533-1
 
@@ -85619,9 +85945,9 @@ _Cite_:
   - Code de l'action sociale et des familles R225-12 à R225-45
 
 
-### Titre IV : Mayotte<a id=699></a>
+### Titre IV : Mayotte<a id=700></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=700></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=701></a>
 
 ###### Article R541-1
 
@@ -85659,7 +85985,7 @@ _Cite_:
   - Code de l'action sociale et des familles R147-1 à R147-33, L222-6, L223-7, L543-14
 
 
-#### Chapitre II : Aide sociale<a id=701></a>
+#### Chapitre II : Aide sociale<a id=702></a>
 
 ###### Article D542-2
 
@@ -85901,9 +86227,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L542-4 (T)
 
 
-#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption<a id=702></a>
+#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption<a id=703></a>
 
-##### Section 1 : Organes chargés de la tutelle<a id=703></a>
+##### Section 1 : Organes chargés de la tutelle<a id=704></a>
 
 ###### Article R544-1
 
@@ -85922,9 +86248,9 @@ _Cite_:
   - Code de l'action sociale et des familles R224-1 à R224-25
 
 
-##### Section 2 : Adoption<a id=704></a>
+##### Section 2 : Adoption<a id=705></a>
 
-##### Sous-section 1 : Adoption des pupilles de l'Etat<a id=705></a>
+##### Sous-section 1 : Adoption des pupilles de l'Etat<a id=706></a>
 
 ###### Article R544-2
 
@@ -85944,9 +86270,9 @@ _Cite_:
   - Code de l'action sociale et des familles R225-1 à R225-11
 
 
-### Titre V : Territoire des Iles Wallis et Futuna<a id=706></a>
+### Titre V : Territoire des Iles Wallis et Futuna<a id=707></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=707></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=708></a>
 
 ###### Article R551-1
 
@@ -85989,9 +86315,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-1 (V)
 
 
-### Titre VI : Polynésie française<a id=708></a>
+### Titre VI : Polynésie française<a id=709></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=709></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=710></a>
 
 ###### Article R561-1
 
@@ -86028,9 +86354,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-25 (V)
 
 
-### Titre VII : Nouvelle-Calédonie<a id=710></a>
+### Titre VII : Nouvelle-Calédonie<a id=711></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=711></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=712></a>
 
 ###### Article R571-1
 
@@ -86067,7 +86393,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-25 (VT)
 
 
-# Annexe<a id=712></a>
+# Annexe<a id=713></a>
 
 ###### Article Annexe 2-4
 
