@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-02-08
+Version Consolidée au 2006-02-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -513,14 +513,14 @@ Version Consolidée au 2006-02-08
               - [Paragraphe 5 : Dissolution et liquidation (art. R312-194-24 à R312-194-25)](#510)
           - [Section 5 : Evaluation et systèmes d'information (art. R312-195 à R312-202)](#511)
             - [Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale. (art. R312-195 à R312-202)](#512)
-        - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. R313-1 à D313-27)](#513)
+        - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. R313-1 à R313-27)](#513)
           - [Section 1 : Autorisation de création, d'extension ou de transformation (art. R313-1 à D313-14)](#514)
             - [Sous-section 1 : Dispositions générales. (art. R313-1 à R313-10)](#515)
             - [Sous-section 2 : Contrôle de conformité des établissements. (art. D313-11 à D313-14)](#516)
           - [Section 3 : Contrats ou conventions pluriannuels (art. D313-15 à D313-24)](#517)
             - [Sous-section 1 : Modalités de tarification des établissements mentionnés au I de l'article L. 313-12. (art. D313-15)](#518)
             - [Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12. (art. D313-16 à D313-24)](#519)
-          - [Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux. (art. D313-25 à D313-27)](#520)
+          - [Section 4 : Contrôle (art. D313-28 à R313-27)](#520)
         - [Chapitre IV : Dispositions financières (art. R314-1 à R314-204)](#521)
           - [Section 1 : Règles de compétences en matière tarifaire. (art. R314-3)](#522)
           - [Section 2 : Règles budgétaires de financement (art. R314-4 à R314-203)](#523)
@@ -65533,9 +65533,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L342-1 (M)
 
 
-##### Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux.<a id=520></a>
+##### Section 4 : Contrôle<a id=520></a>
 
-###### Article D313-25
+###### Article D313-28
 
 En cas de fermeture définitive d'un établissement ou d'un service social ou médico-social relevant du I de l'article L. 312-1
 en application du titre III et de la section 4 du chapitre III du titre Ier du livre III du code de l'action sociale et des
@@ -65560,29 +65560,26 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
-
-_Transféré par_:
-
   - Décret n°2006-169 du 10 février 2006 - art. 1 () JORF 17 février 2006
 
 _Cite_:
 
-  - Code de commerce. - art. L621-24 (M)
-  - Code de commerce. - art. L621-40 (M)
-  - Code de l'action sociale et des familles - art. L312-1 (M)
-  - Code de l'action sociale et des familles - art. L313-19 (M)
+  - Code de commerce - art. L621-24 (T)
+  - Code de commerce - art. L621-40 (T)
+  - Code de l'action sociale et des familles - art. L313-1 (V)
+  - Code de l'action sociale et des familles - art. L313-19 (V)
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D313-17 (T)
+  - Code de l'action sociale et des familles - art. D313-25 (T)
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code de l'action sociale et des familles - art. D313-28 (V)
+  - Code de l'action sociale et des familles - art. D313-29 (V)
+  - Code de l'action sociale et des familles - art. D313-30 (V)
 
 
-###### Article D313-26
+###### Article D313-29
 
 Pour les centres d'aide par le travail, les excédents d'exploitation du budget annexe de production et de commercialisation
 affectés à l'investissement en application du deuxième alinéa de l'article R. 314-129 sont reversés et revalorisés selon les
@@ -65596,10 +65593,6 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
-
-_Transféré par_:
-
   - Décret n°2006-169 du 10 février 2006 - art. 1 () JORF 17 février 2006
 
 _Cite_:
@@ -65609,14 +65602,10 @@ _Cite_:
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D313-18 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. D313-29 (V)
+  - Code de l'action sociale et des familles - art. D313-26 (T)
 
 
-###### Article D313-27
+###### Article D313-30
 
 Pour les centres d'hébergement et de réinsertion sociale, les excédents d'exploitation du budget annexe de production et de
 commercialisation liés aux actions d'adaptation à la vie active affectés à l'investissement en application de l'avant-dernier
@@ -65631,10 +65620,6 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
-
-_Transféré par_:
-
   - Décret n°2006-169 du 10 février 2006 - art. 1 () JORF 17 février 2006
 
 _Cite_:
@@ -65644,11 +65629,102 @@ _Cite_:
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. D313-19 (T)
+  - Code de l'action sociale et des familles - art. D313-27 (T)
 
-_Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. D313-30 (V)
+###### Article R313-25
+
+Pour l'application du troisième alinéa de l'article L. 313-13, les inspecteurs de l'action sanitaire et sociale doivent,
+devant le tribunal de grande instance dans le ressort duquel se trouve leur résidence administrative, prêter le serment
+suivant : " Je jure et promets de bien et loyalement remplir mes fonctions et d'observer, en tout, les devoirs qu'elles
+m'imposent. Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de
+l'exercice de mes fonctions ". 
+
+Mention de cette prestation de serment est portée sur leur carte professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-169 du 10 février 2006 - art. 1 () JORF 17 février 2006
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. D316-4 (V)
+  - Code de l'action sociale et des familles - art. R314-62 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L313-13 (V)
+
+
+###### Article R313-26
+
+Dans le cadre des contrôles diligentés en application des articles mentionnés au dernier alinéa de l'article L. 313-13, les
+inspecteurs de l'action sanitaire et sociale assermentés peuvent procéder, sur autorisation judiciaire préalable, à la saisie
+de tout document, objet ou produit.
+
+Le président du tribunal de grande instance dans le ressort duquel est situé l'établissement ou le service concerné statue
+selon la procédure d'ordonnances sur requête prévue aux articles 493 à 498 du nouveau code de procédure civile.
+
+L'ordonnance fixe une durée à l'issue de laquelle les mesures ordonnées sont caduques. Cette durée ne peut excéder deux mois.
+
+Sauf impossibilité dûment constatée dans le rapport établi à la suite du contrôle, les documents, objets ou produits sont
+saisis en présence du responsable de l'établissement ou du service concerné ou de la personne habilitée à le représenter et,
+le cas échéant, en présence de la personne à laquelle ils appartiennent. Ils sont immédiatement inventoriés. L'inventaire
+comportant une description précise est signé des parties en cause et annexé au rapport établi à la suite du contrôle. Le
+refus de signer est mentionné dans le rapport et l'inventaire. Toute mesure conservatoire est prise en tant que de besoin.
+Dans un délai de cinq jours suivant sa clôture, le rapport et son annexe, dressés en trois exemplaires, sont transmis au
+préfet. Dans ce même délai, une copie est transmise par lettre recommandée avec accusé de réception à l'organisme
+gestionnaire ainsi qu'au responsable de l'établissement ou du service concerné, à la personne habilitée à le représenter, le
+cas échéant à la personne à laquelle appartiennent les documents, objets ou produits saisis ainsi qu'au président du conseil
+général s'il a seul ou conjointement délivré l'autorisation.
+
+Le président du tribunal de grande instance est saisi sur simple requête de toute difficulté relative aux opérations de
+saisie.
+
+La mainlevée de la saisie peut être ordonnée par le président du tribunal de grande instance saisi par simple requête de
+l'inspecteur de l'action sanitaire et sociale, du responsable de l'établissement, du service concerné ou de la personne à
+laquelle appartiennent les documents, objets ou produits saisis. Il statue, les parties entendues ou appelées. La décision
+est susceptible d'appel devant le premier président de la cour d'appel dans un délai de quinze jours à compter de sa
+notification.
+
+Pour l'application du présent article, les parties sont dispensées du ministère d'avocat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-169 du 10 février 2006 - art. 1 () JORF 17 février 2006
+
+
+###### Article R313-27
+
+Pour les besoins de la saisie, les inspecteurs de l'action sanitaire et sociale ont accès, dans les conditions prévues à
+l'article L. 331-3, aux locaux affectés à l'activité sociale ou médico-sociale de l'établissement ou du service, à
+l'exception de ceux qui tiennent lieu, en totalité ou en partie, de domicile aux personnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-169 du 10 février 2006 - art. 1 () JORF 17 février 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L331-3 (V)
 
 
 #### Chapitre IV : Dispositions financières<a id=521></a>
