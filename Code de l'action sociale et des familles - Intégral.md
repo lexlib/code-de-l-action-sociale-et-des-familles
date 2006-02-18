@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-02-17
+Version Consolidée au 2006-02-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -569,7 +569,7 @@ Version Consolidée au 2006-02-17
               - [Paragraphe 3 : Etablissements et services accueillant des mineurs ou des majeurs de moins de vingt et un ans confiés par l'autorité judiciaire. (art. R314-125 à R314-127)](#566)
               - [Paragraphe 4 : Centres d'aide par le travail. (art. R314-128 à R314-129)](#567)
               - [Paragraphe 5 : Services d'aide à domicile. (art. R314-130 à R314-136)](#568)
-              - [Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes. (art. R314-137 à R314-139)](#569)
+              - [Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes. (art. R314-137 à R314-138)](#569)
               - [Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées. (art. R314-140 à R314-146)](#570)
               - [Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés. (art. R314-147 à R314-149)](#571)
               - [Paragraphe 9 : Centres d'hébergement et de réinsertion sociale. (art. R314-150 à R314-157)](#572)
@@ -65415,38 +65415,6 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-12 (M)
 
 
-###### Article D313-21
-
-Le montant du forfait journalier alloué à un service de soins infirmiers à domicile mentionné au 2° de l'article D. 313-17,
-pour les prestations qu'il délivre auprès des résidents des établissements relevant du II de l'article L. 313-12, est arrêté
-par le préfet de département dans une limite, fixée par arrêté des ministres chargés de l'action sociale et de la sécurité
-sociale, qui ne peut être inférieure à 50 % du montant du plafond fixé par l'arrêté mentionné à l'article R. 314-139.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Créé par_:
-
-  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
-
-_Abrogé par_:
-
-  - Décret n°2006-181 du 17 février 2006 - art. 3 (V) JORF 19 février 2006
-
-_Cité par_:
-
-  - Décret n°2006-181 du 17 février 2006 - art. 3 (V)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. D313-17 (T)
-  - Code de l'action sociale et des familles - art. L313-12 (M)
-  - Code de l'action sociale et des familles - art. R314-139 (Ab)
-
-
 ###### Article D313-22
 
 Pour les établissements qui relèvent des dispositions des 1° et 2° de l'article D. 313-17, à l'exception des établissements
@@ -69775,10 +69743,11 @@ dispositions du paragraphe 10 de la sous-section 4, de la présente section, et 
 dotation globale, versée dans les conditions fixées par les articles R. 174-9 à R. 174-16 du code de la sécurité sociale ;
 
 2° Pour les services d'aide à domicile ne dispensant pas de soins, par le département, sous la forme de tarifs horaires
-établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section  ;
+établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section ;
 
-3° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'un forfait annuel global de
-soins établi et versé dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section  ;
+3° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'une dotation globale établie
+dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section et versée dans les conditions fixées
+aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
 
 4° Pour les établissements relevant de l'article 5 de la loi n° 2001-647 du 20 juillet 2001 relative à la prise en charge de
 la perte d'autonomie et à l'allocation personnalisée d'autonomie, par l'assurance maladie sous la forme d'un forfait global
@@ -69800,8 +69769,9 @@ pour les dépenses afférentes aux soins médicaux, en vertu des articles L. 174
 sociale, sous la forme d'un forfait journalier établi et versé dans les conditions fixées aux articles R. 314-142 et R.
 314-143 ;
 
-3° Pour les services d'aide à domicile ne dispensant pas de soins, par le département, sous la forme de tarifs horaires
-établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section  ;
+3° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'une dotation globale établie
+dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section et versée dans les conditions fixées
+aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
 
 4° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'un forfait annuel global de
 soins établi et versé dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section  ;
@@ -69904,7 +69874,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1589 du 19 décembre 2005 - art. 2 () JORF 20 décembre 2005
+  - Décret n°2006-181 du 17 février 2006 - art. 1 () JORF 19 février 2006
 
 _Cité par_:
 
@@ -70956,7 +70926,7 @@ _Cité par_:
 ###### Article R314-137
 
 Les dépenses afférentes aux soins dispensés à domicile aux assurés sociaux par un service relevant du 6° ou du 7° du I de
-l'article L. 312-1 font l'objet d'un forfait global de soins versé dans les conditions fixées au sous-paragraphe 2 du
+l'article L. 312-1 font l'objet d'une dotation globale de soins versée dans les conditions fixées au sous-paragraphe 2 du
 paragraphe 2 de la sous-section 3 de la présente section.
 
 **Liens relatifs à cet article**
@@ -70970,9 +70940,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-181 du 17 février 2006 - art. 1 () JORF 19 février 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L312-1 (M)
+  - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
 ###### Article R314-138
@@ -71013,35 +70987,6 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-130 (V)
   - Code de l'action sociale et des familles - art. R314-168 (V)
   - Code de l'action sociale et des familles - art. R314-26 (V)
-
-
-###### Article R314-139
-
-Pour la fixation du forfait global annuel de soins, le préfet de département établit, dans les limites d'un montant fixé par
-arrêté des ministres chargé de la sécurité sociale et de l'action sociale, le montant d'un forfait journalier afférent aux
-soins.
-
-Le forfait annuel global de soins est égal au forfait journalier multiplié par le nombre prévisionnel de journées du service.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1010 2003-10-22 art. 144
-  - Décret n°2003-1010 du 22 octobre 2003 - art. 144 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2006-181 du 17 février 2006 - art. 3 (V) JORF 19 février 2006
-
-_Cité par_:
-
-  - Décret n°2006-181 du 17 février 2006 - art. 3 (V)
-  - Code de l'action sociale et des familles - art. D313-21 (Ab)
 
 
 ##### Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées.<a id=570></a>
