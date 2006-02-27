@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-02-19
+Version Consolidée au 2006-02-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -627,99 +627,93 @@ Version Consolidée au 2006-02-19
         - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. R346-1)](#624)
       - [Titre V : Contentieux de la tarification sanitaire et sociale (art. R351-1 à R351-41)](#625)
         - [Chapitre unique (art. R351-1 à R351-41)](#626)
-          - [Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale (art. R351-1 à R351-14)](#627)
-            - [Sous-section 1 : Cour nationale de la tarification sanitaire et sociale. (art. R351-1 à R351-6)](#628)
-            - [Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale. (art. R351-7 à R351-14)](#629)
-          - [Section 2 : Règles de procédures applicables (art. R351-15 à R351-40)](#630)
-            - [Sous-section 1 : Introduction des recours. (art. R351-15 à R351-19)](#631)
-            - [Sous-section 2 : Instruction des recours et clôture de l'instruction. (art. R351-20 à R351-28)](#632)
-            - [Sous-section 3 : Séance de jugement et notification. (art. R351-29 à R351-37)](#633)
-            - [Sous-section 4 : Voies de recours. (art. R351-38 à R351-40)](#634)
-          - [Section 3 : Dispositions diverses. (art. R351-41)](#635)
-    - [Livre IV : Professions et activités d'accueil (art. R411-1 à D451-104)](#636)
-      - [Titre Ier : Assistants de service social (art. R411-1 à R411-3)](#637)
-        - [Chapitre unique. (art. R411-1 à R411-3)](#638)
-      - [Titre II : Assistants maternels (art. R421-1 à R422-21)](#639)
-        - [Chapitre Ier : Dispositions générales (art. R421-1 à R421-29)](#640)
-          - [Section 1 : Procédures d'agrément (art. R421-1 à R421-22)](#641)
-            - [Sous-section 1 : Conditions et modalités de délivrance de l'agrément. (art. R421-1 à R421-9)](#642)
-            - [Sous-section 2 : Renouvellement, suspension et retrait de l'agrément. (art. R421-10 à R421-13)](#643)
-            - [Sous-section 3 : Commission consultative paritaire départementale. (art. R421-14 à R421-22)](#644)
-          - [Section 2 : Modalités particulières relatives à l'activité. (art. R421-23 à R421-26)](#645)
-          - [Section 3 : Formation des assistants maternels. (art. D421-27)](#646)
-          - [Section 4 : Dispositions pénales. (art. R421-28 à R421-29)](#647)
-        - [Chapitre II : Assistants maternels employés par des personnes morales de droit public (art. R422-1 à R422-21)](#648)
-          - [Section 1 : Modalités de recrutement et conditions d'emploi. (art. D422-6 à R422-5)](#649)
-          - [Section 2 : Congés. (art. R422-8 à R422-19)](#650)
-          - [Section 3 : Discipline. (art. R422-20)](#651)
-          - [Section 4 : Licenciement. (art. R422-21)](#652)
-      - [Titre III : Autres professions (art. D431-1 à D431-3)](#653)
-        - [Chapitre unique : Techniciens de l'intervention sociale et familiale (art. D431-1 à D431-3)](#654)
-          - [Section unique : Exercice de la profession. (art. D431-1 à D431-3)](#655)
-      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. R441-1 à R442-1)](#656)
-        - [Chapitre Ier : Accueillants familiaux et modalités d'agrément (art. R441-1 à R441-15)](#657)
-          - [Section 1 : Modalités et délai d'instruction de la demande d'agrément. (art. R441-1 à R441-10)](#658)
-          - [Section 2 : Commission consultative de retrait. (art. R441-11 à R441-15)](#659)
-        - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial (art. D442-2 à R442-1)](#660)
-      - [Titre V : Formation des travailleurs sociaux (art. D451-5 à D451-104)](#661)
-        - [Chapitre unique : Dispositions générales (art. D451-5 à D451-104)](#662)
-          - [Section 1 : Etablissements de formation. (art. D451-5 à R451-4-3)](#663)
-          - [Section 2 : Bourses d'études. (art. D451-7)](#664)
-          - [Section 3 : Formations et diplômes (art. R451-11 à D451-104)](#665)
-            - [Sous-section 1 : Formations supérieures et diplômes d'encadrement (art. R451-11 à R451-28)](#666)
-              - [Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale. (art. R451-11 à R451-16)](#667)
-              - [Paragraphe 2 : Diplôme supérieur en travail social. (art. D451-17 à D451-19)](#668)
-              - [Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale. (art. R451-20 à R451-28)](#669)
-            - [Sous-section 2 : Formations et diplômes professionnels d'intervention sociale (art. D451-29 à D451-104)](#670)
-              - [Paragraphe 1 : Diplôme d'Etat d'assistant de service social. (art. D451-29 à R451-37)](#671)
-              - [Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé. (art. D451-41 à D451-46)](#672)
-              - [Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants. (art. D451-47 à D451-51)](#673)
-              - [Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé. (art. D451-52 à D451-56)](#674)
-              - [Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale. (art. D451-57)](#675)
-              - [Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation. (art. D451-58 à D451-65)](#676)
-              - [Paragraphe 7 : Diplôme d'Etat de médiateur familial. (art. R451-66 à R451-72)](#677)
-              - [Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur. (art. D451-73 à D451-80)](#678)
-              - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale. (art. D451-81 à D451-87)](#679)
-              - [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale. (art. R451-88 à R451-93)](#680)
-              - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique. (art. R451-94)](#681)
-              - [Paragraphe 12 : Diplôme d'Etat d'assistant familial (art. D451-100 à D451-104)](#682)
-    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. R521-1 à R571-1)](#683)
-      - [Titre II : Départements d'outre-mer (art. R521-1 à R523-1)](#684)
-        - [Chapitre Ier : Dispositions générales (art. R521-1 à R521-3)](#685)
-          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R521-1 à R521-2)](#686)
-          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R521-3)](#687)
-        - [Chapitre II : Revenu minimum d'insertion (art. R522-1 à R522-68)](#688)
-          - [Section 1 : Allocation (art. R522-1 à R522-3)](#689)
-          - [Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion (art. R522-4 à R522-7)](#690)
-          - [Section 3 : Agences d'insertion (art. R522-8 à R522-62)](#691)
-            - [Sous-section 1 : Organisation (art. R522-8 à R522-26)](#692)
-            - [Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale (art. R522-27 à R522-32)](#693)
-            - [Sous-section 3 : Dispositions financières et comptables (art. D522-35 à R522-39)](#694)
-            - [Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale (art. R522-40 à R522-55)](#695)
-            - [Sous-section 5 : Conventions avec les organismes utilisateurs (art. R522-56 à R522-62)](#696)
-          - [Section 4 : Revenu de solidarité (art. R522-63 à R522-68)](#697)
-        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. R523-1)](#698)
-          - [Section 2 : Aide à la famille (art. R523-1)](#699)
-      - [Titre III : Saint-Pierre-et-Miquelon (art. R531-1 à R533-1)](#700)
-        - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#701)
-          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R531-1)](#702)
-          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R531-2)](#703)
-        - [Chapitre II : Personnes handicapées (art. R532-1 à R532-5)](#704)
-        - [Chapitre IV : Adoption (art. R533-1)](#705)
-      - [Titre IV : Mayotte (art. R541-1 à R544-2)](#706)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R541-1)](#707)
-        - [Chapitre II : Aide sociale (art. D542-2 à R542-1)](#708)
-        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption (art. R544-1 à R544-2)](#709)
-          - [Section 1 : Organes chargés de la tutelle (art. R544-1)](#710)
-          - [Section 2 : Adoption (art. R544-2)](#711)
-            - [Sous-section 1 : Adoption des pupilles de l'Etat (art. R544-2)](#712)
-      - [Titre V : Territoire des Iles Wallis et Futuna (art. R551-1)](#713)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R551-1)](#714)
-      - [Titre VI : Polynésie française (art. R561-1)](#715)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R561-1)](#716)
-      - [Titre VII : Nouvelle-Calédonie (art. R571-1)](#717)
-        - [Chapitre Ier : Accès aux origines personnelles (art. R571-1)](#718)
-  - [Annexe (art. Annexe 2-4 à Annexe 4-1)](#719)
+          - [Section 1 : Tribunaux interrégionaux de la tarification sanitaire et sociale. (art. R351-1 à R351-7)](#627)
+          - [Section 2 : Cour nationale de la tarification sanitaire et sociale. (art. R351-8 à R351-14)](#628)
+          - [Section 3 : Dispositions procédurales applicables à la juridiction de la tarification sanitaire et sociale. (art. R351-15 à R351-41)](#629)
+    - [Livre IV : Professions et activités d'accueil (art. R411-1 à D451-104)](#630)
+      - [Titre Ier : Assistants de service social (art. R411-1 à R411-3)](#631)
+        - [Chapitre unique. (art. R411-1 à R411-3)](#632)
+      - [Titre II : Assistants maternels (art. R421-1 à R422-21)](#633)
+        - [Chapitre Ier : Dispositions générales (art. R421-1 à R421-29)](#634)
+          - [Section 1 : Procédures d'agrément (art. R421-1 à R421-22)](#635)
+            - [Sous-section 1 : Conditions et modalités de délivrance de l'agrément. (art. R421-1 à R421-9)](#636)
+            - [Sous-section 2 : Renouvellement, suspension et retrait de l'agrément. (art. R421-10 à R421-13)](#637)
+            - [Sous-section 3 : Commission consultative paritaire départementale. (art. R421-14 à R421-22)](#638)
+          - [Section 2 : Modalités particulières relatives à l'activité. (art. R421-23 à R421-26)](#639)
+          - [Section 3 : Formation des assistants maternels. (art. D421-27)](#640)
+          - [Section 4 : Dispositions pénales. (art. R421-28 à R421-29)](#641)
+        - [Chapitre II : Assistants maternels employés par des personnes morales de droit public (art. R422-1 à R422-21)](#642)
+          - [Section 1 : Modalités de recrutement et conditions d'emploi. (art. D422-6 à R422-5)](#643)
+          - [Section 2 : Congés. (art. R422-8 à R422-19)](#644)
+          - [Section 3 : Discipline. (art. R422-20)](#645)
+          - [Section 4 : Licenciement. (art. R422-21)](#646)
+      - [Titre III : Autres professions (art. D431-1 à D431-3)](#647)
+        - [Chapitre unique : Techniciens de l'intervention sociale et familiale (art. D431-1 à D431-3)](#648)
+          - [Section unique : Exercice de la profession. (art. D431-1 à D431-3)](#649)
+      - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées (art. R441-1 à R442-1)](#650)
+        - [Chapitre Ier : Accueillants familiaux et modalités d'agrément (art. R441-1 à R441-15)](#651)
+          - [Section 1 : Modalités et délai d'instruction de la demande d'agrément. (art. R441-1 à R441-10)](#652)
+          - [Section 2 : Commission consultative de retrait. (art. R441-11 à R441-15)](#653)
+        - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial (art. D442-2 à R442-1)](#654)
+      - [Titre V : Formation des travailleurs sociaux (art. D451-5 à D451-104)](#655)
+        - [Chapitre unique : Dispositions générales (art. D451-5 à D451-104)](#656)
+          - [Section 1 : Etablissements de formation. (art. D451-5 à R451-4-3)](#657)
+          - [Section 2 : Bourses d'études. (art. D451-7)](#658)
+          - [Section 3 : Formations et diplômes (art. R451-11 à D451-104)](#659)
+            - [Sous-section 1 : Formations supérieures et diplômes d'encadrement (art. R451-11 à R451-28)](#660)
+              - [Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale. (art. R451-11 à R451-16)](#661)
+              - [Paragraphe 2 : Diplôme supérieur en travail social. (art. D451-17 à D451-19)](#662)
+              - [Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale. (art. R451-20 à R451-28)](#663)
+            - [Sous-section 2 : Formations et diplômes professionnels d'intervention sociale (art. D451-29 à D451-104)](#664)
+              - [Paragraphe 1 : Diplôme d'Etat d'assistant de service social. (art. D451-29 à R451-37)](#665)
+              - [Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé. (art. D451-41 à D451-46)](#666)
+              - [Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants. (art. D451-47 à D451-51)](#667)
+              - [Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé. (art. D451-52 à D451-56)](#668)
+              - [Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale. (art. D451-57)](#669)
+              - [Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation. (art. D451-58 à D451-65)](#670)
+              - [Paragraphe 7 : Diplôme d'Etat de médiateur familial. (art. R451-66 à R451-72)](#671)
+              - [Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur. (art. D451-73 à D451-80)](#672)
+              - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale. (art. D451-81 à D451-87)](#673)
+              - [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale. (art. R451-88 à R451-93)](#674)
+              - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique. (art. R451-94)](#675)
+              - [Paragraphe 12 : Diplôme d'Etat d'assistant familial (art. D451-100 à D451-104)](#676)
+    - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. R521-1 à R571-1)](#677)
+      - [Titre II : Départements d'outre-mer (art. R521-1 à R523-1)](#678)
+        - [Chapitre Ier : Dispositions générales (art. R521-1 à R521-3)](#679)
+          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R521-1 à R521-2)](#680)
+          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R521-3)](#681)
+        - [Chapitre II : Revenu minimum d'insertion (art. R522-1 à R522-68)](#682)
+          - [Section 1 : Allocation (art. R522-1 à R522-3)](#683)
+          - [Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion (art. R522-4 à R522-7)](#684)
+          - [Section 3 : Agences d'insertion (art. R522-8 à R522-62)](#685)
+            - [Sous-section 1 : Organisation (art. R522-8 à R522-26)](#686)
+            - [Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale (art. R522-27 à R522-32)](#687)
+            - [Sous-section 3 : Dispositions financières et comptables (art. D522-35 à R522-39)](#688)
+            - [Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale (art. R522-40 à R522-55)](#689)
+            - [Sous-section 5 : Conventions avec les organismes utilisateurs (art. R522-56 à R522-62)](#690)
+          - [Section 4 : Revenu de solidarité (art. R522-63 à R522-68)](#691)
+        - [Chapitre III : Aide sociale à la famille et à l'enfance (art. R523-1)](#692)
+          - [Section 2 : Aide à la famille (art. R523-1)](#693)
+      - [Titre III : Saint-Pierre-et-Miquelon (art. R531-1 à R533-1)](#694)
+        - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#695)
+          - [Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux (art. R531-1)](#696)
+          - [Section 2 : Dispositions budgétaires, comptables et financières (art. R531-2)](#697)
+        - [Chapitre II : Personnes handicapées (art. R532-1 à R532-5)](#698)
+        - [Chapitre IV : Adoption (art. R533-1)](#699)
+      - [Titre IV : Mayotte (art. R541-1 à R544-2)](#700)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R541-1)](#701)
+        - [Chapitre II : Aide sociale (art. D542-2 à R542-1)](#702)
+        - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption (art. R544-1 à R544-2)](#703)
+          - [Section 1 : Organes chargés de la tutelle (art. R544-1)](#704)
+          - [Section 2 : Adoption (art. R544-2)](#705)
+            - [Sous-section 1 : Adoption des pupilles de l'Etat (art. R544-2)](#706)
+      - [Titre V : Territoire des Iles Wallis et Futuna (art. R551-1)](#707)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R551-1)](#708)
+      - [Titre VI : Polynésie française (art. R561-1)](#709)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R561-1)](#710)
+      - [Titre VII : Nouvelle-Calédonie (art. R571-1)](#711)
+        - [Chapitre Ier : Accès aux origines personnelles (art. R571-1)](#712)
+  - [Annexe (art. Annexe 2-4 à Annexe 4-1)](#713)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales<a id=2></a>
@@ -67541,20 +67535,19 @@ _Cite_:
 ###### Article R314-63
 
 Les décisions du juge du tarif ayant autorité de chose jugée sont mises en oeuvre lors de l'exercice au cours duquel elles
-sont notifiées à l'autorité de tarification, par une décision budgétaire modificative.
+sont notifiées à l'autorité de tarification, par une décision budgétaire modificative. 
 
 Lorsqu'une décision du juge du tarif passée en force de chose jugée fixe, ou entraîne nécessairement, une modification du
-tarif pour un exercice déjà clos, l'exécution de la décision peut, avec l'accord ou à la demande de l'établissement ou du
-service, et si l'autorité de tarification compétente pour exécuter la décision est la même que l'autorité de tarification
-compétente pour fixer le tarif de l'exercice en cours, faire l'objet de modalités comptables et financières simplifiées :
+tarif pour un exercice déjà clos, l'exécution de la décision fait l'objet, en application de l'article L. 351-6, des
+modalités comptables et financières suivantes : 
 
 1° Les dépenses approuvées de l'exercice sont abondées ou minorées du montant correspondant, respectivement, aux dépenses
-rétablies ou supprimées par le juge du tarif ;
+rétablies ou supprimées par le juge du tarif ; 
 
 2° Lorsque ces dépenses doivent être couvertes par le tarif, les recettes tarifaires de l'exercice sont abondées ou minorées
 pour un montant identique, et font l'objet, soit d'un versement ou d'un reversement, soit d'une majoration ou d'une
 minoration tarifaire. Tout paiement de sommes supplémentaires tient compte, le cas échéant, des avances déjà versées au même
-titre par l'autorité de tarification.
+titre par l'autorité de tarification ainsi que des reprises et des affectations des résultats opérées depuis le recours ; 
 
 3° Le résultat comptable de l'exercice tient compte de cette variation de recettes.
 
@@ -67568,6 +67561,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 4 () JORF 28 février 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L351-6 (V)
 
 _Cité par_:
 
@@ -77304,17 +77305,13 @@ _Codifié par_:
 
 #### Chapitre unique<a id=626></a>
 
-##### Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale<a id=627></a>
-
-##### Sous-section 1 : Cour nationale de la tarification sanitaire et sociale.<a id=628></a>
+##### Section 1 : Tribunaux interrégionaux de la tarification sanitaire et sociale.<a id=627></a>
 
 ###### Article R351-1
 
-Les membres de la Cour mentionnés aux 2° , 9° , 10° et 11° de l'article L. 351-5 sont nommés sur proposition des associations
-et organismes intéressés. Un membre suppléant est nommé en même temps que le membre titulaire et dans les mêmes conditions.
-Il remplace le titulaire en cas d'empêchement de celui-ci et lui succède si le titulaire cesse ses fonctions pour quelque
-cause que ce soit. Si le poste de suppléant devient à son tour vacant, il est pourvu à la vacance dans les conditions prévues
-au dernier alinéa de l'article L. 351-5.
+Le tribunal interrégional compétent pour connaître des recours dirigés contre les décisions mentionnées au VI de l'article L.
+314-1 et aux articles L. 314-9 et L. 351-1 est celui dans le ressort duquel est situé l'établissement ou le service dont la
+tarification ou le classement global des résidents par niveau de dépendance est contesté.
 
 **Liens relatifs à cet article**
 
@@ -77327,9 +77324,15 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L351-5 (M)
+  - Code de l'action sociale et des familles - art. L314-1 (V)
+  - Code de l'action sociale et des familles - art. L314-9 (V)
+  - Code de l'action sociale et des familles - art. L351-1 (V)
 
 _Cité par_:
 
@@ -77338,8 +77341,18 @@ _Cité par_:
 
 ###### Article R351-2
 
-La nomination des membres mentionnés à l'article R. 351-1 ainsi que celle des conseillers d'Etat est faite pour une période
-de six ans renouvelable qui court à compter de la publication de l'arrêté de nomination.
+Le siège et le ressort des tribunaux interrégionaux de la tarification sanitaire et sociale institués par l'article L. 351-1
+sont ainsi fixés : 
+
+Bordeaux : Aquitaine, Languedoc-Roussillon, Limousin, Midi-Pyrénées, Poitou-Charentes ; 
+
+Lyon : Auvergne, Corse, Provence-Alpes-Côte d'Azur, Rhône-Alpes ; 
+
+Nancy : Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine, Nord-Pas-de-Calais, Picardie ; 
+
+Nantes : Basse-Normandie, Bretagne, Centre, Haute-Normandie, Pays de la Loire, Saint-Pierre-et-Miquelon ; 
+
+Paris : Ile-de-France, Guadeloupe, Guyane, Martinique, Réunion.
 
 **Liens relatifs à cet article**
 
@@ -77352,9 +77365,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R351-1 (M)
+  - Code de l'action sociale et des familles - art. L351-1 (V)
 
 _Cité par_:
 
@@ -77363,11 +77380,11 @@ _Cité par_:
 
 ###### Article R351-3
 
-Les membres mentionnés aux 2° , 3° , 9° , 10° et 11° de l'article L. 351-5 qui perdent la qualité à raison de laquelle ils
-ont été nommés sont immédiatement remplacés.
+Les membres appelés à siéger aux tribunaux interrégionaux de la tarification sanitaire et sociale au titre du 1° de l'article
+L. 351-2 sont nommés par le président de la cour administrative d'appel du siège du tribunal au sein d'une liste comportant
+au moins huit noms établie par le préfet de région de ce siège. 
 
-Le remplaçant de toute personne qui cesse d'être membre de la Cour demeure en fonctions pour la durée restant à courir du
-mandat de son prédécesseur.
+Cette nomination intervient après avis du président du tribunal interrégional de la tarification sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -77380,9 +77397,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L351-5 (M)
+  - Code de l'action sociale et des familles - art. L351-2 (V)
 
 _Cité par_:
 
@@ -77391,14 +77412,20 @@ _Cité par_:
 
 ###### Article R351-4
 
-La Cour siège soit en formation plénière, soit en formation ordinaire.
+Les membres appelés à siéger aux tribunaux interrégionaux de la tarification sanitaire et sociale au titre des 2° et 3° de
+l'article L. 351-2 sont nommés par le président de la cour administrative d'appel du siège du tribunal au sein de listes
+comportant chacune au moins quatre noms, proposées respectivement par le président du comité régional de l'organisation
+sociale et médico-sociale et par le président du comité régional de l'organisation sanitaire du siège du tribunal au nom des
+collèges mentionnés aux 2° et 3° de l'article L. 351-2.
 
-La formation plénière comprend tous les membres prévus à l'article L. 351-5. Elle est présidée par le président de la section
-sociale du Conseil d'Etat ou, en cas d'empêchement, par l'un des conseillers d'Etat mentionnés au 1° de l'article L. 351-5.
+Ces collèges sont réunis à la demande du président du tribunal interrégional de la tarification sanitaire et sociale dans le
+délai d'un mois au moins avant la date de renouvellement du mandat des membres du tribunal. Ils délibèrent des candidatures
+déposées auprès des présidents des comités régionaux et communiquées aux membres de ces collèges cinq jours au moins avant la
+date de la réunion. Il est, le cas échéant, procédé par vote des membres présents au scrutin uninominal majoritaire sur
+chacune des candidatures présentées. Le vote est secret.
 
-La formation ordinaire est présidée par l'un des deux conseillers d'Etat mentionnés au 1° de l'article L. 351-5 et comprend
-les membres énumérés du 2° au 11° de cet article. Cette formation ou son président peuvent renvoyer toute affaire à la
-formation plénière.
+La nomination des personnalités retenues intervient après avis du président du tribunal interrégional de la tarification
+sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -77411,9 +77438,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L351-5 (M)
+  - Code de l'action sociale et des familles - art. L351-2 (M)
 
 _Cité par_:
 
@@ -77422,16 +77453,13 @@ _Cité par_:
 
 ###### Article R351-5
 
-Les commissaires du Gouvernement sont désignés par le ou les ministres chargés de la sécurité sociale, de la santé et de
-l'action sociale parmi les membres du Conseil d'Etat, de la Cour des comptes, des tribunaux administratifs et des cours
-administratives d'appel.
+Si, avant l'expiration de son mandat, l'un des membres titulaires d'un tribunal interrégional de tarification sanitaire et
+sociale démissionne ou se trouve dans l'impossibilité d'exercer son mandat ou s'il cesse de remplir les conditions requises
+pour exercer ses fonctions, il est remplacé par un membre suppléant.
 
-Les rapporteurs peuvent être soit des membres de la Cour nationale, soit des membres des corps mentionnés au premier alinéa,
-soit des fonctionnaires de catégorie A, en activité ou honoraires, désignés par arrêté du ou des ministres chargés de la
-sécurité sociale, de la santé et de l'action sociale.
-
-Les désignations sont faites après accord, selon le cas, du vice-président du Conseil d'Etat, du premier président de la Cour
-des comptes, du président de la juridiction ou de l'autorité dont relève l'intéressé.
+Au cas où pour l'une des causes mentionnées ci-dessus aucun suppléant n'est en mesure d'exercer ce mandat, il est procédé à
+une désignation complémentaire d'un titulaire et d'un suppléant dans le délai de deux mois selon la procédure prévue aux
+articles R. 351-3 et R. 351-4. Dans ce cas, les listes présentées doivent comporter au moins quatre noms.
 
 **Liens relatifs à cet article**
 
@@ -77444,11 +77472,29 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R351-3 (M)
+  - Code de l'action sociale et des familles - art. R351-4 (M)
+
 
 ###### Article R351-6
 
-Le secrétaire et le secrétaire adjoint de la Cour nationale sont désignés par le ou les ministres chargés de la sécurité
-sociale, de la santé et de l'action sociale.
+Les rapporteurs qui ne sont pas membres du tribunal sont nommés pour cinq ans par le président du tribunal interrégional soit
+parmi les membres du corps des tribunaux administratifs et des cours administratives d'appel, du corps des magistrats des
+chambres régionales des comptes ou parmi les magistrats de l'ordre judiciaire, en activité ou honoraires, après accord du
+président de la juridiction dont ils relèvent, soit parmi les fonctionnaires et agents publics de catégorie A en activité ou
+honoraires proposés par le préfet de région du siège du tribunal. 
+
+Ils peuvent aussi être choisis en tant que de besoin au sein d'une liste de personnalités n'appartenant pas aux catégories
+mentionnées au précédent alinéa et désignées en raison de leur compétence particulière en matière de santé, de sécurité
+sociale ou d'action sociale établie par arrêté des ministres chargés de la justice, de la santé et de l'aide sociale. 
+
+Les rapporteurs qui ne sont pas des magistrats satisfont aux dispositions du septième alinéa de l'article L. 351-2.
 
 **Liens relatifs à cet article**
 
@@ -77461,23 +77507,30 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
 
-##### Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale.<a id=629></a>
+  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L351-2 (V)
+
 
 ###### Article R351-7
 
-Le siège et le ressort des tribunaux interrégionaux de la tarification sanitaire et sociale instituées par l'article L. 351-1
-sont ainsi fixés :
+Le greffe des audiences et l'exécution des actes de procédure sont assurés par le greffier du tribunal éventuellement assisté
+d'un ou plusieurs collaborateurs.
 
-Bordeaux : Aquitaine, Languedoc-Roussillon, Limousin, Midi-Pyrénées, Poitou-Charentes ;
+Ceux-ci sont désignés par le préfet de région du siège du tribunal parmi les fonctionnaires et agents publics de l'Etat après
+avis du président du tribunal interrégional de la tarification sanitaire et sociale.
 
-Lyon : Auvergne, Corse, Provence-Alpes-Côte d'Azur, Rhône-Alpes ;
+Ces agents sont placés sous l'autorité du président de la juridiction.
 
-Nancy : Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine, Nord-Pas-de-Calais, Picardie ;
+Les frais de fonctionnement du tribunal interrégional de la tarification sanitaire et sociale sont à la charge des ministères
+chargés des affaires sociales.
 
-Nantes : Basse-Normandie, Bretagne, Centre, Haute-Normandie, Pays de la Loire ;
-
-Paris : Ile-de-France, Guadeloupe, Guyane, Martinique, Réunion.
+Dans le cas où ces agents n'exerceraient pas la totalité de leurs fonctions au titre du greffe, ils ne peuvent exercer le
+reste de leur activité au sein de services directement ou indirectement en charge de tarification sanitaire ou sociale.
 
 **Liens relatifs à cet article**
 
@@ -77490,15 +77543,20 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'action sociale et des familles - art. L351-1 (M)
+  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
 
+
+##### Section 2 : Cour nationale de la tarification sanitaire et sociale.<a id=628></a>
 
 ###### Article R351-8
 
-Le tribunal interrégional compétent pour connaître des recours dirigés contre les décisions mentionnées à l'article L. 351-1
-est celui dans le ressort duquel est situé l'établissement ou service dont la tarification est contestée.
+Les membres appelés à siéger à la Cour nationale de la tarification sanitaire et sociale au titre du 1° de l'article L. 351-5
+sont nommés par le vice-président du Conseil d'Etat au sein d'une liste comportant au moins douze noms proposés par les
+ministres chargés de la sécurité sociale, de la santé et de l'action sociale. 
+
+Cette nomination intervient après avis du président de la Cour nationale de la tarification sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -77511,9 +77569,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L351-1 (M)
+  - Code de l'action sociale et des familles - art. L351-5 (V)
 
 _Cité par_:
 
@@ -77522,45 +77584,20 @@ _Cité par_:
 
 ###### Article R351-9
 
-Le tribunal interrégional comprend outre son président et le commissaire du Gouvernement, treize membres :
+Les membres appelés à siéger à la Cour nationale de la tarification sanitaire et sociale au titre du 2° de l'article L. 351-5
+sont nommés par le vice-président du Conseil d'Etat au sein d'une liste comportant au moins douze noms proposée par le
+président du Comité national de l'organisation sanitaire et sociale au nom du collège mentionné au 2° de l'article L. 351-5. 
 
-1° Un membre de la cour administrative d'appel ou d'un tribunal administratif du ressort, nommé sur proposition du président
-de la juridiction à laquelle il appartient ;
+Les membres du collège sont réunis à la demande du président de la Cour nationale de la tarification sanitaire et sociale par
+le président du Comité national de l'organisation sanitaire et sociale dans le délai d'un mois au moins avant la date de
+renouvellement du mandat des membres de la cour. 
 
-2° Le directeur régional des affaires sanitaires et sociales du siège du tribunal, ou son représentant ;
+Le collège délibère des candidatures déposées auprès du président du Comité national de l'organisation sanitaire et sociale
+et communiquées aux membres du collège cinq jours au moins avant la date de la réunion. Il est, le cas échéant, procédé par
+vote au scrutin uninominal majoritaire sur chacune des candidatures présentées. Le vote est secret. 
 
-3° Un médecin de la direction régionale des affaires sanitaires et sociales du siège du tribunal ;
-
-4° Le trésorier-payeur général du département du siège du tribunal, ou son représentant ;
-
-5° Le directeur régional de la protection judiciaire de la jeunesse du siège du tribunal, ou son représentant ;
-
-6° Deux conseillers généraux, désignés par l'association dite assemblée des départements de France, élus dans le ressort du
-tribunal ;
-
-7° Deux représentants d'organismes gestionnaires de régimes obligatoires d'assurance maladie dont un représentant au moins de
-la caisse régionale d'assurance maladie du siège du tribunal ;
-
-8° Un représentant des groupements mutualistes régis par le code de la mutualité assurant la réparation ou la prévention des
-risques sociaux, désigné par les comités départementaux de coordination de la mutualité du ressort parmi les membres de ces
-comités ;
-
-9° Un représentant des établissements publics de santé situés dans le ressort et désigné par la fédération hospitalière de
-France ;
-
-10° un représentant de l'union nationale interfédérale des oeuvres et organismes privés sanitaires et sociaux, désigné par
-celle-ci, en activité dans le ressort ;
-
-11° un représentant des établissements privés de santé à but non lucratif situés dans le ressort et désigné par la fédération
-des établissements hospitaliers et d'assistance privés à but non lucratif.
-
-Un membre suppléant est désigné pour chacun des membres titulaires du tribunal interrégional mentionnés aux 1° , 3° et 6° à
-11° dans les mêmes conditions. Il remplace le titulaire en cas d'empêchement de celui-ci et lui succède si le titulaire cesse
-ses fonctions pour quelque cause que ce soit. Si le poste de suppléant devient à son tour vacant, il est pourvu à la vacance
-dans les mêmes conditions qu'à la désignation.
-
-La liste des membres du tribunal est fixée par arrêté du préfet de région du siège. Cet arrêté est publié au recueil des
-actes administratifs des préfectures de région du ressort.
+La nomination des personnalités retenues intervient après avis du président de la Cour nationale de la tarification sanitaire
+et sociale.
 
 **Liens relatifs à cet article**
 
@@ -77573,6 +77610,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L351-5 (V)
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R351-10 (V)
@@ -77580,14 +77625,13 @@ _Cité par_:
 
 ###### Article R351-10
 
-Les membres du tribunal interrégional mentionnés aux 1° , 3° et 6° à 11° de l'article R. 351-9 sont désignés pour une période
-de six ans, renouvelable, qui court à compter de la publication de l'arrêté mentionné au même article.
+Si, avant l'expiration de son mandat, l'un des membres titulaires de la Cour nationale de la tarification sanitaire et
+sociale démissionne ou se trouve dans l'impossibilité d'exercer son mandat ou s'il cesse de remplir les conditions requises
+pour exercer ses fonctions, il est remplacé par un membre suppléant.
 
-Les membres qui perdent la qualité à raison de laquelle ils ont été désignés sont immédiatement remplacés dans les conditions
-fixées à l'article R. 351-9.
-
-Le remplaçant de toute personne qui cesse d'être membre du tribunal demeure en fonctions pour la durée restant à courir du
-mandat de son prédécesseur.
+Au cas où pour l'une des causes mentionnées ci-dessus aucun suppléant n'est en mesure d'exercer ce mandat, il est procédé à
+une désignation complémentaire d'un titulaire et d'un suppléant dans le délai de deux mois selon la procédure prévue aux
+articles R. 351-8 et R. 351-9. Dans ce cas, les listes présentées doivent comporter au moins quatre noms.
 
 **Liens relatifs à cet article**
 
@@ -77600,16 +77644,28 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
 _Cite_:
 
+  - Code de l'action sociale et des familles - art. R351-8 (M)
   - Code de l'action sociale et des familles - art. R351-9 (M)
 
 
 ###### Article R351-11
 
-Un ou plusieurs membres d'une cour administrative d'appel ou d'un tribunal administratif du ressort sont chargés des
-fonctions de commissaire du Gouvernement et nommés par le préfet de région du siège du tribunal sur proposition du président
-de la juridiction à laquelle ils appartiennent.
+La cour siège soit en formation plénière, soit en formation restreinte. 
+
+La formation plénière comprend, outre le rapporteur, les sept membres mentionnés à l'article L. 351-5. Elle est présidée par
+la président de la section sociale du Conseil d'Etat ou par le conseiller d'Etat désigné en application du premier alinéa de
+l'article L. 351-5. 
+
+La formation restreinte comprend, outre le rapporteur, trois membres dont obligatoirement un membre désigné au titre du 1° et
+un membre désigné au titre du 2° de l'article L. 351-5. 
+
+La formation restreinte ou son président peuvent à tout moment renvoyer l'affaire à la formation plénière.
 
 **Liens relatifs à cet article**
 
@@ -77622,11 +77678,29 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L351-5 (V)
+
 
 ###### Article R351-12
 
-Les rapporteurs sont choisis parmi les membres du tribunal interrégional ou, en dehors de celle-ci, parmi les magistrats de
-l'ordre administratif ou les fonctionnaires de catégorie A en fonctions dans le ressort ou honoraires.
+Les rapporteurs qui ne sont pas membres de la cour sont nommés pour cinq ans par le président de la Cour nationale de la
+tarification sanitaire et sociale soit parmi les membres du Conseil d'Etat, de la Cour des comptes, du corps des tribunaux
+administratifs et des cours administratives d'appel, du corps des magistrats des chambres régionales des comptes ou parmi les
+magistrats de l'ordre judiciaire, en activité ou honoraires, après accord du président de la juridiction dont ils relèvent,
+soit parmi les fonctionnaires et agents publics de catégorie A en activité ou honoraires proposés par les ministres chargés
+de la sécurité sociale, de la santé et de l'action sociale. 
+
+Ils peuvent aussi être choisis en tant que de besoin au sein d'une liste de personnalités n'appartenant pas aux catégories
+mentionnées au précédent alinéa et désignées en raison de leur compétence particulière en matière de santé, de sécurité
+sociale ou d'action sociale établie par arrêté des ministres chargés de la justice, de la santé et de l'aide sociale. 
+
+Les rapporteurs qui ne sont pas des magistrats satisfont aux dispositions du cinquième alinéa de l'article L. 351-5.
 
 **Liens relatifs à cet article**
 
@@ -77639,11 +77713,18 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L351-5 (V)
+
 
 ###### Article R351-13
 
-Les rapporteurs qui ne sont pas membres du tribunal interrégional sont nommés par le préfet de région du siège du tribunal,
-sur proposition du président du tribunal, après accord du président de la juridiction ou de l'autorité dont ils relèvent.
+Les commissaires du Gouvernement mentionnés à l'article L. 351-5 sont désignés par le vice-président du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -77656,13 +77737,30 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L351-5 (V)
+
 
 ###### Article R351-14
 
-Un greffe du tribunal est désigné par le préfet de région du siège du tribunal parmi les agents de la direction régionale des
-affaires sanitaires et sociales.
+Le greffe des audiences et l'exécution des actes de procédure sont assurés par le greffier de la cour nationale et un
+greffier adjoint éventuellement assistés d'un ou plusieurs collaborateurs.
 
-Les frais de fonctionnement du tribunal et de son secrétariat sont à la charge de l'Etat.
+Ceux-ci sont désignés par les ministres chargés de la sécurité sociale, de la santé et de l'action sociale après avis du
+président de la Cour nationale de la tarification sanitaire et sociale.
+
+Ils sont placés sous l'autorité du président de la juridiction.
+
+Dans le cas où ces agents n'exerceraient pas la totalité de leurs fonctions au titre du greffe, ils ne peuvent exercer le
+reste de leur activité au sein de services directement ou indirectement en charge de tarification sanitaire ou sociale.
+
+Les frais de fonctionnement de la Cour nationale de la tarification sanitaire et sociale sont à la charge des ministères
+chargés des affaires sociales.
 
 **Liens relatifs à cet article**
 
@@ -77677,12 +77775,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
 
 
-##### Section 2 : Règles de procédures applicables<a id=630></a>
-
-##### Sous-section 1 : Introduction des recours.<a id=631></a>
+##### Section 3 : Dispositions procédurales applicables à la juridiction de la tarification sanitaire et sociale.<a id=629></a>
 
 ###### Article R351-15
 
@@ -77690,24 +77786,27 @@ Les recours mentionnés à l'article L. 351-3 doivent être exercés dans le dé
 publication de la décision attaquée ou à l'égard des personnes et organismes auxquels elle est notifiée à compter de la date
 de notification.
 
+Les délais supplémentaires de distance prévus aux articles 643 et 644 du nouveau code de procédure civile s'ajoutent au délai
+prévu au premier alinéa du présent article.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L351-3 (M)
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. R351-17 (V)
 
 _Anciens textes_:
 
   - Code de la famille et de l'aide sociale art. 201-1 al. 2
   - Code de la famille et de l'aide sociale. - art. 201-1 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R351-17 (V)
 
 
 ###### Article R351-16
@@ -77723,11 +77822,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L351-4 (M)
+  - Code de l'action sociale et des familles - art. L351-4 (V)
 
 _Cité par_:
 
@@ -77758,6 +77857,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. R351-15 (M)
@@ -77780,6 +77883,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-19
@@ -77804,7 +77911,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 _Cité par_:
 
@@ -77813,15 +77920,14 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R351-30 (V)
 
 
-##### Sous-section 2 : Instruction des recours et clôture de l'instruction.<a id=632></a>
-
 ###### Article R351-20
 
 Immédiatement après son enregistrement, le recours formé devant le tribunal interrégional est communiqué, par les soins du
 greffe, à l'auteur de la décision litigieuse, ainsi qu'à l'organisme gestionnaire de l'établissement ou du service dont la
 tarification est contestée, si cet établissement ou service n'est pas l'auteur du recours. Le recours est également
-communiqué à la direction régionale des affaires sanitaires et sociales ainsi qu'au préfet du département où est situé ledit
-établissement ou service lorsqu'il n'est pas l'auteur de la décision litigieuse.
+communiqué à la direction régionale des affaires sanitaires et sociales, à la caisse régionale d'assurance maladie lorsqu'il
+concerne un établissement financé en totalité ou en partie par des organismes de sécurité sociale ainsi qu'au préfet du
+département où est situé ledit établissement ou service lorsqu'il n'est pas l'auteur de la décision litigieuse.
 
 **Liens relatifs à cet article**
 
@@ -77834,12 +77940,17 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 
 ###### Article R351-21
 
 Immédiatement après son enregistrement, le recours formé devant la Cour nationale est communiqué par les soins du greffe aux
-parties défenderesses. Lorsque le préfet du département où est situé l'établissement ou service concerné n'est pas partie, le
-recours lui est également communiqué.
+parties défenderesses ainsi qu'à la Caisse nationale d'assurance maladie des travailleurs salariés lorsqu'il concerne un
+établissement financé en totalité ou en partie par des organismes de sécurité sociale. Lorsque le préfet du département où
+est situé l'établissement ou service concerné n'est pas partie, le recours lui est également communiqué.
 
 **Liens relatifs à cet article**
 
@@ -77851,6 +77962,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-22
@@ -77871,6 +77986,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 _Cite_:
 
@@ -77897,7 +78016,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 _Cité par_:
 
@@ -77919,6 +78038,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 _Cité par_:
 
@@ -77943,13 +78066,37 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 _Cite_:
 
   - Code de l'action sociale et des familles - art. R351-19 (M)
   - Code de l'action sociale et des familles - art. R351-23 (M)
   - Code de l'action sociale et des familles - art. R351-24 (M)
+
+
+###### Article R351-25-1
+
+Lorsque la décision lui paraît susceptible d'être fondée sur un moyen relevé d'office, le président de la formation de
+jugement en informe les parties avant la séance de jugement et fixe le délai dans lequel elles peuvent présenter leurs
+observations sur le moyen communiqué.
+
+Les dispositions du présent article ne sont pas applicables lorsqu'il est fait application des dispositions de l'article R.
+351-28.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R351-28 (M)
 
 
 ###### Article R351-26
@@ -77970,7 +78117,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-27
@@ -77991,14 +78138,30 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-28
 
-Le président de la juridiction peut, par ordonnance, donner acte des désistements, constater qu'il n'y a pas lieu de statuer
-sur un recours et rejeter les conclusions entachées d'une irrecevabilité manifeste non susceptible d'être couverte en cours
-d'instance.
+Les présidents des tribunaux interrégionaux et de la cour nationale peuvent par ordonnance :
+
+1° Donner acte des désistements ;
+
+2° Rejeter les requêtes ne relevant manifestement pas de la compétence de la juridiction tarifaire ;
+
+3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
+
+4° Rejeter les requêtes irrecevables présentées en méconnaissance de l'article R. 351-19 ainsi que celles qui sont entachées
+d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
+
+5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la charge des dépens ou la condamnation
+aux frais non compris dans les dépens ;
+
+6° Statuer sur les requêtes relevant d'une série, qui, sans appeler de nouvelle appréciation ou qualification des faits,
+présentent à juger en droit des questions identiques à celles qu'elle a déjà tranchées ensemble par une même décision passée
+en force de chose jugée.
+
+Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis à exécution d'une décision juridictionnelle.
 
 **Liens relatifs à cet article**
 
@@ -78012,21 +78175,47 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 _Cité par_:
 
   - Code de justice administrative - art. R822-5 (VD)
   - Code de l'action sociale et des familles - art. R351-25-1 (V)
 
+_Cite_:
 
-##### Sous-section 3 : Séance de jugement et notification.<a id=633></a>
+  - Code de l'action sociale et des familles - art. R351-19 (M)
+
+
+###### Article R351-28-1
+
+Lorsque le président d'un tribunal interrégional ou de la cour nationale constate que la minute d'une décision est entachée
+d'une erreur ou d'une omission matérielle, il peut y apporter, par ordonnance rendue dans le délai de deux mois à compter de
+la notification aux parties de cette décision, les corrections que la raison commande.
+
+La notification de l'ordonnance rectificative rouvre le délai d'appel contre le jugement ou l'ordonnance ainsi corrigés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 
 ###### Article R351-29
 
+Avant de clore le dossier d'instruction, le président de la juridiction demande à l'établissement ou au service concerné
+ainsi qu'à l'autorité de tarification de lui communiquer les pièces relatives à toute décision de nature financière
+intervenue postérieurement au recours en première instance ou en appel, notamment celles modifiant le montant d'un ou
+plusieurs des éléments tarifaires mentionnés à l'article L. 351-1. 
+
 Le dossier du recours est, après clôture de l'instruction, remis au rapporteur désigné par le président de la juridiction. Le
 rapporteur prépare, sur chaque affaire, un rapport et un projet de décision ou de jugement, qui sont ensuite transmis avec le
-dossier au commissaire du Gouvernement que désigne le président.
+dossier au commissaire du Gouvernement que désigne le président. 
 
 Le commissaire du Gouvernement, après examen du recours, l'inscrit à un rôle de séance. Le rôle est définitivement arrêté par
 le président. Avis est donné, par lettre recommandée, aux parties dont les affaires sont inscrites au rôle de la date de la
@@ -78044,7 +78233,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L351-1 (V)
 
 
 ###### Article R351-30
@@ -78065,6 +78258,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. R351-19 (M)
@@ -78072,10 +78269,9 @@ _Cite_:
 
 ###### Article R351-31
 
-La Cour nationale ne peut siéger en formation plénière que si au moins huit de ses membres sont présents. Elle ne peut siéger
-en formation ordinaire que si sept de ses membres sont présents.
+La Cour nationale ne peut siéger en formation plénière que si au moins cinq de ses membres sont présents.
 
-Le tribunal interrégional ne peut siéger que si au moins huit de ses membres sont présents.
+Le tribunal interrégional ne peut siéger que si au moins trois de ses membres sont présents.
 
 **Liens relatifs à cet article**
 
@@ -78088,12 +78284,15 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 
 ###### Article R351-32
 
-Les rapporteurs pris hors les membres du tribunal ont voix délibérative dans les affaires qu'ils rapportent.
-
-En cas d'égal partage des voix, celle du président est prépondérante.
+Le membre de la juridiction qui suppose en sa personne une cause de récusation ou estime en conscience devoir s'abstenir se
+fait remplacer par un autre membre de la juridiction que désigne le président de la juridiction.
 
 **Liens relatifs à cet article**
 
@@ -78105,6 +78304,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-33
@@ -78126,7 +78329,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-34
@@ -78148,6 +78351,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 
 ###### Article R351-35
 
@@ -78167,7 +78374,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-36
@@ -78184,16 +78391,23 @@ L'expédition du jugement porte la formule exécutoire suivante :
 huissiers à ce requis en ce qui concerne les voies de droit commun contre les parties privées, de pourvoir à l'exécution du
 présent jugement."
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°90-359 1990-04-11 art. 36
   - Décret n°90-359 du 11 avril 1990 - art. 36 (Ab)
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-37
@@ -78212,12 +78426,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R543-5 (V)
 
-
-##### Sous-section 4 : Voies de recours.<a id=634></a>
 
 ###### Article R351-38
 
@@ -78233,6 +78449,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-39
@@ -78250,6 +78470,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-40
@@ -78271,8 +78495,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
 
-##### Section 3 : Dispositions diverses.<a id=635></a>
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 
 ###### Article R351-41
 
@@ -78291,12 +78517,16 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
 
-## Livre IV : Professions et activités d'accueil<a id=636></a>
+  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
-### Titre Ier : Assistants de service social<a id=637></a>
 
-#### Chapitre unique.<a id=638></a>
+## Livre IV : Professions et activités d'accueil<a id=630></a>
+
+### Titre Ier : Assistants de service social<a id=631></a>
+
+#### Chapitre unique.<a id=632></a>
 
 ###### Article R411-1
 
@@ -78377,13 +78607,13 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R411-10 (V)
 
 
-### Titre II : Assistants maternels<a id=639></a>
+### Titre II : Assistants maternels<a id=633></a>
 
-#### Chapitre Ier : Dispositions générales<a id=640></a>
+#### Chapitre Ier : Dispositions générales<a id=634></a>
 
-##### Section 1 : Procédures d'agrément<a id=641></a>
+##### Section 1 : Procédures d'agrément<a id=635></a>
 
-##### Sous-section 1 : Conditions et modalités de délivrance de l'agrément.<a id=642></a>
+##### Sous-section 1 : Conditions et modalités de délivrance de l'agrément.<a id=636></a>
 
 ###### Article R421-1
 
@@ -78636,7 +78866,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R421-3 (M)
 
 
-##### Sous-section 2 : Renouvellement, suspension et retrait de l'agrément.<a id=643></a>
+##### Sous-section 2 : Renouvellement, suspension et retrait de l'agrément.<a id=637></a>
 
 ###### Article R421-10
 
@@ -78757,7 +78987,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L421-2 (T)
 
 
-##### Sous-section 3 : Commission consultative paritaire départementale.<a id=644></a>
+##### Sous-section 3 : Commission consultative paritaire départementale.<a id=638></a>
 
 ###### Article R421-14
 
@@ -79007,7 +79237,7 @@ _Abrogé par_:
   - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 
-##### Section 2 : Modalités particulières relatives à l'activité.<a id=645></a>
+##### Section 2 : Modalités particulières relatives à l'activité.<a id=639></a>
 
 ###### Article R421-23
 
@@ -79112,7 +79342,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L421-10 (M)
 
 
-##### Section 3 : Formation des assistants maternels.<a id=646></a>
+##### Section 3 : Formation des assistants maternels.<a id=640></a>
 
 ###### Article D421-27
 
@@ -79153,7 +79383,7 @@ _Cite_:
   - Code de l'action sociale et des familles L421-15, D451-100 à D451-104
 
 
-##### Section 4 : Dispositions pénales.<a id=647></a>
+##### Section 4 : Dispositions pénales.<a id=641></a>
 
 ###### Article R421-28
 
@@ -79223,7 +79453,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R421-54 (V)
 
 
-#### Chapitre II : Assistants maternels employés par des personnes morales de droit public<a id=648></a>
+#### Chapitre II : Assistants maternels employés par des personnes morales de droit public<a id=642></a>
 
 ###### Article R422-1
 
@@ -79261,7 +79491,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R422-5 (M)
 
 
-##### Section 1 : Modalités de recrutement et conditions d'emploi.<a id=649></a>
+##### Section 1 : Modalités de recrutement et conditions d'emploi.<a id=643></a>
 
 ###### Article D422-6
 
@@ -79417,7 +79647,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R422-1 (M)
 
 
-##### Section 2 : Congés.<a id=650></a>
+##### Section 2 : Congés.<a id=644></a>
 
 ###### Article R422-8
 
@@ -79722,7 +79952,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Discipline.<a id=651></a>
+##### Section 3 : Discipline.<a id=645></a>
 
 ###### Article R422-20
 
@@ -79749,7 +79979,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D444-1 (V)
 
 
-##### Section 4 : Licenciement.<a id=652></a>
+##### Section 4 : Licenciement.<a id=646></a>
 
 ###### Article R422-21
 
@@ -79790,11 +80020,11 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R544-2 (V)
 
 
-### Titre III : Autres professions<a id=653></a>
+### Titre III : Autres professions<a id=647></a>
 
-#### Chapitre unique : Techniciens de l'intervention sociale et familiale<a id=654></a>
+#### Chapitre unique : Techniciens de l'intervention sociale et familiale<a id=648></a>
 
-##### Section unique : Exercice de la profession.<a id=655></a>
+##### Section unique : Exercice de la profession.<a id=649></a>
 
 ###### Article D431-1
 
@@ -79870,11 +80100,11 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 5
 
 
-### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=656></a>
+### Titre IV : Particuliers accueillant des personnes âgées ou handicapées<a id=650></a>
 
-#### Chapitre Ier : Accueillants familiaux et modalités d'agrément<a id=657></a>
+#### Chapitre Ier : Accueillants familiaux et modalités d'agrément<a id=651></a>
 
-##### Section 1 : Modalités et délai d'instruction de la demande d'agrément.<a id=658></a>
+##### Section 1 : Modalités et délai d'instruction de la demande d'agrément.<a id=652></a>
 
 ###### Article R441-1
 
@@ -80184,7 +80414,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R441-5 (V)
 
 
-##### Section 2 : Commission consultative de retrait.<a id=659></a>
+##### Section 2 : Commission consultative de retrait.<a id=653></a>
 
 ###### Article R441-11
 
@@ -80300,7 +80530,7 @@ _Créé par_:
   - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
 
 
-#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial<a id=660></a>
+#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial<a id=654></a>
 
 ###### Article D442-2
 
@@ -80389,11 +80619,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L442-1 (V)
 
 
-### Titre V : Formation des travailleurs sociaux<a id=661></a>
+### Titre V : Formation des travailleurs sociaux<a id=655></a>
 
-#### Chapitre unique : Dispositions générales<a id=662></a>
+#### Chapitre unique : Dispositions générales<a id=656></a>
 
-##### Section 1 : Etablissements de formation.<a id=663></a>
+##### Section 1 : Etablissements de formation.<a id=657></a>
 
 ###### Article D451-5
 
@@ -80838,7 +81068,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R451-4
 
 
-##### Section 2 : Bourses d'études.<a id=664></a>
+##### Section 2 : Bourses d'études.<a id=658></a>
 
 ###### Article D451-7
 
@@ -80882,11 +81112,11 @@ _Modifié par_:
   - Décret n°2005-426 du 4 mai 2005 - art. 1 () JORF 7 mai 2005
 
 
-##### Section 3 : Formations et diplômes<a id=665></a>
+##### Section 3 : Formations et diplômes<a id=659></a>
 
-##### Sous-section 1 : Formations supérieures et diplômes d'encadrement<a id=666></a>
+##### Sous-section 1 : Formations supérieures et diplômes d'encadrement<a id=660></a>
 
-##### Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale.<a id=667></a>
+##### Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale.<a id=661></a>
 
 ###### Article R451-11
 
@@ -81010,7 +81240,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 2 : Diplôme supérieur en travail social.<a id=668></a>
+##### Paragraphe 2 : Diplôme supérieur en travail social.<a id=662></a>
 
 ###### Article D451-17
 
@@ -81085,7 +81315,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R544-5 (V)
 
 
-##### Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale.<a id=669></a>
+##### Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale.<a id=663></a>
 
 ###### Article R451-20
 
@@ -81316,9 +81546,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Formations et diplômes professionnels d'intervention sociale<a id=670></a>
+##### Sous-section 2 : Formations et diplômes professionnels d'intervention sociale<a id=664></a>
 
-##### Paragraphe 1 : Diplôme d'Etat d'assistant de service social.<a id=671></a>
+##### Paragraphe 1 : Diplôme d'Etat d'assistant de service social.<a id=665></a>
 
 ###### Article D451-29
 
@@ -81687,7 +81917,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R411-3 (V)
 
 
-##### Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé.<a id=672></a>
+##### Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé.<a id=666></a>
 
 ###### Article D451-41
 
@@ -81928,7 +82158,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-58 (V)
 
 
-##### Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants.<a id=673></a>
+##### Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants.<a id=667></a>
 
 ###### Article D451-47
 
@@ -82137,7 +82367,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-63 (V)
 
 
-##### Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé.<a id=674></a>
+##### Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé.<a id=668></a>
 
 ###### Article D451-52
 
@@ -82322,7 +82552,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. D451-44 (T)
 
 
-##### Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale.<a id=675></a>
+##### Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale.<a id=669></a>
 
 ###### Article D451-57
 
@@ -82352,7 +82582,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. D451-45 (T)
 
 
-##### Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation.<a id=676></a>
+##### Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation.<a id=670></a>
 
 ###### Article D451-58
 
@@ -82627,7 +82857,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-77 (V)
 
 
-##### Paragraphe 7 : Diplôme d'Etat de médiateur familial.<a id=677></a>
+##### Paragraphe 7 : Diplôme d'Etat de médiateur familial.<a id=671></a>
 
 ###### Article R451-66
 
@@ -82811,7 +83041,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R451-60 (T)
 
 
-##### Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur.<a id=678></a>
+##### Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur.<a id=672></a>
 
 ###### Article D451-73
 
@@ -83100,7 +83330,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. D451-68 (T)
 
 
-##### Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale.<a id=679></a>
+##### Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale.<a id=673></a>
 
 ###### Article D451-81
 
@@ -83309,7 +83539,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
-##### Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale.<a id=680></a>
+##### Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale.<a id=674></a>
 
 ###### Article R451-88
 
@@ -83503,7 +83733,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles D. 451-93
 
 
-##### Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique.<a id=681></a>
+##### Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique.<a id=675></a>
 
 ###### Article R451-94
 
@@ -83535,7 +83765,7 @@ _Anciens textes_:
   - Code de l'action sociale et des familles - art. R451-82 (T)
 
 
-##### Paragraphe 12 : Diplôme d'Etat d'assistant familial<a id=682></a>
+##### Paragraphe 12 : Diplôme d'Etat d'assistant familial<a id=676></a>
 
 ###### Article D451-100
 
@@ -83683,13 +83913,13 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R451-2 (V)
 
 
-## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=683></a>
+## Livre V : Dispositions particulières applicables à certaines parties du territoire<a id=677></a>
 
-### Titre II : Départements d'outre-mer<a id=684></a>
+### Titre II : Départements d'outre-mer<a id=678></a>
 
-#### Chapitre Ier : Dispositions générales<a id=685></a>
+#### Chapitre Ier : Dispositions générales<a id=679></a>
 
-##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=686></a>
+##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=680></a>
 
 ###### Article R521-1
 
@@ -83840,7 +84070,7 @@ _Cite_:
   - Code de l'action sociale et des familles R312-177 à R312-189, R312-178, R312-179, R312-182, R312-186
 
 
-##### Section 2 : Dispositions budgétaires, comptables et financières<a id=687></a>
+##### Section 2 : Dispositions budgétaires, comptables et financières<a id=681></a>
 
 ###### Article R521-3
 
@@ -83872,9 +84102,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre II : Revenu minimum d'insertion<a id=688></a>
+#### Chapitre II : Revenu minimum d'insertion<a id=682></a>
 
-##### Section 1 : Allocation<a id=689></a>
+##### Section 1 : Allocation<a id=683></a>
 
 ###### Article R522-1
 
@@ -83960,7 +84190,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion<a id=690></a>
+##### Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion<a id=684></a>
 
 ###### Article R522-4
 
@@ -84059,9 +84289,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Agences d'insertion<a id=691></a>
+##### Section 3 : Agences d'insertion<a id=685></a>
 
-##### Sous-section 1 : Organisation<a id=692></a>
+##### Sous-section 1 : Organisation<a id=686></a>
 
 ###### Article R522-8
 
@@ -84610,7 +84840,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale<a id=693></a>
+##### Sous-section 2 : Programme départemental d'insertion et programme annuel de tâches d'utilité sociale<a id=687></a>
 
 ###### Article R522-27
 
@@ -84775,7 +85005,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=694></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=688></a>
 
 ###### Article D522-35
 
@@ -84960,7 +85190,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale<a id=695></a>
+##### Sous-section 4 : Contrats d'insertion par l'activité et modalités d'organisation des tâches d'utilité sociale<a id=689></a>
 
 ###### Article R522-40
 
@@ -85376,7 +85606,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L522-13
 
 
-##### Sous-section 5 : Conventions avec les organismes utilisateurs<a id=696></a>
+##### Sous-section 5 : Conventions avec les organismes utilisateurs<a id=690></a>
 
 ###### Article R522-56
 
@@ -85590,7 +85820,7 @@ _Abrogé par_:
   - Décret n°2015-1722 du 21 décembre 2015 - art. 3
 
 
-##### Section 4 : Revenu de solidarité<a id=697></a>
+##### Section 4 : Revenu de solidarité<a id=691></a>
 
 ###### Article R522-63
 
@@ -85745,9 +85975,9 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=698></a>
+#### Chapitre III : Aide sociale à la famille et à l'enfance<a id=692></a>
 
-##### Section 2 : Aide à la famille<a id=699></a>
+##### Section 2 : Aide à la famille<a id=693></a>
 
 ###### Article R523-1
 
@@ -85774,11 +86004,11 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L228-2 (V)
 
 
-### Titre III : Saint-Pierre-et-Miquelon<a id=700></a>
+### Titre III : Saint-Pierre-et-Miquelon<a id=694></a>
 
-#### Chapitre Ier : Dispositions générales<a id=701></a>
+#### Chapitre Ier : Dispositions générales<a id=695></a>
 
-##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=702></a>
+##### Section 1 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux<a id=696></a>
 
 ###### Article R531-1
 
@@ -85823,7 +86053,7 @@ _Cite_:
   - Code de l'action sociale et des familles R313-1 à R313-10
 
 
-##### Section 2 : Dispositions budgétaires, comptables et financières<a id=703></a>
+##### Section 2 : Dispositions budgétaires, comptables et financières<a id=697></a>
 
 ###### Article R531-2
 
@@ -85861,7 +86091,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre II : Personnes handicapées<a id=704></a>
+#### Chapitre II : Personnes handicapées<a id=698></a>
 
 ###### Article R532-1
 
@@ -85987,7 +86217,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre IV : Adoption<a id=705></a>
+#### Chapitre IV : Adoption<a id=699></a>
 
 ###### Article R533-1
 
@@ -86022,9 +86252,9 @@ _Cite_:
   - Code de l'action sociale et des familles R225-12 à R225-45
 
 
-### Titre IV : Mayotte<a id=706></a>
+### Titre IV : Mayotte<a id=700></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=707></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=701></a>
 
 ###### Article R541-1
 
@@ -86062,7 +86292,7 @@ _Cite_:
   - Code de l'action sociale et des familles R147-1 à R147-33, L222-6, L223-7, L543-14
 
 
-#### Chapitre II : Aide sociale<a id=708></a>
+#### Chapitre II : Aide sociale<a id=702></a>
 
 ###### Article D542-2
 
@@ -86304,9 +86534,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L542-4 (T)
 
 
-#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption<a id=709></a>
+#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption<a id=703></a>
 
-##### Section 1 : Organes chargés de la tutelle<a id=710></a>
+##### Section 1 : Organes chargés de la tutelle<a id=704></a>
 
 ###### Article R544-1
 
@@ -86325,9 +86555,9 @@ _Cite_:
   - Code de l'action sociale et des familles R224-1 à R224-25
 
 
-##### Section 2 : Adoption<a id=711></a>
+##### Section 2 : Adoption<a id=705></a>
 
-##### Sous-section 1 : Adoption des pupilles de l'Etat<a id=712></a>
+##### Sous-section 1 : Adoption des pupilles de l'Etat<a id=706></a>
 
 ###### Article R544-2
 
@@ -86347,9 +86577,9 @@ _Cite_:
   - Code de l'action sociale et des familles R225-1 à R225-11
 
 
-### Titre V : Territoire des Iles Wallis et Futuna<a id=713></a>
+### Titre V : Territoire des Iles Wallis et Futuna<a id=707></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=714></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=708></a>
 
 ###### Article R551-1
 
@@ -86392,9 +86622,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-1 (V)
 
 
-### Titre VI : Polynésie française<a id=715></a>
+### Titre VI : Polynésie française<a id=709></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=716></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=710></a>
 
 ###### Article R561-1
 
@@ -86431,9 +86661,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-25 (V)
 
 
-### Titre VII : Nouvelle-Calédonie<a id=717></a>
+### Titre VII : Nouvelle-Calédonie<a id=711></a>
 
-#### Chapitre Ier : Accès aux origines personnelles<a id=718></a>
+#### Chapitre Ier : Accès aux origines personnelles<a id=712></a>
 
 ###### Article R571-1
 
@@ -86470,7 +86700,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R147-25 (VT)
 
 
-# Annexe<a id=719></a>
+# Annexe<a id=713></a>
 
 ###### Article Annexe 2-4
 
