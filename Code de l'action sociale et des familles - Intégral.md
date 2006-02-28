@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-02-28
+Version Consolidée au 2006-03-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -544,7 +544,7 @@ Version Consolidée au 2006-02-28
             - [Sous-section 2 : Règles comptables et budgétaires applicables aux différentes catégories d'organismes gestionnaires (art. R314-64 à R314-104)](#541)
               - [Paragraphe 1 : Règles applicables aux établissements publics sociaux et médico-sociaux (art. R314-64 à R314-74)](#542)
                 - [Sous-paragraphe 1 : Champ d'application et règles budgétaires générales. (art. R314-64 à R314-65)](#543)
-                - [Sous-paragraphe 2 : Directeur et comptable de l'établissement public. (art. R314-66 à R314-67)](#544)
+                - [Sous-paragraphe 2 : Directeur et comptable de l'établissement public. (art. R314-66 à R314-67-1)](#544)
                 - [Sous-paragraphe 3 : Exécution du budget. (art. R314-68 à R314-74)](#545)
               - [Paragraphe 2 : Règles applicables aux établissements publics de santé gérant une activité sociale ou médico-sociale. (art. R314-75 à R314-77)](#546)
               - [Paragraphe 3 : Règles applicables aux établissements sociaux et médico-sociaux gérés par d'autres personnes morales de droit public. (art. R314-78 à R314-79)](#547)
@@ -68166,6 +68166,31 @@ _Cite_:
 
   - Code de l'action sociale et des familles - art. R314-13 (M)
   - Code de l'action sociale et des familles - art. R314-5 (V)
+
+
+###### Article R314-67-1
+
+Les régies créées par les établissements publics sociaux et médico-sociaux locaux sont soumises aux dispositions de la
+section première du chapitre VII du titre Ier du livre VI de la première partie du code général des collectivités
+territoriales (partie réglementaire).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2005-1601 du 19 décembre 2005 - art. 19 () JORF 22 décembre 2005 en vigueur le 1er mars 2006
+
+_Cité par_:
+
+  - Arrêté du 6 janvier 2014 - art. 13 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales -  Section 1 : Régies de recettes, d'avances, et d... (V)
 
 
 ##### Sous-paragraphe 3 : Exécution du budget.<a id=545></a>
