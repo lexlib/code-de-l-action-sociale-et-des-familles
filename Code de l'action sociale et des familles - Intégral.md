@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-03-04
+Version Consolidée au 2006-03-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -668,14 +668,14 @@ Version Consolidée au 2006-03-04
               - [Paragraphe 1 : Diplôme d'Etat d'assistant de service social. (art. D451-29 à R451-37)](#665)
               - [Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé. (art. D451-41 à D451-46)](#666)
               - [Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants. (art. D451-47 à D451-51)](#667)
-              - [Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé. (art. D451-52 à D451-56)](#668)
+              - [Paragraphe 4 : Diplôme d'Etat aux fonctions d'éducateur technique spécialisé. (art. D451-52 à D451-56)](#668)
               - [Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale. (art. D451-57)](#669)
               - [Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation. (art. D451-58 à D451-65)](#670)
               - [Paragraphe 7 : Diplôme d'Etat de médiateur familial. (art. R451-66 à R451-72)](#671)
               - [Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur. (art. D451-73 à D451-80)](#672)
               - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale. (art. D451-81 à D451-87)](#673)
               - [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale. (art. R451-88 à R451-93)](#674)
-              - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique. (art. R451-94)](#675)
+              - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique. (art. D451-95 à R451-94)](#675)
               - [Paragraphe 12 : Diplôme d'Etat d'assistant familial (art. D451-100 à D451-104)](#676)
     - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. R521-1 à R571-1)](#677)
       - [Titre II : Départements d'outre-mer (art. R521-1 à R523-1)](#678)
@@ -83218,7 +83218,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. D451-63 (V)
 
 
-##### Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé.<a id=668></a>
+##### Paragraphe 4 : Diplôme d'Etat aux fonctions d'éducateur technique spécialisé.<a id=668></a>
 
 ###### Article D451-52
 
@@ -83231,8 +83231,8 @@ techniques.
 
 **Nota:**
 
-Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
-CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des
+diplômes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -83247,7 +83247,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+  - Décret n°2006-255 du 2 mars 2006 - art. 2 () JORF 5 mars 2006
 
 _Cité par_:
 
@@ -83273,8 +83273,8 @@ sociales, de l'éducation et de la justice détermine les conditions d'applicati
 
 **Nota:**
 
-Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
-CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des
+diplômes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -83286,11 +83286,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
 _Modifié par_:
 
-  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+  - Décret n°2006-255 du 2 mars 2006 - art. 2 () JORF 5 mars 2006
+
+_Abrogé par_:
+
+  - Décret n°2018-734 du 22 août 2018 - art. 1
 
 _Nouveaux textes_:
 
@@ -83299,7 +83303,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L451-1 (M)
+  - Code de l'action sociale et des familles - art. L451-1
 
 
 ###### Article D451-54
@@ -83311,8 +83315,8 @@ Le même arrêté fixe la nature des épreuves préalables à la délivrance du 
 
 **Nota:**
 
-Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
-CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des
+diplômes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -83322,16 +83326,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+  - Décret n°2006-255 du 2 mars 2006 - art. 2 () JORF 5 mars 2006
+
+_Abrogé par_:
+
+  - Décret n°2018-734 du 22 août 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'action sociale et des familles
 
 _Anciens textes_:
 
   - Code de l'action sociale et des familles - art. D451-42 (M)
   - Code de l'action sociale et des familles - art. D451-42 (T)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles R451-53
 
 
 ###### Article D451-55
@@ -83358,8 +83366,8 @@ Le diplôme d'Etat d'éducateur technique spécialisé est délivré par le rect
 
 **Nota:**
 
-Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
-CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des
+diplômes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -83369,7 +83377,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+  - Décret n°2006-255 du 2 mars 2006 - art. 2 () JORF 5 mars 2006
 
 _Cite_:
 
@@ -83392,8 +83400,8 @@ d'Etat d'éducateur technique spécialisé.
 
 **Nota:**
 
-Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
-CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des
+diplômes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -83403,7 +83411,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+  - Décret n°2006-255 du 2 mars 2006 - art. 2 () JORF 5 mars 2006
+
+_Abrogé par_:
+
+  - Décret n°2018-734 du 22 août 2018 - art. 1
 
 _Anciens textes_:
 
@@ -84621,6 +84633,175 @@ _Nouveaux textes_:
 
 
 ##### Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique.<a id=675></a>
+
+###### Article D451-95
+
+Le diplôme d'Etat d'aide médico-psychologique atteste des compétences nécessaires pour exercer une fonction d'accompagnement
+et d'aide dans la vie quotidienne auprès de personnes en situation de handicap ou dont la situation nécessite une aide au
+développement ou au maintien de l'autonomie sur le plan physique, psychique ou social.
+
+Il est structuré en domaines de compétences et peut être obtenu par la voie de la formation ou, en tout ou partie, par la
+validation des acquis de l'expérience.
+
+Il est délivré par le représentant de l'Etat dans la région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 du 21 octobre 2004
+
+_Créé par_:
+
+  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-74 du 29 janvier 2016 - art. 4
+
+
+###### Article D451-96
+
+La formation préparant au diplôme d'Etat d'aide médico-psychologique comprend un enseignement théorique et une formation
+pratique dispensée au cours de stages.
+
+Cette formation est dispensée par les établissements publics ou privés ayant satisfait à l'obligation de déclaration
+préalable mentionnée à l'article L. 451-1.
+
+La durée et le contenu de la formation peuvent varier en fonction de l'expérience professionnelle et des diplômes possédés
+par les candidats.
+
+Les candidats sont soumis à des épreuves d'admission, organisées par les établissements de formation selon les modalités
+figurant dans leur règlement d'admission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 du 21 octobre 2004
+
+_Créé par_:
+
+  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+_Cité par_:
+
+  - Arrêté du 11 avril 2006 - art. 2 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2016-74 du 29 janvier 2016 - art. 4
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L451-1
+
+
+###### Article D451-97
+
+Les épreuves du diplôme comprennent des épreuves organisées en cours de formation conformément au dossier de déclaration
+préalable défini à l'article R. 451-2 en détaillant les modalités et des épreuves organisées par le représentant de l'Etat
+dans la région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-74 du 29 janvier 2016 - art. 4
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R451-2
+
+
+###### Article D451-98
+
+Le représentant de l'Etat dans la région nomme le jury du diplôme qui comprend :
+
+1° Le directeur régional des affaires sanitaires ou sociales ou son représentant, président ;
+
+2° Des formateurs issus des établissements de formation, publics ou privés, préparant au diplôme d'Etat d'aide médico-
+psychologique ;
+
+3° Des représentants de l'Etat, des collectivités publiques, des personnes qualifiées dans le champ de l'action sociale et
+médico-sociale ;
+
+4° Pour un quart au moins de ses membres, des représentants qualifiés du secteur professionnel pour moitié employeurs et pour
+moitié salariés.
+
+Ce jury peut, en tant que de besoin, se subdiviser en groupes d'examinateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article D451-99
+
+Les titulaires du certificat d'aptitude aux fonctions d'aide médico-psychologique sont titulaires de droit du diplôme d'Etat
+d'aide médico-psychologique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 du 21 octobre 2004
+
+_Créé par_:
+
+  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-74 du 29 janvier 2016 - art. 4
+
+
+###### Article D451-99-1
+
+Un arrêté du ministre chargé des affaires sociales précise les compétences professionnelles mentionnées à l'article D.
+451-94-1, les modalités d'accès à la formation, le contenu et l'organisation de cette formation ainsi que les modalités de
+certification du diplôme d'Etat d'aide médico-psychologique.
+
+**Nota:**
+
+art. D451-99-1 précedemment numéroté D451-100 par le décret n° 2006-255 du 2 mars 2006.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 du 21 octobre 2004
+
+_Créé par_:
+
+  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006 et rectificatif JORF 11 mars 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-74 du 29 janvier 2016 - art. 4
+
+_Cite_:
+
+  - Code de l'action sociale et des familles
+
 
 ###### Article R451-94
 
