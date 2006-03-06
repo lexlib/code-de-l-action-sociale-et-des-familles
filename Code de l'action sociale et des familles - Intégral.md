@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-03-05
+Version Consolidée au 2006-03-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -37398,7 +37398,7 @@ L'observatoire national de la pauvreté et de l'exclusion sociale prévu à l'ar
 
 a) Le directeur général de l'institut national de la statistique et des études économiques, ou son représentant ;
 
-b) Le commissaire général au Plan, ou son représentant ;
+b) Le directeur général du Centre d'analyse stratégique, ou son représentant ;
 
 c) Le directeur de la recherche, des études, de l'évaluation et des statistiques au ministère des affaires sociales, ou son
 représentant ;
@@ -37427,6 +37427,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-260 du 6 mars 2006 - art. 6 (Ab) JORF 7 mars 2006
 
 _Cite_:
 
