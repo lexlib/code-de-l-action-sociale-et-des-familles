@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-04-02
+Version Consolidée au 2006-04-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -87732,25 +87732,8 @@ _Codifié par_:
 
 ###### Article R532-1
 
-Outre le préfet ou son représentant, la commission territoriale de l'éducation spéciale mentionnée à l'article L. 242-2 est
-composée à Saint-Pierre-et-Miquelon de sept membres nommés par le préfet, pour une période de trois ans renouvelable et
-choisis ainsi qu'il suit :
-
-1° Un médecin désigné par le préfet ;
-
-2° Un médecin proposé par la caisse de prévoyance sociale ;
-
-3° Le chef de service de l'éducation nationale de Saint-Pierre-et-Miquelon ;
-
-4° Une personne proposée en raison de sa compétence par le chef de service de l'éducation nationale ;
-
-5° Un représentant de la caisse de prévoyance sociale ;
-
-6° Une personne proposée par les associations de parents d'élèves et les associations des familles des enfants et adolescents
-handicapés.
-
-Un suppléant de chacun de ces membres est également nommé par le préfet dans les mêmes conditions. Il remplace le membre
-titulaire en cas d'absence de ce dernier.
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 146-18, l'Etat désigne un représentant à la commission
+exécutive de la maison territoriale des personnes handicapées.
 
 **Liens relatifs à cet article**
 
@@ -87763,18 +87746,23 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-414 du 6 avril 2006 - art. 1 () JORF 8 avril 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L242-2 (Ab)
+  - Code de l'action sociale et des familles - art. R146-18 (V)
 
 
 ###### Article R532-2
 
-La commission se réunit sur convocation de son président. En cas de partage des voix, celle du président est prépondérante.
+Pour l'application à Saint-Pierre-et-Miquelon du premier alinéa de l'article R. 146-27, l'équipe pluridisciplinaire réunit
+des professionnels ayant des compétences médicales et des compétences dans les domaines du travail social, de la formation
+scolaire et universitaire, de l'emploi et de la formation professionnelle.
 
-La commission peut appeler à participer occasionnellement à ses travaux à titre consultatif toutes les personnes susceptibles
-de l'éclairer. Elle peut consulter des spécialistes extérieurs et faire procéder, s'il y a lieu, à toutes investigations
-complémentaires.
+Le directeur de la maison territoriale des personnes handicapées peut faire appel à d'autres compétences ou professionnels, y
+compris hors de la collectivité territoriale, en fonction de la nature de la demande et du handicap de la personne.
 
 **Liens relatifs à cet article**
 
@@ -87788,12 +87776,20 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-414 du 6 avril 2006 - art. 1 () JORF 8 avril 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R146-27 (V)
+
 
 ###### Article R532-3
 
-Le secrétaire de la commission est nommé par le préfet. Il instruit les dossiers, recueille les avis nécessaires et présente
-la synthèse de ses travaux à la commission qui statue. Il informe les familles ou les personnes qui ont la charge effective
-de l'enfant ou de l'adolescent.
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 146-30, les mots : "directeur départemental du travail, de
+l'emploi et de la formation professionnelle" sont remplacés par les mots : "chef du service du travail, de l'emploi et de la
+formation professionnelle".
 
 **Liens relatifs à cet article**
 
@@ -87806,6 +87802,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-414 du 6 avril 2006 - art. 1 () JORF 8 avril 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R146-30 (V)
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R262-25 (V)
@@ -87813,9 +87817,37 @@ _Cité par_:
 
 ###### Article R532-4
 
-La commission est saisie soit par les parents de l'enfant handicapé ou par les personnes qui en ont la charge effective, soit
-par la caisse de prévoyance sociale, soit par le chef de l'établissement scolaire fréquenté par l'enfant, soit par le préfet
-ou par l'autorité responsable de tout centre, établissement ou service médical ou social intéressé.
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 241-24, la composition de la commission des droits et de
+l'autonomie des personnes handicapées comprend les membres suivants :
+
+1° Deux représentants de la collectivité territoriale de Saint-Pierre-et-Miquelon désignés par le président du conseil
+général ;
+
+2° Trois représentants des services de l'Etat, dont deux titulaires et un suppléant choisis parmi :
+
+a) Le chef du service du travail, de l'emploi et de la formation professionnelle ou son représentant ;
+
+b) Le chef du service des affaires sanitaires et sociales ou son représentant ;
+
+c) Le chef du service de l'éducation nationale ou son représentant ;
+
+3° Un représentant de la caisse de prévoyance sociale proposé par le chef du service des affaires sanitaires et sociales ;
+
+4° Deux représentants des organisations syndicales proposés par le chef du service du travail, de l'emploi et de la formation
+professionnelle, d'une part, parmi les personnes présentées par les organisations professionnelles d'employeurs
+représentatives, d'autre part, parmi les personnes présentées par les organisations syndicales de salariés et de
+fonctionnaires les plus représentatives ;
+
+5° Un représentant des associations de parents d'élèves, sur proposition du chef du service de l'éducation nationale, parmi
+les personnes présentées par ces associations ;
+
+6° Trois membres proposés par le chef du service des affaires sanitaires et sociales parmi les personnes présentées par les
+associations de personnes handicapées et de leurs familles et un membre du conseil territorial consultatif des personnes
+handicapées désigné par ce conseil ;
+
+7° Un représentant des organismes gestionnaires d'établissements ou de services pour enfants, adolescents et adultes
+handicapés, proposé par le chef du service des affaires sanitaires et sociales parmi les personnes présentées par les
+organismes gestionnaires d'établissements ou de services de la collectivité territoriale de Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -87828,6 +87860,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-414 du 6 avril 2006 - art. 1 () JORF 8 avril 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R241-24 (V)
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R532-5 (M)
@@ -87835,12 +87875,8 @@ _Cité par_:
 
 ###### Article R532-5
 
-Les décisions de la commission indiquent dans chaque cas le délai dans lequel elles sont révisées sans que ce délai puisse
-excéder cinq ans.
-
-Elles sont notifiées dans le délai d'un mois aux parents ou aux personnes ayant la charge effective de l'enfant, à la caisse
-de prévoyance sociale, à l'établissement ou au service vers lequel l'enfant est orienté ainsi que, le cas échéant, à la
-personne, à l'organisme ou au service qui a saisi la commission.
+Pour l'application de l'article R. 241-27, les membres de la commission mentionnée au R. 532-4 ont voix délibérative, à
+l'exception du représentant mentionné au 7° qui n'a qu'une voix consultative.
 
 **Liens relatifs à cet article**
 
@@ -87852,6 +87888,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-414 du 6 avril 2006 - art. 1 () JORF 8 avril 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R241-27 (V)
+  - Code de l'action sociale et des familles - art. R532-4 (M)
 
 
 #### Chapitre IV : Adoption<a id=700></a>
