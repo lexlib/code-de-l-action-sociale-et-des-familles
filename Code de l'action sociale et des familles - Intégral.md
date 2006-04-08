@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-04-08
+Version Consolidée au 2006-04-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -434,7 +434,7 @@ Version Consolidée au 2006-04-08
           - [Section 1 : Dispositif départemental d'insertion (art. R263-1)](#431)
           - [Section 4 : Personnes bénéficiaires de l'allocation de parent isolé (art. R263-2)](#432)
     - [Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services (art. D311 à R351-41)](#433)
-      - [Titre Ier : Etablissements et services soumis à autorisation (art. D311 à D316-4)](#434)
+      - [Titre Ier : Etablissements et services soumis à autorisation (art. D311 à R316-7)](#434)
         - [Chapitre Ier : Dispositions générales (art. D311 à D311-38)](#435)
           - [Section 1 : Missions (art. D311)](#436)
           - [Section 2 : Droit des usagers (art. R311-1 à D311-38)](#437)
@@ -528,13 +528,13 @@ Version Consolidée au 2006-04-08
             - [Sous-section 1 : Dispositions générales relatives à la comptabilité, au budget et à la tarification (art. R314-4 à R314-63)](#525)
               - [Paragraphe 1 : Principes comptables et budgétaires généraux. (art. R314-4 à R314-8)](#526)
               - [Paragraphe 2 : Présentation budgétaire. (art. R314-9 à R314-13)](#527)
-              - [Paragraphe 3 : Fixation du tarif (art. R314-14 à R314-43)](#528)
+              - [Paragraphe 3 : Fixation du tarif (art. R314-14 à R314-43-1)](#528)
                 - [Sous-paragraphe 1 : Etablissement des propositions budgétaires. (art. R314-14 à R314-20)](#529)
                 - [Sous-paragraphe 2 : Transmission des propositions budgétaires et procédure contradictoire. (art. R314-21 à R314-25)](#530)
                 - [Sous-paragraphe 3 : Dépenses pouvant être prises en charge (art. R314-26 à R314-27)](#531)
                 - [Sous-paragraphe 4 : Tableaux de bord. (art. R314-28 à R314-33)](#532)
                 - [Sous-paragraphe 5 : Décision d'autorisation budgétaire et de tarification. (art. R314-34 à R314-38)](#533)
-                - [Sous-paragraphe 6 : Fixation pluriannuelle du budget. (art. R314-39 à R314-43)](#534)
+                - [Sous-paragraphe 6 : Fixation pluriannuelle du budget. (art. R314-39 à R314-43-1)](#534)
               - [Paragraphe 4 : Exécution du budget (art. R314-44 à R314-55)](#535)
                 - [Sous-paragraphe 1 : Modifications budgétaires et gestion financière en cours d'exercice. (art. R314-44 à R314-48)](#536)
                 - [Sous-paragraphe 2 : Compte administratif de clôture. (art. R314-49 à R314-55)](#537)
@@ -552,9 +552,9 @@ Version Consolidée au 2006-04-08
               - [Paragraphe 4 : Règles applicables aux établissements et services gérés par des personnes morales de droit privé à but non lucratif (art. R314-80 à R314-100)](#549)
                 - [Sous-paragraphe 1 : Champ d'application et principes budgétaires et comptables. (art. R314-80 à R314-84)](#550)
                 - [Sous-paragraphe 2 : Dépenses autorisées. (art. R314-85 à R314-86)](#551)
-                - [Sous-paragraphe 3 : Frais de siège. (art. R314-87 à R314-94)](#552)
+                - [Sous-paragraphe 3 : Frais de siège. (art. R314-87 à R314-94-1)](#552)
                 - [Sous-paragraphe 4 : Gestion financière. (art. R314-95 à R314-96)](#553)
-                - [Sous-paragraphe 5 : Fermeture de l'établissement ou du service. (art. R314-97 à R314-98)](#554)
+                - [Sous-paragraphe 5 : Cessation d'activité ou fermeture de l'établissement ou du service (art. R314-97 à R314-98)](#554)
                 - [Sous-paragraphe 6 : Contrôle et évaluation. (art. R314-99 à R314-100)](#555)
               - [Paragraphe 5 : Règles applicables aux établissements et services gérés par des organismes à but lucratif ou non habilités à recevoir des bénéficiaires de l'aide sociale. (art. R314-101 à R314-104)](#556)
             - [Sous-section 3 : Principes de financement et modalités de versement (art. R314-105 à R314-117)](#557)
@@ -601,8 +601,8 @@ Version Consolidée au 2006-04-08
               - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement. (art. D315-64 à R315-63)](#598)
               - [Paragraphe 4 : Moyens de fonctionnement. (art. R315-65 à R315-66)](#599)
             - [Sous-section 4 : Délégations. (art. D315-67 à D315-71)](#600)
-        - [Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation (art. D316-1 à D316-4)](#601)
-          - [Section unique : Lieux de vie et d'accueil (art. D316-1 à D316-4)](#602)
+        - [Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation (art. D316-1 à R316-7)](#601)
+          - [Section unique : Lieux de vie et d'accueil (art. D316-1 à R316-7)](#602)
       - [Titre II : Etablissements soumis à déclaration (art. R321-1 à R322-7)](#603)
         - [Chapitre Ier : Accueil de mineurs. (art. R321-1 à R321-9)](#604)
         - [Chapitre II : Accueil d'adultes. (art. R322-1 à R322-7)](#605)
@@ -615,7 +615,7 @@ Version Consolidée au 2006-04-08
         - [Chapitre Ier : Pouponnières. (art. D341-1 à D341-7)](#612)
         - [Chapitre II : Hébergement de personnes âgées. (art. R342-1)](#613)
         - [Chapitre IV : Centres pour handicapés adultes (art. R344-1 à D344-39)](#614)
-          - [Section 1 : Maisons d'accueil spécialisées. (art. R344-1 à R344-3)](#615)
+          - [Section 1 : Maisons d'accueil spécialisées. (art. R344-1 à R344-2)](#615)
           - [Section 2 : Centres d'aide par le travail (art. R344-6 à D344-28)](#616)
             - [Sous-section 1 : Dispositions générales. (art. R344-6 à R344-19)](#617)
             - [Sous-section 2 : Exercice d'une activité extérieure. (art. D344-20 à D344-28)](#618)
@@ -66255,26 +66255,29 @@ _Cite_:
 
 Dans les établissements mentionnés au II de l'article L. 313-12, si les financements alloués ont couvert des dépenses sans
 rapport avec celles pour lesquelles ils étaient prévus ou si l'établissement n'est pas en mesure de justifier de leur emploi,
-il est procédé à leur reversement.
+il est procédé à leur reversement. 
 
-Toutefois, pour les établissements mentionnés à l'article L. 342-1, et avec l'accord de l'autorité de tarification, les
-sommes concernées peuvent être imputées sur les ressources destinées à financer, pour les exercices suivants, les dépenses
-afférentes aux soins.
+Toutefois, dans ces établissements, avec l'accord de l'autorité de tarification, les sommes concernées peuvent être affectées
+selon les dispositions prévues au troisième alinéa de l'article R. 314-104.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2004-1136 du 21 octobre 2004
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+  - Décret n°2006-422 du 7 avril 2006 - art. 24 () JORF 9 avril 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1814 du 21 décembre 2016 - art. 1
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L313-12 (M)
-  - Code de l'action sociale et des familles - art. L342-1 (M)
+  - Code de l'action sociale et des familles - art. L313-12
+  - Code de l'action sociale et des familles - art. R314-104
 
 
 ##### Section 4 : Contrôle<a id=521></a>
@@ -66991,17 +66994,18 @@ _Cite_:
 
 ###### Article R314-13
 
-I. - Les documents relatifs à la présentation, au vote et au contrôle du budget doivent être conformes aux modèles fixés par
-arrêté du ministre chargé de l'action sociale.
+I.-Les documents relatifs à la présentation, au vote et au contrôle du budget doivent être conformes aux modèles fixés par
+arrêté du ministre chargé de l'action sociale. 
 
 Les modalités de transmission de ces documents, y compris par voie électronique, peuvent être fixées par arrêté du même
-ministre.
+ministre. 
 
-II. - Le budget général, et le cas échéant le budget principal et les budgets annexes, font l'objet d'une présentation par
-groupes fonctionnels conformes à la nomenclature fixée en application du deuxième alinéa de l'article L. 315-15.
+II.-A l'exception des budgets des établissements privés qui relèvent du I de l'article L. 313-12 le budget général, et le cas
+échéant le budget principal et les budgets annexes, font l'objet d'une présentation par groupes fonctionnels conformes à la
+nomenclature fixée en application du deuxième alinéa de l'article L. 315-15. 
 
-Les budgets des établissements mentionnés au I de l'article L. 313-12 sont, en outre, présentés par sections d'imputation
-tarifaire, conformément aux dispositions de l'article R. 314-162.
+Les budgets des établissements mentionnés au I de l'article L. 313-12 sont présentés par sections d'imputation tarifaire,
+conformément aux dispositions de l'article R. 314-162.
 
 **Liens relatifs à cet article**
 
@@ -67013,6 +67017,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 1 () JORF 9 avril 2006
 
 _Cité par_:
 
@@ -67028,9 +67036,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L313-12 (M)
-  - Code de l'action sociale et des familles - art. L315-15 (M)
-  - Code de l'action sociale et des familles - art. R314-162 (M)
+  - Code de l'action sociale et des familles - art. L313-12 (V)
+  - Code de l'action sociale et des familles - art. L315-15 (V)
+  - Code de l'action sociale et des familles - art. R314-162 (V)
 
 
 ##### Paragraphe 3 : Fixation du tarif<a id=528></a>
@@ -67146,22 +67154,22 @@ service prévoit un tel classement ;
 4° Le bilan comptable de l'établissement ou du service, relatif au dernier exercice clos ;
 
 5° Les données nécessaires au calcul des indicateurs applicables à l'établissement ou au service mentionnés à l'article R.
-314-28, pour le dernier exercice clos et pour l'exercice prévisionnel ;
+314-28, pour l'exercice prévisionnel ;
 
 II. - Sont également joints, le cas échéant :
 
-1° Le tableau prévisionnel de remboursement des emprunts ;
+1°  Le plan pluriannuel de financement actualisé, présenté conformément à un modèle fixé par arrêté du ministre chargé de
+l'action sociale ;
 
-2° Les projets d'investissement du futur exercice ;
+2° Le tableau de répartition des charges et produits communs mentionné au II de l'article R. 314-10 ;
 
-3° Les plans pluriannuels de financement en cours ou projetés, présentés conformément à un modèle fixé par arrêté du ministre
-chargé de l'action sociale ;
-
-4° Le tableau de répartition des charges et produits communs mentionné au II de l'article R. 314-10 ;
-
-5° Dans le cas où l'une des activités de l'établissement ou du service, représentant plus de 20 % de sa capacité, justifie
+3° Dans le cas où l'une des activités de l'établissement ou du service, représentant plus de 20 % de sa capacité, justifie
 que soient connues ses conditions particulières d'exploitation, les informations mentionnées au 5° du I ci-dessus qui
 décrivent spécifiquement cette activité.
+
+Les établissements et services sociaux et médico-sociaux dont l'actif immobilisé brut est inférieur à deux fois le montant
+fixé en application du premier alinéa de l'article L. 612-4 du code de commerce ne sont pas tenus d'établir un plan
+pluriannuel d'investissement prévu à l'article R. 314-20.
 
 **Liens relatifs à cet article**
 
@@ -67173,6 +67181,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 2 () JORF 9 avril 2006
 
 _Cité par_:
 
@@ -67196,7 +67208,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles annexe, R314-18, R314-19, R314-28, R314-10
+  - Code de commerce. - art. L612-4 (M)
+  - Code de l'action sociale et des familles annexe, R314-18, R314-19, R314-28, R314-10, R314-20
 
 
 ###### Article R314-18
@@ -67464,25 +67477,25 @@ _Cite_:
 
 ###### Article R314-24
 
-I. - Les propositions de modifications budgétaires mentionnées à l'article R. 314-22 peuvent être formulées à l'établissement
-ou au service par plusieurs courriers successifs. Ceux-ci doivent lui être transmis au plus tard douze jours avant la
-notification de la décision tarifaire.
+I.-Les propositions de modifications budgétaires mentionnées à l'article R. 314-22 peuvent être formulées à l'établissement
+ou au service par plusieurs courriers successifs. Ceux-ci doivent lui être transmis au plus tard douze jours avant
+l'expiration des délais prévus à l'article R. 314-36. 
 
-II. - Dans un délai de huit jours après réception de chaque courrier, l'établissement ou le service doit faire connaître son
-éventuel désaccord avec la proposition de l'autorité de tarification.
+II.-Dans un délai de huit jours après réception de chaque courrier, l'établissement ou le service doit faire connaître son
+éventuel désaccord avec la proposition de l'autorité de tarification. 
 
 L'établissement ou le service motive ce désaccord de manière circonstanciée, en indiquant notamment les raisons qui rendent
 impossible, selon lui, le respect du niveau de recettes ou de dépenses que l'autorité de tarification se propose de retenir.
-A ce titre, il indique :
+A ce titre, il indique : 
 
 1° Pour les dépenses de personnel, en quoi les projets de promotion ou d'augmentation catégorielle de l'établissement ou du
 service sont insusceptibles d'être adaptés pour assurer le respect du niveau de dépenses que l'autorité de tarification se
-propose de retenir ;
+propose de retenir ; 
 
 2° Pour les autres dépenses, les raisons qui rendent impossible toute modification de ses propositions budgétaires visant à
-les rendre compatibles avec le montant total de dépenses que l'autorité de tarification se propose de retenir.
+les rendre compatibles avec le montant total de dépenses que l'autorité de tarification se propose de retenir. 
 
-III. - A défaut de réponse apportée dans les conditions et délai mentionnés au II, l'établissement ou le service est réputé
+III.-A défaut de réponse apportée dans les conditions et délai mentionnés au II, l'établissement ou le service est réputé
 avoir approuvé la modification proposée par l'autorité de tarification.
 
 **Liens relatifs à cet article**
@@ -67496,13 +67509,17 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'action sociale et des familles - art. R314-22 (V)
+  - Décret n°2006-422 du 7 avril 2006 - art. 3 () JORF 9 avril 2006
 
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R314-33 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R314-36 (V)
 
 
 ###### Article R314-25
@@ -67568,7 +67585,10 @@ la santé publique ;
 du I de l'article L. 312-1 ;
 
 8° Les frais liés aux actions de prévention en santé publique, à l'exception des actes et traitements mentionnés au 6° de
-l'article L. 321-1 du code de la sécurité sociale.
+l'article L. 321-1 du code de la sécurité sociale ;
+
+9° Les dotations aux amortissements et aux provisions pour congés à payer et charges sociales et fiscales y afférents, dont
+les modalités ne respectent pas les règles de l'instruction comptable des établissements publics sociaux et médico-sociaux.
 
 **Liens relatifs à cet article**
 
@@ -67580,6 +67600,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 4 () JORF 9 avril 2006
 
 _Cite_:
 
@@ -67728,19 +67752,19 @@ _Cite_:
 
 ###### Article R314-30
 
-I. - L'autorité de tarification procède, pour chaque établissement ou service, au calcul de la valeur des indicateurs qui lui
+I.-L'autorité de tarification procède, pour chaque établissement ou service, au calcul de la valeur des indicateurs qui lui
 sont applicables, sur la base des données transmises en application du 5° du I de l'article R. 314-17 lors des propositions
-budgétaires.
+budgétaires et du 6° de l'article R. 314-49 à la clôture de l'exercice. 
 
 Elle procède, à cette fin, à tous les contrôles nécessaires sur l'exactitude et la cohérence des données transmises, et
-effectue d'office les redressements nécessaires.
+effectue d'office les redressements nécessaires. 
 
 Ces redressements sont indiqués à l'établissement ou au service si l'autorité de tarification fait usage de l'indicateur dans
-le cadre du la procédure contradictoire de fixation du tarif, conformément au 7° de l'article R. 314-23.
+le cadre du la procédure contradictoire de fixation du tarif, conformément au 7° de l'article R. 314-23. 
 
-II. - Si l'établissement ou le service a, à bon droit, transmis les données relatives à l'une de ses activités au titre du 5°
-du II de l'article R. 314-17, l'autorité de tarification procède au calcul des indicateurs correspondants dans les conditions
-décrites au I.
+II.-Si l'établissement ou le service a, à bon droit, transmis les données relatives à l'une de ses activités au titre du 5°
+du II de l'article R. 314-17 et du 6° de l'article R. 314-49, l'autorité de tarification procède au calcul des indicateurs
+correspondants dans les conditions décrites au I. 
 
 Elle tient compte de ces indicateurs particuliers dans les propositions de modifications budgétaires qu'elle présente sur le
 fondement du 7° de l'article R. 314-23.
@@ -67756,6 +67780,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 5 () JORF 9 avril 2006
+
 _Cité par_:
 
   - Arrêté du 28 novembre 2013 - art. 6 (V)
@@ -67763,15 +67791,20 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R314-17 (M)
+  - Code de l'action sociale et des familles - art. R314-17 (V)
+  - Code de l'action sociale et des familles - art. R314-49 (V)
 
 
 ###### Article R314-31
 
 Pour chaque catégorie d'établissement ou service dont la tarification relève exclusivement ou conjointement de l'Etat, le
 préfet de région rend publiques, chaque année, les valeurs moyennes et médianes des indicateurs du tableau de bord, calculées
-sur la base des derniers budgets exécutoires et des derniers résultats approuvés, dans le ressort de la région et de chacun
-des départements qui la composent.
+sur la base des comptes du dernier exercice clos, dans le ressort de la région et de chacun des départements qui la
+composent.
+
+Les données relatives au calcul des indicateurs des établissements ou services dont l'autorité de tarification ne fait pas
+usage en application du dernier alinéa de l'article R. 314-32 ne sont pas intégrées dans le calcul des valeurs moyennes et
+médianes.
 
 Le ministre chargé de l'action sociale rend publiques, dans les mêmes conditions, les valeurs moyennes et médianes nationales
 des tableaux de bord pour les catégories d'établissements ou services qui font l'objet d'un schéma d'organisation national,
@@ -67796,6 +67829,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 6 () JORF 9 avril 2006
+
 _Cité par_:
 
   - Arrêté du 19 avril 2006 - art. 4 (V)
@@ -67808,6 +67845,7 @@ _Cite_:
 
   - Code de l'action sociale et des familles - art. L312-5 (M)
   - Code de l'action sociale et des familles - art. R314-29 (V)
+  - Code de l'action sociale et des familles - art. R314-32 (V)
   - Code de l'action sociale et des familles - art. R314-33 (M)
 
 
@@ -67955,8 +67993,8 @@ _Cite_:
 
 ###### Article R314-36
 
-I. - La décision d'autorisation budgétaire et de tarification est notifiée par l'autorité de tarification à l'établissement
-ou au service dans un délai de 60 jours qui court à compter :
+I. - La décision d'autorisation budgétaire est notifiée par l'autorité de tarification à l'établissement ou au service dans
+un délai de 60 jours qui court à compter :
 
 1° De la publication de l'arrêté fixant les dotations régionales limitatives en application de l'article L. 314-3, pour les
 établissements et services financés en tout ou partie par l'assurance maladie ;
@@ -67993,6 +68031,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 7 () JORF 9 avril 2006
+
 _Cité par_:
 
   - Arrêté du 7 août 2009 - art. 3 (V)
@@ -68018,11 +68060,18 @@ _Cite_:
 
 ###### Article R314-37
 
-Dès qu'il reçoit notification de la décision d'autorisation budgétaire et de tarification, l'établissement ou le service
-établit, conformément aux montants fixés par cette décision, dans le respect des formes prévues au paragraphe 2 de la
-présente sous-section et des règles de l'équilibre réel fixées à l'article R. 314-15, un budget exécutoire.
+I.-Dès qu'il reçoit notification de l'arrêté de tarification ou, en cas de tarifications multiples, du dernier arrêté de
+tarification, l'établissement public établit, conformément aux montants fixés par ces arrêtés, dans le respect des formes
+prévues au paragraphe 2 de la présente sous-section, un budget exécutoire ou un budget exécutoire modificatif. 
 
-Ce budget exécutoire est transmis sans délai, pour information, à l'autorité de tarification.
+Ce budget est communiqué à l'autorité de tarification dans les trente jours qui suivent la notification de l'arrêté de
+tarification. 
+
+II.-Le budget exécutoire d'un établissement privé est communiqué à l'autorité de tarification en cours d'exercice lorsqu'il
+procède à des virements de crédits entre groupes fonctionnels en application du dernier alinéa de l'article R. 314-44 ou
+lorsqu'il propose une décision budgétaire modificative en application du III de l'article R. 314-46. 
+
+Dans les autres cas, il est transmis avec les propositions budgétaires de l'exercice suivant.
 
 **Liens relatifs à cet article**
 
@@ -68035,9 +68084,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 8 () JORF 9 avril 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R314-15 (V)
+  - Code de l'action sociale et des familles - art. R314-44 (V)
+  - Code de l'action sociale et des familles - art. R314-46 (V)
 
 _Cité par_:
 
@@ -68201,26 +68255,16 @@ _Cite_:
 
 ###### Article R314-42
 
-I. - Si le volet financier du contrat ou de la convention mentionnés à l'article R. 314-40 stipule que la tarification de
+I.-Si le volet financier du contrat ou de la convention mentionnés à l'article R. 314-40 stipule que la tarification de
 l'établissement ou du service est intégralement fixée selon l'une des modalités mentionnées au 1° ou 2° du même article, le
 contrat ou la convention peuvent prévoir que la fixation annuelle du tarif n'est pas soumise à la procédure contradictoire
-définie au sous-paragraphe 2 du paragraphe 3 de la présente sous-section.
+définie au sous-paragraphe 2 du paragraphe 3 de la présente sous-section. 
 
 Le contrat ou la convention indique alors ceux des documents mentionnés aux articles R. 314-14 et R. 314-17 que
 l'établissement ou le service doit transmettre chaque année à l'autorité de tarification, et les délais dans lesquels cette
-transmission doit avoir lieu.
+transmission doit avoir lieu. 
 
-Chaque année, après avoir recueilli l'avis de la caisse régionale d'assurance maladie, l'autorité de tarification fixe le
-tarif de l'année dans le délai prévu par le contrat ou la convention, lequel ne peut excéder le délai mentionné à l'article
-R. 314-36.
-
-II. - Même si le contrat ou la convention a prévu la dérogation mentionnée au I, l'établissement ou le service conserve la
-faculté de demander que son tarif soit établi dans le cadre de la procédure contradictoire du sous-paragraphe 2 du paragraphe
-3 de la présente sous-section, en formulant cette demande dans le cadre d'un dépôt de propositions budgétaires effectué dans
-les conditions et délais mentionnés à l'article R. 314-3.
-
-Un tel dépôt vaut toutefois renoncement de sa part, pour l'avenir, au bénéfice des stipulations du contrat ou de la
-convention.
+II. (Abrogé).
 
 **Liens relatifs à cet article**
 
@@ -68233,13 +68277,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 30 () JORF 9 avril 2006
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. R314-14 (V)
-  - Code de l'action sociale et des familles - art. R314-17 (M)
-  - Code de l'action sociale et des familles - art. R314-3 (V)
-  - Code de l'action sociale et des familles - art. R314-36 (M)
-  - Code de l'action sociale et des familles - art. R314-40 (V)
+  - Code de l'action sociale et des familles - art. R314-17 (V)
 
 _Cité par_:
 
@@ -68250,8 +68295,9 @@ _Cité par_:
 ###### Article R314-43
 
 Lorsqu'ils font application des dispositions du I de l'article R. 314-42, le contrat ou la convention peuvent prévoir, par
-dérogation au I de l'article R. 314-51, que l'affectation des résultats est librement décidée par l'établissement ou le
-service, dans le respect des règles fixées aux II, III et IV du même article.
+dérogation au I de l'article R. 314-51 et à l'article R. 314-104, que l'affectation des résultats est librement décidée par
+l'établissement ou le service, dans le respect des règles fixées aux II, III et IV de l'article R. 314-51 ou de l'article R.
+314-104.
 
 **Liens relatifs à cet article**
 
@@ -68264,10 +68310,52 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 9 () JORF 9 avril 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R314-42 (M)
-  - Code de l'action sociale et des familles - art. R314-51 (M)
+  - Code de l'action sociale et des familles - art. R314-104 (V)
+  - Code de l'action sociale et des familles - art. R314-51 (V)
+
+
+###### Article R314-43-1
+
+Dans le cadre des contrats mentionnés à l'article L. 313-11, la fixation pluriannuelle du montant global des dépenses nettes
+autorisées peut être commune à plusieurs établissements et services, gérés par la même personne morale et relevant de la même
+autorité de tarification et des mêmes financements. 
+
+Ce budget pluriannuel peut prendre la forme d'une dotation globalisée pour ces établissements et services. Elle est versée
+dans les conditions prévues aux articles R. 314-107 et R. 314-108 ou R. 314-111 et R. 314-112 ou R. 314-115 à R. 314-117. 
+
+L'arrêté de tarification fixe chaque année le montant de la dotation globalisée ainsi que sa répartition prévisionnelle entre
+les différents établissements et services concernés. En cours d'exercice budgétaire, il peut être procédé par décisions
+modificatives des établissements et services concernés à une nouvelle répartition de la dotation globalisée, dans la limite
+de ce montant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 10 () JORF 9 avril 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L313-11 (V)
+  - Code de l'action sociale et des familles - art. R314-107 (V)
+  - Code de l'action sociale et des familles - art. R314-111 (V)
+  - Code de l'action sociale et des familles - art. R314-115 (V)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R314-88 (V)
+  - Code de la sécurité sociale. - art. R174-16-1 (VD)
+  - Code de la sécurité sociale. - art. R174-9 (VD)
 
 
 ##### Paragraphe 4 : Exécution du budget<a id=535></a>
@@ -68344,34 +68432,35 @@ _Cite_:
 
 ###### Article R314-46
 
-I. - Les décisions budgétaires modificatives, au sens du présent chapitre, visent à financer des charges nouvelles ou plus
-importantes que celles prévues au budget exécutoire par des recettes nouvelles ou plus importantes.
+I.-Les décisions budgétaires modificatives, au sens du présent chapitre, visent à financer des charges nouvelles ou plus
+importantes que celles prévues au budget exécutoire par des recettes nouvelles ou plus importantes. 
 
-II. - Les décisions budgétaires modificatives dont le financement ne fait pas appel aux produits de la tarification sont
-transmises à l'autorité de tarification avant leur mise en oeuvre. Elles ne sont pas soumises à son approbation.
+II.-Les décisions budgétaires modificatives dont le financement ne fait pas appel aux produits de la tarification sont
+transmises à l'autorité de tarification avant leur mise en oeuvre. Elles ne sont pas soumises à son approbation. 
 
 Les décisions budgétaires modificatives dont le financement suppose une révision du tarif de l'exercice sont soumises à
 l'approbation de l'autorité de tarification. L'accord de cette dernière est réputé acquis à défaut de notification d'une
-réponse de sa part dans un délai de 60 jours suivant le dépôt de la demande.
+réponse de sa part dans un délai de 60 jours suivant le dépôt de la demande. 
 
-III. - Les décisions budgétaires modificatives ne peuvent être approuvées que :
+III.-Les décisions budgétaires modificatives ne peuvent être approuvées que : 
 
 1° En cas de modification importante et imprévisible des conditions économiques, de nature à provoquer un accroissement
-substantiel des charges ;
+substantiel des charges ; 
 
 2° En cas de modification importante du profil des personnes accueillies par l'établissement ou le service, appréciée et
 évaluée selon des critères médicaux et économiques, notamment au regard des groupes iso-ressources mentionnés au 2° du I de
-l'article R. 314-17 ;
+l'article R. 314-17 ; 
 
-3° En cas de modification importante et imprévisible de l'activité ;
+3° En cas de modification importante et imprévisible de l'activité ; 
 
-4° En cas de réalisation d'une étude demandée sur le fondement de l'article R. 314-61.
+4° En cas de réalisation d'une étude demandée sur le fondement de l'article R. 314-61. 
 
-IV. - A la suite d'une approbation, tacite ou expresse, de la demande de décision budgétaire modificative, l'autorité de
-tarification modifie le tarif dans un délai de quinze jours.
+IV.-A la suite d'une approbation, tacite ou expresse, de la demande de décision budgétaire modificative, l'autorité de
+tarification modifie le tarif dans un délai de quinze jours. 
 
-V. - Aucune décision budgétaire modificative ne peut être sollicitée par l'établissement ou le service après le 31 octobre de
-l'exercice auquel elle se rapporte.
+V.-Après accord de l'autorité de tarification, l'établissement ou le service peut cependant solliciter une décision
+budgétaire modificative entraînant une révision des tarifs de prestations après le 31 octobre de l'exercice auquel elle se
+rapporte.
 
 **Liens relatifs à cet article**
 
@@ -68384,10 +68473,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 11 () JORF 9 avril 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R314-17 (M)
-  - Code de l'action sociale et des familles - art. R314-61 (M)
+  - Code de l'action sociale et des familles - art. R314-17 (V)
+  - Code de l'action sociale et des familles - art. R314-61 (V)
 
 _Cité par_:
 
@@ -68400,14 +68493,16 @@ _Cité par_:
 ###### Article R314-47
 
 L'autorité de tarification peut, en cours d'exercice budgétaire et par décision motivée, modifier d'office le montant
-approuvé des groupes fonctionnels ou des sections tarifaires dans les trois cas suivants :
+approuvé des groupes fonctionnels ou des sections tarifaires dans les cas suivants : 
 
-1° La modification, postérieurement à la fixation du tarif, de l'objectif national des dépenses d'assurance maladie ;
+1° La modification, postérieurement à la fixation du tarif, de l'objectif national des dépenses d'assurance maladie ; 
 
 2° La modification, postérieurement à la fixation du tarif, des dotations limitatives mentionnées aux articles L. 313-8, L.
-314-3 et L. 314-4 ;
+314-3 et L. 314-4 ; 
 
-3° La prise en compte d'une décision du juge du tarif.
+3° La prise en compte d'une décision du juge du tarif ; 
+
+4° En cas d'affectation des résultats dès l'exercice en cours, en application du 1° du II ou du III de l'article R. 314-51. 
 
 Dès la notification du nouveau montant des groupes fonctionnels ou sections tarifaires approuvés et de la valeur
 correspondante du tarif, l'établissement ou le service établit et transmet, conformément aux dispositions de l'article R.
@@ -68424,12 +68519,16 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 11 () JORF 9 avril 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L313-8 (M)
-  - Code de l'action sociale et des familles - art. L314-3 (M)
-  - Code de l'action sociale et des familles - art. L314-4 (M)
-  - Code de l'action sociale et des familles - art. R314-37 (M)
+  - Code de l'action sociale et des familles - art. L313-8 (V)
+  - Code de l'action sociale et des familles - art. L314-3 (V)
+  - Code de l'action sociale et des familles - art. R314-37 (V)
+  - Code de l'action sociale et des familles - art. R314-51 (V)
 
 
 ###### Article R314-48
@@ -68499,7 +68598,10 @@ et un état des échéances des dettes et des créances ;
 4° L'état réalisé de la section d'investissement ;
 
 5° Les documents mentionnés aux 2° et 3° du I de l'article R. 314-17, ainsi que, le cas échéant, les documents mentionnés au
-3° et 4° du II du même article, actualisés au 31 décembre de l'exercice.
+3° et 4° du II (1) du même article, actualisés au 31 décembre de l'exercice ;
+
+6° Les données de ce dernier exercice clos nécessaires au calcul des indicateurs applicables à l'établissement et au service
+mentionnés à l'article R. 314-28.
 
 II. - Le compte administratif est transmis à l'autorité de tarification avant le 30 avril de l'année qui suit celle de
 l'exercice. Il est accompagné du rapport d'activité mentionné à l'article R. 314-50.
@@ -68509,6 +68611,10 @@ maladie, à la caisse régionale d'assurance maladie qui le tient à la disposit
 
 III. - Le modèle de présentation du compte administratif et des documents qui le composent est fixé par arrêté du ministre
 chargé de l'action sociale.
+
+**Nota:**
+
+(1) Décret 2006-422 du 7 avril 2006 art. 2 : les 3° et 4° du II de l'article R314-17 sont devenus les 1° et 2°.
 
 **Liens relatifs à cet article**
 
@@ -68544,9 +68650,13 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-75 (V)
   - Code de l'action sociale et des familles - art. R314-86 (V)
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 12 () JORF 9 avril 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles annexe, R314-17, R314-50
+  - Code de l'action sociale et des familles annexe, R314-17, R314-28, R314-50
 
 
 ###### Article R314-50
@@ -68593,29 +68703,32 @@ _Cite_:
 
 ###### Article R314-51
 
-I. - L'affectation du résultat du budget général, ou le cas échéant des budgets principal et annexes, ainsi que, pour les
+I.-L'affectation du résultat du budget général, ou le cas échéant des budgets principal et annexes, ainsi que, pour les
 établissements mentionnés au I de l'article L. 313-12, de chaque section d'imputation tarifaire, est décidée par l'autorité
-de tarification. Celle-ci tient compte des circonstances qui expliquent le résultat.
+de tarification. Celle-ci tient compte des circonstances qui expliquent le résultat. 
 
-II. - L'excédent d'exploitation peut être affecté :
+II.-L'excédent d'exploitation peut être affecté : 
 
-1° À la réduction des charges d'exploitation de l'exercice au cours duquel il est constaté, ou de l'exercice qui suit ;
+1° À la réduction des charges d'exploitation de l'exercice au cours duquel il est constaté, ou de l'exercice qui suit ; 
 
-2° Au financement de mesures d'investissement ;
+2° Au financement de mesures d'investissement ; 
 
 3° Au financement de mesures d'exploitation n'accroissant pas les charges d'exploitation des exercices suivant celui auquel
-le résultat est affecté ;
+le résultat est affecté ; 
 
-4° À un compte de réserve de compensation ;
+4° À un compte de réserve de compensation ; 
 
 5° À un compte de réserve de trésorerie dans la limite de la couverture du besoin en fonds de roulement, tel que défini au
-III de l'article R. 314-48.
+III de l'article R. 314-48 ; 
 
-III. - Le déficit est couvert en priorité par reprise sur le compte de réserve de compensation, le surplus étant ajouté aux
+6° A un compte d'excédent affecté à la compensation des charges d'amortissement des équipements, agencements et installations
+de mise aux normes de sécurité. 
+
+III.-Le déficit est couvert en priorité par reprise sur le compte de réserve de compensation, le surplus étant ajouté aux
 charges d'exploitation de l'exercice au cours duquel le déficit est constaté, ou de l'exercice qui suit. En cas de
-circonstances exceptionnelles, la reprise du déficit peut être étalée sur trois exercices.
+circonstances exceptionnelles, la reprise du déficit peut être étalée sur trois exercices. 
 
-IV. - Les résultats du budget principal et des budgets annexes sont affectés aux budgets dont ils sont issus.
+IV.-Les résultats du budget principal et des budgets annexes sont affectés aux budgets dont ils sont issus.
 
 **Liens relatifs à cet article**
 
@@ -68627,6 +68740,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 13 () JORF 9 avril 2006
 
 _Cité par_:
 
@@ -68657,7 +68774,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L313-12 (M)
+  - Code de l'action sociale et des familles - art. L313-12 (V)
 
 
 ###### Article R314-52
@@ -68712,13 +68829,13 @@ _Cite_:
 Par dérogation aux dispositions du I de l'article R. 314-51, les établissements et services peuvent fixer eux-mêmes
 l'affectation du résultat de l'un de leurs budgets, général, principal ou annexe, lorsque les recettes issues de la
 tarification représentent moins de la moitié des recettes d'exploitation du budget en question. Cette affectation doit
-respecter les dispositions des II, III et IV de l'article R. 314-51.
+respecter les dispositions des II, III et IV de l'article R. 314-51. 
 
 Les dispositions de l'alinéa précédent ne sont pas applicables aux établissements mentionnés au I de l'article L. 313-12.
-Ceux-ci peuvent toutefois fixer eux-mêmes l'affectation du résultat de la section tarifaire afférente à l'hébergement, si les
-produits du tarif relatif à l'hébergement, versés par le département qui fixe ce tarif, représentent moins de la moitié des
-recettes d'exploitation de cette section tarifaire. Cette affectation doit respecter les dispositions des II, III et IV de
-l'article R. 314-51.
+Ceux-ci peuvent toutefois fixer eux-mêmes l'affectation du résultat des sections tarifaires afférentes à l'hébergement et à
+la dépendance, si les produits des tarifs relatifs à l'hébergement ou à la dépendance, versés par le département qui fixe ce
+tarif, représentent moins de la moitié des produits de la tarification de chacune de ces sections tarifaires. Cette
+affectation doit respecter les dispositions des II, III et IV de l'article R. 314-51.
 
 **Liens relatifs à cet article**
 
@@ -68731,11 +68848,14 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 14 () JORF 9 avril 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L313-12 (M)
-  - Code de l'action sociale et des familles - art. R314-51 (M)
-  - Code de l'action sociale et des familles R314-51, annexe, L313-12
+  - Code de l'action sociale et des familles - art. L313-12 (V)
+  - Code de l'action sociale et des familles - art. R314-51 (V)
 
 
 ###### Article R314-55
@@ -69153,8 +69273,8 @@ IV. - Le comptable répond sous huit jours aux demandes d'information de l'ordon
 de l'établissement.
 
 V. - L'exécution du budget est retracée au niveau le plus détaillé de la nomenclature comptable fixée en application de
-l'article R. 314-5. Toutefois, le comptable ne vérifie la disponibilité des crédits qu'au regard des montants approuvés des
-groupes fonctionnels ou des sections tarifaires, mentionnés au II de l'article R. 314-13.
+l'article R. 314-5. Toutefois, le comptable ne vérifie la disponibilité des crédits qu'au niveau des montants adoptés dans
+les conditions prévues à l'article L. 315-15.
 
 **Liens relatifs à cet article**
 
@@ -69167,13 +69287,17 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 15 () JORF 9 avril 2006
+
 _Cité par_:
 
   - Décret n°2017-1588 du 20 novembre 2017 - art. 22 (V)
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R314-13 (M)
+  - Code de l'action sociale et des familles - art. L315-15 (M)
   - Code de l'action sociale et des familles - art. R314-5 (V)
 
 
@@ -69206,14 +69330,8 @@ _Cite_:
 
 ###### Article R314-68
 
-A la réception de la décision d'approbation budgétaire et de tarification mentionnée à l'article R. 314-34, le directeur
-procède, dans un délai de quinze jours, à la répartition des prévisions de dépenses et de recettes au sein de chaque groupe
-fonctionnel, conformément aux montants approuvés par l'autorité de tarification.
-
-Dans sa plus proche séance, le conseil d'administration est informé de cette répartition.
-
-Le budget ainsi établi est exécutoire à compter de sa transmission au préfet de département. Les dispositions des deuxième et
-troisième alinéas de l'article L. 315-14 sont applicables à cette transmission.
+Les articles L. 1612-1, L. 1612-2, L. 1612-11, L. 1612-15 et L. 1612-16 à L. 1612-19-1 du code général des collectivités
+territoriales sont applicables aux établissements publics sociaux et médico-sociaux.
 
 **Liens relatifs à cet article**
 
@@ -69226,99 +69344,15 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L315-14 (M)
-  - Code de l'action sociale et des familles - art. R314-34 (V)
-
-
-###### Article R314-69
-
-Les virements de crédit entre groupes fonctionnels sont approuvés par délibération du conseil d'administration.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1010 2003-10-22 art. 69
-  - Décret n°2003-1010 du 22 octobre 2003 - art. 69 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2006-422 du 7 avril 2006 - art. 15 () JORF 9 avril 2006
-
-_Cité par_:
-
-  - Décret n°2017-1588 du 20 novembre 2017 - art. 22 (V)
-
-
-###### Article R314-70
-
-Conformément aux dispositions combinées des articles L. 1612-1 et L. 1612-20 du code général des collectivités territoriales,
-lorsque le budget n'a pas été rendu exécutoire au 1er janvier de l'exercice, l'ordonnateur est autorisé, jusqu'à l'entrée en
-vigueur de ce budget, à engager, liquider et ordonnancer les dépenses de la section d'exploitation dans la limite des
-montants figurant au dernier budget exécutoire.
-
-Il peut également, dans les mêmes circonstances, engager les dépenses de la section d'investissement afférentes au
-remboursement en capital des annuités de la dette venant à échéance.
-
-Sur autorisation du conseil d'administration, il peut également engager les autres dépenses d'investissement dans la limite
-du quart des crédits ouverts, au titre de cette section, dans le dernier budget exécutoire, cette proportion étant calculée
-en excluant les crédits afférents aux dépenses mentionnées à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1010 2003-10-22 art. 70
-  - Décret n°2003-1010 du 22 octobre 2003 - art. 70 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2006-422 du 7 avril 2006 - art. 15 () JORF 9 avril 2006
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L1612-1 (M)
-  - Code général des collectivités territoriales - art. L1612-20 (V)
-
-
-###### Article R314-71
-
-Par dérogation aux dispositions de l'article R. 314-4, et sans préjudice des dispositions de l'article R. 314-72, au début de
-chaque année, l'ordonnateur dispose d'un délai d'un mois pour procéder, d'une part, pour ce qui concerne la section
-d'exploitation, à l'émission des titres de recettes et des mandats correspondants aux droits acquis et aux services faits au
-cours de l'année précédente et, d'autre part, aux opérations d'ordre budgétaire et non budgétaire dont il a l'initiative.
-
-Le comptable procède dans le même délai à la comptabilisation de ces opérations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1010 2003-10-22 art. 71
-  - Décret n°2003-1010 du 22 octobre 2003 - art. 71 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2006-422 du 7 avril 2006 - art. 15 () JORF 9 avril 2006
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. R314-4 (V)
-  - Code de l'action sociale et des familles - art. R314-72 (M)
+  - Code général des collectivités territoriales - art. L1612-1 (V)
+  - Code général des collectivités territoriales - art. L1612-11 (V)
+  - Code général des collectivités territoriales - art. L1612-15 (V)
 
 
 ###### Article R314-72
@@ -69787,24 +69821,29 @@ _Cité par_:
 
 ###### Article R314-86
 
-I. - L'établissement ou le service ne peut faire supporter par les produits de la tarification le versement, à son organisme
-gestionnaire ou à une personne placée sous le contrôle de celui-ci, d'une rémunération pour occupation de locaux, à
-l'exception des paiements compatibles avec le contrat de commodat définit à l'article 1875 du code civil.
+I.-L'établissement ou le service ne peut faire supporter par les produits de la tarification le versement, à son organisme
+gestionnaire, d'une rémunération pour occupation de locaux, à l'exception des paiements compatibles avec le contrat de
+commodat définit à l'article 1875 du code civil. 
 
-II. - Les loyers éventuellement versés à une personne morale distincte de l'organisme gestionnaire ne peuvent pas prendre en
-compte des charges relevant du propriétaire, sauf en cas de louage emphytéotique.
+II.-Les loyers éventuellement versés à une personne morale distincte de l'organisme gestionnaire ne peuvent pas prendre en
+compte des charges relevant du propriétaire, sauf en cas de louage emphytéotique. 
 
 En ce dernier cas, la somme du loyer annuel, des dotations aux provisions pour travaux, ainsi que des charges de grosses
 réparations, au sens de l'article 606 du code civil, qui sont mises à la charge du locataire, ne peut excéder, chaque année,
-la valeur locative de l'immeuble évaluée par le service des domaines.
+la valeur locative de l'immeuble évaluée par le service des domaines. 
 
-III. - Les loyers versés à une personne morale dont le contrôle est assuré conjointement par plusieurs personnes morales de
+III.-Les loyers versés à une personne morale dont le contrôle est assuré conjointement par plusieurs personnes morales de
 droit privé gestionnaires d'établissement ou services relevant du I de l'article L. 312-1 ne sont pris en compte que dans la
-limite de la valeur locative de l'immeuble évaluée par le service des domaines.
+limite de la valeur locative de l'immeuble évaluée par le service des domaines. 
 
-En ce cas, l'établissement ou service joint au compte administratif mentionné à l'article R. 314-49 les statuts de la
-personne morale propriétaire et la composition de son conseil d'administration, ainsi que la copie de son bilan, de son
-compte de résultat et de leurs annexes.
+IV.-Les dispositions du III du présent article sont également applicables lorsque le contrôle de la personne morale
+propriétaire des locaux est assuré par l'organisme gestionnaire d'un établissement ou service social ou médico-social
+relevant du I de l'article L. 312-1 ou conjointement par ce dernier, lorsqu'il est majoritaire, et d'autres personnes de
+droit privé. 
+
+Dans les cas mentionnés au III et au IV du présent article, l'établissement ou service joint au compte administratif
+mentionné à l'article R. 314-49 les statuts de la personne morale propriétaire et la composition de son conseil
+d'administration, ainsi que la copie de son bilan, de son compte de résultat et de leurs annexes.
 
 **Liens relatifs à cet article**
 
@@ -69817,12 +69856,16 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 16 () JORF 9 avril 2006
+
 _Cite_:
 
   - Code civil - art. 1875 (V)
   - Code civil - art. 606 (V)
-  - Code de l'action sociale et des familles - art. L312-1 (M)
-  - Code de l'action sociale et des familles - art. R314-49 (M)
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de l'action sociale et des familles - art. R314-49 (V)
 
 _Cité par_:
 
@@ -69878,8 +69921,8 @@ _Cite_:
 I. - Les prestations dont la prise en charge peut être autorisée au titre de l'article R. 314-87 portent notamment sur la
 participation des services du siège social :
 
-1° A l'élaboration du projet d'établissement mentionné à l'article L. 311-8, y compris par des travaux portant sur un projet
-global de l'organisme gestionnaire ;
+1° A l'élaboration et l'actualisation du projet d'établissement mentionné à l'article L. 311-8, y compris par des travaux
+portant sur un projet global de l'organisme gestionnaire ;
 
 2° A l'adaptation des moyens des établissements et services, à l'amélioration de la qualité du service rendu et à la mise en
 oeuvre de modalités d'intervention coordonnées, conformément aux dispositions de l'article L. 312-7 ;
@@ -69889,7 +69932,10 @@ qui sont nécessaires à l'établissement des indicateurs mentionnés à l'artic
 
 4° A la mise en place de procédures de contrôle interne, et à l'exécution de ces contrôles ;
 
-5° A la conduite des études mentionnées à l'article R. 314-61.
+5° A la conduite des études mentionnées à l'article R. 314-61 ;
+
+6° A la réalisation de prestations de service ou d'étude pour les établissements et services sociaux et médico-sociaux qui
+concourent à des économies d'échelle.
 
 II. - L'autorisation est en outre subordonnée à l'existence de délégations de pouvoirs précises entre les administrateurs de
 l'organisme gestionnaire, les membres de sa direction générale et les agents de direction des établissements et services. Ces
@@ -69916,6 +69962,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 17 () JORF 9 avril 2006
 
 _Cite_:
 
@@ -70155,6 +70205,37 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-51 (V)
 
 
+###### Article R314-94-1
+
+En application du b du 3° de l'article L. 312-7, plusieurs établissements et services sociaux et médico-sociaux relevant du I
+de l'article L. 312-1 gérés par des organismes ayant des personnalités morales distinctes peuvent créer et gérer un service
+commun. 
+
+Dans ce cas, ce service relève alors des II et III de l'article R. 314-51, des articles R. 314-56 à R. 314-61, R. 314-85 à R.
+314-86, R. 314-93, R. 314-95, R. 314-97, R. 314-99 et R. 314-100.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 18 () JORF 9 avril 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L312-7 (V)
+  - Code de l'action sociale et des familles - art. R314-51 (V)
+  - Code de l'action sociale et des familles - art. R314-56 (V)
+  - Code de l'action sociale et des familles - art. R314-85 (V)
+  - Code de l'action sociale et des familles - art. R314-93 (V)
+  - Code de l'action sociale et des familles - art. R314-95 (V)
+  - Code de l'action sociale et des familles - art. R314-97 (V)
+  - Code de l'action sociale et des familles - art. R314-99 (V)
+
+
 ##### Sous-paragraphe 4 : Gestion financière.<a id=553></a>
 
 ###### Article R314-95
@@ -70174,9 +70255,10 @@ trésorerie, la quote-part issue de la trésorerie d'un établissement ou d'un s
 ressource de sa section d'investissement.
 
 IV. - Lorsque des produits financiers sont réalisés au niveau du siège social de l'organisme gestionnaire, grâce à une
-trésorerie issue des quotes-parts versées sur le fondement du sous-paragraphe 3 du présent paragraphe, ceux-ci peuvent être
-utilisés pour le financement des charges de fonctionnement du siège, sous réserve de l'accord de l'autorité administrative
-qui a délivré l'autorisation de l'article R. 314-87.
+gestion centralisée de trésorerie, ceux-ci peuvent être utilisés pour le financement des charges de fonctionnement du siège,
+sous réserve de l'accord de l'autorité administrative qui a délivré l'autorisation de l'article R. 314-87. Il en va de même
+lorsque l'organisme gère plusieurs établissements et services sur plusieurs départements mais est financé majoritairement par
+l'assurance maladie et le budget de l'Etat.
 
 Lorsque les établissement ou services gérés par l'organisme sont implantés dans un seul département, ces produits financiers
 peuvent également, et à la même condition, être affectés au financement d'investissements réalisés dans l'un de ces
@@ -70197,6 +70279,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 19 () JORF 9 avril 2006
 
 _Cite_:
 
@@ -70239,28 +70325,32 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
-##### Sous-paragraphe 5 : Fermeture de l'établissement ou du service.<a id=554></a>
+##### Sous-paragraphe 5 : Cessation d'activité ou fermeture de l'établissement ou du service<a id=554></a>
 
 ###### Article R314-97
 
-Les frais financiers, les dotations aux comptes d'amortissement et aux comptes de provisions, les dotations aux comptes de
-réserve de trésorerie et les annuités des emprunts contractés en vue de la constitution d'un fonds de roulement ne peuvent
-être prises en compte pour la fixation du tarif qu'à la condition que les statuts de l'organisme gestionnaire prévoient, en
-cas de cessation d'activité de l'établissement ou du service, la dévolution à un autre établissement ou service, public ou
-privé, poursuivant un but similaire, d'une part des provisions non utilisées et des réserves de trésorerie du bilan de
-clôture, et d'autre part, soit d'un montant égal à la somme de l'actif immobilisé affecté à l'établissement ou au service,
-soit de l'ensemble du patrimoine affecté audit établissement ou service.
+En cas de fermeture ou de cessation d'activité totale ou partielle d'un établissement ou d'un service, si les frais
+financiers, les dotations aux comptes d'amortissement et aux comptes de provisions, les dotations au compte de réserve de
+trésorerie et les annuités d'emprunt contractées en vue de la constitution d'un fonds de roulement ont été pris en compte
+dans la fixation des tarifs, l'organisme gestionnaire reverse à un établissement ou service poursuivant un but similaire les
+montants des amortissements cumulés des biens, des provisions non utilisées et des réserves de trésorerie apparaissant au
+bilan de clôture. 
 
-Les statuts de l'organisme gestionnaire doivent également prévoir qu'en cas de transformation importante de l'établissement
-ou du service entraînant une diminution de l'actif de son bilan, il sera procédé à la dévolution, au même bénéficiaire, des
-sommes ou des éléments de patrimoine représentatifs de cette perte d'actifs.
+Les crédits d'exploitation non utilisés à la fermeture ou à la cessation d'activité et le solde de la réserve de compensation
+d'un établissement sont reversés aux financeurs concernés. 
 
-L'autorité de tarification a qualité pour approuver ou provoquer la désignation de l'attributaire ou pour procéder elle-même,
-le cas échéant, à cette désignation.
+L'organisme gestionnaire de l'établissement ou du service qui a cessé son activité ou a fermé peut, avec l'accord de
+l'autorité de tarification, s'acquitter de l'obligation relative au reversement des montants des amortissements cumulés des
+biens définie au premier alinéa et des subventions d'investissement mentionnées à l'article L. 313-19, en procédant à la
+dévolution de l'actif net immobilisé de l'établissement ou du service. 
 
-Afin de permettre le contrôle de la condition mentionnée au premier alinéa, l'organisme gestionnaire communique sur demande
-ses statuts aux autorités de tarification des établissements et services qu'il gère, et les informe sans délai de toute
-modification de ceux-ci relative aux modalités ou conditions de dévolution des actifs.
+L'organisme gestionnaire dispose d'un délai de 30 jours à compter de l'arrêté de fermeture ou de la cessation d'activité de
+l'établissement ou du service pour choisir entre le versement des sommes exigibles au titre du présent article et des 1° et
+3° de l'article L. 313-19 ou la dévolution de l'actif net immobilisé. Après ce délai, le représentant de l'Etat dans le
+département arrête l'option après accord, le cas échéant, de l'autorité de tarification. 
+
+L'autorité de tarification désigne l'attributaire du reversement. En cas de pluralité d'autorités de tarification, le préfet,
+après avis de ces autorités, procède à cette désignation.
 
 **Liens relatifs à cet article**
 
@@ -70282,12 +70372,20 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 20 () JORF 9 avril 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L313-19 (V)
+
 
 ###### Article R314-98
 
 En cas de cessation définitive d'activité l'autorité de tarification peut tenir compte, lors de la fixation du tarif du
 dernier exercice, du paiement des indemnités et charges annexes résultant du licenciement du personnel, sous réserve qu'il
-soit satisfait aux obligations découlant de l'application de l'article R. 314-97.
+soit satisfait aux obligations découlant de l'application de l'article R. 314-97. 
 
 Ces dispositions sont également applicables en cas de cessation partielle d'activité.
 
@@ -70302,9 +70400,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 20 () JORF 9 avril 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R314-97 (M)
+  - Code de l'action sociale et des familles - art. R314-97 (V)
 
 
 ##### Sous-paragraphe 6 : Contrôle et évaluation.<a id=555></a>
@@ -70414,9 +70516,8 @@ _Cite_:
 
 ###### Article R314-102
 
-Les dispositions des articles R. 314-9, R. 314-11, R. 314-15, R. 314-20, R. 314-27, R. 314-48, du 4° de l'article R. 314-49,
-et R. 314-51 à R. 314-53 ne sont pas applicables aux établissements et services qui ne sont pas habilités à recevoir des
-bénéficiaires de l'aide sociale, ainsi qu'aux établissements mentionnés au 2° de l'article L. 342-1.
+Les dispositions des articles R. 314-9, R. 314-11, R. 314-15, des 1° à 3° et du 5° du II de l'article R. 314-17, des articles
+R. 314-20, R. 314-27, R. 314-48 et R. 314-49 ne sont pas applicables aux établissements relevant de l'article L. 342-1.
 
 **Liens relatifs à cet article**
 
@@ -70429,10 +70530,21 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 21 () JORF 9 avril 2006
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L342-1 (M)
+  - Code de l'action sociale et des familles - art. R314-11 (V)
+  - Code de l'action sociale et des familles - art. R314-15 (V)
+  - Code de l'action sociale et des familles - art. R314-17 (M)
+  - Code de l'action sociale et des familles - art. R314-20 (V)
+  - Code de l'action sociale et des familles - art. R314-27 (V)
+  - Code de l'action sociale et des familles - art. R314-48 (V)
   - Code de l'action sociale et des familles - art. R314-49 (M)
+  - Code de l'action sociale et des familles - art. R314-9 (V)
 
 _Cité par_:
 
@@ -70443,13 +70555,10 @@ _Cité par_:
 
 ###### Article R314-103
 
-Pour l'application des dispositions de l'article R. 314-56, les établissements et services mentionnés aux articles R. 314-101
-et R. 314-102 communiquent, sur demande, à l'autorité de tarification, tous les documents permettant de calculer les tarifs
-et les prix de revient réels des exercices antérieurs, ainsi que toute pièce de nature à attester de l'effectivité et de la
-qualité des prestations financés par l'Etat ou le département.
-
-Il en va de même, à l'égard de la caisse régionale d'assurance maladie, pour les prestation financées par l'assurance
-maladie.
+Pour l'application des dispositions des articles R. 314-56 à R. 314-61, les établissements et services mentionnés aux
+articles R. 314-101 et R. 314-102 communiquent, sur demande, à l'autorité de tarification, tous les documents permettant de
+calculer les tarifs et les prix de revient réels des exercices antérieurs, ainsi que toute pièce de nature à attester de
+l'effectivité et de la qualité des prestations financés par l'Etat, l'assurance maladie ou le département.
 
 **Liens relatifs à cet article**
 
@@ -70462,24 +70571,32 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 22 () JORF 9 avril 2006
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. R314-101 (V)
-  - Code de l'action sociale et des familles - art. R314-102 (M)
   - Code de l'action sociale et des familles - art. R314-56 (V)
 
 
 ###### Article R314-104
 
-I. - Pour les établissements et services mentionnés aux articles R. 314-101 et R. 314-102, la production du compte de
-résultat au titre du 1° de l'article R. 314-49 est remplacée par la production d'un compte d'emploi.
+Les établissements relevant de l'article R. 314-102 transmettent dans les délais mentionnés au II de l'article R. 314-49 un
+rapport d'activité et un compte d'emploi dont le modèle est fixé par arrêté du ministre chargé de l'action sociale. 
 
-II. - Si les financements alloués ont couvert des dépenses sans rapport avec celles pour lesquelles ils étaient prévus, ou si
-l'établissement ou le service n'est pas en mesure de justifier de leur emploi, il est procédé à leur reversement.
+Les documents et informations mentionnés aux 2°, 3° et 4° du I de l'article R. 314-17 et, le cas échéant, au 2° du II de cet
+article R. 314-17 sont transmis avec le compte d'emploi. 
 
-Toutefois, pour les établissements mentionnés à l'article L. 342-1, et avec l'accord de l'autorité de tarification, les
-sommes concernées peuvent être imputées sur les ressources destinées à financer, pour les exercices suivants, les dépenses
-afférentes aux soins ou à la dépendance.
+Les résultats du compte d'emploi relatifs aux sections tarifaires afférentes à la dépendance et aux soins des établissements
+relevant de l'article L. 342-1 sont affectés par l'autorité de tarification compétente, en application des 1°, 3° et 4° du II
+ou du III de l'article R. 314-51. 
+
+Les établissements peuvent toutefois affecter eux-mêmes le résultat de la section tarifaire afférente à la dépendance, si les
+produits du tarif relatif à la dépendance, versés par le département qui fixe ce tarif, représentent moins de la moitié des
+recettes d'exploitation de cette section tarifaire. Cette affectation doit respecter les dispositions des 3° et 4° du II et
+des III et IV de l'article R. 314-51.
 
 **Liens relatifs à cet article**
 
@@ -70491,6 +70608,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 23 () JORF 9 avril 2006
 
 _Cité par_:
 
@@ -70504,9 +70625,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L342-1 (M)
-  - Code de l'action sociale et des familles - art. R314-102 (M)
-  - Code de l'action sociale et des familles - art. R314-49 (M)
+  - Code de l'action sociale et des familles - art. L342-1 (V)
+  - Code de l'action sociale et des familles - art. R314-102 (V)
+  - Code de l'action sociale et des familles - art. R314-17 (V)
+  - Code de l'action sociale et des familles - art. R314-49 (V)
+  - Code de l'action sociale et des familles - art. R314-51 (V)
 
 
 ##### Sous-section 3 : Principes de financement et modalités de versement<a id=557></a>
@@ -70525,7 +70648,10 @@ de tarifs horaires établis et versés conformément aux dispositions du paragra
 
 2° Pour les autres établissements et services, par le département, sous la forme d'un prix de journée éventuellement
 globalisé, établi et versé dans les conditions prévues aux sous-paragraphes 3 et 4 du paragraphe 2 de la sous-section 3 de la
-présente section.
+présente section ;
+
+3° Pour les équipes de prévention spécialisée relevant du 1° du I de l'article L. 312-1 et du 2° de l'article L. 221-1, sous
+la forme d'une dotation globale versée par le département dans les conditions précisées aux articles R. 314-106 à R. 314-109.
 
 II. - Pour les établissements et services mentionnés au 2° de l'article L. 312-1 :
 
@@ -70549,7 +70675,12 @@ IV. - Pour les établissements et services mentionnés au 4° de l'article L. 31
 l'article L. 228-3, et le cas échéant par l'Etat, dans les conditions et sous les formes fixées à l'article R. 314-125 ;
 
 2° Pour les établissements et services mentionnés au b) du III de l'article L. 314-1, par l'Etat dans les conditions et sous
-les formes fixées à l'article R. 314-126.
+les formes fixées à l'article R. 314-126 ;
+
+3° Pour les services d'enquêtes sociales et les services d'investigation et d'orientation éducative relevant des articles 375
+à 375-8 du code civil et des articles 1181 à 1200 du nouveau code de procédure civile, de l'ordonnance n° 45-174 du 2 février
+1945 relative à l'enfance délinquante, par l'Etat, sous les formes et dans les conditions fixées aux articles R. 314-125 et
+R. 314-126 du code de l'action sociale et des familles.
 
 V. - Pour les établissements et services mentionnés au a) du 5° de l'article L. 312-1 :
 
@@ -70661,7 +70792,9 @@ sous la forme de tarifs journaliers établis dans les conditions prévues à l'a
 
 _Cite_:
 
+  - Ordonnance 45-174 1945-02-02
   - Loi n°2001-647 du 20 juillet 2001 - art. 5 (MMN)
+  - Code civil 375 à 375-8
   - Code de la santé publique - art. L2112-8 (V)
   - Code de la santé publique - art. L3311-1 (V)
   - Code de la santé publique - art. L6111-2 (V)
@@ -70671,6 +70804,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L321-1 (M)
   - Code de la sécurité sociale. - art. R174-7 (Ab)
   - Code de la sécurité sociale. - art. R174-8 (Ab)
+  - Code de l'action sociale et des familles - art. L221-1 (M)
   - Code de l'action sociale et des familles - art. L228-3 (V)
   - Code de l'action sociale et des familles - art. L312-1 (M)
   - Code de l'action sociale et des familles - art. L313-12 (M)
@@ -70689,6 +70823,8 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-145 (V)
   - Code de l'action sociale et des familles - art. R314-146 (V)
   - Code de l'action sociale et des familles - art. R314-192 (M)
+  - Code de l'action sociale et des familles L313-6, L312-1, L221-1, R314-106 à R314-109, R314-123, L314-1, L228-3, R314-125, R314-126, L344-4, L313-12, R314-192, R232-21, L344-1, R314-145, R314-146, R314-142, R314-143, L345-1, L314-8
+  - Nouveau code de procédure civile 1181 à 1200
 
 _Anciens textes_:
 
@@ -70701,7 +70837,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-181 du 17 février 2006 - art. 1 () JORF 19 février 2006
+  - Décret n°2006-422 du 7 avril 2006 - art. 25 () JORF 9 avril 2006
 
 _Cité par_:
 
@@ -70983,10 +71119,11 @@ _Cite_:
 
 ###### Article R314-115
 
-Pour les établissements et services dont le tarif est fixé sous la forme d'un prix de journée, la personne publique qui a la
-charge du financement peut, par convention avec l'établissement ou le service, procéder au versement d'une dotation
-globalisée qui est égale au prix de journée, calculé conformément aux dispositions de l'article R. 314-113, multiplié par le
-nombre prévisionnel des journées qui sont à la charge du financeur.
+Pour les établissements et services dont le tarif est fixé sous la forme d'un prix de journée, ou d'un tarif forfaitaire par
+mesure, la personne publique qui a la charge du financement peut, par convention avec l'établissement ou le service, procéder
+au versement d'une dotation globalisée qui est égale au prix de journée multiplié par le nombre prévisionnel de journées, ou
+au tarif forfaitaire par mesure, calculé conformément aux dispositions de l'article R. 314-113, multiplié par le nombre de
+mesures ou de journées susceptibles d'être à la charge de ce financeur.
 
 Le règlement de cette dotation est effectué par douzièmes mensuels, le vingtième jour du mois ou, si ce jour n'est pas ouvré,
 le dernier jour ouvré précédant cette date.
@@ -71001,6 +71138,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 26 () JORF 9 avril 2006
 
 _Cite_:
 
@@ -71466,8 +71607,11 @@ _Cite_:
 ###### Article R314-129
 
 I. - La quote-part de frais de siège éventuellement imputée à l'établissement en vertu des dispositions du sous-paragraphe 3
-du paragraphe 4 de la sous-section 2 de la présente section est répartie entre le budget principal de l'activité sociale et
+du paragraphe 4 de la sous-section 2 de la présente section est répartie sur le budget principal de l'activité sociale et sur
 le budget annexe de production et de commercialisation, au prorata de leurs charges brutes.
+
+Avec l'accord des financeurs des quotes-parts de frais de siège, ces dernières peuvent être réparties sur le budget annexe de
+production et de commercialisation au prorata de la valeur ajoutée.
 
 II. - Le résultat du budget annexe de l'activité de production et de commercialisation d'un centre d'aide par le travail est
 affecté conformément aux dispositions des II, III et IV de l'article R. 314-51.
@@ -71489,6 +71633,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 27 () JORF 9 avril 2006
 
 _Cite_:
 
@@ -72621,29 +72769,30 @@ _Cite_:
 
 ###### Article R314-163
 
-Le budget est présenté sur la base des éléments ci-après énumérés :
+Le budget est présenté sur la base des éléments ci-après énumérés : 
 
-1° La liste des charges et des produits afférents aux trois sections d'imputation, fixée à l'article R. 314-162 ;
+1° La liste des charges et des produits afférents aux trois sections d'imputation, fixée à l'article R. 314-162 ; 
 
 2° Les tableaux, figurant aux annexes 3-2 et 3-3, définissant les modalités de calcul des différents tarifs et les clés de
-répartition des charges et des produits communs à plusieurs tarifs, en tenant compte :
+répartition des charges et des produits communs à plusieurs tarifs, en tenant compte : 
 
 a) De la répartition des personnes accueillies dans les établissements par niveaux de dépendance dits groupes iso-ressources
-(GIR), tels que fixés par la grille nationale mentionnée à l'article L. 232-2 ;
+(GIR), tels que fixés par la grille nationale mentionnée à l'article L. 232-2 ; 
 
 b) De la répartition des emplois et des effectifs des établissements entre les sections de calcul des tarifs, dans le respect
-des dispositions prévues à l'article R. 314-164 ;
+des dispositions prévues à l'article R. 314-164 ; 
 
 3° Le tableau, figurant à l'annexe 3-4, définissant les modalités de détermination et d'affectation des résultats de chaque
-section d'imputation tarifaire des établissements hébergeant des personnes âgées dépendantes autres que ceux relevant des
-articles L. 342-1 à L. 342-6, conformément aux modalités prévues à l'article R. 314-51 ou, le cas échéant, à l'article R.
-6145-51 du code de la santé publique ;
+section d'imputation tarifaire des établissements hébergeant des personnes âgées dépendantes, conformément aux modalités
+prévues à l'article R. 314-51 ou, le cas échéant, à l'article R. 6145-51 du code de la santé publique. Pour les
+établissements relevant des articles L. 342-1 à L. 342-6, la détermination et l'affectation des résultats des sections
+tarifaires " dépendance " et " soins " est réalisée conformément aux dispositions de l'article R. 314-104 ; 
 
-4° Le tableau de bord, figurant à l'annexe 3-5, établissant la liste des indicateurs médico-socio-économiques.
+4° Le tableau de bord, figurant à l'annexe 3-5, établissant la liste des indicateurs médico-socio-économiques. 
 
 Les tableaux mentionnés au 2° à 4° ci-dessus, dûment remplis, sont, d'une part, joints aux propositions budgétaires de
 l'établissement, d'autre part, transmis aux autorités de tarification pour le 30 avril qui suit l'exercice auquel ils se
-rapportent.
+rapportent. 
 
 Les tableaux mentionnés au 2° et au 3° peuvent être modifiés par arrêté des ministres chargés des affaires sociales, du
 budget et de l'intérieur en vue de prendre en compte les changements de numérotation et d'intitulé de comptes retenus par le
@@ -72662,16 +72811,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1474 du 30 novembre 2005 - art. 12 () JORF 1er décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°2006-422 du 7 avril 2006 - art. 23 () JORF 9 avril 2006
 
 _Cite_:
 
-  - Code de la santé publique - art. R6145-51 (Ab)
-  - Code de l'action sociale et des familles - art. L232-2 (M)
-  - Code de l'action sociale et des familles - art. R314-162 (M)
-  - Code de l'action sociale et des familles - art. R314-164 (V)
-  - Code de l'action sociale et des familles - art. R314-51 (M)
-  - Code de l'action sociale et des familles R314-162, annexe 3-2, annexe 3-3, L232-2, R314-164, annexe 3-4, L342-1 à L342-6, R314-51, annexe 3-5
+  - Code de la santé publique - art. R6145-51 (V)
+  - Code de l'action sociale et des familles - art. Annexe 3-2 (V)
+  - Code de l'action sociale et des familles - art. Annexe 3-3 (V)
+  - Code de l'action sociale et des familles - art. Annexe 3-4 (V)
+  - Code de l'action sociale et des familles - art. Annexe 3-5 (V)
+  - Code de l'action sociale et des familles - art. L232-2 (V)
+  - Code de l'action sociale et des familles - art. L342-1 (V)
+  - Code de l'action sociale et des familles - art. R314-104 (V)
+  - Code de l'action sociale et des familles - art. R314-51 (V)
 
 _Cité par_:
 
@@ -72896,7 +73048,10 @@ soins, les prestations suivantes :
 
 2° Les frais couverts par un organisme mutualiste mentionné à l'article L. 111-1 du code de la mutualité ;
 
-3° La participation de l'assuré social aux frais de soins mentionnée à l'article L. 322-2 du code de la sécurité sociale.
+3° La participation de l'assuré social aux frais de soins mentionnée à l'article L. 322-2 du code de la sécurité sociale ;
+
+4° Les dotations aux amortissements et aux provisions pour congés à payer et charges sociales et fiscales y afférents, dont
+les modalités ne respectent pas les règles de l'instruction comptable des établissements publics sociaux et médico-sociaux.
 
 **Liens relatifs à cet article**
 
@@ -72907,6 +73062,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 4 () JORF 9 avril 2006
 
 _Cite_:
 
@@ -73319,11 +73478,6 @@ Chaque établissement établit un plan pluriannuel d'évolution du tableau des e
 l'article L. 313-12 qui précise les variations d'effectifs envisagées chaque année et dans chaque section tarifaire pendant
 la durée de ladite convention.
 
-Afin de mettre en oeuvre la convergence tarifaire permettant d'allouer des ressources équivalentes à des établissements
-accueillant un public similaire, le tableau annuel des effectifs prend en compte les évolutions prévisionnelles et
-pluriannuelles permettant de satisfaire au terme de la cinquième année d'exécution de la convention tripartite les objectifs
-en matière d'effectif préalablement fixés.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -73335,9 +73489,13 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 30 () JORF 9 avril 2006
+
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L313-12 (M)
+  - Code de l'action sociale et des familles - art. L313-12 (V)
 
 _Cité par_:
 
@@ -73861,7 +74019,29 @@ _Cite_:
 
 ###### Article R314-194
 
-L'accueil temporaire est régi par les dispositions des articles D. 312-8 à D. 312-10.
+I. - L'accueil temporaire est régi par les dispositions des articles D. 312-8 à D. 312-10.
+
+II. - Les charges nettes de l'accueil temporaire relevant du 5° de l'article R. 314-119 et du 4° de l'article R. 314-147 font
+l'objet d'un forfait global annuel versé pour les établissements financés par l'assurance maladie selon les modalités prévues
+au 3° de l'article R. 314-111 et pour les établissements dont le tarif est fixé par le président du conseil général selon les
+modalités prévues aux articles R. 314-106 à R. 314-108.
+
+Ce forfait global annuel est pris en compte dans les produits de la tarification de l'établissement de rattachement et entre
+dans le calcul du résultat de ce dernier.
+
+III. - Lorsque l'accueil temporaire relevant du 5° de l'article R. 314-119 ou du 4° de l'article R. 314-147 fait l'objet d'un
+budget annexe en application de l'article R. 314-120 ou d'un budget propre, son financement est assuré par une dotation
+globale de financement calculée en application des articles R. 314-106 à R. 314-108 et versée selon les modalités prévues au
+3° de l'article R. 314-111.
+
+IV. - Lorsque l'accueil temporaire relevant du 4° de l'article R. 314-147 fait l'objet d'un budget annexe ou d'un budget
+propre, son financement est assuré par une dotation globale de financement calculée et versée en application des articles R.
+314-106 à R. 314-108.
+
+V. - En application du 2° de l'article L. 314-8 du présent code, les participations des bénéficiaires de l'accueil temporaire
+dans les établissements pour adultes relevant du 7° du I de l'article L. 312-1 ne peuvent pas excéder le montant du forfait
+journalier hospitalier prévu à l'article L. 174-4 du code de la sécurité sociale pour un accueil avec hébergement et les deux
+tiers de ce montant pour un accueil de jour.
 
 **Liens relatifs à cet article**
 
@@ -73875,15 +74055,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+  - Décret n°2006-422 du 7 avril 2006 - art. 28 () JORF 9 avril 2006
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L174-4 (M)
+  - Code de l'action sociale et des familles - art. L312-1 (M)
+  - Code de l'action sociale et des familles - art. L314-8 (M)
+  - Code de l'action sociale et des familles - art. R314-111 (V)
+  - Code de l'action sociale et des familles - art. R314-119 (M)
+  - Code de l'action sociale et des familles - art. R314-120 (V)
+  - Code de l'action sociale et des familles - art. R314-147 (M)
+  - Code de l'action sociale et des familles D312-8 à D312-10, R314-119, R314-147, R314-111, R314-106 à R314-108, annexe, R314-120, L314-8, L312-1
 
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R543-1 (V)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles D312-8 à D312-10
 
 
 ##### Sous-paragraphe 2 : Dispositions diverses.<a id=585></a>
@@ -76491,7 +76678,10 @@ Le directeur peut recevoir délégation du président du conseil d'administratio
 315-12 ;
 
 2° Ainsi que pour l'exercice des attributions relevant du 7° de cet article, sauf lorsqu'elles sont exercées dans le cadre du
-4° du même article.
+4° du même article ;
+
+3° Pour l'exercice des attributions du conseil d'administration relevant du 4° de l'article L. 315-17, lorsque l'autorité de
+tarification a procédé à des modifications des propositions budgétaires en application de l'article L. 314-7.
 
 Les délégations sont communiquées au conseil d'administration. Elles font l'objet d'une publication au sein de
 l'établissement.
@@ -76507,13 +76697,19 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 15 () JORF 9 avril 2006
+
 _Cité par_:
 
   - Décret n°2017-1588 du 20 novembre 2017 - art. 16 (V)
 
 _Cite_:
 
+  - Code de l'action sociale et des familles - art. L314-7 (M)
   - Code de l'action sociale et des familles - art. L315-12 (M)
+  - Code de l'action sociale et des familles - art. L315-17 (V)
 
 
 #### Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation<a id=601></a>
@@ -76703,6 +76899,163 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D316-3 (V)
   - Code de l'action sociale et des familles - art. L311-3 (M)
   - Code de l'action sociale et des familles - art. L313-1 (M)
+
+
+###### Article R316-5
+
+I. - Les frais de fonctionnement de chaque lieu de vie et d'accueil défini aux articles D. 316-1 à D. 316-4 sont pris en
+charge par les organismes financeurs compétents sous la forme d'un prix de journée.
+
+La personne qualifiée pour représenter le lieu de vie et d'accueil adresse par lettre recommandée avec avis de réception une
+proposition de prix de journée aux autorités compétentes pour délivrer l'autorisation de création prévue à l'article L.
+313-1. Ces dernières arrêtent ce prix de journée dans les soixante jours qui suivent sa réception, sur proposition de la
+personne qualifiée pour représenter le lieu de vie et d'accueil. Il est opposable à tous les organismes financeurs dès sa
+notification à la personne qualifiée pour représenter le lieu de vie et d'accueil.
+
+Chaque organisme financeur conclut avec la personne qualifiée pour représenter le lieu de vie et d'accueil une convention de
+prise en charge déterminant notamment les modalités de paiement du prix de journée fixé dans les conditions prévues au
+présent article.
+
+II. - Le montant de ce prix de journée est exprimé en multiples de la valeur horaire du salaire minimum de croissance
+déterminé dans les conditions prévues aux articles L. 141-2 à L. 141-7 du code du travail. Il ne peut être supérieur à un
+montant maximal fixé à 14,5 fois la valeur horaire du salaire minimum de croissance.
+
+III. - Ce prix de journée toutes taxes comprises couvre les dépenses suivantes :
+
+1° La rémunération du ou des permanents et du personnel salarié, mentionnés au III de l'article D. 316-1 ainsi que les
+charges sociales et fiscales afférentes à ces rémunérations ;
+
+2° Les charges d'exploitation à caractère hôtelier et d'administration générale ;
+
+3° Les charges d'exploitation relatives à l'animation, à l'accompagnement social et à l'exercice des missions prévues au I de
+l'article D. 316-1 ;
+
+4° Les allocations arrêtées par les départements d'accueil en faveur des mineurs et des jeunes majeurs confiés par un service
+d'aide sociale à l'enfance ;
+
+5° Les amortissements du matériel et du mobilier permettant l'accueil des résidents ;
+
+6° Les provisions pour risques et charges.
+
+**Nota:**
+
+Le Conseil d'Etat du 21 novembre 2008 (arrêt N° 293960) a annulé l'article 29 du décret n° 2006-422 qui créait le présent
+article du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 29 () JORF 9 avril 2006
+
+_Cite_:
+
+  - Code du travail L141-2 à L141-7
+  - Code de l'action sociale et des familles - art. D316-1 (V)
+  - Code de l'action sociale et des familles - art. L313-1 (M)
+  - Code de l'action sociale et des familles D316-1 à D316-4, L313-1, D316-1
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R316-6 (V)
+  - Code de l'action sociale et des familles - art. R316-7 (V)
+
+_Annulé par_:
+
+  - Conseil d'Etat n°293960 2008-11-21
+
+
+###### Article R316-6
+
+I. - Lorsque le projet prévu à l'article L. 311-8 repose sur des modes d'organisation particuliers ou fait appel à des
+supports spécifiques entraînant pour le lieu de vie et d'accueil des charges supplémentaires dont le montant ne peut être
+couvert par le prix de journée fixé selon les dispositions du II, la ou les autorités compétentes pour délivrer
+l'autorisation de création prévue à l'article L. 313-1 peuvent fixer, après concertation avec la personne ayant qualité pour
+représenter le lieu de vie et d'accueil, un forfait journalier complémentaire destiné à prendre en charge tout ou partie des
+charges supplémentaires.
+
+II. - Le montant du forfait journalier complémentaire est exprimé en multiples de la valeur horaire du salaire minimum de
+croissance déterminé dans les conditions prévues aux articles L. 141-2 à L. 141-7 du code du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 29 () JORF 9 avril 2006
+
+_Cite_:
+
+  - Code du travail L141-2 à L141-7
+  - Code de l'action sociale et des familles - art. L311-8 (M)
+  - Code de l'action sociale et des familles - art. L313-1 (M)
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R316-7 (V)
+
+
+###### Article R316-7
+
+I. - Le prix de journée et le forfait journalier complémentaire mentionnés aux articles R. 316-5 et R. 316-6 sont fixés pour
+trois ans et sont indexés sur la valeur du salaire minimum de croissance.
+
+II. - Les recours dirigés contre les décisions ou les décisions implicites de rejet prises en application du présent article
+sont portés devant le juge de la tarification dans les conditions prévues aux articles L. 351-1 et suivants.
+
+III. - Les lieux de vie et d'accueil transmettent chaque année avant le 30 avril à ou aux autorités de tarification
+mentionnées à l'article R. 316-5 un compte d'emploi relatif à l'utilisation des financements relevant de l'article R. 316-5
+et de l'article R. 316-6. Si le compte d'emploi n'est pas transmis dans le délai prescrit, l'autorité de tarification
+détermine le montant du prix de journée applicable à l'exercice suivant, sans l'accord de la personne qualifiée pour
+représenter le lieu de vie et d'accueil.
+
+IV. - Les sommes allouées sont totalement ou partiellement reversées aux organismes financeurs si elles ont couvert :
+
+1° Des dépenses sans rapport avec celles mentionnées à l'article R. 316-5 ou acceptées dans le cadre de l'article R. 316-6 ;
+
+2° Des dépenses dont le lieu de vie et d'accueil n'est pas en mesure de justifier l'emploi ;
+
+3° Des dépenses injustifiées, notamment au regard des dispositions de l'avant-projet prévu au e du 2° de l'article R. 313-3
+ou du projet mentionné à l'article L. 311-8 ;
+
+4° Des rémunérations dont les niveaux méconnaissent les stipulations des accords collectifs mentionnés à l'article R. 314-85
+ou sont supérieurs aux niveaux des rémunérations mentionnés au second alinéa du même article.
+
+V. - Tout changement important dans l'activité, l'installation, l'organisation ou le fonctionnement du lieu de vie et
+d'accueil donne lieu à une information de la ou des autorités compétentes mentionnées au I par la personne ayant qualité pour
+représenter le lieu de vie et d'accueil.
+
+VI. - Les articles R. 314-55 à R. 314-60, R. 314-62, R. 314-99 et R. 314-100 sont applicables aux lieux de vie et d'accueil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 29 () JORF 9 avril 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L311-8 (M)
+  - Code de l'action sociale et des familles - art. L351-1 (M)
+  - Code de l'action sociale et des familles - art. R313-3 (V)
+  - Code de l'action sociale et des familles - art. R314-100 (V)
+  - Code de l'action sociale et des familles - art. R314-62 (M)
+  - Code de l'action sociale et des familles - art. R314-85 (V)
+  - Code de l'action sociale et des familles - art. R314-99 (V)
+  - Code de l'action sociale et des familles - art. R316-5 (V)
+  - Code de l'action sociale et des familles - art. R316-6 (M)
+  - Code de l'action sociale et des familles R316-5, R316-6, L351-1, R313-3, L311-8, R314-85, R314-55 à R314-60, R314-62, R314-99, R314-100
 
 
 ### Titre II : Etablissements soumis à déclaration<a id=603></a>
@@ -77223,11 +77576,11 @@ _Codifié par_:
 
 ###### Article D331-3
 
-Le conseil est consulté par le préfet :
+Le conseil est consulté par le préfet : 
 
-1° En application de l'article L. 331-7 ;
+1° (Abrogé) ; 
 
-2° En application et dans les conditions prévues par l'article L. 211-7 du code du travail ;
+2° En application et dans les conditions prévues par l'article L. 211-7 du code du travail ; 
 
 3° Lorsque le préfet envisage d'interdire l'accès d'un établissement aux mineurs de dix-huit ans en application de
 l'ordonnance n° 59-28 du 5 janvier 1959 réglementant l'accès des mineurs à certains établissements.
@@ -77236,9 +77589,7 @@ l'ordonnance n° 59-28 du 5 janvier 1959 réglementant l'accès des mineurs à c
 
 _Cite_:
 
-  - Ordonnance 59-28 1959-01-05
-  - Code du travail - art. L211-7 (M)
-  - Code de l'action sociale et des familles - art. L331-7 (M)
+  - Ordonnance n°59-28 du 5 janvier 1959 (V)
 
 _Anciens textes_:
 
@@ -77247,6 +77598,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 30 () JORF 9 avril 2006
 
 _Cité par_:
 
@@ -77597,29 +77952,6 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R344-1 (V)
 
 
-###### Article R344-3
-
-L'autorité compétente pour décider ou autoriser la création des maisons d'accueil spécialisées peut les autoriser à
-contribuer à la formation des personnes appelées à exercer le rôle d'auxiliaire de vie auprès de personnes handicapées.
-
-La charge supplémentaire que représente pour les maisons d'accueil spécialisées la formation de ce personnel est supportée
-dans tous les cas par l'organisme employeur ou de formation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-1211 du 26 décembre 1978 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Abrogé par_:
-
-  - Décret n°2006-422 du 7 avril 2006 - art. 30 () JORF 9 avril 2006
-
-
 ##### Section 2 : Centres d'aide par le travail<a id=616></a>
 
 ##### Sous-section 1 : Dispositions générales.<a id=617></a>
@@ -77661,7 +77993,7 @@ précise notamment :
 
 3° La nature des activités professionnelles et extra professionnelles offertes par le centre ;
 
-4° Le nombre et la qualification des personnels d'encadrement nécessaires à l'exercice des activités professionnelles ;
+4° (Abrogé) ;
 
 5° Les modalités selon lesquelles sont assurés, en fonction des catégories de personnes accueillies, les soutiens médicaux,
 éducatifs, sociaux et psychologiques ainsi que le nombre et la qualification des personnels qui y contribuent ;
@@ -77681,6 +78013,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 30 () JORF 9 avril 2006
 
 _Cité par_:
 
@@ -78563,8 +78899,7 @@ départemental des centres d'hébergement et de réinsertion sociale. Sans préj
 
 3° La capacité d'accueil du centre ;
 
-4° Les moyens affectés à la réalisation des actions, en particulier la qualification des travailleurs sociaux et la
-composition des équipes pluridisciplinaires employées ;
+4° (Abrogé) ;
 
 5° Les conditions dans lesquelles le centre assure l'accueil des personnes en situation d'urgence ;
 
@@ -78582,6 +78917,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-422 du 7 avril 2006 - art. 30 () JORF 9 avril 2006
 
 _Cite_:
 
