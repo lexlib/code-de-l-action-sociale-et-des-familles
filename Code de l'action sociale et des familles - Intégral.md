@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-04-09
+Version Consolidée au 2006-04-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -94352,8 +94352,11 @@ relevant des articles L. 342-1 A L. 342-6
 ┃ 734-3: Contribution de l'assurance maladie au titre de l'article R.        │ ●                  │          │ ●     │      ┃
 ┃ 314-188 = B 4                                                              │                    │          │       │      ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
-┃ BASE DE CALCUL DES TARIFS JOURNALIERS / "dépendance" = D 2 soit A 2 -      │ ●                  │ ●        │ ●     │ ●    ┃
-┃ (B 2 + B4) "soins" = D 3 soit A3 - B 3                                     │                    └┈┈┈┈┈┈┈┈┈┈┘       │      ┃
+┃ incorporation des résultats des exercices antérieurs "dépendance" = C      │                    │          │       │      ┃
+┃ 2, soins = C3                                                              │                    │          │       │      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
+┃ BASE DE CALCUL DES TARIFS JOURNALIERS / "dépendance" = D 2 soit [A 2 -     │ ●                  │ ●        │ ●     │ ●    ┃
+┃ (B 2 + B4)] + C2 "soins" = D 3 soit A3 - B 3 + C3                          │                    └┈┈┈┈┈┈┈┈┈┈┘       │      ┃
 ┃                                                                            │                    ┌┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┤      ┃
 ┃                                                                            │                    │ ●        │       │      ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┼┈┈┈┈┈┈┨
@@ -94512,7 +94515,7 @@ Tableau de répartition des charges relatives au personnel extérieur dans un é
 
 _Modifié par_:
 
-  - Décret n°2007-828 du 11 mai 2007 - art. 5
+  - Décret n°2006-422 du 7 avril 2006 - art. 23
 
 _Cite_:
 
