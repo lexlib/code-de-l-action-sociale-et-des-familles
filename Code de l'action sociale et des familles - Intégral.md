@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-05-24
+Version Consolidée au 2006-05-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -10989,13 +10989,13 @@ _Cite_:
 
 ###### Article L227-10
 
-Après avis d'une commission comprenant des représentants de l'Etat et des mouvements de jeunesse et d'éducation populaire
-agréés, le représentant de l'Etat dans le département peut prononcer à l'encontre de toute personne dont la participation à
-un accueil de mineurs mentionné à l'article L. 227-4 ou à l'organisation d'un tel accueil présenterait des risques pour la
-santé et la sécurité physique ou morale des mineurs mentionnés à l'article L. 227-4, ainsi que de toute personne qui est sous
-le coup d'une mesure de suspension ou d'interdiction d'exercer prise en application de l'article L. 463-6 du code de
-l'éducation, l'interdiction temporaire ou permanente d'exercer une fonction particulière ou quelque fonction que ce soit
-auprès de ces mineurs, ou d'exploiter des locaux les accueillant ou de participer à l'organisation des accueils.
+Après avis de la commission départementale compétente en matière de jeunesse et de sport, le représentant de l'Etat dans le
+département peut prononcer à l'encontre de toute personne dont la participation à un accueil de mineurs mentionné à l'article
+L. 227-4 ou à l'organisation d'un tel accueil présenterait des risques pour la santé et la sécurité physique ou morale des
+mineurs mentionnés à l'article L. 227-4, ainsi que de toute personne qui est sous le coup d'une mesure de suspension ou
+d'interdiction d'exercer prise en application de l'article L. 212-13 du code du sport, l'interdiction temporaire ou
+permanente d'exercer une fonction particulière ou quelque fonction que ce soit auprès de ces mineurs, ou d'exploiter des
+locaux les accueillant ou de participer à l'organisation des accueils. 
 
 En cas d'urgence, le représentant de l'Etat dans le département peut, sans consultation de ladite commission, prendre une
 mesure de suspension d'exercice à l'égard des personnes mentionnées à l'alinéa précédent. Cette mesure est limitée à six
@@ -11021,14 +11021,14 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R227-3 (V)
   - Code de l'éducation - art. D312-1-2 (VD)
 
-_Modifié par_:
+_Créé par_:
 
-  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 8 () JORF 2 septembre 2005
+  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
 
 _Cite_:
 
-  - Code de l'éducation - art. L463-6 (M)
-  - Code de l'action sociale et des familles - art. L227-4 (M)
+  - Code du sport. - art. L212-13 (V)
+  - Code de l'action sociale et des familles - art. L227-4 (V)
 
 
 ###### Article L227-11
@@ -94100,6 +94100,8 @@ a) Calcul du prix de journée "hébergement" :
 
 D1 / I 
 
+a bis) Calcul du prix de revient " hébergement " : (A1-B1) / I. 
+
 b) Calcul du tarif journalier " dépendance " pour les GIR 1 et 2 : 
 
 (D2 X H1) / K1 
@@ -94490,9 +94492,9 @@ Ressources 5 et 6
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-1136 du 21 octobre 2004 (V)
+  - Décret n°2006-584 du 23 mai 2006 - art. 6, v. init.
 
 _Cité par_:
 
