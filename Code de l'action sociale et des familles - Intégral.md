@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-06-17
+Version Consolidée au 2006-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -26342,10 +26342,14 @@ définitive ou provisoire, de l'établissement.
 
 En cas d'urgence ou lorsque le responsable de l'établissement refuse de se soumettre à la surveillance prévue à l'article L.
 331-3, le représentant de l'Etat peut, sans injonction préalable, prononcer par arrêté motivé et à titre provisoire une
-mesure de fermeture immédiate, à charge pour lui d'en saisir pour avis ledit conseil, dans le délai d'un mois.
+mesure de fermeture immédiate, à charge pour lui d'en saisir pour avis ladite commission, dans le délai d'un mois.
 
 En cas de décision de fermeture prise par le président du conseil général, le représentant de l'Etat dans le département
 exécute cette décision en appliquant, avec le concours de celui-ci, les dispositions prévues à l'article L. 331-6.
+
+**Nota:**
+
+La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30 art. 3.
 
 **Liens relatifs à cet article**
 
@@ -26356,7 +26360,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 10 () JORF 2 décembre 2005
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 23 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 _Anciens textes_:
 
