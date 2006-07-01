@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2006-07-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -664,7 +664,7 @@ Version Consolidée au 2006-07-01
           - [Section 3 : Formations et diplômes (art. R451-11 à D451-104)](#661)
             - [Sous-section 1 : Formations supérieures et diplômes d'encadrement (art. R451-11 à R451-28)](#662)
               - [Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale. (art. R451-11 à R451-16)](#663)
-              - [Paragraphe 2 : Diplôme supérieur en travail social. (art. D451-17 à D451-19)](#664)
+              - [Paragraphe 2 : Diplôme d'Etat d'ingénierie sociale. (art. D451-17 à D451-19-1)](#664)
               - [Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale. (art. R451-20 à R451-28)](#665)
             - [Sous-section 2 : Formations et diplômes professionnels d'intervention sociale (art. D451-29 à D451-104)](#666)
               - [Paragraphe 1 : Diplôme d'Etat d'assistant de service social. (art. D451-29 à R451-37)](#667)
@@ -83336,18 +83336,24 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 2 : Diplôme supérieur en travail social.<a id=664></a>
+##### Paragraphe 2 : Diplôme d'Etat d'ingénierie sociale.<a id=664></a>
 
 ###### Article D451-17
 
-Le diplôme supérieur en travail social atteste les compétences acquises dans les domaines de la connaissance et de
-l'expertise des politiques sociales, de la conception, de la mise en oeuvre et de l'évaluation de projets d'intervention
-sociale, de la direction et de la gestion de services et de l'encadrement d'équipes, de la méthodologie de recherche.
+Le diplôme d'Etat d'ingénierie sociale atteste des compétences nécessaires pour exercer des fonctions d'expertise, de
+conseil, de conception, de développement et d'évaluation appliquées aux domaines des politiques sociales et de l'intervention
+sociale.
 
-La formation au diplôme supérieur en travail social s'effectue dans le cadre de la formation professionnelle continue.
+Il est structuré en domaines de compétences et peut être obtenu par la voie de la formation ou, en tout ou partie, par la
+validation des acquis de l'expérience.
 
-Ce diplôme est délivré aux candidats ayant réussi les épreuves de l'examen définies par arrêté du ministre chargé des
-affaires sociales et du ministre chargé de l'enseignement supérieur.
+Il est délivré conjointement par le préfet de région et le recteur.
+
+**Nota:**
+
+Décret 2006-770 2006-06-30 art. 2 : Les candidats qui ont commencé une formation avant le 1er septembre 2006 restent soumis
+aux dispositions relatives aux modalités de formation et de délivrance du diplôme en vigueur avant la publication du présent
+décret.
 
 **Liens relatifs à cet article**
 
@@ -83359,6 +83365,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-770 du 30 juin 2006 - art. 1 () JORF 2 juillet 2006
+
 _Cité par_:
 
   - Code de l'éducation - art. D676-1 (M)
@@ -83366,8 +83376,26 @@ _Cité par_:
 
 ###### Article D451-18
 
-La formation au diplôme supérieur en travail social est organisée dans le cadre d'une convention de coopération entre une
-université ou un établissement d'enseignement supérieur et un centre de formation des professions sociales.
+La formation préparant au diplôme d'Etat d'ingénierie sociale comprend un enseignement théorique et une formation pratique. 
+
+Les candidats à cette formation doivent justifier de la possession d'un diplôme ou titre et, le cas échéant, compte tenu de
+leur diplôme ou titre, d'une expérience professionnelle dont la durée dépend du diplôme possédé. Ils sont soumis à une
+procédure d'admission organisée par les établissements de formation dont les modalités figurent dans leur règlement
+d'admission. 
+
+La durée et le contenu de la formation peuvent varier en fonction de l'expérience professionnelle et des diplômes possédés
+par les candidats. 
+
+La formation préparant au diplôme d'Etat d'ingénierie sociale est dispensée par les établissements publics ou privés ayant
+satisfait à l'obligation de déclaration préalable mentionnée à l'article L. 451-1. La formation est organisée dans le cadre
+d'une convention de coopération entre une université ou un établissement d'enseignement supérieur et un établissement de
+formation préparant aux diplômes de travail social.
+
+**Nota:**
+
+Décret 2006-770 2006-06-30 art. 2 : Les candidats qui ont commencé une formation avant le 1er septembre 2006 restent soumis
+aux dispositions relatives aux modalités de formation et de délivrance du diplôme en vigueur avant la publication du présent
+décret.
 
 **Liens relatifs à cet article**
 
@@ -83381,7 +83409,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+  - Décret n°2006-770 du 30 juin 2006 - art. 1 () JORF 2 juillet 2006
 
 _Cité par_:
 
@@ -83389,12 +83417,61 @@ _Cité par_:
   - Arrêté du 2 août 2006 - art. 3 (V)
   - Arrêté du 2 août 2006 - art. 4 (V)
 
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L451-1 (V)
+
+
+###### Article D451-18-1
+
+Les épreuves du diplôme comprennent des épreuves organisées en cours de formation conformément au dossier de déclaration
+préalable défini à l'article R. 451-2 en détaillant les modalités et la soutenance d'un mémoire devant le jury prévu à
+l'article D. 451-19.
+
+**Nota:**
+
+Décret 2006-770 2006-06-30 art. 2 : Les candidats qui ont commencé une formation avant le 1er septembre 2006 restent soumis
+aux dispositions relatives aux modalités de formation et de délivrance du diplôme en vigueur avant la publication du présent
+décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-770 du 30 juin 2006 - art. 1 () JORF 2 juillet 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R451-2 (V)
+
 
 ###### Article D451-19
 
-Les conditions d'intervention de la convention de coopération, ainsi que d'admission à la formation au diplôme supérieur en
-travail social, le contenu des études et les modalités de composition et de nomination des jurys sont fixés par arrêté du
-ministre chargé des affaires sociales et du ministre chargé de l'enseignement supérieur.
+Le préfet de région nomme le jury du diplôme qui comprend :
+
+1° Le directeur régional des affaires sanitaires et sociales ou son représentant et le recteur ou son représentant. L'un
+d'entre eux assure la présidence du jury ;
+
+2° Des enseignants des universités ou établissements d'enseignement supérieur, des formateurs des établissements de formation
+préparant aux diplômes de travail social ;
+
+3° Des représentants de services déconcentrés de l'Etat, des collectivités publiques, des personnes qualifiées dans le
+domaine des politiques sociales ;
+
+4° Pour un quart au moins de ses membres des représentants qualifiés du secteur professionnel, pour moitié employeurs, pour
+moitié salariés.
+
+Ce jury peut, en tant que de besoin, se subdiviser en groupes d'examinateurs.
+
+**Nota:**
+
+Décret 2006-770 2006-06-30 art. 2 : Les candidats qui ont commencé une formation avant le 1er septembre 2006 restent soumis
+aux dispositions relatives aux modalités de formation et de délivrance du diplôme en vigueur avant la publication du présent
+décret.
 
 **Liens relatifs à cet article**
 
@@ -83406,9 +83483,37 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-770 du 30 juin 2006 - art. 1 () JORF 2 juillet 2006
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article D451-19-1
+
+Un arrêté conjoint du ministre chargé des affaires sociales et du ministre chargé de l'enseignement supérieur précise les
+compétences professionnelles mentionnées à l'article D. 451-18, les modalités d'accès à la formation, le contenu de la
+formation, les modalités de certification du diplôme d'Etat d'ingénierie sociale ainsi que les modalités de coopération entre
+établissements de formation.
+
+**Nota:**
+
+Décret 2006-770 2006-06-30 art. 2 : Les candidats qui ont commencé une formation avant le 1er septembre 2006 restent soumis
+aux dispositions relatives aux modalités de formation et de délivrance du diplôme en vigueur avant la publication du présent
+décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2006-770 du 30 juin 2006 - art. 1 () JORF 2 juillet 2006
 
 
 ##### Paragraphe 3 : Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale.<a id=665></a>
