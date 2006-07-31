@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-07-30
+Version Consolidée au 2006-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -41551,10 +41551,6 @@ deux représentants des départements désignés par l'assemblée des départeme
 
 un représentant des communes désigné par l'association des maires de France ;
 
-un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
-
-un magistrat de la Cour des comptes désigné par le premier président de la Cour des comptes ;
-
 un membre de l'inspection générale des affaires sociales désigné par le ministre ;
 
 2° Un représentant désigné par chacune des associations et organisations suivantes :
@@ -41604,6 +41600,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-662 du 7 juin 2006 - art. 9 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 _Cité par_:
 
@@ -43777,9 +43777,6 @@ Une commission supérieure de la médaille de la famille, siégeant au ministèr
 ministre son avis sur toutes questions relatives à la médaille, et notamment, sur les candidatures ou propositions de retrait
 qui lui sont soumises.
 
-Dans chaque département, une commission départementale de la médaille de la famille examine les candidatures ou propositions
-de retrait concernant les mères ou pères de famille domiciliés dans son ressort.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -43790,19 +43787,32 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
+
 
 ###### Article D215-10
 
-Le pouvoir de conférer la médaille de la famille est délégué dans chaque département au préfet, qui prend préalablement
-l'avis de la commission départementale.
-
-Si le préfet n'accepte pas l'avis de la commission départementale, il sollicite la décision du ministre chargé de la famille,
-qui statue, après avis de la commission supérieure de la médaille.
+Le pouvoir de conférer la médaille de la famille est délégué dans chaque département au préfet.
 
 En ce qui concerne la famille domiciliée à l'étranger, la médaille de la famille est conférée par arrêté du ministre chargé
 de la famille pris après avis de la commission supérieure de la médaille.
 
 Sur sa demande, le postulant peut obtenir communication des motifs ayant fondé le refus de l'octroi de la médaille.
+
+**Nota:**
+
+Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives
+définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans
+à compter de cette date (Commission supérieure de la médaille de la famille).
+
+art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
+décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
 
 **Liens relatifs à cet article**
 
@@ -43813,6 +43823,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
 ###### Article D215-11
