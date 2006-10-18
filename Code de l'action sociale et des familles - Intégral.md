@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-10-18
+Version Consolidée au 2006-10-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -45738,22 +45738,23 @@ _Cite_:
 
 ###### Article D225-6
 
-L'arrêté du président du conseil général délivrant l'agrément est établi selon le modèle figurant à l'annexe 2-5. La notice
-jointe à cet agrément est établie selon le modèle figurant à l'annexe 2-6.
+L'arrêté du président du conseil général délivrant l'agrément est établi selon le modèle figurant à l'annexe 2-6. La notice
+jointe à cet agrément est établie selon le modèle figurant à l'annexe 2-7.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'action sociale et des familles annexe 2-5, annexe 2-6
 
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-981 du 1 août 2006 - art. 1 () JORF 4 août 2006
+  - Décret n°2006-1272 du 17 octobre 2006 - art. 1
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. Annexe 2-6 (V)
+  - Code de l'action sociale et des familles - art. Annexe 2-7 (V)
 
 _Anciens textes_:
 
