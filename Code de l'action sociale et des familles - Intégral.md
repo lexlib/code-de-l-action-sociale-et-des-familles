@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-01-12
+Version Consolidée au 2007-01-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -545,7 +545,7 @@ Version Consolidée au 2007-01-12
           - [Section 4 : Contrôle (art. D313-28 à R313-27)](#542)
         - [Chapitre IV : Dispositions financières (art. R314-1 à R314-204)](#543)
           - [Section 1 : Règles de compétences en matière tarifaire. (art. R314-3)](#544)
-          - [Section 2 : Règles budgétaires de financement (art. R314-4 à R314-203)](#545)
+          - [Section 2 : Règles budgétaires de financement (art. R314-4 à R314-203-2)](#545)
             - [Sous-section 1 : Dispositions générales relatives à la comptabilité, au budget et à la tarification (art. R314-4 à R314-63)](#546)
               - [Paragraphe 1 : Principes comptables et budgétaires généraux. (art. R314-4 à R314-8)](#547)
               - [Paragraphe 2 : Présentation budgétaire. (art. R314-9 à R314-13)](#548)
@@ -607,9 +607,9 @@ Version Consolidée au 2007-01-12
               - [Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services (art. R314-194 à R314-196)](#604)
                 - [Sous-paragraphe 1 : Accueil temporaire. (art. R314-194)](#605)
                 - [Sous-paragraphe 2 : Dispositions diverses. (art. R314-195 à R314-196)](#606)
-            - [Sous-section 5 : Dispositions relatives à la réglementation du travail (art. R314-197 à R314-203)](#607)
+            - [Sous-section 5 : Dispositions relatives à la réglementation du travail (art. R314-197 à R314-203-2)](#607)
               - [Paragraphe 1 : Conventions collectives et accords de retraite. (art. R314-197 à R314-200)](#608)
-              - [Paragraphe 2 : Durée du travail. (art. R314-201 à R314-203)](#609)
+              - [Paragraphe 2 : Durée du travail. (art. R314-201 à R314-203-2)](#609)
           - [Section 3 : Dispositions diverses (art. R314-204)](#610)
         - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public (art. R315-1 à D315-71)](#611)
           - [Section 1 : Dispositions générales (art. R315-1 à R315-5)](#612)
@@ -78913,6 +78913,52 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+
+###### Article R314-203-1
+
+Le recours au régime d'équivalence prévu à l'article R. 314-202 ne peut avoir pour effet de porter :
+
+1° A plus de quarante-huit heures la durée hebdomadaire moyenne de travail des salariés, décomptée heure pour heure, sur une
+période quelconque de quatre mois consécutifs ;
+
+2° A plus de douze heures la durée de travail des travailleurs de nuit, décomptée heure pour heure, sur une période
+quelconque de vingt-quatre heures ; ces salariés bénéficient de périodes de repos d'une durée au moins équivalente au nombre
+d'heures qui sont effectuées au-delà de la huitième heure.
+
+Pour l'appréciation de la qualité de travailleur de nuit selon les dispositions de l'article L. 213-2 du code du travail, le
+temps de travail des salariés soumis au régime d'équivalence de l'article R. 314-202 est décompté heure pour heure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2007-106 du 29 janvier 2007 - art. 1 () JORF 30 janvier 2007
+
+
+###### Article R314-203-2
+
+Aucun salarié auquel est appliqué le régime d'équivalence prévu par l'article R. 314-202 ne peut accomplir un temps de
+travail, décompté heure pour heure, excédant six heures consécutives, sans bénéficier d'un temps de pause d'une durée
+minimale de vingt minutes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2007-106 du 29 janvier 2007 - art. 1 () JORF 30 janvier 2007
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R314-202 (V)
 
 
 ##### Section 3 : Dispositions diverses<a id=610></a>
