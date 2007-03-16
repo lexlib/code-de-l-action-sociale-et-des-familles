@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-03-13
+Version Consolidée au 2007-03-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -710,7 +710,7 @@ Version Consolidée au 2007-03-13
               - [Paragraphe 7 : Diplôme d'Etat de médiateur familial. (art. R451-66 à R451-72)](#707)
               - [Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur. (art. D451-73 à D451-80)](#708)
               - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale. (art. D451-81 à D451-87)](#709)
-              - [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale. (art. R451-88 à R451-93)](#710)
+              - [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale. (art. D451-88 à D451-93-1)](#710)
               - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique. (art. D451-95 à R451-94)](#711)
               - [Paragraphe 12 : Diplôme d'Etat d'assistant familial (art. D451-100 à D451-104)](#712)
     - [Livre V : Dispositions particulières applicables à certaines parties du territoire (art. R521-1 à R571-1)](#713)
@@ -93012,17 +93012,11 @@ _Cite_:
 
 ##### Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale.<a id=710></a>
 
-###### Article R451-88
+###### Article D451-88
 
-Le diplôme d'Etat d'auxiliaire de vie sociale atteste des compétences pour effectuer un accompagnement social et un soutien
-auprès des publics fragiles dans leur vie quotidienne.
-
-Il constitue le premier niveau de qualification de la filière préparant aux métiers de l'aide à domicile.
-
-Les titulaires du diplôme d'Etat d'auxiliaire de vie sociale interviennent auprès des familles, des enfants, des personnes
-âgées, des personnes malades et des personnes handicapées, pour une aide dans la vie quotidienne, le maintien à domicile, la
-préservation, la restauration et la stimulation de l'autonomie des personnes, leur insertion sociale et la lutte contre
-l'exclusion.
+Le diplôme d'Etat d'auxiliaire de vie sociale atteste des compétences nécessaires pour effectuer un accompagnement social et
+un soutien auprès des personnes âgées, des personnes handicapées, des personnes en difficulté sociale, des familles ou des
+enfants, dans leur vie quotidienne.
 
 **Liens relatifs à cet article**
 
@@ -93032,30 +93026,24 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Transféré par_:
-
   - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-1188 du 3 août 2007 - art. 6 (VD)
+  - Décret n°2016-1745 du 15 décembre 2016 - art. 17
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R451-76 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles D. 451-88
+  - Code de la sécurité sociale R451-88
 
 
-###### Article R451-89
+###### Article D451-89
 
-Pour être admis à suivre la formation préparant au diplôme d'Etat d'auxiliaire de vie sociale, les candidats doivent disposer
-d'un niveau pré-requis, dont la vérification est organisée par les établissements publics ou privés dispensant la formation.
+Le diplôme d'Etat d'auxiliaire de vie sociale est structuré en domaines de compétences et peut être obtenu par la voie de la
+formation ou, en tout ou partie, par la validation des acquis de l'expérience.
 
-Les épreuves, les conditions de dispense ainsi que les modalités de vérification des pré-requis pour entrer en formation
-préparant au diplôme d'Etat d'auxiliaire de vie sociale sont définis par arrêté du ministre chargé des affaires sociales.
-
-Les candidats doivent être âgés de dix-huit ans au moins à la date d'entrée en formation.
+Il est délivré par le représentant de l'Etat dans la région.
 
 **Liens relatifs à cet article**
 
@@ -93065,26 +93053,30 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Transféré par_:
-
   - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-1188 du 3 août 2007 - art. 6 (V)
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R451-77 (M)
-  - Code de l'action sociale et des familles - art. R451-77 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles D. 451-89
+  - Code de l'action sociale et des familles R. 451-89
 
 
-###### Article R451-90
+###### Article D451-90
 
-Cette formation, dispensée en alternance, comporte une partie théorique et des stages. La durée et le contenu de la formation
-sont définis par arrêté du ministre chargé des affaires sociales.
+La formation préparant au diplôme d'Etat d'auxiliaire de vie sociale comprend un enseignement théorique et une formation
+pratique dispensée au cours de stages.
+
+Cette formation est dispensée par les établissements publics ou privés ayant satisfait à l'obligation de déclaration
+préalable mentionnée à l'article L. 451-1.
+
+La durée et le contenu de la formation peuvent varier en fonction de l'expérience professionnelle et des diplômes possédés
+par les candidats.
+
+Les candidats sont soumis à des épreuves d'admission, organisées par les établissements de formation selon les modalités
+figurant dans leur règlement d'admission.
 
 **Liens relatifs à cet article**
 
@@ -93094,33 +93086,26 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Transféré par_:
-
   - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 4 juin 2007 - art. 2 (Ab)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L451-1 (M)
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R451-78 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles D. 451-90
+  - Code de l'action sociale et des familles R. 451-90
 
 
-###### Article R451-91
+###### Article D451-91
 
-Le diplôme est délivré par le préfet de région aux candidats ayant satisfait aux épreuves de validation. Les épreuves et leur
-déroulement sont définis par arrêté du ministre chargé des affaires sociales.
-
-Les titulaires de certains diplômes, certificats ou titres relevant du champ de l'aide à la personne bénéficient de
-validations automatiques de modules dans les conditions prévues par arrêté du ministre chargé des affaires sociales.
-
-Des allégements de formation peuvent être accordés aux personnes attestant de cycles de formation continue ou titulaires de
-diplômes, certificats ou titres autres que ceux donnant droit à des validations automatiques de modules.
-
-L'ensemble du diplôme d'Etat d'auxiliaire de vie sociale doit être validé dans une période de cinq ans.
+Les épreuves du diplôme comprennent des épreuves organisées en cours de formation conformément au dossier de déclaration
+préalable défini à l'article R. 451-2 en détaillant les modalités et des épreuves organisées par le représentant de l'Etat
+dans la région.
 
 **Liens relatifs à cet article**
 
@@ -93130,29 +93115,37 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Transféré par_:
-
   - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 29 janvier 2016 - art. 13 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R451-2 (M)
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R451-79 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles D. 451-91
+  - Code de l'action sociale et des familles R. 451-91
 
 
-###### Article R451-92
+###### Article D451-92
 
-Les titulaires du certificat d'aptitude aux fonctions d'aide à domicile sont titulaires de droit du diplôme d'Etat
-d'auxiliaire de vie sociale.
+Le représentant de l'Etat dans la région nomme le jury du diplôme, qui comprend :
 
-Des attestations d'équivalence au diplôme d'Etat d'auxiliaire de vie sociale peuvent être accordées aux titulaires de
-certains diplômes ou certificats relevant du champ de l'aide à la personne dans les conditions définies par arrêté du
-ministre chargé des affaires sociales.
+1° Le directeur régional des affaires sanitaires ou sociales ou son représentant, président ;
+
+2° Des formateurs issus des établissements de formation, publics ou privés, préparant au diplôme d'Etat d'auxiliaire de vie
+sociale ;
+
+3° Des représentants de l'Etat, des collectivités publiques ou de personnes qualifiées dans le champ de l'action sociale et
+médico-sociale ;
+
+4° Pour un quart au moins de ses membres, des représentants qualifiés du secteur professionnel pour moitié employeurs et pour
+moitié salariés.
+
+Ce jury peut, en tant que de besoin, se subdiviser en groupes d'examinateurs.
 
 **Liens relatifs à cet article**
 
@@ -93162,24 +93155,21 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Transféré par_:
-
   - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R544-5 (V)
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R451-80 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles D. 451-92
+  - Code de l'action sociale et des familles R. 451-92
 
 
-###### Article R451-93
+###### Article D451-93
 
-A titre transitoire, les formations engagées avant le 27 mars 2002 demeurent régies par les dispositions antérieures.
+Les titulaires du certificat d'aptitude aux fonctions d'aide à domicile ou de la mention complémentaire aide à domicile sont,
+de droit, titulaires du diplôme d'Etat d'auxiliaire de vie sociale.
 
 **Liens relatifs à cet article**
 
@@ -93189,19 +93179,36 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-_Transféré par_:
-
   - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
 
 _Anciens textes_:
 
-  - Code de l'action sociale et des familles - art. R451-81 (T)
+  - Code de l'action sociale et des familles R. 451-93
 
-_Nouveaux textes_:
 
-  - Code de l'action sociale et des familles D. 451-93
+###### Article D451-93-1
+
+Un arrêté du ministre chargé des affaires sociales précise les compétences professionnelles mentionnées à l'article D.
+451-81, les modalités d'accès à la formation, le contenu et l'organisation de cette formation ainsi que les modalités de
+certification du diplôme d'Etat d'auxiliaire de vie sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2007-348 du 14 mars 2007 - art. 1 () JORF 17 mars 2007
+
+_Abrogé par_:
+
+  - Décret n°2016-74 du 29 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. D451-81
 
 
 ##### Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique.<a id=711></a>
