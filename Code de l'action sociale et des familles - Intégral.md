@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-03-17
+Version Consolidée au 2007-03-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -606,7 +606,7 @@ Version Consolidée au 2007-03-17
               - [Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes. (art. R314-137 à R314-138)](#603)
               - [Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées. (art. R314-140 à R314-146)](#604)
               - [Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés. (art. R314-147 à R314-149)](#605)
-              - [Paragraphe 9 : Centres d'hébergement et de réinsertion sociale. (art. R314-150 à R314-157)](#606)
+              - [Paragraphe 9 : Centres d'hébergement et de réinsertion sociale et centres d'accueil pour demandeurs d'asile (art. R314-150 à R314-157)](#606)
               - [Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes (art. R314-158 à R314-193)](#607)
                 - [Sous-paragraphe 1 : Principes généraux de la tarification (art. R314-158 à R314-161)](#608)
                 - [Sous-paragraphe 2 : Modalités de détermination et de calcul des tarifs (art. R314-162 à R314-193)](#609)
@@ -644,7 +644,7 @@ Version Consolidée au 2007-03-17
           - [Section 1 : Conseil départemental de l'enfance. (art. D331-1 à D331-4)](#641)
           - [Section 2 : Surveillance des établissements. (art. R331-5)](#642)
           - [Section 3 : Administration provisoire et fermeture des établissements et services. (art. R331-6 à R331-7)](#643)
-      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. D341-1 à D347-3)](#644)
+      - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements (art. D341-1 à R348-5)](#644)
         - [Chapitre Ier : Pouponnières. (art. D341-1 à D341-7)](#645)
         - [Chapitre II : Hébergement de personnes âgées. (art. D342-2 à R342-1)](#646)
         - [Chapitre IV : Centres pour handicapés adultes (art. R344-1 à D344-39)](#647)
@@ -655,12 +655,12 @@ Version Consolidée au 2007-03-17
           - [Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes (art. R344-29 à D344-39)](#652)
             - [Sous-section 1 : Contribution aux frais d'hébergement et d'entretien (art. R344-29 à R344-33)](#653)
             - [Sous-section 2 : Minimum de ressources (art. D344-34 à D344-39)](#654)
-        - [Chapitre V : Centres d'hébergement et de réinsertion sociale et centres d'accueil pour demandeurs d'asile (art. R345-1 à R345-8)](#655)
-          - [Section 1 : Activités et organisation. (art. R345-1 à R345-3)](#656)
-          - [Section 2 : Accueil et séjour. (art. R345-4 à R345-7)](#657)
-          - [Section 3 : Centres d'accueil pour demandeurs d'asile. (art. R345-8)](#658)
-        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. R346-1)](#659)
-        - [Chapitre VII : Services d'aide et d'accompagnement non soumis à autorisation. (art. D347-1 à D347-3)](#660)
+        - [Chapitre V : Centres d'hébergement et de réinsertion sociale (art. R345-1 à R345-7)](#655)
+          - [Section 1 : Activités et organisation (art. R345-1 à R345-3)](#656)
+          - [Section 2 : Accueil et séjour (art. R345-4 à R345-7)](#657)
+        - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre. (art. R346-1)](#658)
+        - [Chapitre VII : Services d'aide et d'accompagnement non soumis à autorisation. (art. D347-1 à D347-3)](#659)
+        - [Chapitre VIII : Centres d'accueil pour demandeurs d'asile (art. R348-1 à R348-5)](#660)
       - [Titre V : Contentieux de la tarification sanitaire et sociale (art. R351-1 à R351-41)](#661)
         - [Chapitre unique (art. R351-1 à R351-41)](#662)
           - [Section 1 : Tribunaux interrégionaux de la tarification sanitaire et sociale. (art. R351-1 à R351-7)](#663)
@@ -74025,9 +74025,14 @@ _Cité par_:
 
 ###### Article R314-38
 
-Dans le cas où les propositions budgétaires n'ont pas été transmises dans les conditions et délais prévus à l'article R.
-314-3, l'autorité de tarification procède d'office à la tarification dans le délai fixé au I de l'article R. 314-36, après
-avis de la caisse régionale d'assurance maladie pour les établissements et services financés par l'assurance maladie.
+L'autorité de tarification procède d'office à la tarification dans le délai fixé au I de l'article R. 314-36, après avis de
+la caisse régionale d'assurance maladie pour les établissements et services financés par l'assurance maladie :
+
+1° Dans le cas où les données mentionnées au 6° du I de l'article R. 314-49 n'ont pas été transmises dans le délai prévu au
+II de cet article ;
+
+2° Dans le cas où les propositions budgétaires n'ont pas été transmises dans les conditions et délais prévus à l'article R.
+314-3.
 
 Le premier versement du tarif ne peut être effectué qu'après la fixation de celui-ci. Toutefois, en l'attente de cette
 fixation, la tarification en vigueur lors de l'exercice précédent peut être reconduite, sous réserve de modifications
@@ -74044,6 +74049,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 1 () JORF 24 mars 2007
+
 _Cité par_:
 
   - Décret n°2007-399 du 23 mars 2007 - art. 5 (V)
@@ -74055,6 +74064,7 @@ _Cite_:
 
   - Code de l'action sociale et des familles - art. R314-3 (V)
   - Code de l'action sociale et des familles - art. R314-36 (M)
+  - Code de l'action sociale et des familles - art. R314-49 (M)
 
 
 ##### Sous-paragraphe 6 : Fixation pluriannuelle du budget.<a id=567></a>
@@ -75459,13 +75469,12 @@ _Cite_:
 ###### Article R314-76
 
 L'autorité de tarification du budget annexe social ou médico-social est tenue informée par le directeur de l'établissement de
-santé de toute affectation de résultats dans le budget dont elle fixe le tarif.
+santé de toute affectation de résultats dans le budget dont elle fixe le tarif. 
+
+Cette affectation prend en compte, le cas échéant, la réformation des résultats opérée dans les conditions prévues à
+l'article R. 314-52.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'action sociale et des familles annexe
 
 _Anciens textes_:
 
@@ -75475,6 +75484,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 1 () JORF 24 mars 2007
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R314-52 (V)
 
 
 ###### Article R314-77
@@ -75597,22 +75614,22 @@ _Cité par_:
 
 ###### Article R314-81
 
-L'arrêté prévu à l'article R. 314-5 est établi par référence :
+L'arrêté prévu à l'article R. 314-5 est établi par référence : 
 
 1° Au plan comptable des établissements publics sociaux et médico-sociaux, pour ce qui concerne les comptes d'immobilisation
 les comptes de charges et les comptes de charges à répartir, les comptes de produits et les comptes d'affectation des
-résultats excédentaires ;
+résultats excédentaires ; 
 
 2° Au plan comptable des associations et des fondations, pour ce qui concerne les comptes de capitaux, les comptes de stocks,
 les comptes de tiers, les comptes financiers, la prise en compte des frais de siège et le compte relatif à l'impôt sur les
-sociétés des personnes morales à but non lucratif.
+sociétés des personnes morales à but non lucratif. 
 
 Il comporte en outre des comptes de provisions réglementées relatifs à la réserve de trésorerie, ainsi que des comptes de
-plus values nettes sur cessions d'éléments d'actifs immobilisés et d'éléments d'actifs circulants.
+plus values nettes sur cessions d'éléments d'actifs immobilisés et d'éléments d'actifs circulants. 
 
 L'organisme gestionnaire dont les produits de la tarification des établissements et services relevant de l'article R. 314-1
-représentent plus de 50 % de ses produits d'exploitation applique au niveau consolidé le plan comptable des établissements et
-services sociaux et médico-sociaux fixé par l'arrêté prévu à l'article R. 314-5.
+représentent plus de 50 % de ses produits d'exploitation applique au niveau consolidé ou combiné le plan comptable des
+établissements et services sociaux et médico-sociaux fixé par l'arrêté prévu à l'article R. 314-5.
 
 **Liens relatifs à cet article**
 
@@ -75627,7 +75644,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-642 du 31 mai 2006 - art. 5 () JORF 2 juin 2006
+  - Décret n°2007-399 du 23 mars 2007 - art. 1 () JORF 24 mars 2007
 
 _Cité par_:
 
@@ -76683,11 +76700,12 @@ aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
 5° Pour les autres établissements et services, par le département sous la forme d'un prix de journée établi et versé
 conformément aux dispositions du sous-paragraphe 3 du paragraphe 2 de la sous-section 3 de la présente section.
 
-IX. - Pour les établissements et services mentionnés au 8° de l'article L. 312-1 :
+IX. - Pour les établissements et services mentionnés au 8° et au 13° de l'article L. 312-1 :
 
-1° Pour les centres d'hébergement et de réinsertion sociale mentionnés à l'article L. 345-1, par l'Etat sous la forme d'une
-dotation globale de financement établie et versée dans les conditions fixées au sous-paragraphe 1 du paragraphe 2 de la
-présente sous-section et au paragraphe 9 de la sous-section 4 de la présente section ;
+1° Pour les centres d'hébergement et de réinsertion sociale mentionnés à l'article L. 345-1 et les centres d'accueil pour
+demandeurs d'asile mentionnés à l'article L. 348-1, par l'Etat sous la forme d'une dotation globale de financement établie et
+versée dans les conditions fixées au sous-paragraphe 1 du paragraphe 2 de la présente sous-section et au paragraphe 9 de la
+sous-section 4 de la présente section ;
 
 2° Pour les services d'aide à domicile qui relèvent simultanément du 1° du I de l'article L. 312-1, par le département sous
 forme d'une dotation globale de financement versée dans les conditions précisées aux articles R. 314-106 à R. 314-109 ;
@@ -76763,6 +76781,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L344-1 (M)
   - Code de l'action sociale et des familles - art. L344-4 (M)
   - Code de l'action sociale et des familles - art. L345-1 (M)
+  - Code de l'action sociale et des familles - art. L348-1 (V)
   - Code de l'action sociale et des familles - art. R232-21 (T)
   - Code de l'action sociale et des familles - art. R314-123 (V)
   - Code de l'action sociale et des familles - art. R314-125 (V)
@@ -76772,7 +76791,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R314-145 (V)
   - Code de l'action sociale et des familles - art. R314-146 (V)
   - Code de l'action sociale et des familles - art. R314-192 (M)
-  - Code de l'action sociale et des familles L313-6, L312-1, L221-1, R314-106 à R314-109, L222-3, R314-123, L314-1, L228-3, R314-125, R314-126, L344-4, L313-12, R314-192, R232-21, L344-1, R314-145, R314-146, R314-142, R314-143, L345-1, L314-8
+  - Code de l'action sociale et des familles L313-6, L312-1, L221-1, R314-106 à R314-109, L222-3, R314-123, L314-1, L228-3, R314-125, R314-126, L344-4, L313-12, R314-192, R232-21, L344-1, R314-145, R314-146, R314-142, R314-143, L345-1, L348-1, L314-8
   - Nouveau code de procédure civile 1181 à 1200
 
 _Anciens textes_:
@@ -76786,7 +76805,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-642 du 31 mai 2006 - art. 6 () JORF 2 juin 2006
+  - Décret n°2007-399 du 23 mars 2007 - art. 2 () JORF 24 mars 2007
 
 _Cité par_:
 
@@ -78245,13 +78264,18 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 9 : Centres d'hébergement et de réinsertion sociale.<a id=606></a>
+##### Paragraphe 9 : Centres d'hébergement et de réinsertion sociale et centres d'accueil pour demandeurs d'asile<a id=606></a>
 
 ###### Article R314-150
 
 Pour la fixation de la dotation globale de financement des centres d'hébergement et de réinsertion sociale mentionnés à
-l'article L. 345-1, le préfet du département d'implantation tient compte des publics accueillis et des conditions de leur
-prise en charge, telles qu'ils résultent notamment des stipulations de la convention mentionnées à l'article L. 345-3.
+l'article L. 345-1 et des centres d'accueil pour demandeurs d'asile mentionnés à l'article L. 348-1, le préfet du département
+d'implantation tient compte des publics accueillis et des conditions de leur prise en charge, telles qu'ils résultent
+notamment des stipulations des conventions mentionnées aux articles L. 345-3 et L. 348-4.
+
+Cette dotation globale de financement est calculée en appliquant les indicateurs nationaux de référence fixés dans les
+conditions prévues au premier alinéa de l'article R. 314-33-1, lorsque les établissements ou services n'ont pas justifié des
+raisons conduisant à s'en écarter.
 
 **Liens relatifs à cet article**
 
@@ -78264,10 +78288,18 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2007-399 2007-03-23 art. 2 II, III JORF 24 mars 2007
+  - Décret n°2007-399 du 23 mars 2007 - art. 2 () JORF 24 mars 2007
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. L345-1 (M)
   - Code de l'action sociale et des familles - art. L345-3 (M)
+  - Code de l'action sociale et des familles - art. L348-1 (V)
+  - Code de l'action sociale et des familles - art. L348-4 (V)
+  - Code de l'action sociale et des familles - art. R314-33-1 (V)
 
 _Cité par_:
 
@@ -78278,9 +78310,10 @@ _Cité par_:
 
 ###### Article R314-151
 
-Les produits de la section d'exploitation d'un centre d'hébergement et de réinsertion sociale comprennent notamment,
-conformément aux dispositions des 2° et 3° du II de l'article R. 314-12, les participations financières versées par les
-personnes accueillies en application de l'article R. 345-7, et les aides publiques au logement perçues par l'établissement.
+Les produits de la section d'exploitation d'un centre d'hébergement et de réinsertion sociale ou d'un centre d'accueil pour
+demandeurs d'asile comprennent notamment, conformément aux dispositions des 2° et 3° du II de l'article R. 314-12, les
+participations financières versées par les personnes accueillies en application de l'article R. 345-7 et du I de l'article R.
+348-4, et les aides publiques au logement perçues par l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -78293,10 +78326,15 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2007-399 2007-03-23 art. 2 II, IV JORF 24 mars 2007
+  - Décret n°2007-399 du 23 mars 2007 - art. 2 () JORF 24 mars 2007
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. R314-12 (V)
-  - Code de l'action sociale et des familles - art. R345-7 (M)
+  - Code de l'action sociale et des familles - art. R345-7 (V)
 
 _Cité par_:
 
@@ -78305,29 +78343,24 @@ _Cité par_:
 
 ###### Article R314-152
 
-I. - Peuvent notamment figurer dans le budget d'un centre d'hébergement et de réinsertion sociale, le cas échéant sous la
-forme d'un budget annexe  :
+I.-Peuvent notamment figurer dans le budget d'un centre d'hébergement et de réinsertion sociale, le cas échéant sous la forme
+d'un budget annexe : 
 
 1° Les activités de production et de commercialisation liées aux actions d'adaptation à la vie active, prévues par l'article
-R. 345-3 ;
+R. 345-3 ; 
 
 2° Les autres actions non financées par l'aide sociale de l'Etat et qui se rattachent à la mission de l'établissement, à
-l'exception des activités mentionnées au II ci-dessous ;
+l'exception des activités mentionnées au II ci-dessous ; 
 
-II. - Doivent faire l'objet d'un budget propre, extérieur au budget général du centre d'hébergement et de réinsertion
-sociale, les activités suivantes :
+II.-Doivent faire l'objet d'un budget propre, extérieur au budget général du centre d'hébergement et de réinsertion sociale,
+les activités suivantes : 
 
-1° Les actions relatives à l'insertion par l'activité économique, mentionnées à l'article L. 322-4-16-7 du code du travail ;
+1° Les actions relatives à l'insertion par l'activité économique, mentionnées à l'article L. 322-4-16-7 du code du travail ; 
 
 2° Les actions relatives à l'accès au logement des publics en difficulté, lorsque les produits qui leur sont affectés
 dépassent un montant fixé, en valeur ou en proportion, par arrêté des ministres chargés de l'action sociale et du logement.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'action sociale et des familles annexe, R345-3
-  - Code du travail - art. L322-4-16-7 (M)
 
 _Anciens textes_:
 
@@ -78338,6 +78371,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 2 () JORF 24 mars 2007
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. R314-153 (M)
@@ -78346,29 +78383,33 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-156 (V)
   - Code de l'action sociale et des familles - art. R314-196-1 (V)
 
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. R345-3 (V)
+
 
 ###### Article R314-153
 
-I. - Le budget annexe de production et de commercialisation relatif à l'activité mentionnée au 1° du I de l'article R.
-314-152 doit notamment comporter en charges :
+I.-Le budget annexe de production et de commercialisation relatif à l'activité mentionnée au 1° du I de l'article R. 314-152
+doit notamment comporter en charges : 
 
-1° Les rémunérations des personnes qui prennent part aux actions mentionnées à l'article R. 345-3 ;
+1° Les rémunérations des personnes qui prennent part aux actions mentionnées à l'article R. 345-3 ; 
 
 2° Les matières premières, les consommables et les prestations de service nécessaires à l'activité de production et de
-commercialisation ;
+commercialisation ; 
 
-3° Les dotations aux comptes d'amortissement et de provision imputables à l'activité de production et de commercialisation.
+3° Les dotations aux comptes d'amortissement et de provision imputables à l'activité de production et de commercialisation. 
 
-II. - Il comporte, en produits :
+II.-Il comporte, en produits : 
 
-1° Le chiffre d'affaires résultant de la commercialisation de la production et des prestations de services ;
+1° Le chiffre d'affaires résultant de la commercialisation de la production et des prestations de services ; 
 
-2° Le cas échéant, une contribution du budget principal de l'établissement.
+2° Le cas échéant, une contribution du budget principal de l'établissement. 
 
-III. - Le résultat de ce budget annexe de production et de commercialisation est affecté conformément aux dispositions des
-II, III et IV de l'article R. 314-51.
+III.-Le résultat de ce budget annexe de production et de commercialisation est affecté conformément aux dispositions des II,
+III et IV de l'article R. 314-51. 
 
-IV. - Les dispositions de l'article R. 314-128 sont applicables au contrôle du budget annexe de production et de
+IV.-Les dispositions de l'article R. 314-128 sont applicables au contrôle du budget annexe de production et de
 commercialisation.
 
 **Liens relatifs à cet article**
@@ -78382,6 +78423,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 2 () JORF 24 mars 2007
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. D313-19 (T)
@@ -78390,10 +78435,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. R314-128 (M)
-  - Code de l'action sociale et des familles - art. R314-152 (M)
-  - Code de l'action sociale et des familles - art. R314-51 (M)
-  - Code de l'action sociale et des familles - art. R345-3 (M)
+  - Code de l'action sociale et des familles - art. R314-128 (V)
+  - Code de l'action sociale et des familles - art. R314-51 (V)
+  - Code de l'action sociale et des familles - art. R345-3 (V)
 
 
 ###### Article R314-154
@@ -78420,6 +78464,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 2 () JORF 24 mars 2007
 
 _Cite_:
 
@@ -78452,6 +78500,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 2 () JORF 24 mars 2007
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. R314-152 (M)
@@ -78481,6 +78533,10 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Modifié par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 2 () JORF 24 mars 2007
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. R314-152 (M)
@@ -78490,15 +78546,16 @@ _Cite_:
 
 ###### Article R314-157
 
-Chaque trimestre, le centre d'hébergement et de réinsertion sociale transmet au préfet la liste des personnes accueillies
-entrées et sorties pendant cette période, ainsi qu'une information relative au nombre de personnes qui ont fait l'objet d'une
-décision de refus d'accueil, aux catégories auxquelles elles appartiennent et aux motifs de ce refus.
+Le centre d'hébergement et de réinsertion sociale, chaque trimestre, et le centre d'accueil pour demandeurs d'asile, chaque
+mois, transmettent au préfet la liste des personnes accueillies entrées et sorties pendant cette période, ainsi qu'une
+information relative au nombre de personnes qui ont fait l'objet d'une décision de refus d'accueil, aux catégories auxquelles
+elles appartiennent et aux motifs de ce refus.
 
 L'établissement est tenu de faire connaître au préfet, sur demande, la liste des personnes présentes.
 
-Le centre d'hébergement et de réinsertion sociale conserve les dossiers des personnes accueillies deux années civiles après
-leur sortie. Les dossiers ainsi conservés peuvent à tout moment faire l'objet d'un contrôle sur place diligenté par le
-préfet.
+Le centre d'hébergement et de réinsertion sociale et le centre d'accueil pour demandeurs d'asile conservent les dossiers des
+personnes accueillies deux années civiles après leur sortie. Les dossiers ainsi conservés peuvent à tout moment faire l'objet
+d'un contrôle sur place diligenté par le préfet.
 
 **Liens relatifs à cet article**
 
@@ -78510,6 +78567,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
+
+_Modifié par_:
+
+  - Décret n°2007-399 2007-03-23 art. 2 II, V JORF 24 mars 2007
+  - Décret n°2007-399 du 23 mars 2007 - art. 2 () JORF 24 mars 2007
 
 _Cité par_:
 
@@ -84926,9 +84988,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D344-36 (V)
 
 
-#### Chapitre V : Centres d'hébergement et de réinsertion sociale et centres d'accueil pour demandeurs d'asile<a id=655></a>
+#### Chapitre V : Centres d'hébergement et de réinsertion sociale<a id=655></a>
 
-##### Section 1 : Activités et organisation.<a id=656></a>
+##### Section 1 : Activités et organisation<a id=656></a>
 
 ###### Article R345-1
 
@@ -84964,7 +85026,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+  - Décret n°2007-399 du 23 mars 2007 - art. 3 () JORF 24 mars 2007
 
 _Cite_:
 
@@ -84998,7 +85060,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+  - Décret n°2007-399 du 23 mars 2007 - art. 3 () JORF 24 mars 2007
 
 _Cite_:
 
@@ -85034,7 +85096,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+  - Décret n°2007-399 du 23 mars 2007 - art. 3 () JORF 24 mars 2007
 
 _Cité par_:
 
@@ -85052,7 +85114,7 @@ _Cite_:
   - Code du travail - art. L322-4-16 (M)
 
 
-##### Section 2 : Accueil et séjour.<a id=657></a>
+##### Section 2 : Accueil et séjour<a id=657></a>
 
 ###### Article R345-4
 
@@ -85092,7 +85154,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+  - Décret n°2007-399 du 23 mars 2007 - art. 3 () JORF 24 mars 2007
 
 _Cité par_:
 
@@ -85103,41 +85165,6 @@ _Cite_:
 
   - Code de l'action sociale et des familles - art. R345-1 (M)
   - Code de l'action sociale et des familles - art. R345-3 (M)
-
-
-###### Article R345-5
-
-La décision d'accueillir, à sa demande, une personne ou une famille en centre spécialisé dans l'accueil des demandeurs
-d'asile et des réfugiés est prise dans les conditions prévues à l'article R. 345-4, sur proposition d'une commission
-nationale présidée par le directeur de la population et des migrations ou son représentant.
-
-Des admissions peuvent toutefois, dans une proportion fixée par arrêté du ministre chargé de l'action sociale, être
-prononcées après avis d'une commission locale présidée par le préfet de département d'implantation du centre d'accueil.
-
-La composition, les modalités d'organisation et de fonctionnement de la commission nationale et de la commission
-départementale sont définies par arrêté du ministre chargé de l'intégration.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2001-576 du 3 juillet 2001 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Modifié par_:
-
-  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2007-399 du 23 mars 2007 - art. 3 () JORF 24 mars 2007
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. R345-4 (M)
 
 
 ###### Article R345-6
@@ -85157,11 +85184,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+  - Décret n°2007-399 du 23 mars 2007 - art. 3 () JORF 24 mars 2007
+
+_Abrogé par_:
+
+  - Décret n°2010-255 du 11 mars 2010 - art. 3
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L345-2 (M)
+  - Code de l'action sociale et des familles - art. L345-2
 
 
 ###### Article R345-7
@@ -85194,7 +85225,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+  - Décret n°2007-399 du 23 mars 2007 - art. 3 () JORF 24 mars 2007
 
 _Cité par_:
 
@@ -85202,39 +85233,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R349-3 (V)
 
 
-##### Section 3 : Centres d'accueil pour demandeurs d'asile.<a id=658></a>
-
-###### Article R345-8
-
-L'offre de prise en charge dans un centre d'accueil pour demandeurs d'asile mentionné à l'article L. 111-3-1 est faite par le
-préfet compétent pour l'examen de la demande d'admission au séjour du demandeur d'asile.
-
-A Paris, cette offre est faite par le préfet de région Ile-de-France, préfet de Paris.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
-_Créé par_:
-
-  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2007-399 du 23 mars 2007 - art. 3 () JORF 24 mars 2007
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L111-3-1 (M)
-
-_Cité par_:
-
-  - Code du travail - art. R351-6 (VT)
-
-
-#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=659></a>
+#### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.<a id=658></a>
 
 ###### Article R346-1
 
@@ -85249,7 +85248,7 @@ _Codifié par_:
   - Décret n°2004-1136 2004-10-21
 
 
-#### Chapitre VII : Services d'aide et d'accompagnement non soumis à autorisation.<a id=660></a>
+#### Chapitre VII : Services d'aide et d'accompagnement non soumis à autorisation.<a id=659></a>
 
 ###### Article D347-1
 
@@ -85343,6 +85342,196 @@ _Cite_:
   - Code de l'action sociale et des familles - art. D347-1 (V)
   - Code de l'action sociale et des familles - art. L313-1-1 (M)
   - Code de l'action sociale et des familles - art. L313-1-2 (V)
+
+
+#### Chapitre VIII : Centres d'accueil pour demandeurs d'asile<a id=660></a>
+
+###### Article R348-1
+
+L'offre de prise en charge dans un centre d'accueil pour demandeurs d'asile mentionné à l'article L. 111-3-1 est faite par le
+préfet compétent pour l'examen de la demande d'admission au séjour du demandeur d'asile. A Paris, cette offre est faite par
+le préfet de la région Ile-de-France, préfet de Paris.
+
+Si le demandeur d'asile accepte cette offre, le préfet mentionné au premier alinéa du présent article l'informe du ou des
+centres d'accueil pour demandeurs d'asile susceptibles de le prendre en charge dans son département ou dans un autre
+département, en fonction des caractéristiques de la demande, et l'invite à se présenter au gestionnaire de l'un de ces
+centres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 du 21 octobre 2004
+
+_Créé par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 4 () JORF 24 mars 2007
+
+_Abrogé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 25
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L111-3-1
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R348-2 (VT)
+  - Code du travail - art. R5423-32 (VT)
+
+
+###### Article R348-2
+
+Pour l'application du I de l'article L. 348-3, l'autorité administrative compétente de l'Etat est le préfet du département du
+lieu d'implantation du centre d'accueil pour demandeurs d'asile, compétent pour l'admission à l'aide sociale.
+
+La décision d'admission dans un centre d'accueil pour demandeurs d'asile est prise par le gestionnaire de ce centre.
+
+Si ce centre est situé dans le département dans lequel le demandeur d'asile a été admis au séjour, et a été mentionné par le
+préfet au titre de l'information fournie en vertu du deuxième alinéa de l'article R. 348-1, l'accord du préfet sur
+l'admission envisagée par le gestionnaire est réputé acquis.
+
+Dans toute autre hypothèse, l'admission doit recueillir l'accord du préfet mentionné au premier alinéa du présent article. A
+cette fin, le gestionnaire du centre saisit le préfet sans délai. L'accord du préfet est réputé acquis lorsque le préfet n'a
+pas fait connaître au gestionnaire sa réponse dans un délai de quinze jours à compter de la saisine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 du 21 octobre 2004
+
+_Créé par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 4 () JORF 24 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-1300 du 31 août 2007 - art. Annexe (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 25
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L348-3
+  - Code de l'action sociale et des familles - art. R348-1 (VT)
+
+
+###### Article R348-3
+
+I. - Dès qu'une décision définitive, au sens du quatrième alinéa de l'article R. 351-6 du code du travail, a été prise sur
+une demande d'asile, le préfet, ou, à Paris, le préfet de police, en informe sans délai le gestionnaire du centre d'accueil
+pour demandeurs d'asile qui héberge la personne concernée, en précisant la date à laquelle cette décision a été notifiée au
+demandeur.
+
+Dès que l'information prévue à l'alinéa précédent lui est parvenue, le gestionnaire du centre communique à la personne
+hébergée la fin de sa prise en charge, qui intervient sous réserve de l'une des procédures suivantes :
+
+1° Si elle en fait la demande, la personne ayant eu notification d'une décision définitive favorable est maintenue dans le
+centre jusqu'à ce qu'une solution d'hébergement ou de logement lui soit présentée, dans la limite d'une durée de trois mois à
+compter de la date de notification. Durant cette période, elle prépare avec le gestionnaire du centre les modalités de sa
+sortie. Le gestionnaire prend toutes mesures utiles pour lui faciliter l'accès à ses droits, au service public de l'accueil
+ainsi qu'à une offre d'hébergement ou de logement adaptée. A titre exceptionnel, cette période peut être prolongée, pour une
+durée maximale de trois mois supplémentaires avec l'accord du préfet.
+
+2° Si elle en fait la demande, la personne ayant eu notification d'une décision définitive défavorable est maintenue dans le
+centre pour une durée maximale d'un mois à compter de la date de cette notification. Durant cette période, elle prépare avec
+le gestionnaire du centre les modalités de sa sortie.
+
+Cette personne peut, dans le délai de quinze jours à compter de la notification, saisir l'Agence nationale de l'accueil des
+étrangers et des migrations en vue d'obtenir une aide pour le retour dans son pays d'origine. Si elle présente une telle
+demande, elle peut, à titre exceptionnel, et avec l'accord du préfet, être maintenue dans le centre pour une durée maximale
+d'un mois à compter de la décision de l'Agence nationale de l'accueil des étrangers et des migrations.
+
+II. - A l'issue du délai de maintien dans le centre, le gestionnaire du centre met en oeuvre la décision de sortie après
+avoir recueilli l'accord du préfet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 4 () JORF 24 mars 2007
+
+_Cite_:
+
+  - Code du travail - art. R351-6 (M)
+
+
+###### Article R348-4
+
+I.-Les personnes hébergées en centre d'accueil pour demandeurs d'asile dont le niveau de ressources mensuelles est égal ou
+supérieur au montant du revenu minimum d'insertion défini à l'article L. 262-2 acquittent une participation financière à
+leurs frais d'hébergement et d'entretien. Le montant de cette participation est fixé par le préfet sur la base d'un barème
+établi par arrêté du ministre chargé de l'action sociale et du ministre chargé du budget. La décision est notifiée à
+l'intéressé par le directeur de l'établissement. 
+
+Le barème tient compte notamment :
+
+- des ressources de la personne ou de la famille accueillie ;
+
+- des dépenses restant à sa charge pendant la période d'accueil. 
+
+La personne accueillie acquitte directement sa contribution à l'établissement qui lui en délivre récépissé. 
+
+II.-Les personnes hébergées qui ne disposent pas d'un niveau de ressources fixé par arrêté bénéficient d'une allocation
+mensuelle de subsistance servie par le centre d'accueil pour demandeurs d'asile pour leur permettre de subvenir à des besoins
+essentiels non couverts par l'établissement. Le montant de l'allocation, qui peut être versée selon une périodicité
+hebdomadaire, est fixé par le même arrêté, sur la base d'un barème prenant en compte les ressources des intéressés, la
+composition familiale des ménages accueillis, ainsi que la nature des prestations offertes par le centre d'hébergement. Le
+coût de cette allocation est pris en compte pour le calcul de la dotation globale de financement prévue à l'article R.
+314-150.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 4 () JORF 24 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-1300 du 31 août 2007 - art. Annexe (Ab)
+  - Arrêté du 31 mars 2008 - art. 1 (V)
+  - Arrêté du 31 mars 2008 - art. 2 (V)
+  - Arrêté du 31 mars 2008 - art. 3 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L262-2 (V)
+  - Code de l'action sociale et des familles - art. R314-150 (V)
+
+
+###### Article R348-5
+
+Sans préjudice des dispositions prévues aux articles R. 314-1 à R. 314-110, le gestionnaire du centre d'accueil pour
+demandeurs d'asile communique aux autorités de tarification mentionnées à l'article L. 314-1 les informations requises en vue
+de la mise en place d'un système de contrôle de gestion. Il est destinataire des informations relatives à son établissement
+dans le cadre de la mise en oeuvre de ce contrôle de gestion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2007-399 du 23 mars 2007 - art. 4 () JORF 24 mars 2007
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L314-1 (V)
+  - Code de l'action sociale et des familles - art. R314-1 (V)
 
 
 ### Titre V : Contentieux de la tarification sanitaire et sociale<a id=661></a>
