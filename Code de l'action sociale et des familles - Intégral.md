@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-03-24
+Version Consolidée au 2007-03-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -544,9 +544,9 @@ Version Consolidée au 2007-03-24
               - [Paragraphe 3 : Constitution (art. R312-194-6 à R312-194-18)](#541)
               - [Paragraphe 4 : Organisation et administration (art. R312-194-19 à R312-194-23)](#542)
               - [Paragraphe 5 : Dissolution et liquidation (art. R312-194-24 à R312-194-25)](#543)
-          - [Section 5 : Evaluation et systèmes d'information (art. R312-196 à R312-197)](#544)
-            - [Sous-section 1 : Evaluation et qualité des établissements et services sociaux et médico-sociaux (art. R312-196 à R312-197)](#545)
-              - [Paragraphe 1 : Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux (art. R312-196 à R312-197)](#546)
+          - [Section 5 : Evaluation et systèmes d'information (art. D312-195 à R312-197)](#544)
+            - [Sous-section 1 : Evaluation et qualité des établissements et services sociaux et médico-sociaux (art. D312-195 à R312-197)](#545)
+              - [Paragraphe 1 : Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux (art. D312-195 à R312-197)](#546)
         - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux (art. R313-1 à R313-27)](#547)
           - [Section 1 : Autorisation de création, d'extension ou de transformation (art. R313-1 à D313-14)](#548)
             - [Sous-section 1 : Dispositions générales. (art. R313-1 à R313-10)](#549)
@@ -71267,6 +71267,30 @@ _Créé par_:
 ##### Sous-section 1 : Evaluation et qualité des établissements et services sociaux et médico-sociaux<a id=545></a>
 
 ##### Paragraphe 1 : Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux<a id=546></a>
+
+###### Article D312-195
+
+Le conseil scientifique de l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et
+médico-sociaux comprend quinze personnes choisies en raison de leurs compétences scientifiques dans le domaine des sciences
+sociales, de l'évaluation, de la qualité et de l'action sociale et médico-sociale.
+
+Le président et les membres du conseil scientifique sont nommés par arrêté du ministre chargé de l'action sociale pour une
+durée de trois ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 du 21 octobre 2004
+
+_Créé par_:
+
+  - Décret n°2007-442 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
+_Abrogé par_:
+
+  - Décret n°2018-467 du 11 juin 2018 - art. 1
+
 
 ###### Article R312-196
 
