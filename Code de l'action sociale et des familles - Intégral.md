@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-04-21
+Version Consolidée au 2007-05-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -52358,11 +52358,11 @@ gériatrie, des psychologues, des maîtresses de maison ainsi que des aides-soig
 
 b) Par dérogation au a ci-dessus, dans les structures mentionnées à l'article D. 313-20, la rémunération et les charges
 sociales et fiscales y afférentes des auxiliaires de vie et des auxiliaires de gériatrie, des psychologues, des maîtresses de
-maison ainsi que 30 % de la rémunération et des charges sociales et fiscales y afférentes des aides-soignants et des aides
-médico-psychologiques ;
+maison, 30 % du forfait journalier de frais de transport fixé par décision des ministres chargés des personnes âgées et de la
+sécurité sociale ainsi que 30 % de la rémunération et des charges sociales et fiscales y afférentes des aides-soignants et
+des aides médico-psychologiques ;
 
-2° 30 P. 100 des rémunérations et les charges sociales et fiscales y afférentes des agents de service et des veilleurs de
-nuit ;
+2° 30 % des rémunérations et les charges sociales et fiscales y afférentes des agents de service et des veilleurs de nuit ;
 
 3° Les couches, alèses et produits absorbants.
 
@@ -52388,8 +52388,7 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
-  - Décret n°2005-118 du 10 février 2005 - art. 2 () JORF 13 février 2005
+  - Décret n°2007-661 du 30 avril 2007 - art. 1 () JORF 3 mai 2007
 
 _Cité par_:
 
@@ -63723,6 +63722,13 @@ temporaire.
 Le projet d'établissement ou de service et le règlement de fonctionnement, mentionnés respectivement aux articles L. 311-7 et
 L. 311-8, prévoient les modalités d'organisation et de fonctionnement de l'accueil temporaire.
 
+IV. - Les établissements mentionnés au I de l'article L. 313-12 qui organisent un accueil de jour en complément des prises en
+charge d'hébergement et les établissements mentionnés à l'article D. 313-20 doivent proposer une solution de transport
+adaptée aux besoins des personnes bénéficiant de l'accueil de jour.
+
+V. - Pour bénéficier de la prise en charge d'un forfait journalier de frais de transport, les gestionnaires des
+établissements mentionnés au IV doivent justifier des modalités d'organisation des transports.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -63734,11 +63740,17 @@ _Codifié par_:
 
   - Décret n°2004-1136 2004-10-21
 
+_Créé par_:
+
+  - Décret n°2007-661 du 30 avril 2007 - art. 2 () JORF 3 mai 2007
+
 _Cite_:
 
   - Code de l'action sociale et des familles - art. D312-8 (V)
+  - Code de l'action sociale et des familles - art. D313-20 (M)
   - Code de l'action sociale et des familles - art. L311-7 (V)
   - Code de l'action sociale et des familles - art. L311-8 (M)
+  - Code de l'action sociale et des familles - art. L313-12 (M)
   - Code de l'action sociale et des familles - art. L313-2 (M)
   - Code de l'action sociale et des familles - art. L313-4 (M)
 
@@ -72332,7 +72344,8 @@ Par dérogation aux dispositions du premier alinéa de l'article D. 313-18, dans
 ne sont pas rattachées à un établissement mentionné au 6° du I de l'article L. 312-1, les dépenses couvertes par le forfait
 de soins comprennent, outre celles relatives à la rémunération des infirmiers salariés et aux charges sociales et fiscales y
 afférentes ainsi qu'au paiement des prestations des infirmiers libéraux, 70 % de la rémunération des aides-soignants et des
-aides médico-psychologiques salariés de l'établissement et les charges sociales et fiscales y afférentes.
+aides médico-psychologiques salariés de l'établissement et les charges sociales et fiscales y afférentes, 70 % du forfait
+journalier de frais de transport fixé par décision des ministres chargés des personnes âgées et de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -72342,7 +72355,7 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+  - Décret n°2007-661 du 30 avril 2007 - art. 1 () JORF 3 mai 2007
 
 _Cité par_:
 
