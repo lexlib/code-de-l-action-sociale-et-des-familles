@@ -3184,18 +3184,14 @@ Résultat affecté au compte 10686 : excédent affecté à la réserve de compen
     <tr>
       <td colspan="3" width="142">
 
-Résultat affecté au compte 110 : excédent affecté à la réduction des charges d'exploitation
+Résultat affecté au compte 10 687 : excédent affecté à la réserve de compensation des charges d'amortissement 
 
 </td>
       <td colspan="2" width="55">
-
-●
 
 </td>
       <td width="42">
 
-●
-
 </td>
       <td width="43">
 
@@ -3204,8 +3200,6 @@ Résultat affecté au compte 110 : excédent affecté à la réduction des charg
 
 </td>
       <td width="43">
-
-●
 
 </td>
       <td width="38">
@@ -3216,8 +3210,6 @@ Résultat affecté au compte 110 : excédent affecté à la réduction des charg
 </td>
       <td width="41">
 
-●
-
 </td>
       <td width="38">
 
@@ -3226,8 +3218,6 @@ Résultat affecté au compte 110 : excédent affecté à la réduction des charg
 
 </td>
       <td width="38">
-
-●
 
 </td>
       <td width="39">
@@ -3237,18 +3227,14 @@ Résultat affecté au compte 110 : excédent affecté à la réduction des charg
     <tr>
       <td colspan="3" width="142">
 
-Résultat affecté au compte 111 : excédent affecté au financement des mesures d'exploitation
+Résultat affecté au compte 110 : excédent affecté à la réduction des charges d'exploitation (établissement public) ;
 
 </td>
       <td colspan="2" width="55">
-
-●
 
 </td>
       <td width="42">
 
-●
-
 </td>
       <td width="43">
 
@@ -3257,8 +3243,6 @@ Résultat affecté au compte 111 : excédent affecté au financement des mesures
 
 </td>
       <td width="43">
-
-●
 
 </td>
       <td width="38">
@@ -3269,8 +3253,6 @@ Résultat affecté au compte 111 : excédent affecté au financement des mesures
 </td>
       <td width="41">
 
-●
-
 </td>
       <td width="38">
 
@@ -3279,8 +3261,6 @@ Résultat affecté au compte 111 : excédent affecté au financement des mesures
 
 </td>
       <td width="38">
-
-●
 
 </td>
       <td width="39">
@@ -3290,18 +3270,15 @@ Résultat affecté au compte 111 : excédent affecté au financement des mesures
     <tr>
       <td colspan="3" width="142">
 
-Résultat affecté au compte 119 : Report à nouveau déficitaire
+Résultat affecté au compte 111 : excédent affecté au financement de mesures d'exploitation non reconductibles (établissement
+public)
 
 </td>
       <td colspan="2" width="55">
-
-●
 
 </td>
       <td width="42">
 
-●
-
 </td>
       <td width="43">
 
@@ -3310,8 +3287,6 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 
 </td>
       <td width="43">
-
-●
 
 </td>
       <td width="38">
@@ -3322,8 +3297,6 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 </td>
       <td width="41">
 
-●
-
 </td>
       <td width="38">
 
@@ -3333,12 +3306,106 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 </td>
       <td width="38">
 
-●
-
 </td>
       <td width="39">
 
 </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Dépenses refusées par l'autorité de tarification en application de l'article R. 314-52 (compte 114) 
+
+</td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Résultat affecté au compte 119 : report à nouveau déficitaire (établissement public)
+
+</td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Résultat affecté au compte 11 510 : excédent affecté à la réduction des charges d'exploitation (établissement privé) 
+
+</td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Résultat affecté au compte 11 511 : excédent affecté au financement de mesures d'exploitation non reconductibles
+(établissement privé)
+
+</td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Résultat affecté au compte 11 519 : report à nouveau déficitaire (établissement privé).
+
+</td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
@@ -3348,6 +3415,10 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 _Modifié par_:
 
   - Décret n°2007-828 du 11 mai 2007 - art. 5
+
+_Abrogé par_:
+
+  - Décret n°2016-1814 du 21 décembre 2016 - art. 4
 
 _Cité par_:
 
