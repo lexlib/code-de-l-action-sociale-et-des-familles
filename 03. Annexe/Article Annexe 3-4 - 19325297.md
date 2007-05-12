@@ -7,7 +7,7 @@ d'un établissement hébergeant des personnes âgées dépendantes
 <table>
   <tbody>
     <tr>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td colspan="2" width="89">
@@ -24,17 +24,17 @@ SECTIONS D'IMPUTATION
 </td>
     </tr>
     <tr>
-      <td rowspan="2" colspan="2" width="53">
+      <td width="53" colspan="2" rowspan="2">
 
 Rappel n° de Compte
 
 </td>
-      <td colspan="2" width="89" rowspan="2">
+      <td width="89" rowspan="2" colspan="2">
 
 Intitulé
 
 </td>
-      <td colspan="4" width="153">
+      <td width="153" colspan="4">
 
 Hébergement
 
@@ -44,12 +44,12 @@ Hébergement
 Dépendance
 
 </td>
-      <td colspan="4" width="137">
+      <td width="137" colspan="4">
 
 Soins
 
 </td>
-      <td width="107" colspan="3">
+      <td colspan="3" width="107">
 
 Total
 
@@ -71,7 +71,7 @@ Réa-lisé
 Rete-nu
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 Exé-cutoire
 
@@ -86,7 +86,7 @@ Réa-lisé
 Rete-nu
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 Exé-cutoire
 
@@ -118,12 +118,12 @@ Rete-nu
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 602
 
 </td>
-      <td valign="top" width="89" colspan="2">
+      <td valign="top" colspan="2" width="89">
 
 ACHATS STOCKES ; AUTRES APPROVISIONNEMENTS sauf 6021et 60226 
 
@@ -137,7 +137,7 @@ ACHATS STOCKES ; AUTRES APPROVISIONNEMENTS sauf 6021et 60226
       <td width="43">
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 ●
 
@@ -152,7 +152,7 @@ ACHATS STOCKES ; AUTRES APPROVISIONNEMENTS sauf 6021et 60226
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 ●
 
@@ -178,12 +178,12 @@ ACHATS STOCKES ; AUTRES APPROVISIONNEMENTS sauf 6021et 60226
 </td>
     </tr>
     <tr>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 6021
 
 </td>
-      <td colspan="2" width="89" valign="top">
+      <td colspan="2" valign="top" width="89">
 
 Produits pharmaceutiques et produits à usage médical 
 
@@ -218,7 +218,7 @@ Produits pharmaceutiques et produits à usage médical
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="41">
@@ -227,7 +227,7 @@ Produits pharmaceutiques et produits à usage médical
       <td width="38">
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -238,7 +238,7 @@ Produits pharmaceutiques et produits à usage médical
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 60226
 
@@ -263,7 +263,7 @@ Fournitures hôtelières sauf 602261
 70%
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 30%
 
@@ -278,7 +278,7 @@ Fournitures hôtelières sauf 602261
 30%
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 ●
 
@@ -293,7 +293,7 @@ Fournitures hôtelières sauf 602261
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -309,7 +309,7 @@ Fournitures hôtelières sauf 602261
 602261
 
 </td>
-      <td valign="top" colspan="2" width="89">
+      <td colspan="2" valign="top" width="89">
 
 Couches, alèses et produits absorbants 
 
@@ -375,7 +375,7 @@ Couches, alèses et produits absorbants
 603
 
 </td>
-      <td valign="top" colspan="2" width="89">
+      <td width="89" colspan="2" valign="top">
 
 VARIATION DES STOCKS sauf 60321 et 603226 
 
@@ -430,7 +430,7 @@ VARIATION DES STOCKS sauf 60321 et 603226
 </td>
     </tr>
     <tr>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 60321
 
@@ -490,7 +490,7 @@ Produits pharmaceutiques et produits à usage médical
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 603226
 
@@ -545,7 +545,7 @@ Fournitures hôtelières sauf 6032261
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -556,12 +556,12 @@ Fournitures hôtelières sauf 6032261
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 6032261
 
 </td>
-      <td valign="top" width="89" colspan="2">
+      <td width="89" valign="top" colspan="2">
 
 Couches, alèses et produits absorbants 
 
@@ -596,7 +596,7 @@ Couches, alèses et produits absorbants
 100%
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 ●
 
@@ -611,7 +611,7 @@ Couches, alèses et produits absorbants
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -622,12 +622,12 @@ Couches, alèses et produits absorbants
 </td>
     </tr>
     <tr>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 606
 
 </td>
-      <td colspan="2" valign="top" width="89">
+      <td valign="top" colspan="2" width="89">
 
 ACHATS NON STOCKES DE MATIERES ET FOURNITURES sauf 60622, 60626 et 6066 
 
@@ -671,7 +671,7 @@ ACHATS NON STOCKES DE MATIERES ET FOURNITURES sauf 60622, 60626 et 6066
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -682,12 +682,12 @@ ACHATS NON STOCKES DE MATIERES ET FOURNITURES sauf 60622, 60626 et 6066
 </td>
     </tr>
     <tr>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 60622
 
 </td>
-      <td colspan="2" width="89" valign="top">
+      <td width="89" valign="top" colspan="2">
 
 Produits d'entretien 
 
@@ -707,7 +707,7 @@ Produits d'entretien
 70%
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 30%
 
@@ -737,7 +737,7 @@ Produits d'entretien
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -748,12 +748,12 @@ Produits d'entretien
 </td>
     </tr>
     <tr>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 60626
 
 </td>
-      <td valign="top" colspan="2" width="89">
+      <td width="89" valign="top" colspan="2">
 
 Fournitures hôtelières sauf compte 606261 
 
@@ -788,7 +788,7 @@ Fournitures hôtelières sauf compte 606261
 30%
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 ●
 
@@ -803,7 +803,7 @@ Fournitures hôtelières sauf compte 606261
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -814,7 +814,7 @@ Fournitures hôtelières sauf compte 606261
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 606261
 
@@ -839,7 +839,7 @@ Couches, alèses et produits absorbants
 ●
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 100%
 
@@ -869,7 +869,7 @@ Couches, alèses et produits absorbants
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -880,12 +880,12 @@ Couches, alèses et produits absorbants
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 6066
 
 </td>
-      <td colspan="2" width="89" valign="top">
+      <td width="89" colspan="2" valign="top">
 
 Fournitures médicales 
 
@@ -905,7 +905,7 @@ Fournitures médicales
 ●
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 ●
 
@@ -929,7 +929,7 @@ Fournitures médicales
       <td width="38">
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -945,7 +945,7 @@ Fournitures médicales
 61
 
 </td>
-      <td colspan="2" valign="top" width="89">
+      <td colspan="2" width="89" valign="top">
 
 SERVICES EXTERIEUR sauf 6111, 61121, 61551, 61562 et 61681 
 
@@ -974,7 +974,7 @@ SERVICES EXTERIEUR sauf 6111, 61121, 61551, 61562 et 61681
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 ●
 
@@ -1049,7 +1049,7 @@ Prestations à caractère médical
       <td width="38">
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -1100,7 +1100,7 @@ Ergothérapie
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="41">
@@ -1109,7 +1109,7 @@ Ergothérapie
       <td width="38">
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -1120,12 +1120,12 @@ Ergothérapie
 </td>
     </tr>
     <tr>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 61551
 
 </td>
-      <td valign="top" colspan="2" width="89">
+      <td valign="top" width="89" colspan="2">
 
 Entretien et réparation sur biens mobiliers : matériel et outillage médicaux 
 
@@ -1180,7 +1180,7 @@ Entretien et réparation sur biens mobiliers : matériel et outillage médicaux
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 61562
 
@@ -1245,7 +1245,7 @@ Maintenance du matériel médical
 61681
 
 </td>
-      <td valign="top" colspan="2" width="89">
+      <td width="89" colspan="2" valign="top">
 
 Primes d'assurance maladie, maternité, accident du travail 
 
@@ -1259,7 +1259,7 @@ Primes d'assurance maladie, maternité, accident du travail
       <td width="43">
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 </td>
       <td width="43">
@@ -1293,7 +1293,7 @@ Primes d'assurance maladie, maternité, accident du travail
 62
 
 </td>
-      <td colspan="2" valign="top" width="89">
+      <td valign="top" colspan="2" width="89">
 
 AUTRES SERVICES EXTERIEUR sauf 621, 62113, 6223, 6281, 6283 et 6287 pour les budgets annexes hospitaliers 
 
@@ -1322,7 +1322,7 @@ AUTRES SERVICES EXTERIEUR sauf 621, 62113, 6223, 6281, 6283 et 6287 pour les bud
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 ●
 
@@ -1337,7 +1337,7 @@ AUTRES SERVICES EXTERIEUR sauf 621, 62113, 6223, 6281, 6283 et 6287 pour les bud
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -1353,7 +1353,7 @@ AUTRES SERVICES EXTERIEUR sauf 621, 62113, 6223, 6281, 6283 et 6287 pour les bud
 621
 
 </td>
-      <td valign="top" width="89" colspan="2">
+      <td width="89" colspan="2" valign="top">
 
 PERSONNEL EXTERIEUR A L'ETABLISSEMENT 
 
@@ -1376,7 +1376,7 @@ PERSONNEL EXTERIEUR A L'ETABLISSEMENT
       <td width="38">
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="41">
@@ -1385,7 +1385,7 @@ PERSONNEL EXTERIEUR A L'ETABLISSEMENT
       <td width="38">
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -1396,12 +1396,12 @@ PERSONNEL EXTERIEUR A L'ETABLISSEMENT
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 62113
 
 </td>
-      <td width="89" colspan="2" valign="top">
+      <td valign="top" width="89" colspan="2">
 
 Personnel intérimaire : personnel médical et para­médical 
 
@@ -1461,7 +1461,7 @@ Personnel intérimaire : personnel médical et para­médical
 6223
 
 </td>
-      <td width="89" valign="top" colspan="2">
+      <td width="89" colspan="2" valign="top">
 
 Médecins 
 
@@ -1522,7 +1522,7 @@ Médecins
 </td>
     </tr>
     <tr>
-      <td width="142" colspan="4">
+      <td colspan="4" width="142">
 
 628 sauf 6281 et 6282
 
@@ -1536,7 +1536,7 @@ Médecins
       <td width="43">
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 ●
 
@@ -1551,7 +1551,7 @@ Médecins
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 ●
 
@@ -1566,7 +1566,7 @@ Médecins
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -1602,7 +1602,7 @@ Blanchissage à l'extérieur
 70%
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 30%
 
@@ -1648,7 +1648,7 @@ Blanchissage à l'extérieur
 6283
 
 </td>
-      <td colspan="3" width="90">
+      <td width="90" colspan="3">
 
 Nettoyage à l'extérieur
 
@@ -1683,7 +1683,7 @@ Nettoyage à l'extérieur
 30%
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 ●
 
@@ -1698,7 +1698,7 @@ Nettoyage à l'extérieur
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -1714,7 +1714,7 @@ Nettoyage à l'extérieur
 631
 
 </td>
-      <td colspan="3" width="90">
+      <td width="90" colspan="3">
 
 IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (administrations des impôts)
 
@@ -1737,7 +1737,7 @@ IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (administrations des im
       <td width="38">
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="41">
@@ -1746,7 +1746,7 @@ IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (administrations des im
       <td width="38">
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -1810,7 +1810,7 @@ IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (autres organismes)
 635
 
 </td>
-      <td colspan="3" width="90">
+      <td width="90" colspan="3">
 
 AUTRES IMPÔTS, TAXES ET VERSEMENTS ASSIMILES (administrations des impôts)
 
@@ -1824,7 +1824,7 @@ AUTRES IMPÔTS, TAXES ET VERSEMENTS ASSIMILES (administrations des impôts)
       <td width="43">
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 ●
 
@@ -1870,7 +1870,7 @@ AUTRES IMPÔTS, TAXES ET VERSEMENTS ASSIMILES (administrations des impôts)
 637
 
 </td>
-      <td width="90" colspan="3">
+      <td colspan="3" width="90">
 
 Autres impôts, taxes et versements assimilés (autres organismes)
 
@@ -1884,7 +1884,7 @@ Autres impôts, taxes et versements assimilés (autres organismes)
       <td width="43">
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 ●
 
@@ -1930,7 +1930,7 @@ Autres impôts, taxes et versements assimilés (autres organismes)
 64
 
 </td>
-      <td colspan="3" width="90">
+      <td width="90" colspan="3">
 
 CHARGES DE PERSONNEL
 
@@ -1944,7 +1944,7 @@ CHARGES DE PERSONNEL
       <td width="43">
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 </td>
       <td width="43">
@@ -1953,7 +1953,7 @@ CHARGES DE PERSONNEL
       <td width="38">
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="41">
@@ -1962,7 +1962,7 @@ CHARGES DE PERSONNEL
       <td width="38">
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -1978,7 +1978,7 @@ CHARGES DE PERSONNEL
 65
 
 </td>
-      <td width="90" colspan="3">
+      <td colspan="3" width="90">
 
 AUTRES CHARGES DE GESTION COURANTE
 
@@ -1992,7 +1992,7 @@ AUTRES CHARGES DE GESTION COURANTE
       <td width="43">
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 ●
 
@@ -2022,7 +2022,7 @@ AUTRES CHARGES DE GESTION COURANTE
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -2038,7 +2038,7 @@ AUTRES CHARGES DE GESTION COURANTE
 66
 
 </td>
-      <td colspan="3" width="90">
+      <td width="90" colspan="3">
 
 CHARGES FINANCIERES
 
@@ -2067,7 +2067,7 @@ CHARGES FINANCIERES
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 ●
 
@@ -2082,7 +2082,7 @@ CHARGES FINANCIERES
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -2104,23 +2104,23 @@ CHARGES EXCEPTIONNELLES
 
 </td>
       <td valign="top" width="54">
-      </td><td valign="top" width="42">
+      </td><td width="42" valign="top">
 
 </td>
-      <td width="43" valign="top">
+      <td valign="top" width="43">
 
 </td>
-      <td valign="top" width="55" colspan="2">
-      </td><td width="43" valign="top">
+      <td colspan="2" width="55" valign="top">
+      </td><td valign="top" width="43">
 
 </td>
       <td valign="top" width="38">
 
 </td>
-      <td colspan="2" valign="top" width="53">
+      <td valign="top" width="53" colspan="2">
       </td><td valign="top" width="41">
-      </td><td width="38" valign="top">
-      </td><td colspan="2" width="53" valign="top">
+      </td><td valign="top" width="38">
+      </td><td valign="top" colspan="2" width="53">
       </td><td width="38" valign="top">
       </td><td width="39" valign="top">
     </td></tr>
@@ -2130,21 +2130,21 @@ CHARGES EXCEPTIONNELLES
 68: Dotations aux amortissements et aux provisions sauf matériel médical
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 </td>
-      <td width="42" valign="top">
+      <td valign="top" width="42">
+
+</td>
+      <td width="43" valign="top">
+      </td><td width="55" valign="top" colspan="2">
 
 </td>
       <td valign="top" width="43">
-      </td><td colspan="2" width="55" valign="top">
 
 </td>
-      <td valign="top" width="43">
-
-</td>
-      <td width="38" valign="top">
-      </td><td valign="top" width="53" colspan="2">
+      <td valign="top" width="38">
+      </td><td colspan="2" width="53" valign="top">
 
 </td>
       <td width="41">
@@ -2157,13 +2157,13 @@ CHARGES EXCEPTIONNELLES
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 ●
 
 </td>
-      <td width="38" valign="top">
-      </td><td width="39" valign="top">
+      <td valign="top" width="38">
+      </td><td valign="top" width="39">
     </td></tr>
     <tr>
       <td colspan="3" width="142">
@@ -2186,7 +2186,7 @@ Dotations aux amortissements du matériel médical
 ●
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 ●
 
@@ -2212,7 +2212,7 @@ Dotations aux amortissements du matériel médical
       <td width="38">
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -2223,7 +2223,7 @@ Dotations aux amortissements du matériel médical
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="142">
+      <td width="142" colspan="3">
 
 681518 : Dotations aux provisions: autres provisions pour risques (pathologies lourdes)
 
@@ -2258,7 +2258,7 @@ Dotations aux amortissements du matériel médical
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 ●
 
@@ -2285,7 +2285,7 @@ Dotations aux amortissements du matériel médical
 CHARGES BRUTES = A
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 </td>
       <td width="42">
@@ -2303,7 +2303,7 @@ CHARGES BRUTES = A
       <td width="38">
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="41">
@@ -2312,7 +2312,7 @@ CHARGES BRUTES = A
       <td width="38">
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -2328,7 +2328,7 @@ CHARGES BRUTES = A
 PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION sauf 734-4 = B 1
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 </td>
       <td width="42">
@@ -2366,7 +2366,7 @@ PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION sauf 734-4 = B 1
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="142">
+      <td width="142" colspan="3">
 
 734-3 : Contribution de l'assurance maladie au titre de l'article R. 314-188 = B 2
 
@@ -2410,7 +2410,7 @@ PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION sauf 734-4 = B 1
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 ●
 
@@ -2423,7 +2423,7 @@ PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION sauf 734-4 = B 1
 </td>
     </tr>
     <tr>
-      <td width="142" colspan="3">
+      <td colspan="3" width="142">
 
 PRODUITS DE LA TARIFICATION = C
 
@@ -2446,7 +2446,7 @@ PRODUITS DE LA TARIFICATION = C
       <td width="38">
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="41">
@@ -2501,7 +2501,7 @@ NOMBRE DE POINTS GIR DANS L'ETABLISSEMENT AU 30 septembre = D
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 ●
 
@@ -2516,7 +2516,7 @@ NOMBRE DE POINTS GIR DANS L'ETABLISSEMENT AU 30 septembre = D
 ●
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 ●
 
@@ -2536,7 +2536,7 @@ NOMBRE DE POINTS GIR DANS L'ETABLISSEMENT AU 30 septembre = D
 VALEUR NETTE DU POINT GIR "dépendance" = (A - B) / D = E
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 ●
 
@@ -2551,7 +2551,7 @@ VALEUR NETTE DU POINT GIR "dépendance" = (A - B) / D = E
 ●
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 ●
 
@@ -2592,12 +2592,12 @@ VALEUR NETTE DU POINT GIR "dépendance" = (A - B) / D = E
 </td>
     </tr>
     <tr>
-      <td width="142" colspan="3">
+      <td colspan="3" width="142">
 
 QUOTE PART DES CHARGES RELATIVES AUX AIDES­ SOIGNANTES ET AUX AMP IMPUTEE SUR LA SECTION TARIFAIRE "SOINS" = F (cf: annexes)
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 ●
 
@@ -2612,7 +2612,7 @@ QUOTE PART DES CHARGES RELATIVES AUX AIDES­ SOIGNANTES ET AUX AMP IMPUTEE SUR L
 ●
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 ●
 
@@ -2636,7 +2636,7 @@ QUOTE PART DES CHARGES RELATIVES AUX AIDES­ SOIGNANTES ET AUX AMP IMPUTEE SUR L
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 ●
 
@@ -2673,7 +2673,7 @@ VALEUR NETTE DU POINT GIR "Aides soignantes et AMP" = F / (GMP multiplié par la
 ●
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 ●
 
@@ -2719,7 +2719,7 @@ VALEUR NETTE DU POINT GIR "Aides soignantes et AMP" = F / (GMP multiplié par la
 NOMBRE DE JOURNEES REALISEES = G
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 </td>
       <td width="42">
@@ -2757,7 +2757,7 @@ NOMBRE DE JOURNEES REALISEES = G
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="142">
+      <td width="142" colspan="3">
 
 CALCUL DE LA VALEUR NETTE DU POINT GIR "SOINS" charges de la section "soins" - produits autres que ceux de la tarification /
 GMP X capacité moyenne de l'exercice
@@ -2793,7 +2793,7 @@ GMP X capacité moyenne de l'exercice
 ●
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 ●
 
@@ -2804,7 +2804,7 @@ GMP X capacité moyenne de l'exercice
       <td width="38">
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -2819,14 +2819,14 @@ GMP X capacité moyenne de l'exercice
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="142">
+      <td width="142" colspan="3">
 
 RESULTATS DE L'EXERCICE = 
 
 (B 1 + B 2 + C ) - A = H
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 ●
 
@@ -2839,7 +2839,7 @@ RESULTATS DE L'EXERCICE =
       <td width="43">
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 </td>
       <td width="43">
@@ -2861,7 +2861,7 @@ RESULTATS DE L'EXERCICE =
       <td width="38">
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="38">
@@ -2879,7 +2879,7 @@ RESULTATS DE L'EXERCICE =
 REPRISE DES RESULTATS EXERCICES ANTERIEURS : I
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 </td>
       <td width="42">
@@ -2888,7 +2888,7 @@ REPRISE DES RESULTATS EXERCICES ANTERIEURS : I
       <td width="43">
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 </td>
       <td width="43">
@@ -2906,7 +2906,7 @@ REPRISE DES RESULTATS EXERCICES ANTERIEURS : I
       <td width="38">
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -2922,7 +2922,7 @@ REPRISE DES RESULTATS EXERCICES ANTERIEURS : I
 RESULTATS A AFFECTER = H + I
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 ●
 
@@ -2935,7 +2935,7 @@ RESULTATS A AFFECTER = H + I
       <td width="43">
 
 </td>
-      <td colspan="2" width="55">
+      <td width="55" colspan="2">
 
 </td>
       <td width="43">
@@ -2970,7 +2970,7 @@ RESULTATS A AFFECTER = H + I
 </td>
     </tr>
     <tr>
-      <td width="142" colspan="3">
+      <td colspan="3" width="142">
 
 Résultat affecté au compte 1064 : réserve des plus values nettes
 
@@ -2988,7 +2988,7 @@ Résultat affecté au compte 1064 : réserve des plus values nettes
       <td width="43">
 
 </td>
-      <td width="55" colspan="2">
+      <td colspan="2" width="55">
 
 </td>
       <td width="43">
@@ -3010,7 +3010,7 @@ Résultat affecté au compte 1064 : réserve des plus values nettes
       <td width="38">
 
 </td>
-      <td width="53" colspan="2">
+      <td colspan="2" width="53">
 
 </td>
       <td width="38">
@@ -3023,7 +3023,7 @@ Résultat affecté au compte 1064 : réserve des plus values nettes
 </td>
     </tr>
     <tr>
-      <td width="142" colspan="3">
+      <td colspan="3" width="142">
 
 Résultat affecté au compte 10682 : excédent affecté à l'investissement
 
@@ -3052,7 +3052,7 @@ Résultat affecté au compte 10682 : excédent affecté à l'investissement
       <td width="38">
 
 </td>
-      <td colspan="2" width="53">
+      <td width="53" colspan="2">
 
 </td>
       <td width="41">
@@ -3076,7 +3076,7 @@ Résultat affecté au compte 10682 : excédent affecté à l'investissement
 </td>
     </tr>
     <tr>
-      <td width="142" colspan="3">
+      <td colspan="3" width="142">
 
 Résultat affecté au compte 10685 : excédent affecté à la réserve de trésorerie
 
@@ -3094,59 +3094,6 @@ Résultat affecté au compte 10685 : excédent affecté à la réserve de tréso
       <td width="43">
 
 </td>
-      <td colspan="2" width="55">
-
-</td>
-      <td width="43">
-
-●
-
-</td>
-      <td width="38">
-
-</td>
-      <td width="53" colspan="2">
-
-</td>
-      <td width="41">
-
-●
-
-</td>
-      <td width="38">
-
-</td>
-      <td width="53" colspan="2">
-
-</td>
-      <td width="38">
-
-●
-
-</td>
-      <td width="39">
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3" width="142">
-
-Résultat affecté au compte 10686 : excédent affecté à la réserve de compensation
-
-</td>
-      <td colspan="2" width="55">
-
-●
-
-</td>
-      <td width="42">
-
-●
-
-</td>
-      <td width="43">
-
-</td>
       <td width="55" colspan="2">
 
 </td>
@@ -3175,6 +3122,102 @@ Résultat affecté au compte 10686 : excédent affecté à la réserve de compen
       <td width="38">
 
 ●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+Résultat affecté au compte 10686 : excédent affecté à la réserve de compensation
+
+</td>
+      <td width="55" colspan="2">
+
+●
+
+</td>
+      <td width="42">
+
+●
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+</td>
+      <td width="43">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="41">
+
+●
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
+
+●
+
+</td>
+      <td width="39">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="142">
+
+Résultat affecté au compte 10 687 : excédent affecté à la réserve de compensation des charges d'amortissement 
+
+</td>
+      <td colspan="2" width="55">
+
+</td>
+      <td width="42">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="55" colspan="2">
+
+</td>
+      <td width="43">
+
+</td>
+      <td width="38">
+
+</td>
+      <td width="53" colspan="2">
+
+</td>
+      <td width="41">
+
+</td>
+      <td width="38">
+
+</td>
+      <td colspan="2" width="53">
+
+</td>
+      <td width="38">
 
 </td>
       <td width="39">
@@ -3184,17 +3227,13 @@ Résultat affecté au compte 10686 : excédent affecté à la réserve de compen
     <tr>
       <td width="142" colspan="3">
 
-Résultat affecté au compte 110 : excédent affecté à la réduction des charges d'exploitation
+Résultat affecté au compte 110 : excédent affecté à la réduction des charges d'exploitation (établissement public) ;
 
 </td>
-      <td width="55" colspan="2">
-
-●
+      <td colspan="2" width="55">
 
 </td>
       <td width="42">
-
-●
 
 </td>
       <td width="43">
@@ -3204,61 +3243,6 @@ Résultat affecté au compte 110 : excédent affecté à la réduction des charg
 
 </td>
       <td width="43">
-
-●
-
-</td>
-      <td width="38">
-
-</td>
-      <td colspan="2" width="53">
-
-</td>
-      <td width="41">
-
-●
-
-</td>
-      <td width="38">
-
-</td>
-      <td colspan="2" width="53">
-
-</td>
-      <td width="38">
-
-●
-
-</td>
-      <td width="39">
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3" width="142">
-
-Résultat affecté au compte 111 : excédent affecté au financement des mesures d'exploitation
-
-</td>
-      <td width="55" colspan="2">
-
-●
-
-</td>
-      <td width="42">
-
-●
-
-</td>
-      <td width="43">
-
-</td>
-      <td width="55" colspan="2">
-
-</td>
-      <td width="43">
-
-●
 
 </td>
       <td width="38">
@@ -3269,8 +3253,6 @@ Résultat affecté au compte 111 : excédent affecté au financement des mesures
 </td>
       <td width="41">
 
-●
-
 </td>
       <td width="38">
 
@@ -3280,8 +3262,6 @@ Résultat affecté au compte 111 : excédent affecté au financement des mesures
 </td>
       <td width="38">
 
-●
-
 </td>
       <td width="39">
 
@@ -3290,18 +3270,15 @@ Résultat affecté au compte 111 : excédent affecté au financement des mesures
     <tr>
       <td colspan="3" width="142">
 
-Résultat affecté au compte 119 : Report à nouveau déficitaire
+Résultat affecté au compte 111 : excédent affecté au financement de mesures d'exploitation non reconductibles (établissement
+public)
 
 </td>
-      <td colspan="2" width="55">
-
-●
+      <td width="55" colspan="2">
 
 </td>
       <td width="42">
 
-●
-
 </td>
       <td width="43">
 
@@ -3310,8 +3287,6 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 
 </td>
       <td width="43">
-
-●
 
 </td>
       <td width="38">
@@ -3322,8 +3297,6 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 </td>
       <td width="41">
 
-●
-
 </td>
       <td width="38">
 
@@ -3333,12 +3306,106 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 </td>
       <td width="38">
 
-●
-
 </td>
       <td width="39">
 
 </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Dépenses refusées par l'autorité de tarification en application de l'article R. 314-52 (compte 114) 
+
+</td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Résultat affecté au compte 119 : report à nouveau déficitaire (établissement public)
+
+</td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Résultat affecté au compte 11 510 : excédent affecté à la réduction des charges d'exploitation (établissement privé) 
+
+</td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Résultat affecté au compte 11 511 : excédent affecté au financement de mesures d'exploitation non reconductibles
+(établissement privé)
+
+</td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Résultat affecté au compte 11 519 : report à nouveau déficitaire (établissement privé).
+
+</td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="2"> </td>
+      <td> </td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
@@ -3348,6 +3415,10 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 _Modifié par_:
 
   - Décret n°2007-828 du 11 mai 2007 - art. 5
+
+_Abrogé par_:
+
+  - Décret n°2016-1814 du 21 décembre 2016 - art. 4
 
 _Cité par_:
 
