@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-10-06
+Version Consolidée au 2007-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-8)](#2)
@@ -630,7 +630,7 @@ Version Consolidée au 2007-10-06
             - [Sous-section 5 : Dispositions relatives à la réglementation du travail (art. R314-197 à R314-203-2)](#627)
               - [Paragraphe 1 : Conventions collectives et accords de retraite. (art. R314-197 à R314-200)](#628)
               - [Paragraphe 2 : Durée du travail. (art. R314-201 à R314-203-2)](#629)
-          - [Section 3 : Dispositions diverses (art. R314-204 à R314-207)](#630)
+          - [Section 3 : Dispositions diverses (art. D314-205 à R314-207)](#630)
         - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public (art. R315-1 à D315-71)](#631)
           - [Section 1 : Dispositions générales (art. R315-1 à R315-5)](#632)
           - [Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique (art. R315-6 à D315-71)](#633)
@@ -82211,6 +82211,98 @@ _Cite_:
 
 
 ##### Section 3 : Dispositions diverses<a id=630></a>
+
+###### Article D314-205
+
+Nonobstant les dispositions de l'article R. 314-162, dans les établissements et services relevant des 2°, 3° et 4° de
+l'article L. 342-1 et les établissements habilités à l'aide sociale pour la totalité de leurs places relevant du 6° du I de
+l'article L. 312-1 ayant conclu la convention prévue au I de l'article L. 313-12, les frais financiers peuvent être pris en
+charge par l'assurance maladie sous réserve de l'accord de l'autorité de tarification compétente pour la section tarifaire
+afférente aux soins et dans la limite des crédits notifiés à cet effet. 
+
+Ces frais sont pris en charge lorsque : 
+
+1° Le plan pluriannuel de financement prévu à l'article R. 314-20 a été approuvé par le président du conseil général qui
+tarife l'hébergement ; 
+
+2° Le taux d'endettement de l'établissement ou du service résultant du rapport entre, d'une part, les emprunts contractés ou
+à contracter et, d'autre part, les financements stables hors amortissements cumulés du fonds de roulement d'investissement
+calculé conformément au bilan financier prévu à l'article R. 314-48, est inférieur à 50 % ; 
+
+3° L'établissement ou le service pratique une politique de dépôts et cautionnements en application de l'article R. 314-149 ; 
+
+4° Les reprises sur les réserves de trésorerie ou de couverture du besoin en fonds de roulement ont, le cas échéant, été
+effectuées si les conditions prévues à l'article R. 314-48 sont réunies ; 
+
+5° Les liquidités permanentes de l'établissement ou du service ne dépassent pas un niveau égal ou supérieur à trente jours
+d'exploitation. 
+
+Les crédits affectés à la compensation des frais financiers sont imputés en charges de la section tarifaire afférente aux
+soins en procédant à une dotation au compte de provision réglementée pour le renouvellement des immobilisations. 
+
+Afin de couvrir les frais financiers, ils sont, ensuite, imputés en produits de la section tarifaire afférente à
+l'hébergement par une reprise sur provisions réglementées pour renouvellement des immobilisations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2007-1554 du 31 octobre 2007 - art. 1 () JORF 1er novembre 2007
+
+_Cité par_:
+
+  - Décret n°2016-1815 du 21 décembre 2016 - art. 5 (V)
+  - Code de l'action sociale et des familles - art. R314-163 (V)
+  - Code de l'action sociale et des familles - art. R543-1 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de l'action sociale et des familles - art. L313-12 (V)
+  - Code de l'action sociale et des familles - art. L342-1 (V)
+  - Code de l'action sociale et des familles - art. R314-149 (V)
+  - Code de l'action sociale et des familles - art. R314-162 (V)
+  - Code de l'action sociale et des familles - art. R314-20 (V)
+  - Code de l'action sociale et des familles - art. R314-48 (V)
+
+
+###### Article D314-206
+
+Sans préjudice de l'application de l'article D. 314-205 pour les établissements relevant de l'article L. 313-12, dans les
+établissements et services relevant de l'article R. 314-1, des provisions réglementées pour le renouvellement des
+immobilisations peuvent être constituées et des amortissements dérogatoires peuvent être pratiqués avant détermination du
+résultat comptable, dans les conditions suivantes : 
+
+1° Après accord de l'autorité de tarification compétente dans les conditions prévues aux articles R. 314-45 ou R. 314-46 ; 
+
+2° Dans la limite des crédits limitatifs mentionnés aux articles L. 314-3 à L. 314-5, dès lors que ceux-ci sont
+disponibles ; 
+
+3° En application du 4° de l'article R. 314-12 et des plans de comptes prévus à l'article R. 314-5.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-1136 2004-10-21
+
+_Créé par_:
+
+  - Décret n°2007-1554 du 31 octobre 2007 - art. 1 () JORF 1er novembre 2007
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L313-12 (V)
+  - Code de l'action sociale et des familles - art. L314-3 (V)
+  - Code de l'action sociale et des familles - art. R314-1 (V)
+  - Code de l'action sociale et des familles - art. R314-12 (V)
+  - Code de l'action sociale et des familles - art. R314-45 (V)
+  - Code de l'action sociale et des familles - art. R314-5 (V)
+
 
 ###### Article R314-204
 
