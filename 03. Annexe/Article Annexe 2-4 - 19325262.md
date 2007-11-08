@@ -1,226 +1,354 @@
 # Article Annexe 2-4
 
-GUIDE-BARÈME POUR L'ÉVALUATION DES DÉFICIENCES ET INCAPACITÉS DES PERSONNES HANDICAPÉES 
+GUIDE-BARÈME POUR L'ÉVALUATION DES DÉFICIENCES ET INCAPACITÉS DES PERSONNES HANDICAPÉES
+
+Introduction générale au guide-barème
+
+Le présent guide-barème a pour objet de permettre la détermination d'un taux d'incapacité, pour l'application de la
+législation applicable en matière d'avantages sociaux aux personnes atteintes d'un handicap (1) tel que défini à l'article L.
+114-1 du code de l'action sociale et des familles " Constitue un handicap, au sens de la présente loi, toute limitation
+d'activité ou restriction de participation à la vie en société subie dans son environnement par une personne en raison d'une
+altération substantielle, durable ou définitive d'une ou plusieurs fonctions physiques, sensorielles, mentales, cognitives ou
+psychiques, d'un polyhandicap ou d'un trouble de santé invalidant ".
+
+Ce guide-barème vise à permettre aux utilisateurs de fixer le taux d'incapacité d'une personne quel que soit son âge à partir
+de l'analyse de ses déficiences et de leurs conséquences dans sa vie quotidienne et non sur la seule nature médicale de
+l'affection qui en est l'origine.
+
+La détermination du taux d'incapacité s'appuie sur une analyse des interactions entre trois dimensions :
+
+Déficience : c'est-à-dire toute perte de substance ou altération d'une structure ou fonction psychologique, physiologique ou
+anatomique. La déficience correspond à l'aspect lésionnel et équivaut, dans la définition du handicap, à la notion
+d'altération de fonction.
+
+Incapacité : c'est-à-dire toute réduction résultant d'une déficience, partielle ou totale, de la capacité d'accomplir une
+activité d'une façon ou dans les limites considérées comme normales pour un être humain. L'incapacité correspond à l'aspect
+fonctionnel dans toutes ses composantes physiques ou psychiques et équivaut, dans la définition du handicap, à la notion de
+limitation d'activité,
+
+Désavantage : c'est-à-dire les limitations (voire l'impossibilité) de l'accomplissement d'un rôle social normal en rapport
+avec l'âge, le sexe, les facteurs sociaux et culturels. Le désavantage (et donc la situation concrète de handicap) résulte de
+l'interaction entre la personne porteuse de déficiences et/ ou d'incapacités et son environnement.
+
+Ces trois dimensions sont étroitement liées, mais, pour autant, leur intensité respective n'est pas nécessairement comparable
+et peut varier considérablement d'une personne à l'autre, y compris lorsque le handicap est lié à une même origine ou une
+même pathologie. De même, elles peuvent évoluer différemment dans le temps.
+
+En effet, le diagnostic ne permet pas, à lui seul, une évaluation du handicap, celui-ci variant avec le stade évolutif, les
+thérapeutiques mises en œuvre, en fonction de l'interaction de la personne avec son environnement.
+
+Toutefois, les éléments de diagnostic, bien qu'insuffisants à eux seuls pour rendre compte des conséquences de l'état de
+santé dans la vie quotidienne de la personne, sont néanmoins utiles pour la connaissance de la situation et permettent
+notamment d'apporter des indications sur l'évolutivité et le pronostic de l'état de la personne.
+
+Le guide-barème comprend huit chapitres, correspondant chacun à un type de déficiences :
+
+I. - Déficiences intellectuelles et difficultés de comportement.
+
+II. - Déficiences du psychisme.
+
+III. - Déficiences de l'audition.
+
+IV. - Déficiences du langage et de la parole.
+
+V. - Déficiences de la vision.
+
+VI. - Déficiences viscérales et générales.
+
+VII. - Déficiences de l'appareil locomoteur.
+
+VIII. - Déficiences esthétiques.
+
+Le guide-barème ne fixe pas de taux d'incapacité précis. En revanche, le guide-barème indique des fourchettes de taux
+d'incapacité, identifiant suivant les chapitres, trois à cinq degrés de sévérité (en général 4) :
+
+- forme légère : taux de 1 à 15 % ;
+
+- forme modérée : taux de 20 à 45 % ;
+
+- forme importante : taux de 50 à 75 % ;
+
+- forme sévère ou majeure : taux de 80 à 95 %.
+
+Il convient de rappeler que les seuils de 50 % et de 80 %, s'ils sont atteints, peuvent ouvrir droit à divers avantages ou
+prestations.
+
+Un taux de 50 % correspond à des troubles importants entraînant une gêne notable dans la vie sociale de la personne.
+L'entrave peut soit être concrètement repérée dans la vie de la personne, soit compensée afin que cette vie sociale soit
+préservée, mais au prix d'efforts importants ou de la mobilisation d'une compensation spécifique. Toutefois, l'autonomie est
+conservée pour les actes élémentaires de la vie quotidienne.
+
+Un taux d'au moins 80 % correspond à des troubles graves entraînant une entrave majeure dans la vie quotidienne de la
+personne avec une atteinte de son autonomie individuelle. Cette autonomie individuelle est définie comme l'ensemble des
+actions que doit mettre en oeuvre une personne, vis-à-vis d'elle-même, dans la vie quotidienne. Dès lors qu'elle doit être
+aidée totalement ou partiellement, ou surveillée dans leur accomplissement, ou ne les assure qu'avec les plus grandes
+difficultés, le taux de 80 % est atteint. C'est également le cas lorsqu'il y a déficience sévère avec abolition d'une
+fonction.
+
+Les actes de la vie quotidienne, parfois qualifiés d'élémentaires ou d'essentiels, sont mentionnés dans les différents
+chapitres et portent notamment sur les activités suivantes :
+
+- se comporter de façon logique et sensée ;
+
+- se repérer dans le temps et les lieux ;
+
+- assurer son hygiène corporelle ;
+
+- s'habiller et se déshabiller de façon adaptée ;
+
+- manger des aliments préparés ;
+
+- assumer l'hygiène de l'élimination urinaire et fécale ;
+
+- effectuer les mouvements (se lever, s'asseoir, se coucher) et les déplacements (au moins à l'intérieur d'un logement).
+
+Le taux de 100 % est réservé aux incapacités totales comme par exemple dans le cas d'un état végétatif ou d'un coma.
+
+L'approche évaluative en vue de la détermination du taux d'incapacité doit être :
+
+- individualisée : en effet, certaines déficiences graves entraînent des incapacités modérées. A l'inverse, des déficiences
+modérées peuvent du fait de l'existence d'autres troubles, par exemple d'une vulnérabilité psychique notable, avoir des
+conséquences lourdes. De même, des déficiences bien compensées par un traitement (de quelque nature qu'il soit) peuvent
+entraîner des désavantages majeurs dans l'insertion sociale, scolaire ou professionnelle de la personne, notamment du fait
+des contraintes liées à ce traitement ;
+
+- globale : même si le repérage des différentes déficiences est nécessaire, en revanche pour la détermination du taux
+d'incapacité, les taux mentionnés dans les différents chapitres ne s'ajoutent pas de façon arithmétique sauf précision
+contraire indiquée dans le chapitre correspondant.
+
+Pour ce qui concerne les jeunes, l'analyse doit en outre prendre en compte les particularités liées au fait que l'enfance et
+l'adolescence sont des phases de développement. C'est ainsi que, dans certains cas, même si les déficiences n'ont pas encore
+un impact direct sur les incapacités ou désavantages immédiats, elles peuvent entraver le développement à terme. Les mesures
+alors mises en oeuvre pour éviter une telle évolution ou permettre l'apprentissage précoce de compensations diverses peuvent
+avoir un impact très important sur la vie du jeune et de son entourage proche (en général familial) qui peut également
+supporter des contraintes de ce fait. Il y aura donc lieu d'en tenir compte dans l'analyse.
+
+Il n'est pas nécessaire que la situation médicale de la personne soit stabilisée pour déterminer un taux d'incapacité. La
+durée prévisible des conséquences doit cependant être au moins égale à un an pour déterminer le taux.
+
+(1) Certaines décisions prises par la commission prévue à l'article L. 241-5 du code de l'action sociale et des familles,
+outre la reconnaissance d'un taux d'incapacité fixé réglementairement, nécessitent que d'autres conditions soient remplies.
+Celles-ci font éventuellement l'objet d'outils d'aide à la décision différents du présent guide-barème.
 
 Le chapitre Ier comprend :
 
 - les retards mentaux avec ou sans difficultés du comportement ;
 
-- les déficiences de la mémoire et de la pensée. 
+- les déficiences de la mémoire et de la pensée.
 
 Ces deux points sont organisés en deux sections, l'une concernant les enfants et adolescents, l'autre les adultes ;
 
-- les épilepsies qui sont traitées dans la troisième section. 
+- les épilepsies qui sont traitées dans la troisième section.
 
-Le chapitre II concerne les troubles psychiques. 
+Le chapitre II concerne les troubles psychiques.
 
 Il est organisé également en deux sections, l'une concernant les enfants et adolescents, l'autre les adultes.
 
 L'expert se référera selon sa formation (neurologue, pédiatre ou psychiatre...) et selon l'affection que présente la personne
 handicapée, à l'un ou l'autre chapitre. Toutefois, pour fixer le taux d'incapacité, l'expert ne pourra cumuler le taux obtenu
 dans le premier chapitre et celui obtenu dans le deuxième chapitre car si les exemples diffèrent, le lecteur peut constater
-que la démarche évaluative est tout à fait comparable. 
+que la démarche évaluative est tout à fait comparable.
 
 En effet, ce qui doit être mesuré ici, ce sont les incapacités dans la vie familiale, scolaire ou professionnelle, quel que
-soit le diagnostic médical qui conduit à cet état de fait. 
+soit le diagnostic médical qui conduit à cet état de fait.
 
 Le diagnostic médical est en effet important pour prévoir l'évolution (donc les éventuelles améliorations ou aggravations et
 ainsi les réexamens par les commissions compétentes) et la nature de la prise en charge, il n'est en règle générale que d'une
 utilité limitée dans la fixation du taux d'incapacité, sauf à ce qu'à lui seul il témoigne d'incapacités d'emblée très
-importantes. 
+importantes.
 
-CHAPITRE Ier 
+CHAPITRE Ier
 
-DÉFICIENCES INTELLECTUELLES ET DIFFICULTÉS DE COMPORTEMENT 
+DÉFICIENCES INTELLECTUELLES ET DIFFICULTÉS DE COMPORTEMENT
 
 Chez l'enfant comme chez l'adulte, le retard mental peut être isolé ou associé à des difficultés du comportement dont les
 manifestations sont diverses. Il conviendra de fixer le taux d'incapacité de façon globale, même si la démarche proposée
-conduit dans un premier temps à analyser séparément différents critères. 
+conduit dans un premier temps à analyser séparément différents critères.
 
 Le retard mental apparaît bien souvent dès la prime enfance, ou dans l'enfance, que la cause ait été mise en évidence ou non,
 qu'elle soit génétique, périnatale, ou autre... Mais la déficience intellectuelle peut également apparaître plus tardivement
 à l'adolescence, voire à l'âge adulte. C'est notamment le cas pour les traumatismes crâniens. Enfin, ce chapitre ne saurait
-exclure les déficiences intellectuelles de l'adulte vieillissant, qui peuvent apparaître plus ou moins précocement. 
+exclure les déficiences intellectuelles de l'adulte vieillissant, qui peuvent apparaître plus ou moins précocement.
 
 Pour chacune de ces situations, l'expert aura la même démarche, c'est-à-dire, après avoir fait un examen lui permettant de
 porter autant que faire se peut un diagnostic étiologique, il complétera son analyse par une recherche des incapacités de la
-personne en se référant à une personne du même âge. 
+personne en se référant à une personne du même âge.
 
 En ce qui concerne les très jeunes enfants, dans les premières années de vie, il s'attachera certes à repérer les incapacités
 de l'enfant par rapport à ses congénères, mais il prendra aussi en compte les contraintes qui pèsent sur la famille pour
-favoriser le développement psychomoteur de cet enfant et permettre sa socialisation. 
+favoriser le développement psychomoteur de cet enfant et permettre sa socialisation.
 
 Enfin toute évaluation doit être accompagnée d'un examen somatique permettant de repérer les déficiences associées notamment
-auditives, visuelles, motrices... afin de les prendre en compte. 
+auditives, visuelles, motrices... afin de les prendre en compte.
 
-SECTION 1 
+SECTION 1
 
-DÉFICIENCES INTELLECTUELLES ET DIFFICULTÉS DE COMPORTEMENT DE L'ENFANT ET DE L'ADOLESCENT 
+DÉFICIENCES INTELLECTUELLES ET DIFFICULTÉS DE COMPORTEMENT DE L'ENFANT ET DE L'ADOLESCENT
 
 Un guide d'évaluation concernant spécifiquement la déficience intellectuelle et les difficultés du comportement de l'enfant
-et de l'adolescent a été établi. Il comporte un exposé de repères méthodologiques simples. 
+et de l'adolescent a été établi. Il comporte un exposé de repères méthodologiques simples.
 
 Ce guide ne se substitue pas au travail préalable des praticiens qui doivent apprécier les mécanismes de la déficience, les
-éléments dynamiques interactifs familiaux et sociaux, les facteurs étiologiques éventuels.L'ensemble de ce travail évaluatif
+éléments dynamiques interactifs familiaux et sociaux, les facteurs étiologiques éventuels. L'ensemble de ce travail évaluatif
 conduit chaque praticien à une synthèse lui permettant de proposer un diagnostic, qui éclaire l'évolutivité, le pronostic,
 les possibilités thérapeutiques, la compétence à l'égard de la scolarité (éventuellement aménagée ou aidée) et également la
-fréquence souhaitable pour le réexamen des dossiers. 
+fréquence souhaitable pour le réexamen des dossiers.
 
 En l'espèce, il s'agit d'apprécier l'importance des incapacités et le surcroît de charges éducatives qui y sont liées au
-moment précis où est effectuée l'évaluation. 
+moment précis où est effectuée l'évaluation.
 
 Cependant, la mise en évidence d'une anomalie chromosomique autosomique (trisomie ou monosomie) de l'enfant (par exemple dans
 le cadre des examens médicaux de la première semaine, du neuvième et du vingt-quatrième mois) signe d'emblée une déficience
 intellectuelle plus ou moins importante, souvent associée à des difficultés du comportement. Aussi ils justifient, dès le
-diagnostic posé, de l'attribution d'un taux égal à 80 p. 100, quelque soit l'âge de l'enfant. 
+diagnostic posé, de l'attribution d'un taux égal à 80 p. 100, quelque soit l'âge de l'enfant.
 
 Les anomalies concernant les chromosomes sexuels peuvent, elles, s'accompagner, mais de façon inconstante, d'une déficience
 mentale. Elles entraînent très souvent des difficultés du comportement. Aussi elles justifient l'attribution d'un taux au
 moins égal à 50 p. 100. Selon le bilan effectué, ce taux pourra atteindre 80 p. 100 dans certains cas (retard mental avéré,
-difficultés du comportement importantes...). 
+difficultés du comportement importantes...).
 
 Il importera de tenir compte de la permanence de l'aide éducative pour maintenir l'autonomie de l'enfant au niveau acquis et
-pour réaliser des progrès au-delà. 
+pour réaliser des progrès au-delà.
 
-Ainsi on peut déterminer trois classes de taux d'incapacité : 
+Ainsi on peut déterminer trois classes de taux d'incapacité :
 
 taux inférieur à 50 p. 100 : incapacité modérée n'entraînant pas d'entrave notable dans la vie quotidienne de l'enfant ou de
-celle de sa famille ; 
+celle de sa famille ;
 
 taux compris entre 50 p. 100 et 80 p. 100 : incapacité importante entraînant une entrave notable dans la vie quotidienne de
-l'enfant et de sa famille ; 
+l'enfant et de sa famille ;
 
 taux égal ou supérieur à 80 p. 100 : incapacité majeure, entraînant une entrave majeure dans la vie quotidienne de l'enfant
 et de celle de sa famille.
 
-A-REGISTRES D'ÉVALUATION 
+A - REGISTRES D'ÉVALUATION
 
-L'incapacité de l'enfant ainsi que le surcroît de charges éducatives sont appréciés dans chacun de ces registres. 
+L'incapacité de l'enfant ainsi que le surcroît de charges éducatives sont appréciés dans chacun de ces registres.
 
-1-CONSCIENCE ET CAPACITÉS INTELLECTUELLES 
+1 - CONSCIENCE ET CAPACITÉS INTELLECTUELLES
 
 Conscience de soi : capacité à construire ou à maintenir une représentation de l'identité du corps ainsi que sa continuité
-dans le temps. 
+dans le temps.
 
-Schéma corporel et capacité d'orientation dans le temps et l'espace. 
+Schéma corporel et capacité d'orientation dans le temps et l'espace.
 
-Capacité générale à acquérir des connaissances et des compétences, appréciation clinique et psychométrique. 
+Capacité générale à acquérir des connaissances et des compétences, appréciation clinique et psychométrique.
 
-2-CAPACITÉ RELATIONNELLE ET COMPORTEMENT 
+2 - CAPACITÉ RELATIONNELLE ET COMPORTEMENT
 
-Avec les membres de la famille ; 
+Avec les membres de la famille ;
 
-avec d'autres enfants ou adultes de l'entourage. 
+avec d'autres enfants ou adultes de l'entourage.
 
-On appréciera notamment : 
+On appréciera notamment :
 
-la capacité à nouer des relations dans des situations de jeu et d'apprentissage ; 
+la capacité à nouer des relations dans des situations de jeu et d'apprentissage ;
 
-la capacité d'adaptation au milieu habituel et à des situations nouvelles. 
+la capacité d'adaptation au milieu habituel et à des situations nouvelles.
 
-3-LA COMMUNICATION 
+3 - LA COMMUNICATION
 
-Concerne la capacité de l'enfant de produire et d'émettre des messages ainsi que de recevoir et de comprendre les messages. 
+Concerne la capacité de l'enfant de produire et d'émettre des messages ainsi que de recevoir et de comprendre les messages.
 
-On examinera les points suivants : 
+On examinera les points suivants :
 
-compréhension du langage de l'entourage ; 
+compréhension du langage de l'entourage ;
 
-capacité d'expression non verbale : mimique, gestuelle ; 
+capacité d'expression non verbale : mimique, gestuelle ;
 
-capacité d'expression orale ; 
+capacité d'expression orale ;
 
-capacité concernant l'expression écrite : écriture, lecture. 
+capacité concernant l'expression écrite : écriture, lecture.
 
-4-CONDUITES ET ACTES ÉLÉMENTAIRES DANS LA VIE QUOTIDIENNE 
+4 - CONDUITES ET ACTES ÉLÉMENTAIRES DANS LA VIE QUOTIDIENNE
 
-Il s'agit d'apprécier là l'autonomie dans : 
+Il s'agit d'apprécier là l'autonomie dans :
 
-l'alimentation ; 
+l'alimentation ;
 
-la toilette ; 
+la toilette ;
 
-l'acquisition de la propreté ; 
+l'acquisition de la propreté ;
 
-le sommeil. 
+le sommeil.
 
-5-CAPACITÉ GÉNÉRALE D'AUTONOMIE ET DE SOCIALISATION 
+5 - CAPACITÉ GÉNÉRALE D'AUTONOMIE ET DE SOCIALISATION
 
 Dans la vie familiale : participation aux activités domestiques, interférence avec les activités des autres membres de la
-famille. 
+famille.
 
-Hors de la vie familiale : 
+Hors de la vie familiale :
 
 capacité de se déplacer (ne vise pas uniquement les capacités locomotrices, mais exploite aussi la capacité à se déplacer
-seul, à prendre les transports en commun) ; 
+seul, à prendre les transports en commun) ;
 
-capacité d'assurer sa sécurité personnelle, dans les situations ordinaires de l'existence ; 
+capacité d'assurer sa sécurité personnelle, dans les situations ordinaires de l'existence ;
 
 possibilité d'intégration dans les lieux habituels de l'enfance : crèche, halte-garderie, école, centre aéré, etc.
 
-B-AUTRES ÉLÉMENTS D'APPRÉCIATION 
+B - AUTRES ÉLÉMENTS D'APPRÉCIATION
 
 Complémentaires de l'étude analytique des incapacités résultant des atteintes des grandes fonctions psychiques, ils
 permettent au médecin expert de porter une appréciation globale, cotée, selon les trois niveaux de sévérité déterminés ci-
-dessus. 
+dessus.
 
 Le diagnostic : il sera indiqué en référence à une classification des maladies reconnue nationale ou internationale.
 
 L'âge où la déficience est intervenue, son ancienneté, son évolutivité, les possibilités thérapeutiques, les soins entrepris,
-leur lourdeur, la fréquence des éventuelles hospitalisations. 
+leur lourdeur, la fréquence des éventuelles hospitalisations.
 
-La présence d'autres atteintes fonctionnelles. 
+La présence d'autres atteintes fonctionnelles.
 
-SECTION 2 
+SECTION 2
 
-DÉFICIENCES INTELLECTUELLES ET DIFFICULTÉS DE COMPORTEMENT DE L'ADULTE 
+DÉFICIENCES INTELLECTUELLES ET DIFFICULTÉS DE COMPORTEMENT DE L'ADULTE
 
-La déficience intellectuelle s'apprécie en fonction de critères principaux et de critères secondaires. 
+La déficience intellectuelle s'apprécie en fonction de critères principaux et de critères secondaires.
 
 Chaque critère situe le niveau du handicap ; il ne constitue pas, en lui-même, un élément suffisant pour fixer le taux
-d'incapacité ; il doit s'intégrer dans un ensemble symptomatique. 
+d'incapacité ; il doit s'intégrer dans un ensemble symptomatique.
 
 Cependant, la multiplicité des troubles présentés par le sujet peut constituer un indice de gravité supplémentaire (situant
 le taux à l'extrémité supérieure de la fourchette).
 
-I-CRITÈRES PRINCIPAUX 
+I - CRITÈRES PRINCIPAUX
 
-Les déficiences intellectuelles comprennent celles de l'intelligence, de la mémoire et de la pensée. 
+Les déficiences intellectuelles comprennent celles de l'intelligence, de la mémoire et de la pensée.
 
 Ces déficiences et les difficultés du comportement qui l'accompagnent le plus souvent entraînent une altération de
-l'autonomie. 
+l'autonomie.
 
-Les actes de la vie quotidienne auxquels il sera fait référence, appréciés en fonction de l'aide et / ou de l'incitation
-extérieures, sont : 
+Les actes de la vie quotidienne auxquels il sera fait référence, appréciés en fonction de l'aide et/ ou de l'incitation
+extérieures, sont :
 
-la toilette ; 
+la toilette ;
 
-l'habillement ; 
+l'habillement ;
 
-les courses ; 
+les courses ;
 
-la cuisine ; 
+la cuisine ;
 
 les déplacements locaux.
 
-L'autonomie intellectuelle s'appréciera en fonction des critères qui suivent. 
+L'autonomie intellectuelle s'appréciera en fonction des critères qui suivent.
 
-La personne ayant une déficience intellectuelle peut-elle : 
+La personne ayant une déficience intellectuelle peut-elle :
 
-comprendre ? 
+comprendre ?
 
-se faire comprendre ? 
+se faire comprendre ?
 
-prendre des initiatives adaptées ? 
+prendre des initiatives adaptées ?
 
-mettre à exécution et réaliser ces initiatives ? 
+mettre à exécution et réaliser ces initiatives ?
 
-peut-elle ou pourrait-elle gérer seule sa propre existence ? 
+peut-elle ou pourrait-elle gérer seule sa propre existence ?
 
-peut-elle ou pourrait-elle vivre seule ? 
+peut-elle ou pourrait-elle vivre seule ?
 
 L'acquisition des notions de lecture, de calcul et d'écriture ainsi que l'insertion socioprofessionnelle possible en milieu
-ordinaire ne suffisent pas à déterminer le degré de déficience globale. 
+ordinaire ne suffisent pas à déterminer le degré de déficience globale.
 
 En tout état de cause, le repérage de la déficience intellectuelle ne saurait s'effectuer uniquement sur des tests
 psychométriques et encore moins sur un seul d'entre eux.
@@ -228,112 +356,112 @@ psychométriques et encore moins sur un seul d'entre eux.
 L'observation continue, l'usage de plusieurs types de tests psychométriques (tests verbaux et de performance, échelles de
 capacités sociales...) doivent être conjugués avec des entretiens et des tests de personnalité dès lors que l'on cherche à
 faire leur juste place aux différents axes des fonctions cognitives : déficiences de logique, mémorisation, perception,
-communication, intérêt, attention. 
+communication, intérêt, attention.
 
 On attribuera un taux inférieur à 50 p. 100 lorsque la personne présente des difficultés de conceptualisation et
-d'abstraction mais avec une adaptation possible à la vie courante sans soutien particulier. 
+d'abstraction mais avec une adaptation possible à la vie courante sans soutien particulier.
 
 On attribuera un taux compris entre 50 p. 100 et 75 p. 100 lorsque la personne est en mesure d'acquérir des aptitudes
 pratiques de la vie courante. Son insertion est possible en milieu ordinaire mais sa personnalité est fragile, instable, en
 situation de précarisation permanente, nécessitant un soutien approprié.
 
-C'est le cas d'une personne ayant un retard mental léger. 
+C'est le cas d'une personne ayant un retard mental léger.
 
-On attribuera un taux au moins égal à 80 p. 100 lorsque la personne a besoin d'être sollicitée, aidée et / ou surveillée. Son
+On attribuera un taux au moins égal à 80 p. 100 lorsque la personne a besoin d'être sollicitée, aidée et/ ou surveillée. Son
 insertion socioprofessionnelle est considérée comme possible en milieu protégé ou en milieu ordinaire avec des soutiens
 importants.
 
-C'est le cas d'une personne ayant un retard mental moyen. 
+C'est le cas d'une personne ayant un retard mental moyen.
 
 On attribuera un taux de plus de 90 p. 100 lorsque la personne aurait sa vie en danger sans l'assistance permanente d'une
 tierce personne ; son insertion socioprofessionnelle est considérée comme quasi impossible, même en milieu protégé ; son
-langage et son autonomie sont très faibles. 
+langage et son autonomie sont très faibles.
 
-II-CRITÈRES SECONDAIRES 
+II - CRITÈRES SECONDAIRES
 
-Ils permettent de moduler les taux à l'intérieur des fourchettes définies par les critères principaux. 
+Ils permettent de moduler les taux à l'intérieur des fourchettes définies par les critères principaux.
 
-On prendra en compte : 
+On prendra en compte :
 
 le retentissement relationnel sur la vie sociale, la déficience pouvant être acceptée par l'entourage ou, à l'opposé,
-entraîner un isolement, une marginalisation ou une dépendance totale ; 
+entraîner un isolement, une marginalisation ou une dépendance totale ;
 
 les relations avec le milieu professionnel, depuis la gêne au travail, mais la personne est tolérée par le milieu
-professionnel, jusqu'à l'inaptitude à tout travail. 
+professionnel, jusqu'à l'inaptitude à tout travail.
 
-SECTION 3 
+SECTION 3
 
-ÉPILEPSIE (DÉFICIENCES LIÉES À L'ÉPILEPSIE) 
+ÉPILEPSIE (DÉFICIENCES LIÉES À L'ÉPILEPSIE)
 
 Toutes les épilepsies ne sont pas des handicaps. Les épilepsies dont les crises sont bien contrôlées par le traitement et
-sans trouble associé ne constituent pas un handicap.A l'opposé, toute épilepsie active constitue un handicap. Ce handicap est
-en rapport avec : 
+sans trouble associé ne constituent pas un handicap. A l'opposé, toute épilepsie active constitue un handicap. Ce handicap
+est en rapport avec :
 
 1. les crises (caractérisées par leur fréquence et leur gravité), le retentissement du traitement, dont les effets
-secondaires peuvent être majeurs. 
+secondaires peuvent être majeurs.
 
 2. les déficiences pouvant être associées aux épilepsies : retard mental, déficience du psychisme, déficience de l'appareil
-locomoteur, déficience du langage et de la parole, déficience viscérale et générale. 
+locomoteur, déficience du langage et de la parole, déficience viscérale et générale.
 
 La présente section ne prend en compte que le facteur crise. Les déficiences en rapport avec les troubles associés seront
 appréciées en fonction des sections ou chapitres spécifiques à chaque déficience. Ils donneront lieu, le cas échéant, à une
-majoration des taux d'incapacité. 
+majoration des taux d'incapacité.
 
-Niveau I : déficience légère, 0 à 15 p. 100 : 
+Niveau I : déficience légère, 0 à 15 p. 100 :
 
-crise avec chute et / ou perte de connaissance rare (de une à onze par an) ou absences mensuelles sans retentissement
-scolaire et professionnel. 
+crise avec chute et/ ou perte de connaissance rare (de une à onze par an) ou absences mensuelles sans retentissement scolaire
+et professionnel.
 
-Niveau II : déficience modérée, 20 à 45 p. 100 : 
+Niveau II : déficience modérée, 20 à 45 p. 100 :
 
-crises avec chutes et / ou perte de connaissance (au moins une par mois) ou absences (au moins une par semaine), aménagements
-scolaires et professionnels mais en milieu normal. 
+crises avec chutes et/ ou perte de connaissance (au moins une par mois) ou absences (au moins une par semaine), aménagements
+scolaires et professionnels mais en milieu normal.
 
-Niveau III : déficience importante, 50 à 75 p. 100 : 
+Niveau III : déficience importante, 50 à 75 p. 100 :
 
-crises avec chutes et / ou perte de connaissance (au moins une par semaine) ou absences (au moins une par jour). 
+crises avec chutes et/ ou perte de connaissance (au moins une par semaine) ou absences (au moins une par jour).
 
-Pas d'insertion scolaire ou professionnelle en milieu normal possible sauf si accompagnement soutenu. 
+Pas d'insertion scolaire ou professionnelle en milieu normal possible sauf si accompagnement soutenu.
 
-Niveau IV : déficience sévère, supérieure à 80 p. 100 : 
+Niveau IV : déficience sévère, supérieure à 80 p. 100 :
 
-crises avec chutes et / ou perte de connaissance (au moins une par jour). 
+crises avec chutes et/ ou perte de connaissance (au moins une par jour).
 
-Pas d'activité scolaire ou professionnelle possible, même en milieu protégé et / ou perte d'autonomie psychosociale. 
+Pas d'activité scolaire ou professionnelle possible, même en milieu protégé et/ ou perte d'autonomie psychosociale.
 
-CHAPITRE II 
+CHAPITRE II
 
-DÉFICIENCES DU PSYCHISME 
+DÉFICIENCES DU PSYCHISME
 
-SECTION 1 
+SECTION 1
 
-DÉFICIENCES PSYCHIQUES DE L'ENFANT ET DE L'ADOLESCENT 
+DÉFICIENCES PSYCHIQUES DE L'ENFANT ET DE L'ADOLESCENT
 
 Ce guide ne se substitue bien évidemment pas au travail préalable des praticiens qui doivent apprécier les mécanismes psycho-
-pathologiques, les éléments dynamiques interactifs familiaux et sociaux, les facteurs étiologiques éventuels.L'ensemble de ce
-travail évaluatif conduit chaque praticien à une synthèse lui permettant de proposer un diagnostic, qui éclaire
+pathologiques, les éléments dynamiques interactifs familiaux et sociaux, les facteurs étiologiques éventuels. L'ensemble de
+ce travail évaluatif conduit chaque praticien à une synthèse lui permettant de proposer un diagnostic, qui éclaire
 l'évolutivité, le pronostic, les possibilités thérapeutiques et éducatives et également la fréquence souhaitable pour le
-réexamen des dossiers. 
+réexamen des dossiers.
 
 Dans une approche globale, visant à décrire au mieux la situation de chaque enfant, les conséquences et limitations
 qu'imposent certains processus morbides doivent également être étudiées, en référence à l'apport méthodologique de la
 classification internationale des handicaps, notamment l'identification de plans d'expérience de santé et leurs interactions
-qui seront précisés par circulaire. 
+qui seront précisés par circulaire.
 
 En l'espèce, il s'agit d'apprécier l'importance des capacités liées aux atteintes des grandes fonctions neuropsychiques, et
 le surcroît de charges éducatives qui y sont liées au moment précis où est effectuée l'évaluation. Il importera de tenir
 compte de la permanence de l'aide éducative pour maintenir l'autonomie de l'enfant au niveau acquis et pour réaliser les
-progrès au-delà. 
+progrès au-delà.
 
 La démarche consiste à examiner pour chaque enfant, en référence au développement d'un enfant du même âge, un ensemble
 d'items de valeur différente, qui se situent dans plusieurs registres ; cet ensemble éclairé par des éléments non chiffrés
-(le diagnostic, l'évolutivité) aboutit à un indice synthétique qui permet d'attribuer à l'enfant un taux d'incapacité : 
+(le diagnostic, l'évolutivité) aboutit à un indice synthétique qui permet d'attribuer à l'enfant un taux d'incapacité :
 
 inférieur à 50 p. 100 : incapacité modérée, n'entraînant pas d'entrave notable dans la vie quotidienne du sujet ou celle de
-sa famille. 
+sa famille.
 
 de 50 à 80 p. 100 : incapacité importante, entraînant une gêne notable dans la vie quotidienne du sujet ou celle de sa
-famille. 
+famille.
 
 égal ou supérieur à 80 p. 100 : incapacité majeure, entraînant une entrave majeure dans la vie quotidienne du sujet et de
 celle de sa famille.
@@ -342,111 +470,111 @@ L'âge de seize ans est l'âge minimum d'entrée dans le monde du travail : les 
 professionnel ajoutent une nouvelle perspective dans la détermination de ce qui est à compenser. Aussi, suivant les cas, il
 peut être plus opportun de se reporter au guide-barème établi pour les atteintes neuropsychiques des adultes.
 
-A-REGISTRES D'ÉVALUATION 
+A - REGISTRES D'ÉVALUATION
 
 Explorant les incapacités liées aux atteintes des grandes fonctions neuropsychiques ainsi que le surcroît de charges
-éducatives, ces repères donnent lieu à une appréciation codée (et non cotée). 
+éducatives, ces repères donnent lieu à une appréciation codée (et non cotée).
 
-1-CONSCIENCE ET CAPACITÉS INTELLECTUELLES 
+1 - CONSCIENCE ET CAPACITÉS INTELLECTUELLES
 
 Conscience de soi : capacité à construire ou à maintenir une représentation de l'identité du corps ainsi que sa continuité
-dans le temps. 
+dans le temps.
 
-Schéma corporel et capacité d'orientation dans le temps et l'espace. 
+Schéma corporel et capacité d'orientation dans le temps et l'espace.
 
-Capacité de discerner les dangers. 
+Capacité de discerner les dangers.
 
-Capacité générale à manifester de la curiosité et de l'intérêt pour le milieu environnant. 
+Capacité générale à manifester de la curiosité et de l'intérêt pour le milieu environnant.
 
 Capacité à jouer seul de manière créatrice : activité de faire semblant ou utilisation dans le jeu d'un objet pour autre
-chose que sa destination usuelle. 
+chose que sa destination usuelle.
 
-Capacité générale d'acquérir des connaissances et des compétences et de les généraliser. 
+Capacité générale d'acquérir des connaissances et des compétences et de les généraliser.
 
 Les capacités intellectuelles seront appréciées grâce à différents tests cliniques, l'usage de plusieurs types de tests
 psychométriques (tests verbaux et de performance), échelles de capacité sociale... conjugués avec des entretiens et des tests
-de la personnalité. 
+de la personnalité.
 
-2-CAPACITÉ RELATIONNELLE ET COMPORTEMENT 
+2 - CAPACITÉ RELATIONNELLE ET COMPORTEMENT
 
-Avec les membres de la famille ; 
+Avec les membres de la famille ;
 
-avec d'autres enfants ou adultes de l'entourage. 
+avec d'autres enfants ou adultes de l'entourage.
 
-On appréciera notamment : 
+On appréciera notamment :
 
-la capacité à nouer des relations dans des situations de jeu et d'apprentissage ; 
+la capacité à nouer des relations dans des situations de jeu et d'apprentissage ;
 
-la capacité d'adaptation au milieu habituel, et à des situations nouvelles ; 
+la capacité d'adaptation au milieu habituel, et à des situations nouvelles ;
 
 certaines difficultés particulières de comportement (stéréotypie, hyperactivité...) qui perturbent les relations avec
-l'entourage. 
+l'entourage.
 
-3-LA COMMUNICATION 
+3 - LA COMMUNICATION
 
-Concerne la capacité de l'enfant de produire et d'émettre des messages et de recevoir et de comprendre les messages. 
+Concerne la capacité de l'enfant de produire et d'émettre des messages et de recevoir et de comprendre les messages.
 
-On examinera les points suivants : 
+On examinera les points suivants :
 
-compréhension du langage de l'entourage ; 
+compréhension du langage de l'entourage ;
 
-capacité d'expression non verbale à des fins de communication, mimique, gestuelle ; 
+capacité d'expression non verbale à des fins de communication, mimique, gestuelle ;
 
 capacité d'expression verbale à des fins de communication : capacité à manifester une curiosité en posant des questions (non
-stéréotypées) et à répondre à des questions de manière adaptée (faculté de dépasser l'écholalie) ; 
+stéréotypées) et à répondre à des questions de manière adaptée (faculté de dépasser l'écholalie) ;
 
-capacité concernant l'expression écrite : écriture, lecture. 
+capacité concernant l'expression écrite : écriture, lecture.
 
-4-CONDUITES ET ACTES ÉLÉMENTAIRES DANS LA VIE QUOTIDIENNE 
+4 - CONDUITES ET ACTES ÉLÉMENTAIRES DANS LA VIE QUOTIDIENNE
 
-Il s'agit d'apprécier là l'autonomie en fonction de l'aide ou de l'incitation extérieure dans : 
+Il s'agit d'apprécier là l'autonomie en fonction de l'aide ou de l'incitation extérieure dans :
 
-l'alimentation ; 
+l'alimentation ;
 
-la toilette ; 
+la toilette ;
 
-l'acquisition de la propreté ; 
+l'acquisition de la propreté ;
 
-le sommeil. 
+le sommeil.
 
-5-CAPACITÉ GÉNÉRALE D'AUTONOMIE ET DE SOCIALISATION 
+5 - CAPACITÉ GÉNÉRALE D'AUTONOMIE ET DE SOCIALISATION
 
 Dans la vie familiale : participation aux activités domestiques, interférence avec les activités des autres membres de la
-famille. 
+famille.
 
-Hors de la vie familiale : 
+Hors de la vie familiale :
 
 capacité de se déplacer (ne vise pas uniquement les capacités locomotrices, mais explore aussi la capacité à se déplacer
-seul, à prendre les transports en commun) ; 
+seul, à prendre les transports en commun) ;
 
-capacité d'assurer sa sécurité personnelle, dans les situations ordinaires de l'existence ; 
+capacité d'assurer sa sécurité personnelle, dans les situations ordinaires de l'existence ;
 
 capacité d'intégration dans les lieux habituels de l'enfance : crèche, halte-garderie, école, centre aéré, etc.
 
-B-AUTRES ÉLÉMENTS D'APPRÉCIATION 
+B - AUTRES ÉLÉMENTS D'APPRÉCIATION
 
 Complémentaires de l'étude analytique des incapacités résultant des atteintes des grandes fonctions psychiques, ils
 permettent au médecin expert de porter une appréciation globale, cotée, selon les trois niveaux de sévérité déterminés ci-
-dessus. 
+dessus.
 
 Le diagnostic : il sera indiqué en référence à une classification des maladies reconnue, nationale ou internationale.
 
-L'âge de survenue des troubles, leur ancienneté, leur évolutivité. 
+L'âge de survenue des troubles, leur ancienneté, leur évolutivité.
 
-Les possibilités thérapeutiques, les soins entrepris, leur lourdeur, la fréquence des éventuelles hospitalisations. 
+Les possibilités thérapeutiques, les soins entrepris, leur lourdeur, la fréquence des éventuelles hospitalisations.
 
-La présence d'autres atteintes fonctionnelles. 
+La présence d'autres atteintes fonctionnelles.
 
 La multiplicité des troubles ou l'incidence multiple d'un seul trouble sévère présentés par le sujet pourra, en elle-même,
 constituer un indice de gravité supplémentaire. Pour une personne donnée, ayant repéré l'ensemble des atteintes qui peuvent
 ressortir à des chapitres différents, il importe d'en apprécier le taux global. Toutefois, on sera attentif à ne pas cumuler
 deux items semblables présents dans deux chapitres différents (cf. le chapitre Déficiences du langage et de la parole) ou de
 ne pas cumuler le taux qui résulterait de l'évaluation portée en référence au chapitre I, section 1, et celui porté en
-référence à cette section. 
+référence à cette section.
 
-SECTION 2 
+SECTION 2
 
-DÉFICIENCES PSYCHIQUES DE L'ADULTE 
+DÉFICIENCES PSYCHIQUES DE L'ADULTE
 
 La classification internationale des maladies de l'Organisme mondiale de la santé doit être considérée par l'expert comme un
 outil de base. Il s'y reportera pour la conformité de ses conclusions diagnostiques. Cependant le diagnostic psychiatrique ne
@@ -455,381 +583,381 @@ l'expert s'attachera-t-il à compléter l'examen clinique qui le conduit au diag
 n'est pas la maladie psychiatrique qui donne lieu à l'attribution d'un taux d'incapacité mais les limites qu'elle suscite
 dans la vie quotidienne.
 
-L'évaluation psychosociale s'appuiera sur un certain nombre de critères qui seront précisés plus loin. 
+L'évaluation psychosociale s'appuiera sur un certain nombre de critères qui seront précisés plus loin.
 
-Le taux d'incapacité sera fixé en tenant compte de ces critères. 
+Le taux d'incapacité sera fixé en tenant compte de ces critères.
 
 Inversement si chaque critère situe le niveau de handicap, aucune ne constitue en lui-même un élément suffisant pour fixer le
-taux d'incapacité : il doit s'intégrer dans un ensemble symptomatique psychiatrique. 
+taux d'incapacité : il doit s'intégrer dans un ensemble symptomatique psychiatrique.
 
 Si les critères ont été énumérés avec une certaine précision, il ne s'agit pas de chercher à coter chacun d'entre eux de
 façon précise et d'apprécier selon une règle mathématique le taux global qui en résulte mais cette énumération permet
 d'orienter l'expert lorsqu'il est amené à fixer le taux d'incapacité. Un seul de ces troubles défini dans ce chapitre peut
 justifier à lui seul un taux d'incapacité important dès lors qu'il grève largement les capacités de la personne dans sa vie
-sociofamiliale ou professionnelle. 
+sociofamiliale ou professionnelle.
 
 De la même façon, plusieurs troubles relativement modérés peuvent, par un effet cumulatif, retentir de façon importante dans
 la vie sociofamiliale et professionnelle et justifier de l'attribution d'un taux important : la multiplicité des troubles
 présentés par le sujet constitue un indice d'incapacité supplémentaire. Pour chaque critère, les exemples permettent de
-retrouver l'expression de telle ou telle affection psychiatrique. 
+retrouver l'expression de telle ou telle affection psychiatrique.
 
 Le médecin expert appréciera globalement l'incapacité en fonction de l'ensemble des troubles psychiques présentés par le
-sujet. 
+sujet.
 
 Il tiendra compte également des déficiences éventuellement associées : visuelles, auditives, motrices, viscérales et
 métaboliques... qui, lorsqu'elles existent, augmentent le taux d'incapacité. Enfin, il importera de tenir compte des
 aménagements parfois importants que doivent prendre les familles, l'environnement immédiat, ou le milieu de travail pour
 garder à la personne un équilibre précaire, ou une autonomie fragile ; ainsi une personne dont la vie en milieu ordinaire
-n'est possible que grâce à un étayage important des proches justifie d'un taux au moins égal à 50 p. 100. 
+n'est possible que grâce à un étayage important des proches justifie d'un taux au moins égal à 50 p. 100.
 
 Les experts ont également souhaité que les fourchettes ne commencent qu'à 20 p. 100 afin de tenir compte des variations de la
 normale. De fait, soit la personne présente des troubles psychiatriques repérés par un médecin, alors elle peut justifier
 d'un taux d'au moins 20 p. 100, soit elle présente des troubles mineurs qui ne peuvent s'intégrer dans un ensemble
 psychiatrique, troubles considérés comme des variations de la normale, ils ne justifient pas alors de l'attribution d'un
-taux. 
+taux.
 
 Ainsi, l'expert déterminera si la personne présente des troubles psychiques justifiant d'un taux d'incapacité compris entre
 20 et 45 p. 100 : la personne présente des troubles psychiatriques mais qui restent compensés avec ou sans traitement
-chimiothérapique ou psychothérapique, qui permettent une vie familiale et professionnelle assumée seule. 
+chimiothérapique ou psychothérapique, qui permettent une vie familiale et professionnelle assumée seule.
 
-Lorsque l'affection psychiatrique nécessite un aménagement de la vie familiale ou / et de la vie professionnelle avec des
-sollicitations plus ou moins importantes de l'entourage, le taux attribué sera compris entre 50 p. 100 et 75 p. 100. 
+Lorsque l'affection psychiatrique nécessite un aménagement de la vie familiale ou/ et de la vie professionnelle avec des
+sollicitations plus ou moins importantes de l'entourage, le taux attribué sera compris entre 50 p. 100 et 75 p. 100.
 
 Enfin, lorsque la personne ne peut vivre ou travailler en milieu ordinaire que grâce à une sollicitation importante de
 l'entourage ou qu'une faible et peu durable activité spontanée n'est constatée, le taux attribué sera compris entre 80 p. 100
 et 95 p. 100.
 
-I. PRINCIPAUX CRITÈRES DE DÉFICIENCE PRIS EN COMPTE 
+I. PRINCIPAUX CRITÈRES DE DÉFICIENCE PRIS EN COMPTE
 
-1. Troubles de la volition. 
+1. Troubles de la volition.
 
-2. Troubles de la pensée. 
+2. Troubles de la pensée.
 
-3. Troubles de la perception. 
+3. Troubles de la perception.
 
-4. Troubles de la communication. 
+4. Troubles de la communication.
 
-5. Troubles du comportement. 
+5. Troubles du comportement.
 
-6. Troubles de l'humeur. 
+6. Troubles de l'humeur.
 
-7. Troubles de la conscience et de la vigilance. 
+7. Troubles de la conscience et de la vigilance.
 
-8. Troubles intellectuels. 
+8. Troubles intellectuels.
 
-9. Troubles de la vie émotionnelle et affective. 
+9. Troubles de la vie émotionnelle et affective.
 
-10. Expression somatique des troubles psychiatriques. 
+10. Expression somatique des troubles psychiatriques.
 
-Nota.-Les actes élémentaires de la vie quotidienne auxquels il sera fait référence dans le texte sont : 
+Nota.-Les actes élémentaires de la vie quotidienne auxquels il sera fait référence dans le texte sont :
 
-la toilette ; 
+la toilette ;
 
-l'habillement ; 
+l'habillement ;
 
-les courses ; 
+les courses ;
 
-la cuisine ; 
+la cuisine ;
 
-les déplacements locaux ou sur trajet connu. 
+les déplacements locaux ou sur trajet connu.
 
-II. CRITÈRES SECONDAIRES 
+II. CRITÈRES SECONDAIRES
 
-Ils permettent de moduler les taux : 
+Ils permettent de moduler les taux :
 
-retentissement relationnel ; 
+retentissement relationnel ;
 
-hospitalisations (récentes, prolongées, répétées) ; 
+hospitalisations (récentes, prolongées, répétées) ;
 
-âge du patient, ancienneté de la maladie ; 
+âge du patient, ancienneté de la maladie ;
 
 traitement.
 
-I-CRITÈRES PRINCIPAUX DE DÉFICIENCE 
+I - CRITÈRES PRINCIPAUX DE DÉFICIENCE
 
-1-TROUBLES DE LA VOLITION 
+1 - TROUBLES DE LA VOLITION
 
-Comprend : 
+Comprend :
 
-apragmatisme ; 
+apragmatisme ;
 
-négativisme ; 
+négativisme ;
 
-compulsions obsessionnelles ; 
+compulsions obsessionnelles ;
 
-ambivalence ; 
+ambivalence ;
 
-inhibition. 
+inhibition.
 
 a) Compensé : vie quotidienne et socioprofessionnelle assumées seul mais pour les reste activité très pauvre (taux : 20 à 45
-p. 100). 
+p. 100).
 
 b) Non compensé : autonomie pour les actes de la vie quotidienne, mais travail en milieu ou en emploi protégé ou aménagé.
-Activité quasi inexistante par ailleurs (taux : 50 à 75 p. 100). 
+Activité quasi inexistante par ailleurs (taux : 50 à 75 p. 100).
 
 c) Faible ou très faible activité spontanée durable, clinophilie, ne sort plus, actes élémentaires sur incitation forte
-(taux : 80 à 95 p. 100). 
+(taux : 80 à 95 p. 100).
 
-2-TROUBLES DE LA PENSÉE (COURS ET CONTENU) 
+2 - TROUBLES DE LA PENSÉE (COURS ET CONTENU)
 
-Comprend : 
+Comprend :
 
-idées obsessionnelles ; 
+idées obsessionnelles ;
 
-fuite ou incohérence des idées ; 
+fuite ou incohérence des idées ;
 
-lenteur de la pensée ; 
+lenteur de la pensée ;
 
-radotage ; 
+radotage ;
 
-appauvrissement de la pensée ; 
+appauvrissement de la pensée ;
 
-délire. 
+délire.
 
 a) Compensé : compatible avec la vie quotidienne et l'activité professionnelle malgré des troubles de la pensée ou de la
-cohérence du discours (taux : 20 à 45 p. 100). 
+cohérence du discours (taux : 20 à 45 p. 100).
 
 b) Non compensé : vie quotidienne conservée, gêne à l'adaptation socioprofessionnelle, troubles notables du cours de la
-pensée et de la cohérence du discours (taux : 50 à 75 p. 100). 
+pensée et de la cohérence du discours (taux : 50 à 75 p. 100).
 
 c) Troubles graves et fréquents de la pensée compromettant la communication ; délire envahissant ou confinant à l'isolement,
-réduction pouvant aller jusqu'à la suppression du contact avec la réalité (taux : 80 à 95 p. 100). 
+réduction pouvant aller jusqu'à la suppression du contact avec la réalité (taux : 80 à 95 p. 100).
 
-3-TROUBLES DE LA PERCEPTION 
+3 - TROUBLES DE LA PERCEPTION
 
-Comprend : 
+Comprend :
 
-illusions ; 
+illusions ;
 
-hallucinations ; 
+hallucinations ;
 
-déréalisation. 
+déréalisation.
 
-a) Compensé : compatible avec la vie quotidienne et socioprofessionnelle (taux : 20 à 45 p. 100). 
+a) Compensé : compatible avec la vie quotidienne et socioprofessionnelle (taux : 20 à 45 p. 100).
 
-b) Non compensé : perturbation dans la vie socioprofessionnelle mais maintien de la vie quotidienne (taux : 50 à 75 p. 100). 
+b) Non compensé : perturbation dans la vie socioprofessionnelle mais maintien de la vie quotidienne (taux : 50 à 75 p. 100).
 
 c) Envahissement de la conscience avec ou sans moments de retour dans la réalité ou entravant la vie quotidienne (taux : 80 à
-95 p. 100). 
+95 p. 100).
 
-4-TROUBLES DE LA COMMUNICATION (LANGAGE) 
+4 - TROUBLES DE LA COMMUNICATION (LANGAGE)
 
-Voir également le chapitre Troubles de la parole (aphasie). 
+Voir également le chapitre Troubles de la parole (aphasie).
 
-Comprend : 
+Comprend :
 
-troubles de la forme, du contenu du langage et de l'expression gestuelle : 
+troubles de la forme, du contenu du langage et de l'expression gestuelle :
 
-logorrhée ; 
+logorrhée ;
 
-préciosité ; 
+préciosité ;
 
-coq-à-l'âne ; 
+coq-à-l'âne ;
 
-néologismes ; 
+néologismes ;
 
-écholalie ; 
+écholalie ;
 
-discordance, parasitisme, mimique, stéréotypies gestuelles ou déficitaires ; 
+discordance, parasitisme, mimique, stéréotypies gestuelles ou déficitaires ;
 
-troubles fonctionnels : 
+troubles fonctionnels :
 
-bégaiement ; 
+bégaiement ;
 
-mutisme ; 
+mutisme ;
 
-repli autistique. 
+repli autistique.
 
-a) Troubles de la communication entraînant une gêne dans la vie quotidienne (taux : 20 à 45 p. 100). 
+a) Troubles de la communication entraînant une gêne dans la vie quotidienne (taux : 20 à 45 p. 100).
 
-b) Troubles de la communication entraînant des perturbations dans l'activité socioprofessionnelle (taux : 50 à 75 p. 100). 
+b) Troubles de la communication entraînant des perturbations dans l'activité socioprofessionnelle (taux : 50 à 75 p. 100).
 
 c) Insuffisance de la communication perturbant ou entravant la vie quotidienne et la vie socioprofessionnelle ; hermétisme
-absolu ou repli autistique total ou aphasie globale ou mutisme total (taux : 80 à 95 p. 100). 
+absolu ou repli autistique total ou aphasie globale ou mutisme total (taux : 80 à 95 p. 100).
 
-5-TROUBLES DU COMPORTEMENT 
+5 - TROUBLES DU COMPORTEMENT
 
-Comprend : 
+Comprend :
 
-agressivité ; 
+agressivité ;
 
-agitation ; 
+agitation ;
 
-théâtralisme ; 
+théâtralisme ;
 
-automutilation ; 
+automutilation ;
 
-comportements phobiques ; 
+comportements phobiques ;
 
-rites obsessionnels ; 
+rites obsessionnels ;
 
-instabilité ; 
+instabilité ;
 
-timidité. 
+timidité.
 
 a) Troubles du comportement contrôlés restant compatibles avec la vie quotidienne et socioprofessionnelle : théâtralisme ou
-irritabilité ou timidité ou perplexité pathologiques ou hyperactivité désordonnée (taux : 1 à 45 p. 100). 
+irritabilité ou timidité ou perplexité pathologiques ou hyperactivité désordonnée (taux : 1 à 45 p. 100).
 
 b) Manifestations mal contrôlées perturbant la vie socioprofessionnelle : automutilation névrotique, agressivité, rites ou
-phobies invalidants, instabilité (taux : 50 à 75 p. 100). 
+phobies invalidants, instabilité (taux : 50 à 75 p. 100).
 
 c) Perturbation ou empêchement du contrôle des actes : agitation importante ou menaces inquiétantes de passage à l'acte
 violent ou rites, phobies envahissant le comportement, actes de violence majeurs ou agitation extrême ou danger pour la vie
-de l'intéressé ou de son entourage (taux : 80 à 95 p. 100). 
+de l'intéressé ou de son entourage (taux : 80 à 95 p. 100).
 
-6-TROUBLES DE L'HUMEUR 
+6 - TROUBLES DE L'HUMEUR
 
-Nota.-Ces troubles ne doivent être pris en compte en matière d'incapacité que lorsqu'ils sont prolongés (durée supérieure à
-six mois) ou répétés (plus de trois accès par an). 
+Nota. - Ces troubles ne doivent être pris en compte en matière d'incapacité que lorsqu'ils sont prolongés (durée supérieure à
+six mois) ou répétés (plus de trois accès par an).
 
 a) Troubles dépressifs ou hypomaniaques légers ou équilibrés ou psychose maniaco-dépressive bien compensée compatible avec
-une vie quotidienne et socioprofessionnelle (taux : 20 à 45 100). 
+une vie quotidienne et socioprofessionnelle (taux : 20 à 45 100).
 
 b) Troubles de l'humeur ; états d'excitation ou dépression franche sans signe mélancolique grave apportant cependant une
-perturbation notable dans la vie professionnelle ; vie quotidienne conservée (taux : 50 à 75 p. 100). 
+perturbation notable dans la vie professionnelle ; vie quotidienne conservée (taux : 50 à 75 p. 100).
 
 c) Etat maniaque perturbant ou entravant la vie socioprofessionnelle ; agitation psychomotrice, pouvant être dangereuse pour
 le sujet et son entourage, fuite des idées, insomnie grave ou état mélancolique : aboulie, douleur morale, auto-accusation,
-ralentissement psychomoteur, entravant la vie quotidienne (taux : 75 à 95 p. 100). 
+ralentissement psychomoteur, entravant la vie quotidienne (taux : 75 à 95 p. 100).
 
-7-TROUBLES DE LA CONSCIENCE ET DE LA VIGILANCE 
+7 - TROUBLES DE LA CONSCIENCE ET DE LA VIGILANCE
 
 a) Légère diminution permanente de la vigilance, n'entravant pas l'insertion sociale et professionnelle (taux : 20 à 40 p.
-100). 
+100).
 
 b) Troubles de la conscience apportant une gêne notable à la vie socioprofessionnelle tout en permettant le maintien d'une
 vie quotidienne relativement satisfaisante (taux : 50 à 75 p. 100).
 
 - soit dans le cadre de troubles intermittents de la conscience ;
 
-- soit du fait d'une diminution permanente de la vigilance (obnubilation). 
+- soit du fait d'une diminution permanente de la vigilance (obnubilation).
 
 c) Troubles de la conscience perturbant ou entravant la vie quotidienne et socioprofessionnelle ; la réalisation des actes
-élémentaires de la vie sur incitation forte ; état crépusculaire prolongé (taux : 80 à 95 p. 100). 
+élémentaires de la vie sur incitation forte ; état crépusculaire prolongé (taux : 80 à 95 p. 100).
 
-Nota.-En ce qui concerne l'épilepsie, se reporter au chapitre I er, section 3. 
+Nota. - En ce qui concerne l'épilepsie, se reporter au chapitre I er, section 3.
 
-8-TROUBLES INTELLECTUELS 
+8 - TROUBLES INTELLECTUELS
 
-A. SÉQUELLAIRES D'UNE AFFECTION MENTALE PRÉCOCE : 
+A. SÉQUELLAIRES D'UNE AFFECTION MENTALE PRÉCOCE :
 
 a) Personnalité fruste, éventuellement illettrisme, difficulté de conceptualisation et d'abstraction, cependant adaptation
-possible à la vie courante (taux : 20 à 45 p. 100). 
+possible à la vie courante (taux : 20 à 45 p. 100).
 
 b) Insertions socioprofessionnelle possible en milieu ordinaire (emploi protégé ou aménagé) ; retard mental léger : il
 s'appréciera autant en fonctions des acquisitions d'aptitudes pratiques de la vie courante que des notions de calcul et de
 lecture complétées ainsi le cas échéant par une mesure du quotient intellectuel compris approximativement entre 50 et 70
-(taux : 50 à 75 p. 100). 
+(taux : 50 à 75 p. 100).
 
 c) Retard mental moyen, apprentissage possible des gestes élémentaires (hygiène corporelle, alimentation, habillement),
 possibilité de communication rudimentaire, impossibilité d'acquisition des notions élémentaires d'arithmétique ou de lecture,
 insertions socioprofessionnelle possible en milieu protégé, à titre indicatif quotient intellectuel approximativement compris
-entre 35 et 49 (taux : 80 à 90 p. 100). 
+entre 35 et 49 (taux : 80 à 90 p. 100).
 
 d) Retard mental sévère ou profond, insertion socioprofessionnelle impossible, langage et autonomie nuls (taux : + de 95 p.
 100).
 
-B.D'ACQUISITION TARDIVE : 
+B. D'ACQUISITION TARDIVE :
 
-Comprend : 
+Comprend :
 
-troubles de la mémoire ; 
+troubles de la mémoire ;
 
-troubles de l'attention ; 
+troubles de l'attention ;
 
-troubles du jugement, du calcul mental ; 
+troubles du jugement, du calcul mental ;
 
-troubles de l'orientation temporelle et spatiale. 
+troubles de l'orientation temporelle et spatiale.
 
-a) Gêne ne perturbant pas le maintien dans la vie courante (taux : 20 à 45 p. 100). 
+a) Gêne ne perturbant pas le maintien dans la vie courante (taux : 20 à 45 p. 100).
 
 b) Dégradation importante d'une fonction ou expression déficitaire d'un processus psychotique antérieur apportant une
 perturbation notable dans la vie socioprofessionnelle mais respectant les actes élémentaires de la vie quotidienne (taux : 50
-à 75 p. 100). 
+à 75 p. 100).
 
 c) Détérioration importante transitoire ou continue des facultés intellectuelles avec ou sans atteinte des fonctions
 instrumentales de type démence avancée, perturbant ou entravant la vie quotidienne et socioprofessionnelle (taux : 80 à 90 p.
-100). 
+100).
 
-d) Absence totale d'autonomie, démence complète (taux : + de 95 p. 100). 
+d) Absence totale d'autonomie, démence complète (taux : + de 95 p. 100).
 
-9-TROUBLES DE LA VIE ÉMOTIONNELLE ET AFFECTIVE 
+9 - TROUBLES DE LA VIE ÉMOTIONNELLE ET AFFECTIVE
 
-Comprend : 
+Comprend :
 
-anxiété, angoisse ; 
+anxiété, angoisse ;
 
-doute ; 
+doute ;
 
-indifférence affective ; 
+indifférence affective ;
 
-discordance affective ; 
+discordance affective ;
 
-instabilité affective ; 
+instabilité affective ;
 
-troubles du caractère ; 
+troubles du caractère ;
 
-immaturité affective ; 
+immaturité affective ;
 
-timidité. 
+timidité.
 
-a) Troubles modérés n'entravant pas la vie sociale et professionnelle (taux : 1 à 40 p. 100) : 
+a) Troubles modérés n'entravant pas la vie sociale et professionnelle (taux : 1 à 40 p. 100) :
 
-anxiété permanente ou crises d'angoisse peu fréquentes ; 
+anxiété permanente ou crises d'angoisse peu fréquentes ;
 
-labilité émotionnelle ; 
+labilité émotionnelle ;
 
-irritabilité ; 
+irritabilité ;
 
-timidité ; 
+timidité ;
 
-immaturité affective. 
+immaturité affective.
 
 b) Troubles non compensés apportant une gêne importante à la vie socioprofessionnelle, maintien d'une vie quotidienne
-possible (taux : 50 à 75 p. 100) : 
+possible (taux : 50 à 75 p. 100) :
 
 angoisse permanente ou crises de panique répétées ou importantes difficultés de contrôle émotionnel (notamment accès
-fréquents de colère inadaptés, éreutophobie invalidante) ; 
+fréquents de colère inadaptés, éreutophobie invalidante) ;
 
-tendance à la discordance affective (rires immotivés) ; 
+tendance à la discordance affective (rires immotivés) ;
 
-pauvreté des affects ; 
+pauvreté des affects ;
 
-doute permanent (folie du doute). 
+doute permanent (folie du doute).
 
 c) Troubles invalidants de l'affectivité perturbant ou entravant la vie quotidienne et socioprofessionnelle (taux : 80 à 90
-p. 100). 
+p. 100).
 
-d) Troubles affectifs majeurs ne permettant plus aucun contact avec la réalité (taux : 95 p. 100). 
+d) Troubles affectifs majeurs ne permettant plus aucun contact avec la réalité (taux : 95 p. 100).
 
-10-EXPRESSION SOMATIQUE DES TROUBLES PSYCHIATRIQUES 
+10 - EXPRESSION SOMATIQUE DES TROUBLES PSYCHIATRIQUES
 
 a) Somatisation à type de plaintes subjectives sans retentissement notable sur la vie quotidienne et professionnelle (taux :
-20 à 45 p. 100). 
+20 à 45 p. 100).
 
 b) Somatisation systématisée importante perturbant la vie socioprofessionnelle et entraînant une demande répétée de soins
-(taux : 50 à 75 p. 100). 
+(taux : 50 à 75 p. 100).
 
 c) Altération grave et invalidante de l'état général (par exemple amaigrissement très important) entravant la vie quotidienne
-(taux : 85 à 90 p. 100). 
+(taux : 85 à 90 p. 100).
 
 d) Altération grave de l'état général mettant en jeu le pronostic vital (cachexie, escarres étendues, état grabataire)
-(taux : + de 95 p. 100). 
+(taux : + de 95 p. 100).
 
-II-CRITÈRES SECONDAIRES 
+II - CRITÈRES SECONDAIRES
 
-Les critères secondaires permettent de moduler les taux à l'intérieur des fourchettes définies par les critères principaux. 
+Les critères secondaires permettent de moduler les taux à l'intérieur des fourchettes définies par les critères principaux.
 
-On prendra en compte : 
+On prendra en compte :
 
 le retentissement relationnel sur la vie sociale et affective, les troubles pouvant être bien acceptés par l'entourage ou, à
-l'opposé, entraînant un isolement, une marginalisation ou une dépendance totale ; 
+l'opposé, entraînant un isolement, une marginalisation ou une dépendance totale ;
 
 les relations avec le milieu professionnel, depuis la gêne au travail (mais le sujet est toléré par le milieu professionnel)
-à l'inaptitude à tout travail ; 
+à l'inaptitude à tout travail ;
 
-les hospitalisations, quand elles sont prolongées, fréquentes, répétées, peuvent constituer un indice de gravité.A apprécier
-selon les possibilités locales de prise ne charge ; 
+les hospitalisations, quand elles sont prolongées, fréquentes, répétées, peuvent constituer un indice de gravité. A apprécier
+selon les possibilités locales de prise ne charge ;
 
 l'âge du patient et l'ancienneté de la maladie :
 
@@ -837,430 +965,429 @@ l'âge du patient et l'ancienneté de la maladie :
 ans pour tenir compte de l'évolution du handicap ;
 
 - cas particulier : épisode aigu (exemple : bouffée délirante), ne baser l'évaluation de l'incapacité que sur les
-manifestations résiduelles après stabilisation ; 
+manifestations résiduelles après stabilisation ;
 
-l'importance et la tolérance du traitement. 
+l'importance et la tolérance du traitement.
 
-Remarques : 
+Remarques :
 
 le retentissement des divers traitements et thérapies n'est pas toujours séparable de celui de la pathologie qui les
-justifie ; 
+justifie ;
 
 à prendre en compte lorsque cette thérapeutique entraîne une gêne à la vie quotidienne ou une régression ou des effets
-secondaires pour certains médicaments. 
+secondaires pour certains médicaments.
 
-CHAPITRE III 
+CHAPITRE III
 
-DÉFICIENCES DE L'AUDITION 
+DÉFICIENCES DE L'AUDITION
 
 Pour déterminer le taux d'une déficience auditive, il doit être tenu compte non seulement de la perte auditive tonale, qui
 correspond à la déficience de la perception acoustique, mais aussi des répercussions de cette déficience auditive sur le
 langage (notamment dans les surdités installées avant l'acquisition du langage) et sur la qualité de l'expression orale. Il
 est donc nécessaire d'établir une notation différente pour chacune de ces deux fonctions : l'audition (chapitre III) et le
-langage (chapitre IV), qui ne peuvent être confondues dans un barème unique mais qui s'additionnent arithmétiquement. 
+langage (chapitre IV), qui ne peuvent être confondues dans un barème unique mais qui s'additionnent arithmétiquement.
 
-La mesure de la déficience auditive est faite sans appareillage. 
+La mesure de la déficience auditive est faite sans appareillage.
 
 Le niveau acoustique relatif des deux oreilles est important dans la réception des signaux. Le tableau ci-joint à double
-entrée en tient compte. 
+entrée en tient compte.
 
 Le calcul de la perte moyenne en décibels s'effectue en décibels selon les recommandations du Bureau international
-d'audiophonologie. Il prend pour base l'audiogramme tonal à 500, 1 000, 2 000 et 4 000 Hz. 
+d'audiophonologie. Il prend pour base l'audiogramme tonal à 500,1 000,2 000 et 4 000 Hz.
 
-pmdB = (p dB 500 + p dB 1000 + P dB 2000 + P db 4000) / 4
+pmdB = (p dB 500 + p dB 1000 + P dB 2000 + P db 4000)/4
 
 Si la mesure séparée de chaque oreille est impossible, le calcul se fera sur la courbe globale en champ libre et la perte de
-chaque oreille sera réputée égale à cette valeur. 
+chaque oreille sera réputée égale à cette valeur.
 
 Si la mesure n'est faite qu'à partir d'enregistrements électrophysiologiques, n'apportant en général d'informations que sur
 les fréquences aiguës 2 000 à 4 000 Hz, la perte moyenne sera égale au seuil enregistré.
 
-I-LES TAUX D'INCAPACITÉ 
+I - LES TAUX D'INCAPACITÉ
 
 Pour les surdités bilatérales dépistées avant l'âge de trois ans, on applique automatiquement le taux d'incapacité de 80 p.
-100 compte tenu des troubles du langage toujours associés. 
+100 compte tenu des troubles du langage toujours associés.
 
 On évaluera de nouveau la situation dans la quatrième année pour tenir compte cette fois-ci de l'audiogramme et des troubles
-du langage réels. 
+du langage réels.
 
-Au-delà de trois ans les taux d'incapacité sont fixés ainsi qu'il suit : 
+Au-delà de trois ans les taux d'incapacité sont fixés ainsi qu'il suit :
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table align="center" border="1" cellpadding="0" cellspacing="1">
   <thead>
     <tr>
-      <td width="104">
+      <td>
 
 </td>
-      <td width="52">
+      <td>
 
-20 à 39 dB 
-
-</td>
-      <td width="52">
-
-40 à 49 dB 
+20 à 39 dB
 
 </td>
-      <td width="52">
+      <td>
 
-50 à 59 dB 
-
-</td>
-      <td width="52">
-
-60 à 69 dB 
+40 à 49 dB
 
 </td>
-      <td width="52">
+      <td>
 
-70 à 79 dB 
+50 à 59 dB
 
 </td>
-      <td width="91">
+      <td>
 
-80 dB et au-dessus 
+60 à 69 dB
+
+</td>
+      <td>
+
+70 à 79 dB
+
+</td>
+      <td>
+
+80 dB et au-dessus
 
 </td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      <td>
 
-Moins de 20 dB 
-
-</td>
-      <td valign="top">
-
-0 
+Moins de 20 dB
 
 </td>
-      <td valign="top">
+      <td>
 
-5 
-
-</td>
-      <td valign="top">
-
-10 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-15 
-
-</td>
-      <td valign="top">
-
-20 
+5
 
 </td>
-      <td valign="top">
+      <td>
 
-20 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-20 à 39 dB 
+10
 
 </td>
-      <td valign="top">
+      <td>
 
-5 
-
-</td>
-      <td valign="top">
-
-10 
+15
 
 </td>
-      <td valign="top">
+      <td>
 
-15 
-
-</td>
-      <td valign="top">
-
-20 
+20
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-30 
+20
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-40 à 49 dB 
-
-</td>
-      <td valign="top">
-
-10 
+20 à 39 dB
 
 </td>
-      <td valign="top">
+      <td>
 
-15 
-
-</td>
-      <td valign="top">
-
-25 
+5
 
 </td>
-      <td valign="top">
+      <td>
 
-30 
-
-</td>
-      <td valign="top">
-
-35 
+10
 
 </td>
-      <td valign="top">
+      <td>
 
-40 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-50 à 59 dB 
+15
 
 </td>
-      <td valign="top">
+      <td>
 
-15 
-
-</td>
-      <td valign="top">
-
-25 
+20
 
 </td>
-      <td valign="top">
+      <td>
 
-35 
-
-</td>
-      <td valign="top">
-
-40 
+25
 
 </td>
-      <td valign="top">
+      <td>
 
-50 
-
-</td>
-      <td valign="top">
-
-55 
+30
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-60 à 69 dB 
-
-</td>
-      <td valign="top">
-
-20 
+40 à 49 dB
 
 </td>
-      <td valign="top">
+      <td>
 
-30 
-
-</td>
-      <td valign="top">
-
-40 
+10
 
 </td>
-      <td valign="top">
+      <td>
 
-50 
-
-</td>
-      <td valign="top">
-
-60 
+15
 
 </td>
-      <td valign="top">
+      <td>
 
-70 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-70 à 79 dB 
+25
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-35 
+30
 
 </td>
-      <td valign="top">
+      <td>
 
-50 
-
-</td>
-      <td valign="top">
-
-60 
+35
 
 </td>
-      <td valign="top">
+      <td>
 
-70 
-
-</td>
-      <td valign="top">
-
-75 
+40
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-80 dB et au-dessus 
-
-</td>
-      <td valign="top">
-
-30 
+50 à 59 dB
 
 </td>
-      <td valign="top">
+      <td>
 
-40 
-
-</td>
-      <td valign="top">
-
-55 
+15
 
 </td>
-      <td valign="top">
+      <td>
 
-70 
-
-</td>
-      <td valign="top">
-
-75 
+25
 
 </td>
-      <td valign="top">
+      <td>
 
-80 
+35
+
+</td>
+      <td>
+
+40
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+55
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+60 à 69 dB
+
+</td>
+      <td>
+
+20
+
+</td>
+      <td>
+
+30
+
+</td>
+      <td>
+
+40
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+60
+
+</td>
+      <td>
+
+70
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+70 à 79 dB
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+35
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+60
+
+</td>
+      <td>
+
+70
+
+</td>
+      <td>
+
+75
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+80 dB et au-dessus
+
+</td>
+      <td>
+
+30
+
+</td>
+      <td>
+
+40
+
+</td>
+      <td>
+
+55
+
+</td>
+      <td>
+
+70
+
+</td>
+      <td>
+
+75
+
+</td>
+      <td>
+
+80
 
 </td>
     </tr>
   </tbody>
 </table>
 
-II-ACOUPHÈNES / VERTIGES 
+II - ACOUPHÈNES/VERTIGES
 
-L'existence d'acouphènes majore arithmétiquement le taux d'incapacité lié à la perte auditive (taux : de 2 à 5 p. 100). 
+L'existence d'acouphènes majore arithmétiquement le taux d'incapacité lié à la perte auditive (taux : de 2 à 5 p. 100).
 
-De même l'existence de vertiges majore arithmétiquement le taux d'incapacité lié à la perte auditive (taux : 2 à 5 p. 100). 
+De même l'existence de vertiges majore arithmétiquement le taux d'incapacité lié à la perte auditive (taux : 2 à 5 p. 100).
 
-III-HANDICAPS ASSOCIÉS 
+III - HANDICAPS ASSOCIÉS
 
-En cas de handicaps associés, les taux d'incapacité s'additionnent selon les règles habituelles. 
+En cas de handicaps associés, les taux d'incapacité s'additionnent selon les règles habituelles.
 
-CHAPITRE IV 
+CHAPITRE IV
 
-DÉFICIENCES DU LANGAGE ET DE LA PAROLE 
+DÉFICIENCES DU LANGAGE ET DE LA PAROLE
 
-L'appréciation peut être délicate et fera l'objet, en tant que de besoin, d'un bilan portant sur le langage oral et / ou
+L'appréciation peut être délicate et fera l'objet, en tant que de besoin, d'un bilan portant sur le langage oral et/ ou
 écrit.
 
-I-DÉFICIENCES ACQUISES DU LANGAGE ET DE LA PAROLE (EN TANT QU'OUTIL DE COMMUNICATION) CHEZ L'ENFANT, CHEZ L'ADULTE APRÈS
-L'ACQUISITION DE L'ÉCRITURE ET DE LA LECTURE 
+I - DÉFICIENCES ACQUISES DU LANGAGE ET DE LA PAROLE (EN TANT QU'OUTIL DE COMMUNICATION) CHEZ L'ENFANT, CHEZ L'ADULTE APRÈS
+L'ACQUISITION DE L'ÉCRITURE ET DE LA LECTURE
 
-Le praticien compétent décrira la pathologie du langage oral et la pathologie du langage écrit.L'appréciation de la
+Le praticien compétent décrira la pathologie du langage oral et la pathologie du langage écrit. L'appréciation de la
 déficience portera sur le caractère informatif du langage et la spontanéité du discours lors de conversations et d'épreuves
-diverses (dénomination, désignation, répétition, narration, construction de phrase, copie, dictée, lecture...). 
+diverses (dénomination, désignation, répétition, narration, construction de phrase, copie, dictée, lecture...).
 
-1-DÉFICIENCE LÉGÈRE DU LANGAGE ET DE LA PAROLE (TAUX : 0 À 15 P. 100) 
+1 - DÉFICIENCE LÉGÈRE DU LANGAGE ET DE LA PAROLE (TAUX : 0 À 15 P. 100)
 
-Les symptômes sont peu gênants, l'examen est normal ou subnormal. Exemples : 
+Les symptômes sont peu gênants, l'examen est normal ou subnormal. Exemples :
 
-dysorthographie et / ou dyslexie résiduelle et / ou dyscalculie, dysarthrie mineure, retard simple du langage. 
+dysorthographie et/ ou dyslexie résiduelle et/ ou dyscalculie, dysarthrie mineure, retard simple du langage.
 
-2-DÉFICIENCE MOYENNE DU LANGAGE ET DE LA PAROLE ENTRAVANT LA COMMUNICATION MAIS PERMETTANT LE MAINTIEN DE L'AUTONOMIE DANS LA
-VIE QUOTIDIENNE (TAUX : 20 À 45 P. 100) 
+2 - DÉFICIENCE MOYENNE DU LANGAGE ET DE LA PAROLE ENTRAVANT LA COMMUNICATION MAIS PERMETTANT LE MAINTIEN DE L'AUTONOMIE DANS
+LA VIE QUOTIDIENNE (TAUX : 20 À 45 P. 100)
 
 Exemples : troubles de la mélodie, de la prosodie et des gestes accompagnant l'expression orale : 5 à 20 p. 100 ; association
-à des troubles du calcul et de la syntaxe : 10 à 40 p. 100. 
+à des troubles du calcul et de la syntaxe : 10 à 40 p. 100.
 
-3-DÉFICIENCE IMPORTANTE DU LANGAGE ET DE LA PAROLE (TAUX : 50 À 75 P. 100) 
+3 - DÉFICIENCE IMPORTANTE DU LANGAGE ET DE LA PAROLE (TAUX : 50 À 75 P. 100)
 
-Les troubles de l'expression orale et / ou écrite, sont importants avec conservation relative de la compréhension. 
+Les troubles de l'expression orale et/ou écrite, sont importants avec conservation relative de la compréhension.
 
 Exemples :
 
 - dysarthries neurologiques : ces dysarthries, bien que n'atteignant que l'expression du langage, sans en altérer le contenu,
 peuvent rendre la parole parfois très difficilement compréhensible ;
 
-- langage réduit à des stéréotypies ; séquelles d'anarthrie sévère. 
+- langage réduit à des stéréotypies ; séquelles d'anarthrie sévère.
 
-4-DÉFICIENCE SÉVÈRE DU LANGAGE ET DE LA PAROLE (TAUX : 80 À 95 P. 100) 
+4 - DÉFICIENCE SÉVÈRE DU LANGAGE ET DE LA PAROLE (TAUX : 80 À 95 P. 100)
 
-Les troubles de l'expression orale et / ou écrite sont sévères la rendant incompréhensible ou absente avec conservation
-limitée ou nulle de la compréhension. 
+Les troubles de l'expression orale et/ ou écrite sont sévères la rendant incompréhensible ou absente avec conservation
+limitée ou nulle de la compréhension.
 
 Exemples :
 
 - aphasie globale ;
 
-- déficits sensoriels spécifiques retentissant sur le langage écrit et / ou oral (surdité corticale, alexie pure) ;
+- déficits sensoriels spécifiques retentissant sur le langage écrit et/ ou oral (surdité corticale, alexie pure) ;
 
-- en cas d'aphasie sévère et globale le taux est de 95 p. 100. 
+- en cas d'aphasie sévère et globale le taux est de 95 p. 100.
 
-II-TROUBLES DU LANGAGE ET DE LA PAROLE CONGÉNITAUX OU ACQUIS AVANT OU PENDANT L'ACQUISITION DE L'ÉCRITURE ET DE LA LECTURE 
+II - TROUBLES DU LANGAGE ET DE LA PAROLE CONGÉNITAUX OU ACQUIS AVANT OU PENDANT L'ACQUISITION DE L'ÉCRITURE ET DE LA LECTURE
 
 On jugera la gravité sur la spontanéité, le caractère informatif du langage par des épreuves diverses explorant la
-phonologie, la compréhension et l'expression orale et / ou écrite, la rétention, le vocabulaire, la lecture, l'orthographe,
-la dénomination, la désignation, la répétition, la narration d'histoires connues. 
+phonologie, la compréhension et l'expression orale et/ ou écrite, la rétention, le vocabulaire, la lecture, l'orthographe, la
+dénomination, la désignation, la répétition, la narration d'histoires connues.
 
-1-DÉFICIENCE LÉGÈRE 
+1 - DÉFICIENCE LÉGÈRE
 
 Des déficiences telles qu'une dysarthrie mineure sans autre trouble neurologique ou un retard simple du langage seront
-appréciées à un taux inférieur à 15 p. 100. 
+appréciées à un taux inférieur à 15 p. 100.
 
-2-DÉFICIENCE MOYENNE (TAUX : 20 À 45 P. 100) 
+2 - DÉFICIENCE MOYENNE (TAUX : 20 À 45 P. 100)
 
-Déficiences du langage écrit ou oral perturbant notablement les apprentissages notamment scolaires mais pas la
-socialisation. 
+Déficiences du langage écrit ou oral perturbant notablement les apprentissages notamment scolaires mais pas la socialisation.
 
 Exemples :
 
@@ -1272,27 +1399,27 @@ que plus précoce) ;
 - dyscalculie isolée ou associée à des troubles globaux des stratégies avec efficience intellectuelle normale : conséquences
 comparables à celles des dyslexies ;
 
-- apraxie verbale. 
+- apraxie verbale.
 
-3-DÉFICIENCE IMPORTANTE (TAUX : 50 À 75 P. 100) 
+3 - DÉFICIENCE IMPORTANTE (TAUX : 50 À 75 P. 100)
 
 Troubles importants de l'acquisition du langage oral et écrit perturbant notablement les apprentissages et retentissant sur
-la socialisation. 
+la socialisation.
 
-4-DÉFICIENCE SÉVÈRE (TAUX : 80 À 95 P. 100) 
+4 - DÉFICIENCE SÉVÈRE (TAUX : 80 À 95 P. 100)
 
-Troubles sévères et définitifs de l'acquisition du langage oral et écrit rendant celui-ci incompréhensible ou absent. 
+Troubles sévères et définitifs de l'acquisition du langage oral et écrit rendant celui-ci incompréhensible ou absent.
 
-III-DÉFICIENCES VOCALES 
+III - DÉFICIENCES VOCALES
 
-Elles comprennent les laryngectomies. 
+Elles comprennent les laryngectomies.
 
-Nota.-Pour les troubles du comportement ou de la personnalité à expression vocale voir le chapitre Déficience de psychisme. 
+Nota. - Pour les troubles du comportement ou de la personnalité à expression vocale voir le chapitre Déficience de psychisme.
 
 On tiendra compte dans tous les cas de l'intelligibilité de la voix produite, de la possibilité de la conversation en petit
-groupe et de la possibilité d'une conversation téléphonique. 
+groupe et de la possibilité d'une conversation téléphonique.
 
-1-COMMUNICATION POUVANT ENTRAÎNER UNE GÊNE DANS LA VIE RELATIONNELLE TELLE QUE (TAUX : 10 À 40 P. 100) 
+1 - COMMUNICATION POUVANT ENTRAÎNER UNE GÊNE DANS LA VIE RELATIONNELLE TELLE QUE (TAUX : 10 À 40 P. 100)
 
 troubles qualitatifs de l'émission vocale, touchant de manière isolée ou associée :
 
@@ -1301,13 +1428,13 @@ troubles qualitatifs de l'émission vocale, touchant de manière isolée ou asso
 - timbre ;
 
 - intensité, quelle que soit la cause (congénitale, malformative, traumatique, tumorale...), y compris les paralysies
-laryngées. 
+laryngées.
 
 Troubles du débit de l'émission :
 
 - bégaiement ;
 
-- troubles mécaniques, ventilatoires ou paralytiques (par exemple trachéotomie chronique). 
+- troubles mécaniques, ventilatoires ou paralytiques (par exemple trachéotomie chronique).
 
 Déficiences vocales d'origine oropharyngée :
 
@@ -1317,11 +1444,11 @@ Déficiences vocales d'origine oropharyngée :
 
 - d'origine malformative ;
 
-- après traumatismes maxillo-faciaux. 
+- après traumatismes maxillo-faciaux.
 
-2-ABSENCE DE VOIX (TAUX : 50 À 75 P. 100) 
+2 - ABSENCE DE VOIX (TAUX : 50 À 75 P. 100)
 
-La commission appréciera le caractère définitif et / ou permanent de l'absence de voix. 
+La commission appréciera le caractère définitif et/ ou permanent de l'absence de voix.
 
 Exemples :
 
@@ -1329,23 +1456,23 @@ Exemples :
 
 - laryngectomie totale entraînant des troubles sévères de la communication ;
 
-- laryngectomie partielle et / ou totale avec implantation d'une prothèse interne ;
+- laryngectomie partielle et/ ou totale avec implantation d'une prothèse interne ;
 
-- laryngectomie reconstructive. 
+- laryngectomie reconstructive.
 
 Comme pour les autres déficiences on prendra également en compte les retentissements de la maladie causale et de ses
-traitements (par exemple conséquences respiratoires, circulatoires, sensorielles et psychiques). 
+traitements (par exemple conséquences respiratoires, circulatoires, sensorielles et psychiques).
 
-IV-CONSÉQUENCES D'UNE DÉFICIENCE AUDITIVE CONGÉNITALE OU ACQUISE 
+IV - CONSÉQUENCES D'UNE DÉFICIENCE AUDITIVE CONGÉNITALE OU ACQUISE
 
 Les données du barème du niveau de parole et de langage traduisent une difficulté sociale de relation linguistique dans la
 langue maternelle. Les conséquences vocales seront appréciées par rapport à une personne entendante et non par rapport à une
 personne sourde même correctement rééduquée. Elles feront l'objet d'un bilan de parole ou de langage par un phoniatre ou un
 orthophoniste. Si les difficultés d'élocution et le retard de langage sont la conséquence de la déficience auditive, on
-fixera le taux d'incapacité selon quatre paliers 0, 5, 10 et 15 p. 100 définis ainsi que suit et on ajoutera arithmétiquement
-ce taux à celui résultant de l'application du barème du niveau acoustique d'audition (cf. chapitre II). 
+fixera le taux d'incapacité selon quatre paliers 0,5,10 et 15 p. 100 définis ainsi que suit et on ajoutera arithmétiquement
+ce taux à celui résultant de l'application du barème du niveau acoustique d'audition (cf. chapitre II).
 
-0 p. 100. Elocution normale : niveau de langage normal. 
+0 p. 100. Elocution normale : niveau de langage normal.
 
 5 p. 100. Niveau de langage normal :
 
@@ -1355,1823 +1482,1823 @@ ce taux à celui résultant de l'application du barème du niveau acoustique d'a
 
 - troubles d'articulation liés à la surdité ;
 
-- troubles de la voix : anomalie de la hauteur, du timbre, de l'intensité, voix nasonnée. 
+- troubles de la voix : anomalie de la hauteur, du timbre, de l'intensité, voix nasonnée.
 
-10 p. 100. Difficultés d'élocution, comme le groupe précédent. 
+10 p. 100. Difficultés d'élocution, comme le groupe précédent.
 
-Retard de parole et / ou langage avec notamment :
+Retard de parole et/ ou langage avec notamment :
 
 - chute de la fin des mots et difficultés de prononciation des groupes consonantiques, mots déformés ;
 
-- emploi peu fréquent des mots grammaticaux (articles, adverbes, conjonctions...), temps des verbes incorrects. 
+- emploi peu fréquent des mots grammaticaux (articles, adverbes, conjonctions...), temps des verbes incorrects.
 
 15 p. 100. Difficultés majeures d'élocution, troubles importants du langage ou absence d'expression acoustique de la parole,
-au mieux parole intelligible seulement pour la famille ou les professionnels de la rééducation. 
+au mieux parole intelligible seulement pour la famille ou les professionnels de la rééducation.
 
-CHAPITRE V 
+CHAPITRE V
 
-DÉFICIENCES DE LA VISION 
+DÉFICIENCES DE LA VISION
 
-I-DÉFICIENCES DE L'ACUITÉ VISUELLE 
+I - DÉFICIENCES DE L'ACUITÉ VISUELLE
 
 Les déficiences de l'acuité visuelle s'apprécient après correction. Ainsi, un trouble de la réfraction, qui peut être
 entièrement corrigé par un moyen optique, ne sera pas considéré comme une déficience oculaire. Le degré de vision sera estimé
-en tenant compte de la correction optique supportable en vision binoculaire. 
+en tenant compte de la correction optique supportable en vision binoculaire.
 
 La mesure de l'acuité visuelle doit tenir compte de l'acuité visuelle de loin (échelle de Monoyer à 5 mètres) et de l'acuité
-visuelle de près (échelle de Parinaud lue à 40 cm.) 
+visuelle de près (échelle de Parinaud lue à 40 cm.)
 
 Plusieurs définitions de la cécité sont actuellement employées :
 
 - cécité complète : sont atteints de cécité complète ceux dont la vision est abolie (v = 0) au sens absolu du terme avec
 abolition de la perception de la lumière ;
 
-- sont considérés comme atteints de quasi-cécité ceux dont la vision centrale est égale ou inférieure à 1 / 20 d'un oeil,
-celle de l'autre étant inférieure à 1 / 20, avec déficience des champs visuels périphériques lorsque le champ visuel n'excède
-pas 20 o dans le secteur le plus étendu ;
+- sont considérés comme atteints de quasi-cécité ceux dont la vision centrale est égale ou inférieure à 1/20 d'un oeil, celle
+de l'autre étant inférieure à 1/20, avec déficience des champs visuels périphériques lorsque le champ visuel n'excède pas 20
+o dans le secteur le plus étendu ;
 
 - cécité professionnelle : est considéré comme atteint de cécité professionnelle celui dont l'oeil le meilleur a une acuité
-égale au plus à 1 / 20 avec un rétrécissement du champ visuel inférieur à 20 o dans son secteur le plus étendu.
+égale au plus à 1/20 avec un rétrécissement du champ visuel inférieur à 20 o dans son secteur le plus étendu.
 
 L'article R. 241-15 du code de l'action sociale et des familles précise que la carte d'invalidité sera surchargée d'une
-mention cécité pour les personnes dont la vision centrale est nulle ou inférieure à 1 / 20 de la normale . 
+mention cécité pour les personnes dont la vision centrale est nulle ou inférieure à 1/20 de la normale.
 
 La carte d'invalidité sera surchargée de la mention canne blanche pour les personnes dont la vision est au plus égale à un
-dixième de la normale. 
+dixième de la normale.
 
 Le tableau de l'acuité visuelle de loin proposé par les experts tient compte des définitions utilisées habituellement ainsi
-que de la réglementation en vigueur. 
+que de la réglementation en vigueur.
 
-a) Acuité visuelle de loin : 
+a) Acuité visuelle de loin :
 
 La vision d'un oeil est indiquée par une colonne horizontale, la vision de l'autre par une colonne verticale. Le point de
-rencontre donne le taux médical d'incapacité (tableau ci-après) . 
+rencontre donne le taux médical d'incapacité (tableau ci-après).
 
-Diminution de l'acuité visuelle de loin des deux yeux (échelle de Monoyer à 5 mètres) 
+Diminution de l'acuité visuelle de loin des deux yeux (échelle de Monoyer à 5 mètres)
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table align="center" border="1" cellpadding="0" cellspacing="1">
   <thead>
     <tr>
-      <td width="85">
+      <td>
 
 </td>
-      <td width="28">
+      <td>
 
-10 / 10 
-
-</td>
-      <td width="28">
-
-9 / 10 
+10/10
 
 </td>
-      <td width="28">
+      <td>
 
-8 / 10 
-
-</td>
-      <td width="28">
-
-7 / 10 
+9/10
 
 </td>
-      <td width="28">
+      <td>
 
-6 / 10 
-
-</td>
-      <td width="28">
-
-5 / 10 
+8/10
 
 </td>
-      <td width="28">
+      <td>
 
-4 / 10 
-
-</td>
-      <td width="28">
-
-3 / 10 
+7/10
 
 </td>
-      <td width="28">
+      <td>
 
-2 / 10 
-
-</td>
-      <td width="28">
-
-1 / 10 
+6/10
 
 </td>
-      <td width="28">
+      <td>
 
-1 / 20 
-
-</td>
-      <td width="42">
-
-< 1 / 20 
+5/10
 
 </td>
-      <td width="56">
+      <td>
 
-cécité totale 
+4/10
+
+</td>
+      <td>
+
+3/10
+
+</td>
+      <td>
+
+2/10
+
+</td>
+      <td>
+
+1/10
+
+</td>
+      <td>
+
+1/20
+
+</td>
+      <td>
+
+< 1/20
+
+</td>
+      <td>
+
+cécité totale
 
 </td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      <td>
 
-10 / 10 
-
-</td>
-      <td valign="top">
-
-0 
+10/10
 
 </td>
-      <td valign="top">
+      <td>
 
-0 
-
-</td>
-      <td valign="top">
-
-0 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-1 
-
-</td>
-      <td valign="top">
-
-2 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-3 
-
-</td>
-      <td valign="top">
-
-4 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-7 
-
-</td>
-      <td valign="top">
-
-12 
+1
 
 </td>
-      <td valign="top">
+      <td>
 
-16 
-
-</td>
-      <td valign="top">
-
-20 
+2
 
 </td>
-      <td valign="top">
+      <td>
 
-23 
-
-</td>
-      <td valign="top">
-
-25 
+3
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-9 / 10 
+4
 
 </td>
-      <td valign="top">
+      <td>
 
-0 
-
-</td>
-      <td valign="top">
-
-0 
+7
 
 </td>
-      <td valign="top">
+      <td>
 
-0 
-
-</td>
-      <td valign="top">
-
-2 
+12
 
 </td>
-      <td valign="top">
+      <td>
 
-3 
-
-</td>
-      <td valign="top">
-
-4 
+16
 
 </td>
-      <td valign="top">
+      <td>
 
-5 
-
-</td>
-      <td valign="top">
-
-8 
+20
 
 </td>
-      <td valign="top">
+      <td>
 
-14 
-
-</td>
-      <td valign="top">
-
-18 
+23
 
 </td>
-      <td valign="top">
+      <td>
 
-21 
-
-</td>
-      <td valign="top">
-
-24 
-
-</td>
-      <td valign="top">
-
-26 
+25
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-8 / 10 
-
-</td>
-      <td valign="top">
-
-0 
+9/10
 
 </td>
-      <td valign="top">
+      <td>
 
-0 
-
-</td>
-      <td valign="top">
-
-0 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-3 
-
-</td>
-      <td valign="top">
-
-4 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-5 
-
-</td>
-      <td valign="top">
-
-6 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-9 
-
-</td>
-      <td valign="top">
-
-15 
+2
 
 </td>
-      <td valign="top">
+      <td>
 
-20 
-
-</td>
-      <td valign="top">
-
-23 
+3
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-28 
+4
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-7 / 10 
+5
 
 </td>
-      <td valign="top">
+      <td>
 
-1 
-
-</td>
-      <td valign="top">
-
-2 
+8
 
 </td>
-      <td valign="top">
+      <td>
 
-3 
-
-</td>
-      <td valign="top">
-
-4 
+14
 
 </td>
-      <td valign="top">
+      <td>
 
-5 
-
-</td>
-      <td valign="top">
-
-6 
+18
 
 </td>
-      <td valign="top">
+      <td>
 
-7 
-
-</td>
-      <td valign="top">
-
-10 
+21
 
 </td>
-      <td valign="top">
+      <td>
 
-16 
-
-</td>
-      <td valign="top">
-
-22 
+24
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-28 
-
-</td>
-      <td valign="top">
-
-30 
+26
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-6 / 10 
-
-</td>
-      <td valign="top">
-
-2 
+8/10
 
 </td>
-      <td valign="top">
+      <td>
 
-3 
-
-</td>
-      <td valign="top">
-
-4 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-5 
-
-</td>
-      <td valign="top">
-
-6 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-7 
-
-</td>
-      <td valign="top">
-
-9 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-12 
-
-</td>
-      <td valign="top">
-
-18 
+3
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-29 
+4
 
 </td>
-      <td valign="top">
+      <td>
 
-32 
-
-</td>
-      <td valign="top">
-
-35 
+5
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-5 / 10 
+6
 
 </td>
-      <td valign="top">
+      <td>
 
-3 
-
-</td>
-      <td valign="top">
-
-4 
+9
 
 </td>
-      <td valign="top">
+      <td>
 
-5 
-
-</td>
-      <td valign="top">
-
-6 
+15
 
 </td>
-      <td valign="top">
+      <td>
 
-7 
-
-</td>
-      <td valign="top">
-
-10 
+20
 
 </td>
-      <td valign="top">
+      <td>
 
-15 
-
-</td>
-      <td valign="top">
-
-20 
+23
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-30 
+25
 
 </td>
-      <td valign="top">
+      <td>
 
-35 
-
-</td>
-      <td valign="top">
-
-40 
-
-</td>
-      <td valign="top">
-
-50 
+28
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-4 / 10 
-
-</td>
-      <td valign="top">
-
-4 
+7/10
 
 </td>
-      <td valign="top">
+      <td>
 
-5 
-
-</td>
-      <td valign="top">
-
-6 
+1
 
 </td>
-      <td valign="top">
+      <td>
 
-7 
-
-</td>
-      <td valign="top">
-
-9 
+2
 
 </td>
-      <td valign="top">
+      <td>
 
-15 
-
-</td>
-      <td valign="top">
-
-30 
+3
 
 </td>
-      <td valign="top">
+      <td>
 
-35 
-
-</td>
-      <td valign="top">
-
-40 
+4
 
 </td>
-      <td valign="top">
+      <td>
 
-45 
-
-</td>
-      <td valign="top">
-
-50 
+5
 
 </td>
-      <td valign="top">
+      <td>
 
-55 
-
-</td>
-      <td valign="top">
-
-60 
+6
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-3 / 10 
+7
 
 </td>
-      <td valign="top">
+      <td>
 
-7 
-
-</td>
-      <td valign="top">
-
-8 
+10
 
 </td>
-      <td valign="top">
+      <td>
 
-9 
-
-</td>
-      <td valign="top">
-
-10 
+16
 
 </td>
-      <td valign="top">
+      <td>
 
-12 
-
-</td>
-      <td valign="top">
-
-20 
+22
 
 </td>
-      <td valign="top">
+      <td>
 
-35 
-
-</td>
-      <td valign="top">
-
-50 
+25
 
 </td>
-      <td valign="top">
+      <td>
 
-55 
-
-</td>
-      <td valign="top">
-
-60 
+28
 
 </td>
-      <td valign="top">
+      <td>
 
-65 
-
-</td>
-      <td valign="top">
-
-68 
-
-</td>
-      <td valign="top">
-
-70 
+30
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-2 / 10 
-
-</td>
-      <td valign="top">
-
-12 
+6/10
 
 </td>
-      <td valign="top">
+      <td>
 
-14 
-
-</td>
-      <td valign="top">
-
-15 
+2
 
 </td>
-      <td valign="top">
+      <td>
 
-16 
-
-</td>
-      <td valign="top">
-
-18 
+3
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-40 
+4
 
 </td>
-      <td valign="top">
+      <td>
 
-55 
-
-</td>
-      <td valign="top">
-
-70 
+5
 
 </td>
-      <td valign="top">
+      <td>
 
-72 
-
-</td>
-      <td valign="top">
-
-75 
+6
 
 </td>
-      <td valign="top">
+      <td>
 
-80 
-
-</td>
-      <td valign="top">
-
-82 
+7
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-1 / 10 
+9
 
 </td>
-      <td valign="top">
+      <td>
 
-16 
-
-</td>
-      <td valign="top">
-
-18 
+12
 
 </td>
-      <td valign="top">
+      <td>
 
-20 
-
-</td>
-      <td valign="top">
-
-22 
+18
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-30 
+25
 
 </td>
-      <td valign="top">
+      <td>
 
-45 
-
-</td>
-      <td valign="top">
-
-60 
+29
 
 </td>
-      <td valign="top">
+      <td>
 
-72 
-
-</td>
-      <td valign="top">
-
-80 
+32
 
 </td>
-      <td valign="top">
+      <td>
 
-82 
-
-</td>
-      <td valign="top">
-
-83 
-
-</td>
-      <td valign="top">
-
-84 
+35
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-1 / 20 
-
-</td>
-      <td valign="top">
-
-20 
+5/10
 
 </td>
-      <td valign="top">
+      <td>
 
-21 
-
-</td>
-      <td valign="top">
-
-23 
+3
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-29 
+4
 
 </td>
-      <td valign="top">
+      <td>
 
-35 
-
-</td>
-      <td valign="top">
-
-50 
+5
 
 </td>
-      <td valign="top">
+      <td>
 
-65 
-
-</td>
-      <td valign="top">
-
-75 
+6
 
 </td>
-      <td valign="top">
+      <td>
 
-82 
-
-</td>
-      <td valign="top">
-
-85 
+7
 
 </td>
-      <td valign="top">
+      <td>
 
-87 
-
-</td>
-      <td valign="top">
-
-88 
+10
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-< 1 / 20 
+15
 
 </td>
-      <td valign="top">
+      <td>
 
-23 
-
-</td>
-      <td valign="top">
-
-24 
+20
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-28 
+25
 
 </td>
-      <td valign="top">
+      <td>
 
-32 
-
-</td>
-      <td valign="top">
-
-40 
+30
 
 </td>
-      <td valign="top">
+      <td>
 
-55 
-
-</td>
-      <td valign="top">
-
-68 
+35
 
 </td>
-      <td valign="top">
+      <td>
 
-80 
-
-</td>
-      <td valign="top">
-
-83 
+40
 
 </td>
-      <td valign="top">
+      <td>
 
-87 
-
-</td>
-      <td valign="top">
-
-90 
-
-</td>
-      <td valign="top">
-
-92 
+50
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-cécité totale 
-
-</td>
-      <td valign="top">
-
-25 
+4/10
 
 </td>
-      <td valign="top">
+      <td>
 
-26 
-
-</td>
-      <td valign="top">
-
-28 
+4
 
 </td>
-      <td valign="top">
+      <td>
 
-30 
-
-</td>
-      <td valign="top">
-
-35 
+5
 
 </td>
-      <td valign="top">
+      <td>
 
-50 
-
-</td>
-      <td valign="top">
-
-60 
+6
 
 </td>
-      <td valign="top">
+      <td>
 
-70 
-
-</td>
-      <td valign="top">
-
-82 
+7
 
 </td>
-      <td valign="top">
+      <td>
 
-84 
-
-</td>
-      <td valign="top">
-
-88 
+9
 
 </td>
-      <td valign="top">
+      <td>
 
-92 
+15
 
 </td>
-      <td valign="top">
+      <td>
 
-95 
+30
+
+</td>
+      <td>
+
+35
+
+</td>
+      <td>
+
+40
+
+</td>
+      <td>
+
+45
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+55
+
+</td>
+      <td>
+
+60
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3/10
+
+</td>
+      <td>
+
+7
+
+</td>
+      <td>
+
+8
+
+</td>
+      <td>
+
+9
+
+</td>
+      <td>
+
+10
+
+</td>
+      <td>
+
+12
+
+</td>
+      <td>
+
+20
+
+</td>
+      <td>
+
+35
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+55
+
+</td>
+      <td>
+
+60
+
+</td>
+      <td>
+
+65
+
+</td>
+      <td>
+
+68
+
+</td>
+      <td>
+
+70
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2/10
+
+</td>
+      <td>
+
+12
+
+</td>
+      <td>
+
+14
+
+</td>
+      <td>
+
+15
+
+</td>
+      <td>
+
+16
+
+</td>
+      <td>
+
+18
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+40
+
+</td>
+      <td>
+
+55
+
+</td>
+      <td>
+
+70
+
+</td>
+      <td>
+
+72
+
+</td>
+      <td>
+
+75
+
+</td>
+      <td>
+
+80
+
+</td>
+      <td>
+
+82
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+1/10
+
+</td>
+      <td>
+
+16
+
+</td>
+      <td>
+
+18
+
+</td>
+      <td>
+
+20
+
+</td>
+      <td>
+
+22
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+30
+
+</td>
+      <td>
+
+45
+
+</td>
+      <td>
+
+60
+
+</td>
+      <td>
+
+72
+
+</td>
+      <td>
+
+80
+
+</td>
+      <td>
+
+82
+
+</td>
+      <td>
+
+83
+
+</td>
+      <td>
+
+84
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+1/20
+
+</td>
+      <td>
+
+20
+
+</td>
+      <td>
+
+21
+
+</td>
+      <td>
+
+23
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+29
+
+</td>
+      <td>
+
+35
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+65
+
+</td>
+      <td>
+
+75
+
+</td>
+      <td>
+
+82
+
+</td>
+      <td>
+
+85
+
+</td>
+      <td>
+
+87
+
+</td>
+      <td>
+
+88
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+< 1/20
+
+</td>
+      <td>
+
+23
+
+</td>
+      <td>
+
+24
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+28
+
+</td>
+      <td>
+
+32
+
+</td>
+      <td>
+
+40
+
+</td>
+      <td>
+
+55
+
+</td>
+      <td>
+
+68
+
+</td>
+      <td>
+
+80
+
+</td>
+      <td>
+
+83
+
+</td>
+      <td>
+
+87
+
+</td>
+      <td>
+
+90
+
+</td>
+      <td>
+
+92
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+cécité totale
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+26
+
+</td>
+      <td>
+
+28
+
+</td>
+      <td>
+
+30
+
+</td>
+      <td>
+
+35
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+60
+
+</td>
+      <td>
+
+70
+
+</td>
+      <td>
+
+82
+
+</td>
+      <td>
+
+84
+
+</td>
+      <td>
+
+88
+
+</td>
+      <td>
+
+92
+
+</td>
+      <td>
+
+95
 
 </td>
     </tr>
   </tbody>
 </table>
 
-b) L'acuité visuelle de près : 
+b) L'acuité visuelle de près :
 
 L'acuité visuelle de près est appréciée par l'échelle de Parinaud lue à 40 centimètres après juste correction de la presbytie
-si nécessaire : 
+si nécessaire :
 
-Diminution de l'acuité visuelle de près des deux yeux 
+Diminution de l'acuité visuelle de près des deux yeux
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table align="center" border="1" cellpadding="0" cellspacing="1">
   <thead>
     <tr>
-      <td width="43">
+      <td>
 
 </td>
-      <td width="37">
+      <td>
 
-P 1, 5 
-
-</td>
-      <td width="37">
-
-P 2 
+P 1,5
 
 </td>
-      <td width="37">
+      <td>
 
-P 3 
-
-</td>
-      <td width="37">
-
-P 4 
+P 2
 
 </td>
-      <td width="37">
+      <td>
 
-P 5 
-
-</td>
-      <td width="37">
-
-P 6 
+P 3
 
 </td>
-      <td width="37">
+      <td>
 
-P 8 
-
-</td>
-      <td width="37">
-
-P 14 
+P 4
 
 </td>
-      <td width="37">
+      <td>
 
-P 20 
-
-</td>
-      <td width="37">
-
-< P 20 
+P 5
 
 </td>
-      <td width="37">
+      <td>
 
-0 
+P 6
+
+</td>
+      <td>
+
+P 8
+
+</td>
+      <td>
+
+P 14
+
+</td>
+      <td>
+
+P 20
+
+</td>
+      <td>
+
+< P 20
+
+</td>
+      <td>
+
+0
 
 </td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      <td>
 
-P 1, 5 
-
-</td>
-      <td valign="top">
-
-0 
+P 1,5
 
 </td>
-      <td valign="top">
+      <td>
 
-0 
-
-</td>
-      <td valign="top">
-
-2 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-3 
-
-</td>
-      <td valign="top">
-
-6 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-8 
-
-</td>
-      <td valign="top">
-
-10 
+2
 
 </td>
-      <td valign="top">
+      <td>
 
-16 
-
-</td>
-      <td valign="top">
-
-20 
+3
 
 </td>
-      <td valign="top">
+      <td>
 
-23 
-
-</td>
-      <td valign="top">
-
-25 
+6
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-P 2 
+8
 
 </td>
-      <td valign="top">
+      <td>
 
-0 
-
-</td>
-      <td valign="top">
-
-0 
+10
 
 </td>
-      <td valign="top">
+      <td>
 
-4 
-
-</td>
-      <td valign="top">
-
-5 
+16
 
 </td>
-      <td valign="top">
+      <td>
 
-8 
-
-</td>
-      <td valign="top">
-
-10 
+20
 
 </td>
-      <td valign="top">
+      <td>
 
-14 
-
-</td>
-      <td valign="top">
-
-18 
+23
 
 </td>
-      <td valign="top">
+      <td>
 
-22 
-
-</td>
-      <td valign="top">
-
-25 
-
-</td>
-      <td valign="top">
-
-28 
+25
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-P 3 
-
-</td>
-      <td valign="top">
-
-2 
+P 2
 
 </td>
-      <td valign="top">
+      <td>
 
-4 
-
-</td>
-      <td valign="top">
-
-8 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-9 
-
-</td>
-      <td valign="top">
-
-12 
+0
 
 </td>
-      <td valign="top">
+      <td>
 
-16 
-
-</td>
-      <td valign="top">
-
-20 
+4
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-28 
+5
 
 </td>
-      <td valign="top">
+      <td>
 
-32 
-
-</td>
-      <td valign="top">
-
-35 
+8
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-P 4 
+10
 
 </td>
-      <td valign="top">
+      <td>
 
-3 
-
-</td>
-      <td valign="top">
-
-5 
+14
 
 </td>
-      <td valign="top">
+      <td>
 
-9 
-
-</td>
-      <td valign="top">
-
-11 
+18
 
 </td>
-      <td valign="top">
+      <td>
 
-15 
-
-</td>
-      <td valign="top">
-
-20 
+22
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-30 
+25
 
 </td>
-      <td valign="top">
+      <td>
 
-36 
-
-</td>
-      <td valign="top">
-
-40 
-
-</td>
-      <td valign="top">
-
-42 
+28
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-P 5 
-
-</td>
-      <td valign="top">
-
-6 
+P 3
 
 </td>
-      <td valign="top">
+      <td>
 
-8 
-
-</td>
-      <td valign="top">
-
-12 
+2
 
 </td>
-      <td valign="top">
+      <td>
 
-15 
-
-</td>
-      <td valign="top">
-
-20 
+4
 
 </td>
-      <td valign="top">
+      <td>
 
-26 
-
-</td>
-      <td valign="top">
-
-30 
+8
 
 </td>
-      <td valign="top">
+      <td>
 
-36 
-
-</td>
-      <td valign="top">
-
-42 
+9
 
 </td>
-      <td valign="top">
+      <td>
 
-46 
-
-</td>
-      <td valign="top">
-
-50 
+12
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-P 6 
+16
 
 </td>
-      <td valign="top">
+      <td>
 
-8 
-
-</td>
-      <td valign="top">
-
-10 
+20
 
 </td>
-      <td valign="top">
+      <td>
 
-16 
-
-</td>
-      <td valign="top">
-
-20 
+25
 
 </td>
-      <td valign="top">
+      <td>
 
-26 
-
-</td>
-      <td valign="top">
-
-30 
+28
 
 </td>
-      <td valign="top">
+      <td>
 
-32 
-
-</td>
-      <td valign="top">
-
-42 
+32
 
 </td>
-      <td valign="top">
+      <td>
 
-46 
-
-</td>
-      <td valign="top">
-
-50 
-
-</td>
-      <td valign="top">
-
-55 
+35
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-P 8 
-
-</td>
-      <td valign="top">
-
-10 
+P 4
 
 </td>
-      <td valign="top">
+      <td>
 
-14 
-
-</td>
-      <td valign="top">
-
-20 
+3
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-30 
+5
 
 </td>
-      <td valign="top">
+      <td>
 
-32 
-
-</td>
-      <td valign="top">
-
-40 
+9
 
 </td>
-      <td valign="top">
+      <td>
 
-52 
-
-</td>
-      <td valign="top">
-
-58 
+11
 
 </td>
-      <td valign="top">
+      <td>
 
-62 
-
-</td>
-      <td valign="top">
-
-65 
+15
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-P 10 
+20
 
 </td>
-      <td valign="top">
+      <td>
 
-16 
-
-</td>
-      <td valign="top">
-
-18 
+25
 
 </td>
-      <td valign="top">
+      <td>
 
-25 
-
-</td>
-      <td valign="top">
-
-30 
+30
 
 </td>
-      <td valign="top">
+      <td>
 
-36 
-
-</td>
-      <td valign="top">
-
-42 
+36
 
 </td>
-      <td valign="top">
+      <td>
 
-52 
-
-</td>
-      <td valign="top">
-
-65 
+40
 
 </td>
-      <td valign="top">
+      <td>
 
-70 
-
-</td>
-      <td valign="top">
-
-72 
-
-</td>
-      <td valign="top">
-
-76 
+42
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-P 20 
-
-</td>
-      <td valign="top">
-
-20 
+P 5
 
 </td>
-      <td valign="top">
+      <td>
 
-22 
-
-</td>
-      <td valign="top">
-
-28 
+6
 
 </td>
-      <td valign="top">
+      <td>
 
-36 
-
-</td>
-      <td valign="top">
-
-42 
+8
 
 </td>
-      <td valign="top">
+      <td>
 
-46 
-
-</td>
-      <td valign="top">
-
-58 
+12
 
 </td>
-      <td valign="top">
+      <td>
 
-70 
-
-</td>
-      <td valign="top">
-
-75 
+15
 
 </td>
-      <td valign="top">
+      <td>
 
-80 
-
-</td>
-      <td valign="top">
-
-85 
+20
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td>
 
-< P 20 
+26
 
 </td>
-      <td valign="top">
+      <td>
 
-23 
-
-</td>
-      <td valign="top">
-
-25 
+30
 
 </td>
-      <td valign="top">
+      <td>
 
-32 
-
-</td>
-      <td valign="top">
-
-40 
+36
 
 </td>
-      <td valign="top">
+      <td>
 
-46 
-
-</td>
-      <td valign="top">
-
-50 
+42
 
 </td>
-      <td valign="top">
+      <td>
 
-62 
-
-</td>
-      <td valign="top">
-
-72 
+46
 
 </td>
-      <td valign="top">
+      <td>
 
-80 
-
-</td>
-      <td valign="top">
-
-85 
-
-</td>
-      <td valign="top">
-
-90 
+50
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-0 
-
-</td>
-      <td valign="top">
-
-25 
+P 6
 
 </td>
-      <td valign="top">
+      <td>
 
-28 
-
-</td>
-      <td valign="top">
-
-35 
+8
 
 </td>
-      <td valign="top">
+      <td>
 
-42 
-
-</td>
-      <td valign="top">
-
-50 
+10
 
 </td>
-      <td valign="top">
+      <td>
 
-55 
-
-</td>
-      <td valign="top">
-
-65 
+16
 
 </td>
-      <td valign="top">
+      <td>
 
-76 
-
-</td>
-      <td valign="top">
-
-85 
+20
 
 </td>
-      <td valign="top">
+      <td>
 
-90 
+26
 
 </td>
-      <td valign="top">
+      <td>
 
-95 
+30
+
+</td>
+      <td>
+
+32
+
+</td>
+      <td>
+
+42
+
+</td>
+      <td>
+
+46
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+55
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+P 8
+
+</td>
+      <td>
+
+10
+
+</td>
+      <td>
+
+14
+
+</td>
+      <td>
+
+20
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+30
+
+</td>
+      <td>
+
+32
+
+</td>
+      <td>
+
+40
+
+</td>
+      <td>
+
+52
+
+</td>
+      <td>
+
+58
+
+</td>
+      <td>
+
+62
+
+</td>
+      <td>
+
+65
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+P 10
+
+</td>
+      <td>
+
+16
+
+</td>
+      <td>
+
+18
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+30
+
+</td>
+      <td>
+
+36
+
+</td>
+      <td>
+
+42
+
+</td>
+      <td>
+
+52
+
+</td>
+      <td>
+
+65
+
+</td>
+      <td>
+
+70
+
+</td>
+      <td>
+
+72
+
+</td>
+      <td>
+
+76
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+P 20
+
+</td>
+      <td>
+
+20
+
+</td>
+      <td>
+
+22
+
+</td>
+      <td>
+
+28
+
+</td>
+      <td>
+
+36
+
+</td>
+      <td>
+
+42
+
+</td>
+      <td>
+
+46
+
+</td>
+      <td>
+
+58
+
+</td>
+      <td>
+
+70
+
+</td>
+      <td>
+
+75
+
+</td>
+      <td>
+
+80
+
+</td>
+      <td>
+
+85
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+< P 20
+
+</td>
+      <td>
+
+23
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+32
+
+</td>
+      <td>
+
+40
+
+</td>
+      <td>
+
+46
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+62
+
+</td>
+      <td>
+
+72
+
+</td>
+      <td>
+
+80
+
+</td>
+      <td>
+
+85
+
+</td>
+      <td>
+
+90
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+0
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+28
+
+</td>
+      <td>
+
+35
+
+</td>
+      <td>
+
+42
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+55
+
+</td>
+      <td>
+
+65
+
+</td>
+      <td>
+
+76
+
+</td>
+      <td>
+
+85
+
+</td>
+      <td>
+
+90
+
+</td>
+      <td>
+
+95
 
 </td>
     </tr>
@@ -3179,77 +3306,77 @@ P 20
 </table>
 
 S'il existe un rapport étroit entre vision de loin et vision de près de sorte que, si l'une est altérée, l'autre l'est dans
-les mêmes proportions, le tableau qui évalue le déficit en fonction de la seule vision de loin est alors suffisant. 
+les mêmes proportions, le tableau qui évalue le déficit en fonction de la seule vision de loin est alors suffisant.
 
 Dans les autres cas, il existe une dissociation entre la vision de loin et celle de près. Il conviendra alors d'adopter la
-moyenne arithmétique entre les deux taux calculés grâce à l'échelle de Monoyer et grâce à l'échelle de Parinaud. 
+moyenne arithmétique entre les deux taux calculés grâce à l'échelle de Monoyer et grâce à l'échelle de Parinaud.
 
-II-AUTRES DÉFICIENCES DE LA FONCTION ET DE L'APPAREIL OCULAIRE 
+II - AUTRES DÉFICIENCES DE LA FONCTION ET DE L'APPAREIL OCULAIRE
 
-1-DÉFICIENCES DU CHAMP VISUEL 
+1 - DÉFICIENCES DU CHAMP VISUEL
 
 L'estimation fonctionnelle des séquelles doit privilégier le repérage des altérations détectables dans le champ visuel
-binoculaire et non plus selon la méthode classique d'étude du champ visuel de chaque oeil. 
+binoculaire et non plus selon la méthode classique d'étude du champ visuel de chaque oeil.
 
-Le champ visuel binoculaire est apprécié à la coupole de Goldman avec le test III / 4 sans dissociation des deux yeux. 
+Le champ visuel binoculaire est apprécié à la coupole de Goldman avec le test III/4 sans dissociation des deux yeux.
 
 La figure 1 présente le champ normal binoculaire sans dissociation des deux yeux avec les taux affectés pour chaque demi-
 quadrant, en tenant compte de l'excentricité et de son champ de réception spatial. En comparant le champ binoculaire normal
 et le champ binoculaire de la personne handicapée, il est possible de déterminer le taux d'incapacité. Chaque point
 correspond à une lacune non perçue. Le taux d'incapacité est égal à l'addition des points de la figure 1. Les taux affectant
-le champ visuel central sont précisés par la figure 2. 
+le champ visuel central sont précisés par la figure 2.
 
 Si une évaluation à la coupole de Goldman n'est pas disponible, le médecin expert aura recours à la méthode classique, en
 étudiant le champ visuel de chaque oeil. Les altérations du champ visuel repérés selon cette méthode donnent alors les taux
-d'incapacité suivants : 
+d'incapacité suivants :
 
-a) hémianopsies : 
+a) hémianopsies :
 
-hémianopsie complète (taux : 42 p. 100). 
+hémianopsie complète (taux : 42 p. 100).
 
-Sans épargne maculaire le taux d'incapacité se confond avec la baisse de vision ; 
+Sans épargne maculaire le taux d'incapacité se confond avec la baisse de vision ;
 
-avec épargne maculaire. 
+avec épargne maculaire.
 
-Hémianopsie incomplète : en fonction du schéma concernant le champ visuel. 
+Hémianopsie incomplète : en fonction du schéma concernant le champ visuel.
 
-Hémianopsie altitudinale totale : supérieure (taux : jusqu'à 26 p. 100) ; inférieure (taux : jusqu'à 60 p. 100). 
+Hémianopsie altitudinale totale : supérieure (taux : jusqu'à 26 p. 100) ; inférieure (taux : jusqu'à 60 p. 100).
 
-Double hémianopsie latérale complète ou bitemporale (taux : jusqu'à 85 p. 100). 
+Double hémianopsie latérale complète ou bitemporale (taux : jusqu'à 85 p. 100).
 
-Hémianopsie binasale : en fonction du schéma et de la vision centrale. 
+Hémianopsie binasale : en fonction du schéma et de la vision centrale.
 
-b) Quadranopsie : supérieure (taux : jusqu'à 13 p. 100) ; inférieure (taux : jusqu'à 30 p. 100). 
+b) Quadranopsie : supérieure (taux : jusqu'à 13 p. 100) ; inférieure (taux : jusqu'à 30 p. 100).
 
-c) Déficit non systématisé : 
+c) Déficit non systématisé :
 
-suivant le taux affecté par le schéma. 
+suivant le taux affecté par le schéma.
 
-d) Rétrécissement concentrique : 
+d) Rétrécissement concentrique :
 
-d'évaluation toujours très difficile en raison de l'intervention de facteurs extrinsèques.A n'évaluer qu'après de multiples
-épreuves de contrôle avec, si nécessaire, mise en oeuvre de nouvelles techniques électrophysiologiques. 
+d'évaluation toujours très difficile en raison de l'intervention de facteurs extrinsèques. A n'évaluer qu'après de multiples
+épreuves de contrôle avec, si nécessaire, mise en oeuvre de nouvelles techniques électrophysiologiques.
 
-En cas de certitude absolue : 
+En cas de certitude absolue :
 
-de 60 o à 30 o (taux : 0 à 5 p. 100) ; 
+de 60 o à 30 o (taux : 0 à 5 p. 100) ;
 
-de 30 o à 20 o (taux : 16 p. 100) ; 
+de 30 o à 20 o (taux : 16 p. 100) ;
 
-de 20 o à 10 o (taux : 32 p. 100) ; 
+de 20 o à 10 o (taux : 32 p. 100) ;
 
-inférieure à 10 o (taux : de 70 à 80 p. 100). 
+inférieure à 10 o (taux : de 70 à 80 p. 100).
 
-e) Scotomes centraux et paracentraux : 
+e) Scotomes centraux et paracentraux :
 
-en cas de perte de la vision centrale : utiliser le barème d'acuité visuelle (3 a et 3 b). 
+en cas de perte de la vision centrale : utiliser le barème d'acuité visuelle (3 a et 3 b).
 
 Les scotomes paracentraux et juxtacentraux justifient un taux de 5 à 20 p. 100 en fonction de leur étendue précisée à la
-grille d'Amsler en vision binoculaire, et de leur retentissement sur la lecture de près. 
+grille d'Amsler en vision binoculaire, et de leur retentissement sur la lecture de près.
 
-2-DÉFICIENCES DE L'OCULOMOTRICITÉ 
+2 - DÉFICIENCES DE L'OCULOMOTRICITÉ
 
-a) Vision binoculaire et décomposition (taux : 1 à 5 p. 100) ; 
+a) Vision binoculaire et décomposition (taux : 1 à 5 p. 100) ;
 
 b) Séquelles de paralysie oculo-motrices :
 
@@ -3257,7 +3384,7 @@ b) Séquelles de paralysie oculo-motrices :
 
 - diplopie en bas (taux : 15 à 25 p. 100) ;
 
-- diplopie latérale (taux : 10 à 15 p. 100). 
+- diplopie latérale (taux : 10 à 15 p. 100).
 
 c) Paralysies de fonction du regard :
 
@@ -3267,1257 +3394,963 @@ c) Paralysies de fonction du regard :
 
 - paralysie latérale (taux : 10 à 12 p. 100) ;
 
-- paralysie de la convergence (taux : 10 à 15 p. 100). 
+- paralysie de la convergence (taux : 10 à 15 p. 100).
 
 d) Déficiences de la motricité intrinsèque avant apparition de la presbytie :
 
 - paralysie de l'accomodation uni ou bilatérale (taux : 10 p. 100) ;
 
-- mydriase aréactive (taux : 5 p. 100). 
+- mydriase aréactive (taux : 5 p. 100).
 
-3-AUTRES TROUBLES NEURO-OPHTALMOLOGIQUES 
+3 - AUTRES TROUBLES NEURO-OPHTALMOLOGIQUES
 
-a) Troubles de la reconnaissance visuelle : 
+a) Troubles de la reconnaissance visuelle :
 
 L'agnosie visuelle sera évaluée selon l'importance du déficit (espace, formes, couleurs...) en fonction du retentissement sur
-la vie quotidienne.L'appréciation nécessitera un avis spécialisé complémentaire. Les troubles ne devront pas être appréciés
-de façon isolée ; 
+la vie quotidienne. L'appréciation nécessitera un avis spécialisé complémentaire. Les troubles ne devront pas être appréciés
+de façon isolée ;
 
 b) Ces indications sont valables pour le syndrome de Balint (trouble de la stratégie du regard), pour la perte des mouvements
-de poursuite. 
+de poursuite.
 
-4-APHAKIES 
+4 - APHAKIES
 
-Au taux obtenu lors de la mesure de l'acuité visuelle, s'ajoutera arithmétiquement : 
+Au taux obtenu lors de la mesure de l'acuité visuelle, s'ajoutera arithmétiquement :
 
-a) Prothèse optique réalisée par lunettes, lentilles de contact ou implants oculaires. 
+a) Prothèse optique réalisée par lunettes, lentilles de contact ou implants oculaires.
 
-En cas d'aphakie unilatérale : 
+En cas d'aphakie unilatérale :
 
-si l'acuité de l'oeil opéré demeure inférieure à celle de l'oeil non opéré (taux : 8 à 10 p. 100) ; 
+si l'acuité de l'oeil opéré demeure inférieure à celle de l'oeil non opéré (taux : 8 à 10 p. 100) ;
 
-dans le cas inverse (taux : 10 à 12 p. 100) ; 
+dans le cas inverse (taux : 10 à 12 p. 100) ;
 
-en cas d'aphakie bilatérale le taux de l'incapacité de base sera de 15 p. 100. 
+en cas d'aphakie bilatérale le taux de l'incapacité de base sera de 15 p. 100.
 
 b) Compensation optique assurée par un cristallin artificiel : le taux sera de 5 p. 100 pour tenir compte de la perte
-unilatérale d'accomodation. 
+unilatérale d'accomodation.
 
-5-ANNEXES DE L'OEIL 
+5 - ANNEXES DE L'OEIL
 
-Larmoiement, photophobie, ectropion, entropion. 
+Larmoiement, photophobie, ectropion, entropion.
 
-Prothèse oculaire mal supportée (taux : 1 à 5 p. 100). 
+Prothèse oculaire mal supportée (taux : 1 à 5 p. 100).
 
 Le médecin devra compléter l'examen ophtalmologique d'un examen clinique complet à la recherche de troubles associés,
 notamment chez l'enfant où la déficience de la vision peut s'accompagner d'un retard mental, de troubles psychiques, ou
-d'autres déficiences (motrices, viscérales...). 
+d'autres déficiences (motrices, viscérales...).
 
-Le taux d'incapacité final sera apprécié selon les méthodes habituelles. 
+Le taux d'incapacité final sera apprécié selon les méthodes habituelles.
 
-CHAPITRE VI 
+Chapitre VI
 
-Déficiences générales et viscérales
+Déficiences viscérales et générales
 
-Les déficiences énumérées dans ce chapitre étaient jusqu'à présent peu ou mal prises en compte par les différentes
-commissions ayant à en connaître. Aussi, il a paru important aux rédacteurs de ce guide-barème de bien préciser l'esprit dans
-lequel il a été élaboré.
+Introduction
 
-Le principe qui a présidé à cette proposition de guide a été de fonder l'évaluation des taux d'incapacité sur l'importance de
-la ou des déficiences et des incapacités fonctionnelles subies par la personnne, et non sur la nature de l'affection médicale
-qui en est l'origine. Il en est ainsi des affections telles que sclérose en plaques, mucoviscidose, diabète grave.
+Pour ce chapitre plus particulièrement, il convient de rappeler que l'évaluation des taux d'incapacité est fondée sur
+l'importance des déficiences, incapacités fonctionnelles et désavantages en découlant, subis par la personne, et non
+seulement sur la nature des affections médicales dont elle est atteinte.
 
-Selon leur importance, déficiences et incapacités fonctionnelles peuvent être évaluées selon une échelle divisée généralement
-en 5 classes réparties de la manière suivante :
+Une première section indique les différents types de déficiences traitées par le présent chapitre. Les exemples, qu'ils
+soient par pathologie, sur la base de résultats d'examens complémentaires ou en fonction de modalités thérapeutiques
+particulières, s'avèrent très rapidement dépassés compte tenu de l'évolution des techniques médicales. C'est pourquoi ce
+chapitre en contient peu.
+
+La deuxième section apporte des indications sur des éléments, autres que les déficiences, à prendre en compte pour déterminer
+le taux d'incapacité. Il s'agit, d'une part, des symptômes susceptibles d'entraîner ou de majorer les incapacités ou
+désavantages, d'autre part, des incapacités et enfin des contraintes dans la vie quotidienne.
+
+En effet, dans de nombreux cas d'affection chronique, plutôt que leur retentissement direct en termes de déficiences ou
+d'incapacités, ce sont leurs conséquences en matière de vie quotidienne qui devront être prises en compte : l'évolution des
+traitements médicaux ou des techniques de compensation conduit souvent à juguler le processus pathologique à l'oeuvre, et
+éventuellement à faire disparaître les déficiences (exemple des thérapies anti-VIH qui cherchent à améliorer les fonctions
+immunitaires), ou à les compenser (exemple de l'insuline injectée pour pallier la déficience endocrinienne du pancréas).
+C'est parfois au prix d'effets secondaires provoquant d'autres déficiences ou de contraintes lourdes dans la vie quotidienne
+compromettant l'insertion sociale, scolaire ou professionnelle des personnes.
+
+Concernant les enfants et adolescents, il convient de tenir compte également des contraintes assumées par l'entourage
+familial, pour préserver au maximum la présence de l'enfant dans son milieu de vie naturel et éviter hospitalisations ou
+institutionnalisations considérées comme non souhaitables dans l'intérêt de l'enfant. Une partie de cette section leur est
+donc particulièrement consacrée.
+
+La troisième section aborde la gradation des fourchettes de taux d'incapacité, basée sur l'analyse des incapacités ainsi que
+des désavantages et contraintes constatés. Il convient, comme dans les autres chapitres, d'être particulièrement attentif aux
+critères permettant de déterminer les taux seuils de 50 et 80 %.
+
+En fonction de leur importance, les conséquences des déficiences viscérales et générales peuvent être évaluées selon une
+échelle divisée en quatre classes, réparties de la manière suivante :
 
 1. Troubles légers entraînant une gêne, quelques interdits rares ou des troubles subjectifs sans incapacité réelle dans la
-vie domestique habituelle.
+vie sociale, scolaire, professionnelle ou quotidienne.
 
-2. Troubles d'importance moyenne entraînant des interdits multiples et quelques signes cliniques d'incapacité fonctionnelle,
-permettant cependant le maintien de l'autonomie du sujet dans la vie quotidienne.
-
-3. Troubles importants obligeant à des aménagements notables de la vie quotidienne limitée au logement ou à l'environnement
-immédiat. Autonomie conservée pour les actes élémentaires de la vie quotidienne (toilette, habillage, alimentation). Ce
-niveau de troubles définit l'obtention d'un taux au moins égal à 50 %.
-
-4. Déficience grave entraînant la perte de l'autonomie pour la plupart des actes essentiels de la vie quotidienne. Cela
-définit en principe le seuil de 80 %.
-
-5. Déficience sévère entraînant un état de dépendance totale et permanente.
-
-Le seuil de 80 % est donc défini comme celui de la perte d'autonomie dans la vie quotidienne.
-
-A l'intérieur de chaque classe, la modulation du taux sera appréciée également en fonction du retentissement du handicap
-(désavantage) secondaire à ses incapacités dans la vie socioprofessionnelle (au plan de la mobilité, de la capacité
-économique du sujet, de la capacité d'intégration).
-
-Outre cette échelle, d'autres données plus spécifiques sont apparues comme devant être prises en compte dans ce chapitre des
-maladies viscérales ou générales :
-
-1. Les contraintes liées au traitement ou aux techniques de compensations, par exemple dans le cas de l'insuffisance rénale
-(hémodialyse), des ablations (les stomies), et des greffes d'organe (pendant la durée du traitement).
-
-2. Les contraintes liées à l'évolutivité de la déficience lorsque cette évolutivité est connue comme très rapide.
-
-3. Les contraintes liées au risque de mort subite même si les éléments d'incapacité permanente sont très discrets.
-
-Dans les cas fréquents d'une déficience viscérale ou générale ayant entraîné à titre de complications d'autres déficiences
-(visuelles, motrices...) secondaires, il conviendra de se reporter aux chapitres correspondant à chacune des déficiences
-concernées.
-
-Exemples :
-
-diabète isolé : voir déficiences endocriniennes ;
-
-diabète avec lésions oculaires, rénales... se reporter aux déficiences oculaires, rénales...
-
-Les différents taux s'ajoutent selon les règles habituelles.
-
-SECTION 1
-
-DÉFICIENCES DE LA FONCTION CARDIO-VASCULAIRE
-
-I. - Déficiences de la fonction cardiaque
-
-Seules les affections chroniques et invalidantes de façon durable sont prises en compte pour l'évaluation.
-
-L'étiologie est souvent différente chez l'enfant et chez l'adulte. L'évaluation se fera non pas en fonction de l'étiologie ou
-de l'accessibilité à un traitement médicamenteux ou chirurgical (qui gardent leur importance pour déterminer l'évolutivité de
-l'affection, mais ne donnent que peu d'informations sur le retentissement fonctionnel), mais en fonction du retentissement
-fonctionnel de l'affection.
-
-Les critères retenus pour évaluer le taux d'incapacité sont, quelle que soit l'étiologie :
-
-- des critères cliniques :
-
-- essentiellement la gêne fonctionnelle ou la douleur à l'effort (dyspnée d'effort ou angor) ;
-
-- les signes propres à l'insuffisance ventriculaire droite ou gauche ;
-
-- des critères paracliniques qui peuvent, selon le type d'affection, être :
-
-- électrocardiographiques (éventuellement épreuve d'effort ou Holter) ;
-
-- échocardiographiques si possible ;
-
-- ou biologiques (saturation en oxygène au repos et/ou, à l'effort, hématocrite par exemple dans les cardiopahies
-congénitales cyanogènes).
-
-1. Quatre niveaux d'incapacité sont définis comme suit (quel que soit le type de pathologie) :
-
-a) Déficience légère totalement compensée par le traitement, quelques interdits rares, mais pas d'incapacité dans la vie
-socioprofessionnelle ou domestique habituelle. Les activités physiques ordinaires n'induisent pas ou peu de fatigue, de
-palpitations ou de dyspnée (taux : 1 à 20 %) ;
-
-troubles subjectifs sans support organique (palpitations...) ;
-
-cardiopathie congénitale ou acquise ayant bénéficié avec succès d'une cure chirurgicale palliative ou réparatrice.
-
-b) Déficience modérée entraînant des interdits multiples et quelques signes cliniques d'incapacité fonctionnelle (malgré le
-traitement médical) permettant cependant le maintien de l'autonomie du sujet dans la vie quotidienne et socioprofessionnelle.
-Dyspnée ou angor à moins de deux étages ;
-
-signes électro- et échocardiographiques en rapport avec les manifestations cliniques (taux : 20 à 45 %).
-
-c) Déficience importante obligeant à des aménagements notables de la vie quotidienne avec cependant autonomie pour les actes
-élémentaires de la vie quotidienne. Signes cliniques permanents ou répétés entravant tout effort (moins d'un étage) (taux :
-50 à 75 %) ;
-
-Insuffisance cardiaque droite ou gauche ou troubles du rythme sévères compensés par le traitement médical ;
-
-Signes E.C.G. et échocardiographiques en rapport avec ces manifestations ;
-
-Cardiopathie congénitale cyanogène avec saturation en oxygène comprise entre 70 et 80 % au repos et/ou ayant une polyglobulie
-avec une hématocrite supérieure à 65 %. Une hypertension artérielle pulmonaire fixée justifie toujours d'un taux au moins
-égal à 50 % et qui peut atteindre 80 % en fonction du retentissement fonctionnel (voir ci-dessus).
-
-d) Déficience sévère de la fonction entraînant un état de dépendance pour la plupart des actes de la vie quotidienne. Dyspnée
-ou angor au moindre effort ou au repos (taux : 80 à 90 %) ;
-
-insuffisance cardiaque décompensée ou compensée de façon précaire et instable par la thérapeutique ;
-
-troubles de rythme graves et récidivants malgré le traitement (tachycardie ventriculaire récidivante par exemple...) ;
-
-angor permanent ou quasi permanent rebelle au traitement ;
-
-cardiopathie congénitale cyanogène avec saturation en oxygène de base inférieure à 70 %, ou/et inférieure à 50 % après effort
-modéré.
-
-signes E.C.G. et échocardiographiques : en rapport avec l'affection.
-
-2. Cas particuliers (taux de base dans ces cas) :
-
-a) Transplantation : compte tenu des contraintes thérapeutiques (taux : 50 à 75 %) ;
-
-b) Stimulateur cardiaque (taux : 20 %) ;
-
-c) Risque de mort subite ;
-
-si risque indéfini : non quantifiable en matière d'incapacité ;
-
-Ne peut être quantifié que sur l'existence de troubles du rythme l'E.C.G. (éventuellement épreuve d'effort ou Holter) ou
-d'altération de la fonction cardiaque à l'échocardiographie. Dans ce cas se reporter aux paragraphes précédents.
-
-II. - Déficiences vasculaires périphériques
-
-1. Artérites :
-
-L'incapacité sera appréciée en tenant compte de critères :
-
-cliniques : pouls, claudication intermittente, douleurs, troubles trophiques ;
-
-paracliniques : Doppler, artériographie ou angiographie numérisée.
-
-a) Formes légères (taux : 1 à 15 %) ;
-
-quelques interdits rares mais pas d'incapacité dans la vie socioprofessionnelle ou domestique habituelle :
-
-disparition d'un pouls distal avec sténose incomplète au Doppler chez un sujet asymptomatique ;
-
-claudication intermittente à la marche rapide et prolongée.
-
-b) Formes modérées (taux : 15 à 45 %) ;
-
-entraînant des interdits multiples et quelques signes d'incapacité fonctionnelle : impossibilité de courir ou de porter des
-charges lourdes, périmètre de marche limité avec claudication intermittente permettant cependant le maintien de l'autonomie
-du sujet dans la vie quotidienne et socioprofessionnelle, nécessité d'un traitement continu.
-
-Explorations complémentaires (Doppler) confirmant le tableau clinique.
-
-Peut comprendre également les pontages périphériques avec bon résultat sur le plan clinique.
-
-c) Formes importantes (taux : 50 à 75 %).
-
-Avec claudication intermittente, marche lente et réduction du périmètre de marche au logement ou à l'environnement immédiat.
-
-Maintien de l'autonomie pour les actes élémentaires de la vie quotidienne.
-
-Nécessité d'un traitement continu.
-
-Comprend les pontages périphériques de résultat clinique médiocre.
-
-Examens paracliniques confirmant le tableau clinique.
-
-d) Formes sévères (taux : 80 à 90 %).
-
-Nota. - Atteinte isolée d'un membre inférieur, se reporter au chapitre Déficiences de l'appareil locomoteur.
-
-Atteintes massives et généralisées aboutissant à des mutilations répétées entraînant un état de dépendance pour la plupart
-des actes de la vie quotidienne.
-
-Troubles trophiques marqués et douleurs de décubitus.
-
-2. Atteintes veineuses (primitives ou postphlébitiques) :
-
-l'incapacité sera appréciée essentiellement sur des signes cliniques : troubles fonctionnels (douleurs à la station debout
-prolongée), signes d'examen (dilatations veineuses, oedème, troubles trophiques, ulcères).
-
-a) Formes légères (taux : 1 à 15 %) ;
-
-avec dilatations veineuses, troubles fonctionnels notables, oedème vespéral.
-
-b) Formes modérées (taux : 15 à 45 %) ;
-
-avec dilatations veineuses, troubles fonctionnels marqués, oedème important et existence de troubles trophiques (ulcères
-répétés).
-
-c) Formes importantes (taux : 50 à 75 %) ;
-
-dilatations veineuses massives, troubles trophiques graves (ulcères) et oedème très important gênant la marche qui est
-limitée au logement ou à l'environnement immédiat.
-
-phlébites répétées nécessitant une surveillance et un traitement continu (maladie thrombo-embolique).
-
-3. Troubles angio-neurotiques :
-
-ils s'apprécieront sur des critères identiques.
-
-Exemples :
-
-a) Formes légères (taux : 1 à 15 %) ;
-
-b) Formes modérées (taux : 15 à 45 %).
-
-III. - Hypertension artérielle
-
-Dans les hypertensions artérielles graves, l'appréciation du taux d'incapacité se basera essentiellement sur les conséquences
-viscérales de cette hypertension artérielle (reins, encéphale, oeil, coeur...).
-
-Il conviendra donc, dans ces cas, de se reporter aux chapitres correspondant à ces organes.
-
-L'incapacité liée aux hypertensions artérielles isolées pourra être évaluée de la manière suivante :
-
-1. L'hypertension artérielle limite, éventuellement labile, ne nécessitant pas de traitement continu, ne sera pas prise en
-compte.
-
-2. L'hypertension artérielle permanente, nécessitant un traitement continu, imposant au patient quelques interdits dans la
-vie courante concernant le mode de vie et l'alimentation (régime) ainsi que quelques troubles subjectifs transitoires
-(céphalées, étourdissements, mouches volantes...) (taux : 1 à 10 %).
-
-3. L'hypertension artérielle permanente, instable et persistante malgré le traitement médical continu avec troubles
-subjectifs importants (céphalées, malaises...) (taux : 15 à 30 %).
-
-SECTION 2
-
-DÉFICIENCES DE LA FONCTION RESPIRATOIRE
-
-La pathologie présentée n'est prise en compte que lorsque son évolution peut être considérée comme chronique (durée
-d'évolution supérieure à six mois) malgré un traitement bien conduit. Les critères fonctionnels sont recueillis à l'état
-stable et en dehors de tout événement intercurrent pouvant les détériorer transitoirement. 
-
-Les manifestations cliniques peuvent être paroxystiques (asthme) ou continues.
-
-La déficience de la fonction respiratoire est appréciée par :
-
-- des éléments cliniques (bronchorrhée, dyspnée, expectoration, tirage, cyanose, signes cliniques de l'hypertension
-artérielle pulmonaire...) ;
-
-- des éléments paracliniques.
-
-Actuellement, les examens habituellement utilisés pour évaluer la déficience respiratoire peuvent comporter, en fonction de
-la gravité de la déficience :
-
-spirographie ;
-
-gaz du sang (GDS) ;
-
-épreuve d'effort ;
-
-test de transfert du CO.
-
-Le taux d'incapacité sera apprécié en se référant à ces critères cliniques, et paracliniques.
-
-Si la concordance entre ces critères n'est pas toujours parfaite, ils permettent cependant de préciser correctement le seuil
-de 80 %. Dans tous les cas l'évaluation du taux se basera sur l'ensemble de ces critères permettant d'apprécier la gêne
-fonctionnelle réelle pour le sujet dans sa vie quotidienne.
-
-On prendra en compte comme pour les autres chapitres les déficiences associées éventuelles (motrices, neurologiques
-altération importante de l'état général...).
-
-Les déficiences de la fonction respiratoire peuvent être réparties en quatre classes définies comme suit :
-
-1. Déficience légère (taux : 1 à 15 p. 100)
-
-Selon l'importance de la gêne fonctionnelle : pas de retentissement dans les conditions normales de la vie quotidienne et
-socioprofessionnelle.
-
-Signes cliniques :
-
-ils peuvent se présenter sous forme de :
-
-- crises de dyspnée paroxystique fréquentes non quotidiennes ;
-
-- bronchorrhée chronique persistante tout au long de la journée.
-
-Examens paracliniques :
-
-- déficit fonctionnel ventilatoire avec une capacité vitale (CV) un volume expiratoire maximal seconde (VEMS) ou une capacité
-pulmonaire totale (CPT) compris entre 71 et 80 % de la valeur théorique, ou
-
-- anomalies de l'épreuve d'effort maximum, ou
-
-- test de transfert du CO entre 61 et 80 % de la valeur théorique.
-
-2. Déficience modérée (taux : 20 à 45 p. 100)
-
-Selon l'importance de la gêne fonctionnelle : quelques limitations dans la vie quotidienne et socioprofessionnelle ;
-
-signes cliniques :
-
-dyspnée paroxystique contrôlée par traitement continu avec crises fréquentes (moins d'une dizaine de crises par mois à titre
-indicatif) ;
-
-gêne respiratoire avec quelques limitations dans la vie quotidienne et socioprofessionnelle (impossibilité de courir, de
-porter des charges lourdes, montée lente des escaliers limitée à un ou deux étages) ;
-
-épisodes infectieux bronchiques répétés mais sans retentissement majeur sur la vie sociale et professionnelle.
-
-Signes paracliniques :
-
-soit déficit fonctionnel ventilatoire avec une CV, un VEMS ou une CPT compris entre 61 et 70 % de la valeur théorique ;
-
-soit apparition d'une hypoxémie à l'exercice (Pa 02 70 mHg) ;
-
-soit test de transfert du CO entre 51 et 60 % de la valeur théorique.
-
-3. Déficience importante (taux : 50 à 75 p. 100)
-
-Selon l'importance de la gêne fonctionnelle :
-
-aménagements notables de la vie quotidienne : marche lente avec périmètre de marche limité au logement et à l'environnement
-immédiat, montée des escaliers limitée à un étage, port de charges impossible, autonomie conservée pour les actes de la vie
+2. Troubles d'importance moyenne entraînant des interdits et quelques signes objectivables d'incapacité fonctionnelle,
+permettant cependant le maintien de l'autonomie et de l'insertion du sujet dans la vie sociale, scolaire, professionnelle ou
 quotidienne.
 
-Signes cliniques :
+3. Troubles importants obligeant à des aménagements notables de la vie quotidienne, qui se trouve alors limitée au logement
+ou à l'environnement immédiat ou nécessite des aides ou efforts particuliers pour maintenir une vie sociale, scolaire,
+professionnelle ou quotidienne dans les limites de la normale. L'autonomie est cependant conservée sans effort majeur pour
+les actions relevant de l'autonomie individuelle telles que définies dans l'introduction du présent guide-barème. Ce niveau
+de troubles définit l'obtention d'un taux au moins égal à 50 %.
 
-dyspnée à la marche lente (ne peut plus marcher à son pas) ;
+4. Troubles graves ou majeurs entraînant la réduction de l'autonomie individuelle. Le seuil de 80 % est ainsi atteint.
 
-ou signes de retentissement cardiaque ;
+Dans les cas fréquents d'une déficience viscérale ou générale associée à d'autres déficiences (psychiques, visuelles,
+motrices...) secondaires ou non par rapport à l'affection à l'origine de la déficience principale, il conviendra de se
+reporter aux chapitres correspondant à chacune des déficiences concernées. C'est le cas par exemple pour une déficience
+endocrinienne liée à un diabète, qui peut s'accompagner de déficiences visuelles, motrices, etc., en cas de lésions
+oculaires, d'amputation, etc., survenant au cours de cette affection.
 
-ou asthme à dyspnée continue malgré le traitement ou avec crises sévères (à titre indicatif, plus d'une dizaine par mois).
+Section 1
 
-Signes paracliniques :
+Les déficiences viscérales et générales
 
-soit un déficit fonctionnel ventilatoire avec CV, VEMS ou CPT compris entre 40 et 60 % de la valeur théorique ;
+I. - Déficiences des fonctions cardio-respiratoires
 
-soit une hypoxémie au repos comprise entre 60 et 70 mmHg ;
+I-1. Déficience de la fonction myocardique
 
-soit une hypoxémie d'effort comprise entre 60 et 50 mmHg (60 Pa 02 50 mmHg) ;
+Quelle qu'en soit l'étiologie, y compris génétique ou iatrogène, le niveau de retentissement est en général bien corrélé au
+niveau de la déficience elle-même en terme d'insuffisance cardiaque. Celle-ci est en pratique facilement objectivable par des
+examens paracliniques qui permettent une mesure de la fonction (échographie, scintigraphie...). Il ne faut cependant pas
+négliger l'analyse de facteurs associés intrinsèques telle l'obésité, ou environnementaux telles les conditions géographiques
+ou climatiques, qui en majorent l'impact sur les capacités réelles de la personne. Une déficience de la fonction myocardique
+peut :
 
-soit des signes électriques et radiologiques de retentissement cardiaque droit.
+- n'avoir aucune conséquence quand elle est bien contrôlée par un traitement peu contraignant (cf. infra section 2) ;
 
-Cas particulier de la mucoviscidose :
+- avoir un niveau de contrainte important en matière de régime ou d'activité, quand l'état clinique est très instable et que
+le moindre écart est suivi d'une décompensation ;
 
-on attribuera un taux compris entre 50 et 75 % dans les cas suivants :
+- entraîner un confinement au domicile, voire au lit ou au fauteuil, avec dyspnée au moindre effort entravant toute activité
+dans les stades ultimes d'évolution.
 
-syndrome bronchique avec toux et expectoration nécessitant le recours à une kinésithérapie quotidienne ;
+La fréquence des décompensations et l'analyse de leurs conséquences dans la vie de la personne sont donc les principaux
+éléments à explorer.
 
-syndrome infectieux bronchique limité à une colonisation chronique à staphylo ou à haemophilus traité par antibiothérapie
-orale épisodique ;
+Il convient également de prendre en compte la dimension évolutive souvent inéluctable des pathologies à l'origine de cette
+déficience (évolution spontanée ou liée à un traitement).
 
-syndrome infectieux sinusien caractérisé par une altération de l'image radiologique sans polypose ;
+I-2. Déficience de la fonction coronaire
 
-épreuves fonctionnelles respiratoires caractérisées à ce stade par un abaissement du VEMS ;
+La déficience de l'irrigation du muscle cardiaque entraîne par elle-même des contraintes et limites en particulier à
+l'effort. Elle peut de plus avoir à terme des conséquences sur la fonction myocardique, qui seront à analyser en fonction de
+leur retentissement propre (cf. supra).
 
-absence de désaturation nocturne ou à l'effort ;
+La fréquence des crises malgré le traitement et les recommandations en matière d'activité qui en découlent devront être
+analysées au vu de leurs conséquences sur la vie quotidienne et la socialisation de la personne.
 
-image radiologique caractérisée par un début de foyers d'impactions mucoïdes, un emphysème modéré.
+I-3. Déficiences de la régulation du rythme cardiaque
 
-L'atteinte de la fonction respiratoire s'inscrit ici dans un cadre clinique correspondant à une atteinte cotée entre 80 et
-100 dans le score de Shwachman où se trouvent pris en compte :
+Leurs conséquences dans la vie de la personne sont variables compte tenu des traitements et appareillages. Il conviendra
+d'évaluer soigneusement, d'une part, les incapacités révélées par certaines situations limitant l'activité (comme la
+confrontation à des facteurs d'environnement) et, d'autre part, les conséquences des traitements.
 
-- l'activité générale ;
+I-4. Déficiences vasculaires périphériques d'origine artérielle, veineuse ou lymphatique
 
-- l'examen clinique ;
+Leur retentissement sur la station debout et les capacités de déplacement de la personne devra être pris en compte de façon
+similaire au retentissement des déficiences motrices, les incapacités en résultant étant de même nature.
 
-- la nutrition ;
+Elles peuvent également occasionner des déficiences esthétiques ou des fonctions cutanées qui seront à prendre en compte en
+référence au chapitre concerné.
 
-- l'image thoracique.
+I-5. Déficiences respiratoires
 
-4. Déficience sévère (taux : 80 à 95 p. 100)
+Quelle qu'en soit l'étiologie, le niveau de retentissement est en général bien corrélé au niveau de la déficience elle-même
+en terme d'insuffisance respiratoire. Celle-ci est objectivable par des examens paracliniques, mais il est nécessaire de
+prendre en compte des situations où le niveau des performances en situation d'examen est différent de celui constaté dans les
+situations de vie quotidienne. Ainsi, des incapacités révélées par certaines situations (confrontation à des éléments
+d'environnement tels que la pollution ou les allergènes, sensibilité accrue aux agents infectieux...) se rencontrent
+fréquemment avec ce type de déficiences.
 
-Selon l'importance de la gêne fonctionnelle : perte de l'autonomie pour les actes de la vie quotidienne.
+Les incapacités concernant la locomotion sont également souvent présentes.
 
-Signes cliniques :
+Par ailleurs, ce type de déficience peut nécessiter des traitements répétés, contraignants, qu'il est nécessaire de prendre
+en compte (cf. infra section 2).
 
-insuffisance respiratoire grave avec dyspnée continue et tirage au repos et à la parole, cyanose ;
+Enfin, la dimension de l'évolutivité souvent inéluctable doit être prise en compte, pouvant conduire jusqu'au confinement au
+domicile, voire au lit ou au fauteuil, avec dyspnée au moindre effort entravant toute activité.
 
-dyspnée à la moindre activité de la vie courante ;
+I-7. Déficiences de la délivrance d'oxygène aux tissus
 
-insuffisance cardiaque droite permanente ;
+Quels qu'en soient la cause et le niveau d'atteinte au cours de la chaîne du transport de l'oxygène (y compris
+hématologique : cf. infra 6.1), les conséquences atteignent potentiellement tous les tissus et organes. A ce titre, elles ont
+un retentissement en termes d'incapacité et de désavantage qu'il conviendra d'analyser en référence aux différents chapitres
+concernés de façon globale.
 
-insuffisance respiratoire sévère nécessitant une assistance ventilatoire continue et entraînant une dépendance totale et
-permanente.
+II. - Déficiences de la fonction de digestion
 
-Signes paracliniques : déficit fonctionnel ventilatoire avec une CV, un VEMS ou une CPT inférieur à 40 % de la valeur
-théorique ; hypoxémie de repos avec Pa 02 50 mmHg, ou signes permanents périphériques et électrocardiographiques de
-retentissement ventriculaire droit.
+Les éléments suivants, permettant d'évaluer le retentissement fonctionnel des déficiences de l'appareil digestif, sont à
+rechercher particulièrement :
 
-Cas particulier de la mucoviscidose :
+Les troubles de la prise alimentaire, parmi lesquels notamment :
 
-toute situation clinique du premier âge inaugurée par une détresse néonatale inductrice de forme pulmonaire sévère dès les
-premières années de la vie justifie de l'attribution d'un taux au moins égal à 80 %.
+- gêne à la prise alimentaire (impossibilité de prise des aliments solides ou liquides, défaut de salivation...) ;
 
-Le taux de 80 % sera également attribué lors de la survenue :
+- troubles de l'appétit ;
 
-- d'un broncho-spasme surajouté, ou
+- fausses routes ;
 
-- d'atteintes bronchiques caractérisées par l'implantation du pseudomonas en entraînant le recours à l'antibiothérapie orale
-ou intraveineuse séquentielle ou sur demande médicale, ou
+- nécessité d'une alimentation artificielle entérale ou parentérale ;
 
-- d'une toux constante, expectoration mucopurulente, souvent dyspnée, cyanose, hippocratisme digital.
+- nausées, vomissements.
 
-Anomalie des épreuves fonctionnelles respiratoires (VEMS ou CPT) amputées de 40 % de la valeur théorique.
+Les troubles du transit, parmi lesquels notamment :
 
-Perturbation des constantes gazométriques : chute de la PO 2 au-dessous de 60, désaturation nocturne ou à l'effort
-nécessitant une oxygénothérapie 15 heures sur 24.
+- diarrhée, malgré le traitement ;
 
-Sur le plan clinique général, ces situations correspondent à un score de Shwachman au-dessous de 60.
+- constipation ayant un retentissement important dans la vie quotidienne.
 
-On prendra en compte les déficiences associées lorsqu'elles existent selon les modalités habituelles. Notamment pour la
-mucoviscidose, on se reportera à la section sur les déficiences de la fonction digestive (section 3) (déficiences du pancréas
-exocrine, déficiences de la fonction hépatique) sur les déficiences d'origine endocrinienne et/ou métabolique (section 5)
-ainsi que les troubles de la vie affective et émotionnelle (chapitres Ier et II) (taux : 1 à 15 %).
+Les troubles sphinctériens, parmi lesquels notamment :
 
-II. - CAS PARTICULIERS
+- incontinence fécale partielle ou totale ;
 
-1. Pathologie tumorale
+- stomies et leur retentissement dans la vie quotidienne.
 
-Cancers bronchiques, pulmonaires et pleuraux (durée limitée à deux ans avec réévaluation des séquelles ensuite) (taux
-supérieur à 80 %).
+L'altération de l'état général et les signes fonctionnels digestifs pouvant être paroxystiques ou continus, tels notamment
+les douleurs, l'asthénie et l'amaigrissement.
 
-2. Séquelles d'exérèse chirurgicale
+III. - Déficiences de la fonction hépatique
 
-Se reporter aux critères d'insuffisance respiratoire (I).
+La fonction hépatique est une fonction biologique complexe, dont l'altération peut donner lieu à des retentissements variés,
+comme par exemple :
 
-Exemples :
+- sur l'hémostase ;
 
-- pneumectomie partielle avec poumon sain par ailleurs entraînant une impossibilité de courir ou de porter des charges
-lourdes, montée lente des escaliers limitée à un ou deux étages (taux : 20 à 45 %) ;
+- sur les fonctions supérieures ;
 
-- pneumectonie totale entraînant une déficience importante (taux : 50 à 75 %).
+- sur le comportement (anxiété, sommeil, irritabilité...) ;
 
-3. Transplantation pulmonaire.
+- sur l'état général (fatigue, amaigrissement...).
 
-Elle justifie à elle seule d'un taux au moins égal à 50 % pouvant atteindre 80 % en cas de surinfections bronchiques
-répétées, de contraintes thérapeutiques lourdes, ou de pathologie sous-jacente restant évolutive.
+Il convient donc de ne pas se limiter à la mesure biologique de la fonction hépatique, qui ne reflète pas les conséquences de
+la perturbation sur la vie quotidienne de la personne, et d'apprécier les déficiences qui en découlent conformément aux
+différents chapitres concernés.
 
-4. LA DOULEUR
+Comme pour les autres déficiences viscérales, et compte tenu de l'importance vitale de la fonction hépatique, ses altérations
+peuvent faire l'objet de traitements agressifs ou très particuliers comme la transplantation d'organe.
 
-On majorera arithmétiquement le taux proposé de 1 à 5 % en cas de douleur.
+Les conséquences de ces traitements dans la vie de la personne sont éventuellement beaucoup plus importantes que l'atteinte
+elle-même à la fonction, mais ces traitements visent à éviter une évolution ultérieure vers des complications graves, voire
+le décès.
 
-SECTION 3
+Il est donc essentiel d'apprécier le retentissement du traitement suivi et les contraintes qu'il occasionne sur l'autonomie
+individuelle ainsi que sur l'insertion sociale et professionnelle.
 
-DÉFICIENCES DE LA FONCTION DE DIGESTION
+IV. - Déficiences des fonctions rénales et urinaires
 
-Les rédacteurs proposent un guide, d'une part, pour la fonction digestive que l'on pourrait qualifier de mécanique et,
-d'autre part, pour la fonction hépatique qui a été isolée.
+On peut distinguer plusieurs types de déficiences :
 
-Les troubles doivent être suffisamment durables pour retentir sur la vie quotidienne et socioprofessionnelle.
+- liées aux fonctions d'épuration : filtration et excrétion ;
 
-I. - Déficiences de l'appareil digestif
+- liées aux fonctions d'élimination ;
 
-Les critères permettant d'évaluer le retentissement fonctionnel des déficiences de l'appareil digestif sont les suivants :
+- liées aux fonctions endocriniennes assurées par le rein.
 
-les troubles de la prise alimentaire ;
+Ces différents types de déficiences peuvent être diversement associés et les traitements sont également variés.
 
-les troubles du transit ;
+IV-1. Déficience des fonctions d'épuration :
 
-les troubles sphinctériens ;
+filtration et excrétion
 
-l'état général, les manifestations cliniques pouvant être paroxystiques ou continues.
+Les traitements et mesures hygiéno-diététiques éventuels mis en place pour retarder l'évolution de cette déficience sont en
+général contraignants ou provoquent par eux-mêmes la survenue d'autres déficiences qui seront à prendre en compte en
+référence aux chapitres concernés.
 
-La gêne fonctionnelle permettra de moduler, si besoin, les taux à l'intérieur des fourchettes en fonction du niveau de gêne
-fonctionnelle constatée. Pour ce qui concerne les douleurs, en fonction de leur importance, un taux estimatif sera ajouté sur
-la capacité restante.
+A un stade plus avancé, la survie de la personne dépend de traitements extrêmement contraignants et entraînant des
+incapacités qui peuvent être importantes, notamment les incapacités révélées par certaines situations. Ces incapacités et
+contraintes seront à apprécier en s'appuyant sur la section 2 du présent chapitre. Le retentissement des déficiences
+associées, notamment endocriniennes et psychiques, sera pris en compte également en référence aux chapitres concernés.
 
-Quatre niveaux de déficience peuvent être définis :
+IV-2. Déficience de la fonction d'élimination
 
-1° Déficience légère sans retentissement dans les conditions normales de la vie quotidienne et socioprofessionnelle :
+En dehors de son retentissement à terme sur la précédente, elle fait souvent l'objet de traitements, chirurgicaux ou d'autres
+types, dont il sera nécessaire d'apprécier les conséquences en termes de contraintes ultérieures pour la vie quotidienne de
+la personne. Le retentissement de la nécessité d'une élimination par appareillage temporaire ou définitif sera notamment
+évalué.
 
-nausées épisodiques ;
+IV-3. Déficiences des fonctions endocriniennes rénales
 
-diarrhées ou constipation occasionnelles cédant rapidement sous traitement ;
+Elles sont fréquemment associées à la déficience des fonctions de filtration et devront être prises en compte conformément au
+chapitre concerné.
 
-douleurs à la défécation ;
-
-hémorragie cédant sous traitement symptomatique.
-
-Ces troubles fonctionnels ne retentissent pas sur l'état général et les examens cliniques sont normaux (taux : 1 à 15 %).
-
-2° Déficience moyenne avec quelques limitations dans la vie quotidienne et socioprofessionnelle (taux : 20 à 40 %) :
-
-nausées fréquentes avec vomissements nécessitant un traitement permanent ;
-
-diarrhée ou constipation répétée nécessitant un traitement permanent ;
-
-troubles sphinctériens à type de fistule laissant le passage de certaines matières.
-
-Ces troubles fonctionnels ne retentissent pas sur l'état général de façon importante (la perte pondérale étant inférieure à
-10 % du poids du corps). L'asthénie reste modérée mais les examens paracliniques mettent en évidence des anomalies.
-
-3° Déficience importante obligeant à des aménagements de la vie quotidienne (taux : 50 à 75 %) :
-
-gêne à la prise alimentaire avec impossibilité de prise des aliments solides ;
-
-anorexie sévère ;
-
-diarrhée permanente malgré le traitement ;
-
-incontinence fécale partielle.
-
-Tous ces troubles retentissent sur l'état général de façon importante avec une perte pondérale de 10 à 20 % du poids du corps
-et une asthénie marquée. Les examens paracliniques mettent par ailleurs en évidence une pathologie organique manifeste.
-
-4° Déficience sévère avec abolition totale d'une fonction de l'appareil digestif (taux de 80 à 90 %) :
-
-incapacité de s'alimenter ou anorexie totale nécessitant une alimentation artificielle ;
-
-diarrhée permanente totale telle que toute prise alimentaire per os est impossible ;
-
-incontinence fécale totale.
-
-Tous ces troubles fonctionnels retentissent de façon sévère avec une perte pondérale supérieure à 20 % du poids du corps
-entraînant un état cachectique. Les examens paracliniques mettant en évidence une pathologie organique grave.
-
-Cas particuliers :
-
-1° Les phénomènes douloureux étant des symptômes subjectifs, il a été proposé de rajouter un taux sur la capacité restante,
-soit :
-
-10 % pour les douleurs épisodiques n'entravant pas la vie quotidienne et nécessitant un traitement occasionnel ;
-
-20 % pour les douleurs beaucoup plus fréquentes gênant la vie quotidienne et nécessitant un traitement permanent ;
-
-30 % pour les douleurs permanentes retentissant sur l'état général avec des manifestations physiques telles qu'un faciès
-douloureux et un aspect dépressif entravant toute activité.
-
-2° Cas particulier des stomies définitives :
-
-colostomie : 70 % ;
-
-oesophagostomie, gastrostomie, jéjunostomie, iléostomie : 80 %.
-
-On majorera le taux lorsque l'appareillage est rendu difficile (obésité, maigreur, difficultés de manipulation,
-malvoyance...).
-
-3° Iléostomie sur iléus méconial à la naissance, 80 % jusqu'à l'âge de trois ans, évaluation à nouveau dans la quatrième
-année.
-
-4° Les exérèses :
-
-Pour la gastrectomie partielle ou totale, le taux sera fixé en fonction des éléments ci-dessus, la gêne fonctionnelle pouvant
-être très variable.
-
-Pour les résections intestinales, le taux sera fixé en fonction de la gêne fonctionnelle séquellaire et de l'obligation ou
-non d'une stomie.
-
-II. - DÉFICIENCES DE LA FONCTION HÉPATIQUE
-
-Les critères permettant d'évaluer le retentissement fonctionnel sont les suivants :
-
-les signes cliniques d'examen ;
-
-les signes biologiques ;
-
-les signes histologiques (ponction biopsique hépatique) ;
-
-le retentissement sur l'état général et les complications : hypertension portale, varices oesophagiennes, insuffisance
-hépatique, encéphalopathie hépatique, hépatocarcinome.
-
-Nota. - L'atteinte hépatique aiguë sans séquelles ne sera pas prise en compte.
-
-1. Déficience hépatique légère avec atteinte chronique bien compensée (taux : 1 à 15 %) :
-
-avec perturbations biologiques ;
-
-test de cytolyse inférieur à cinq fois le taux normal ;
-
-sans hypertension portale ;
-
-sans encéphalopathie ;
-
-sans insuffisance hépatique.
-
-2. Déficience hépatique moyenne avec atteinte chronique et quelques signes de décompensation (taux : 20 à 45 %) :
-
-avec perturbation des tests de cytolyse supérieurs X5 ou gamma globulines sériques supérieures à 20 g/l ;
-
-hypertension portale ;
-
-varices oesophagiennes sans hémorragie ;
-
-pas d'encéphalopathie, suivant les douleurs, l'importance et la gravité des poussées et le retentissement sur l'état général.
-
-3. Déficience hépatique importante avec signes de décompensation majeurs mais réductibles (taux : 50 à 75 %) :
-
-épisodes hémorragiques contrôlés par le traitement ;
-
-épisodes ascitiques contrôlables ou épisodes d'encéphalopathies invalidantes.
-
-4. Déficience hépatique sévère lorsqu'il existe plusieurs signes de décompensation cités ci-dessous (taux : plus de 80 %) :
-
-ascite irréductible ;
-
-hémorragies graves répétées ;
-
-encéphalopathie prolongée avec détérioration intellectuelle grave.
-
-Cas particuliers (taux : plus de 80 %) :
-
-les tumeurs du foie :
-
-hépatocarcinome ou tumeur secondaire ;
-
-angiosarcome du foie.
-
-Transplantation hépatique (taux : plus de 50 %).
-
-Déficience du pancréas exocrine :
-
-greffe du pancréas : 70 %.
-
-SECTION 4
-
-DÉFICIENCES DES FONCTIONS RÉNALES ET URINAIRES
-
-I. - Déficience rénale
-
-Le terme de déficience rénale couvre un champ plus large que celui d'insuffisance rénale.
-
-La déficience rénale prend en compte en effet les situations où l'atteinte de l'appareil urinaire se traduit par des signes
-cliniques avec ou sans insuffisance rénale.
-
-1. Déficience rénale légère (taux : 1 à 15 %) :
-
-imposant une surveillance clinique et biologique régulière, sans retentissement sur la vie quotidienne et
-socioprofessionnelle.
-
-Exemples :
-
-pathologies avec hématurie ou protéinurie isolée, manifestations cliniques bien compensées, manifestations biologiques
-d'intensité légère (clairance de la créatinine supérieure à 70 ml/mn).
-
-tubulopathie chronique avec manifestations cliniques et métaboliques nécessitant une surveillance biologique et clinique
-régulière.
-
-2. Déficience rénale modérée (taux : 15 à 45 %) :
-
-imposant une surveillance clinique et biologique régulière, un régime ou un traitement médicamenteux, mais compatible avec
-une vie professionnelle adaptée.
-
-Insuffisance rénale dont la clairance de la créatinine est comprise entre 30 % et 70 % de la normale, manifestations
-cliniques modérées (asthénie, anémie, hypertension artérielle, syndrome néphrotique).
-
-Tubulopathie chronique avec manifestations cliniques et métaboliques (diabète insipide, kypokaliémie, hyponatrémie,
-hypercalciurie, acidose, etc.) imposant surveillance régulière, diététique et traitement adaptés.
-
-Lithiase (l'insuffisance rénale ou les conséquences parenchymateuses étant évaluées pour leur propre compte) avec crises
-douloureuses hématuriques, épisodes de surinfection.
-
-3. Déficience rénale importante (taux : 50 à 75 %) :
-
-non compensée par le régime et le traitement, retentissant de façon marquée sur la vie quotidienne et professionnelle.
-
-Clairance de la créatinine inférieure à 30 ml/mn et supérieure à 10 ml/mn.
-
-Insuffisance rénale grave avec manifestations cliniques permanentes (anémie, hypertension artérielle, syndrome néphrotique,
-manifestations osseuses ou neuromusculaires).
-
-4. Déficience rénale sévère (taux : 80 à 95 %) :
-
-Clairance de la créatinine < 10 ml/mn.
-
-Insuffisance rénale chronique sévère nécessitant un traitement de suppléance (dialyse péritonéale, rein artificiel) selon le
-degré de compensation clinique, le retentissement sur la vie quotidienne et professionnelle.
-
-Remarque : l'insuffisance rénale greffée sera évaluée selon la valeur de la fonction rénale rétablie (se reporter pour cela à
-l'échelle fonctionnelle), la tolérance du traitement immunosupresseur, la persistance de manifestations cliniques
-d'insuffisance rénale. Le taux sera d'au moins 30 %.
-
-II. - Déficiences de l'appareil urinaire
-
-Sont prises en compte les anomalies fonctionnelles de l'appareil urinaire (rétention ou incontinence), étayées par la
-pratique d'examens paracliniques chaque fois que possible.
-
-Les douleurs, lorsqu'elles sont présentes, seront évaluées de façon indépendante, et leur taux estimé ajouté, selon la règle
-habituelle.
-
-Les douleurs :
-
-douleurs épisodiques modérées (taux : 5 à 10 %) ;
-
-douleurs fréquentes, perturbant l'activité quotidienne (taux : 2 %) ;
-
-douleurs quasi-permanentes, retentissant sur l'état général (taux : 30 %).
-
-1. Les troubles fonctionnels :
-
-a) Troubles fonctionnels légers ou intermittents (pollakiurie, dysurie, incontinence urinaire intermittente en orthostatisme)
-(taux : 1 à 20 %).
-
-b) Troubles fonctionnels permanents ;
-
-incontinence urinaire :
-
-compte tenu de l'appareillage et de la gêne fonctionnelle résiduelle (taux : 50 à 60 %).
-
-Rétention urinaire :
-
-permanente nécessitant la pose d'une sonde urinaire (taux : 70 %) ;
-
-rétention urinaire contrôlée (mictions par percussion) (taux : 50 %) ;
-
-stomies chirurgicales (cytostomie, urétérostomie) selon la tolérance (taux : 70 à 80 %).
-
-En cas de plusieurs stomies quelle qu'en soit la nature (taux : 80 %).
-
-SECTION 5
-
-DÉFICIENCES D'ORIGINE ENDOCRINIENNE, MÉTABOLIQUE ET ENZYMATIQUE
-
-L'éventail de ces déficiences est tel qu'il n'est pas possible de proposer un guide exhaustif (qui, d'ailleurs, n'aurait
-qu'une réalité éphémère), c'est pourquoi il n'est proposé que quelques exemples-repères cliniques parmi les plus souvent
-rencontrés, qui permettront au médecin de se situer par rapport au sujet examiné.
+V. - Déficiences d'origine endocrinienne, métabolique et enzymatique
 
 Quelle qu'en soit l'étiologie, une déficience d'origine endocrinienne, métabolique ou enzymatique sera appréciée selon
-l'intensité de la gêne fonctionnelle (réduction des capacités de déplacements, de l'activité, etc.) et le poids des
-contraintes médicales inhérentes à cette déficience (régime, traitements médicamenteux, surveillance régulière).
+l'intensité de la gêne fonctionnelle (réduction des capacités de déplacement, de l'activité...), mais également, et parfois
+exclusivement, selon le poids des contraintes médicales, en général de longue durée, imposées par le traitement. En effet,
+les processus pathologiques et les déficiences sont souvent bien contrôlés, mais au prix de prises médicamenteuses répétées,
+d'effets secondaires et d'interdictions et entraves diverses. Ces éléments sont alors en eux-mêmes constitutifs du handicap,
+la prise en charge médicale ayant réduit les déficiences d'origine et éloigné un pronostic fatal à plus ou moins long terme.
 
-Les examens paracliniques seront pris en compte pour quantifier l'importance du désordre métabolique, et contrôler
-éventuellement son équilibre.
+Il sera donc nécessaire non seulement d'apprécier l'importance du désordre métabolique (en s'aidant des résultats d'examen
+paraclinique) mais également d'analyser soigneusement les conséquences, qui ne sont pas forcément corrélées à l'importance du
+trouble et qui peuvent être variables dans le temps, notamment en fonction de l'évolution des thérapeutiques proposées par
+les professionnels de santé.
 
-L'existence de complications viscérales, fréquentes dans ce domaine, impose le recours aux chapitres ad hoc.
+V-1. Déficience de la régulation glycémique
 
-I. - DIABÈTE (SUCRE)
+Chez les adultes, dès lors que la personne est correctement éduquée et gère elle-même son traitement et son alimentation,
+seuls les cas compliqués, à l'équilibre instable impliquant de fréquentes hospitalisations et une surveillance
+particulièrement rapprochée, entraînent des contraintes d'un niveau important.
 
-1. Diabète non insulino-dépendant impliquant régime, surveillance, éventuellement médications administrées par voie orale
-(taux : 5 à 20 %).
+Chez les enfants ou les adolescents en début de traitement, il existe des enjeux majeurs en terme de prévention des
+complications et d'un surhandicap à terme. Dans certains cas, l'éducation devant conduire le jeune vers l'autonomie dans la
+gestion de son problème de santé peut nécessiter la mise en place de moyens particuliers qui sont alors assimilés à une
+éducation spéciale. Il convient donc d'en peser soigneusement le retentissement dans la vie quotidienne et les contraintes
+entraînées pour la famille. Dans quelques cas, notamment pour les très jeunes enfants, elles seront lourdes et durables et
+devront être prises en compte. Elles seront cependant généralement temporaires et la situation devra être réévaluée
+périodiquement.
 
-2. Diabète insulino-requérant (type intermédiaire) (taux : 15 à 30 %).
+Dans tous les cas, des déficiences associées peuvent survenir au cours de l'évolution, dont les conséquences seront à
+apprécier en référence aux chapitres concernés du guide barème.
 
-3. Diabète insulino-dépendant équilibré (taux : 25 à 35 %).
+V-2. Déficience de la régulation pondérale
 
-4. Diabète insulino-dépendant instable avec incidents hypoglycémiques et/ou céto-acidosiques fréquents ou graves et/ou avec
-hospitalisations répétées, difficile à équilibrer avec comas fréquents (taux : 50 à 75 %).
+En cas de surpoids majeur, cette déficience peut entraîner des incapacités, notamment en matière de locomotion (posture,
+utilisation du corps, changement de position) ou de manipulation, et une réduction importante et durable des activités. Le
+traitement diététique est également contraignant, mais en général compatible avec une vie sociale normale.
 
-On prendra en compte, selon les règles habituelles, les complications de diabète : visuelles, artéritiques...
+La cachexie entraîne également par elle-même, quels qu'en soient les causes et le pronostic, des incapacités en matière de
+locomotion et une réduction durable des activités.
 
-II. - OBÉSITÉ
+Ces problèmes de santé peuvent entraîner ou être associés à des déficiences d'autre nature (motrice, psychique,
+viscérales...) qui devront également être évaluées.
 
-1. Obésité modérée, imposant régime continu et surveillance régulière (taux : 1 à 10 %).
+V-3. Déficience de la taille
 
-2. Obésité marquée, réduisant l'activité, entraînant une gêne fonctionnelle à l'effort (taux : 15 à 40 %).
+Ces déficiences ont des conséquences fonctionnelles en général liées à l'environnement : la situation de chaque personne
+devra donc être évaluée en tenant compte de la possibilité de mobiliser des adaptations permettant des activités et une
+insertion sociale satisfaisantes. Il conviendra de tenir compte des capacités de déplacement et d'éventuelles déficiences
+associées.
 
-3. Obésité monstrueuse avec dyspnée, limitation des mouvements (taux : 50 à 75 %).
+V-4. Autres déficiences endocriniennes ou enzymatiques
 
-III. - NANISME
+Elles sont très variées, leurs diagnostics et traitements sont particulièrement susceptibles d'évolution. Il convient donc,
+pour chaque situation particulière, d'évaluer soigneusement le retentissement, en tenant compte notamment :
 
-1. Retard staturo-pondéral simple (taux : 1 à 10 %).
+- des incapacités révélées par certaines situations : interdiction d'exposition à des facteurs d'environnement particuliers
+(physique, alimentaire, toxique, médicamenteux...) ;
 
-2. Nanisme marqué (1,20 mètre pour l'adulte), harmonieux (taux : 15 à 45 %).
+- d'incapacités variables dans le temps ;
 
-3. Nanisme dysharmonieux sévère, achondroplasie, dyschondroplasie (taux : 50 à 75 %).
+- des contraintes entraînées dans la vie courante du fait de ces facteurs, d'un régime alimentaire particulier, d'une
+adaptation nécessaire du milieu scolaire ou professionnel, ou des traitements ou appareillages.
 
-Ce taux peut atteindre 80 % s'il y a retentissement fonctionnel majeur.
+VI. - Déficiences des fonctions immuno-hématologiques
 
-IV. - DÉFICIENCES ENDOCRINIENNES
+Les fonctions hématologiques sont diverses ainsi que les causes de leurs atteintes.
 
-Hyperthyroïdie.
+Comme pour les autres déficiences viscérales, et compte tenu de l'importance vitale de ces fonctions, leurs altérations
+peuvent faire l'objet de traitements contraignants, agressifs, ou très particuliers comme la greffe de cellules, dont les
+conséquences dans la vie de la personne sont éventuellement beaucoup plus importantes que l'atteinte elle-même, mais qui
+visent à éviter une évolution ultérieure vers des complications graves, voire le décès.
 
-Hypothyroïdie.
+Il est donc essentiel d'apprécier le retentissement du traitement suivi et des contraintes qu'il entraîne sur l'insertion
+sociale et professionnelle et l'autonomie individuelle.
 
-Insuffisance surrénale.
+D'autre part, les atteintes liées à ces déficiences peuvent être associées ou entraîner des déficiences très variées d'autres
+types, dont les conséquences devront être prises en compte, en référence au chapitre concerné, dans l'analyse globale de la
+situation de la personne.
 
-Hypercorticisme (spontané ou iatrogène).
+On peut ainsi distinguer trois types de déficiences qui peuvent être associées entre elles lorsque la totalité des fonctions
+hématologiques est touchée :
 
-Diabète insipide, etc.
+VI-1. Déficiences des fonctions de délivrance de l'oxygène aux tissus
 
-1. Déficience légère imposant un traitement médical continu, une surveillance (taux : 1 à 15 %).
+Elles peuvent occasionner un retentissement important sur l'état général, comparable à certaines déficiences cardiaques et
+respiratoires : la fatigabilité, la mauvaise tolérance à l'effort sont les principales conséquences à rechercher.
 
-2. Déficience moyenne entraînant une gêne fonctionnelle marquée (fatigue, raideurs) (taux : 15 à 40 %).
+VI-2. Déficiences des fonctions immunitaires
 
-Les manifestations cliniques (éventuellement invalidantes) des déficiences enzymatiques sont extrêmement diverses dans leur
-intensité et leur qualité. Elles peuvent en effet entraîner des troubles dans toutes les sphères fonctionnelles, motrices,
-mentales, cardio-respiratoires, rénales...
+Quelle qu'en soit l'origine, elles induisent une fatigue quasi constante, des incapacités révélées par certaines situations,
+notamment la vulnérabilité accrue aux agents infectieux, et des contraintes médicales, en général de longue durée, imposées
+par les traitements.
 
-Certaines sont définies au niveau moléculaire, d'autres ne sont définies que par un faisceau convergent de données cliniques,
-biochimiques et génétiques. Une particularité commune à de nombreuses déficiences enzymatiques est d'être susceptible de
-s'aggraver et d'entraîner des manifestations majeures lorsque l'individu est placé dans un contexte particulier (physique,
-alimentaire, toxique médicamenteux, etc.). Il existe donc deux ordres de manifestations susceptibles d'être prises en compte
-dans l'évaluation :
+VI-3. Déficiences de l'hémostase
 
-- les déficiences liées à l'existence de manifestations permanentes ou répétées ;
+Quand il s'agit de déficiences prolongées, elles peuvent induire des déficiences motrices par atteinte répétée des
+articulations, dont il est nécessaire de tenir compte.
 
-- le risque de troubles majeurs à l'occasion d'une exposition particulière.
+Pour les trois types de déficiences mentionnées ci-dessus, les processus pathologiques et les déficiences sont parfois bien
+contrôlés, mais au prix de contraintes potentiellement lourdes. Les traitements sont souvent générateurs d'effets
+secondaires, prises médicamenteuses répétées, interdictions et entraves diverses. Ces éléments sont alors en eux-mêmes
+constitutifs du handicap.
 
-Les taux doivent être à nouveau évalués lorsque le traitement n'est plus aussi contraignant.
+Enfin, ces déficiences, parce qu'elles peuvent engager le pronostic vital, induisent des incapacités révélées par certaines
+situations, et notamment la restriction de certaines activités potentiellement à risque, qui devra être analysée.
 
-I. - Déficiences enzymatiques n'entraînant aucune manifestation clinique permanente, mais exposant à des risques majeurs en
-cas d'exposition à un environnement inadapté, d'effort physique intense, de prise d'aliment ou de médicament particulier
-(taux : 1 à 15 %).
+VII. - Déficiences des fonctions cutanées et troubles des phanères
 
-II. - Déficiences enzymatiques entraînant des manifestations permanentes mineures (intolérance à l'effort physique,
-courbatures, crampes, anémie, troubles digestifs, hématomes, etc.) et exposant à des risques majeurs dans les mêmes
-circonstances que celles exposées ci-dessus, et donc nécessitant une adaptation de la vie quotidienne et professionnelle
-(taux : 15 à 40 %).
+La peau est un organe particulier, qui représente un élément majeur dans la vie sociale. Ses atteintes peuvent donc avoir un
+retentissement direct à ce niveau, avec l'induction d'autres déficiences surajoutées, particulièrement psychiques,
+esthétiques ou motrices, qu'il faudra prendre en compte en référence à d'autres chapitres du guide barème.
 
-Exemples : déficit en enzymes de la glycogénolyse et de la glycolyse ; déficit en enzymes impliqués dans la dégradation des
-acides gras ; déficit des enzymes de la chaîne respiratoire ; hémoglobinopathies mineures ; hypercholestérolémies et
-hypertriglycéridémies familiales ; hémophilie et autres anomalies de la coagulation, etc.
+La douleur ou le prurit, ainsi que des incapacités variées, peuvent retentir fortement sur la vie familiale, sociale,
+scolaire ou professionnelle ou l'autonomie individuelle de la personne.
 
-III. - Déficiences enzymatiques entraînant des troubles majeurs permanents dans le domaine moteur, intellectuel, sensoriel ou
-viscéral.
+Par ailleurs, quand une superficie importante de la peau est atteinte, les contraintes des traitements peuvent s'en trouver
+considérablement alourdies et il convient donc d'être particulièrement attentif à ce point dans l'évaluation des conséquences
+au quotidien pour la personne.
 
-Exemples : sphingolipidoses, mucopolysasccharidoses.
+De la même façon que pour les autres déficiences de ce chapitre, il est nécessaire d'apprécier globalement leur
+retentissement ainsi que celui des déficiences qui leurs sont éventuellement associées.
 
-Le taux devra être apprécié en fonction des barèmes correspondant aux déficiences corrélatives.
+VII. - Déficiences génitales, sexuelles et de la reproduction
 
-SECTION 6
+Ces déficiences peuvent avoir des conséquences dans plusieurs domaines (physique, psychique...) variables selon les
+individus, qui seront donc à évaluer en se référant à chacun de ces chapitres.
 
-DÉFICIENCES HÉMATOPOIÉTIQUES ET DÉFICIENCES DU SYSTEME IMMUNITAIRE
+Elles peuvent avoir en elles-mêmes un retentissement direct sur la vie courante et l'intégration sociale des personnes, en
+particulier du fait des conséquences liées éventuellement aux traitements entrepris. Cependant, ces contraintes ne sont pas
+en règle générale permanentes et les traitements de ces déficiences ne sont pas à poursuivre dans le cas où ils sont mal
+tolérés, en raison de leur caractère non vital, contrairement à la plupart des déficiences listées ci-dessus.
 
-Elles peuvent être congénitales (hémoglobinopathies, hémophilies) ou acquises : (sida, chimiothérapie, cancers, leucoses,
-toxiques).
+Section 2
 
-Les manifestations secondaires peuvent être infectieuses (cérébrales, pulmonaires, cutanées, septicémies...) ou néoplasiques
-(cutanées, systémiques...).
+Eléments à prendre en compte dans l'évaluation de la situation de la personne
 
-Le praticien devra estimer la déficience tout en connaissant son évolutivité qui peut être très rapide.
+Les désavantages cités dans ce chapitre procèdent des incapacités et des contraintes, mais peuvent être majorés par certains
+symptômes ou des effets secondaires des traitements, qui sont à prendre en compte dès lors qu'ils évoluent au long cours.
 
-1. Déficience légère (taux : 1 à 10 %) :
+I. - Symptômes à rechercher, susceptibles d'entraîner ou de majorer des incapacités et désavantages
 
-Aucune manifestation clinique permanente mais avec des règles de vie particulières.
+Enumérés de façon non exhaustive dans cette section, les symptômes doivent être recherchés soigneusement, afin de mesurer
+leur impact.
 
-Exemples :
+Ils résultent de l'affection causale ou sont induits par les traitements et sont susceptibles d'aggraver l'entrave à la vie
+sociale, scolaire, professionnelle ou quotidienne, par exemple :
 
-- sujets VIH + ;
+- la douleur physique ou morale ;
 
-- leucoses et réticulopathies considérées comme guéries cliniquement.
+- l'asthénie, la fatigabilité, la lenteur ;
 
-2. Déficience modérée (taux : de 20 à 45 %) :
+- les insomnies, l'hypersomnie ;
 
-Manifestations permanentes, contrôlables par le traitement, exigeant une surveillance médicale permanente.
+- la vulnérabilité psychique ;
 
-Exemples :
+- les nausées ;
 
-- polyadénopathies ;
+- la diarrhée, les flatulences, la constipation ;
 
-- asthénie ;
+- l'amaigrissement ;
 
-- amaigrissement.
+- l'obésité ;
 
-3. Déficience importante (taux : 50 à 75 %) :
+- les oedèmes ;
 
-Syndrome clinique permanent, nécessitant une prise en charge thérapeutique (éventuellement pluridisciplinaire) continue.
+- la dyspnée ;
 
-Exemple :
+- la toux et l'expectoration ;
 
-- sujet présentant les éléments d'un Arc.
+- les troubles de la croissance staturo-pondérale ;
 
-4. Déficience sévère (taux : 80 à 95 %) :
+- le prurit.
 
-Manifestations majeures, impliquant des traitements médicaux permanents, incompatibles avec le maintien d'une activité
-professionnelle, retentissant de façon majeure sur la vie sociale.
+II. - Les incapacités
 
-Exemples :
+Les déficiences viscérales et générales peuvent occasionner des incapacités de toutes sortes.
 
-- sida avéré ;
+Il convient de rappeler qu'il est nécessaire d'avoir une approche globale de la situation de la personne et de s'assurer
+qu'elle ne présente pas d'autres déficiences ayant leurs propres conséquences en matière d'incapacité. En particulier, un
+éventuel retentissement des déficiences viscérales et générales sur la sphère psychique devra être systématiquement évalué.
 
-- leucose en phase évolutive ou affection hématologique ou immunitaire nécessitant un suivi médical continu en
-hospitalisation classique ou en hospitalisation de jour.
+Dans ce chapitre, on portera une attention particulière mais non exclusive à trois types d'incapacité les plus fréquents :
 
-CHAPITRE VII 
+II-1. Incapacités concernant la locomotion
 
-DÉFICIENCES DE L'APPAREIL LOCOMOTEUR 
+Les déficiences viscérales et générales ont souvent un impact non sur la capacité de se déplacer, mais plutôt sur la qualité
+du déplacement : en particulier, son maintien à son niveau optimal est souvent très entravé, de façon plus ou moins
+intermittente, par la fatigue, la douleur, la dyspnée ou la fonte musculaire par exemple. Il doit donc être porté une
+attention particulière aux capacités concrètes et à leur variabilité dans le temps.
 
-RÈGLES GÉNÉRALES 
+II-2. Incapacités concernant les soins corporels
 
-1-ÉVALUER LES DÉFICIENCES MOTRICES 
+La toilette comme l'habillage, ou la prise d'aliments, peuvent être rendus difficiles. Il est important de savoir si l'aide
+d'une tierce personne est nécessaire pour réaliser ces actes et la lourdeur de cette aide : doit-on aider dans l'installation
+et la préparation du geste, ou faire le geste complètement ou partiellement à la place de la personne ?
+
+L'élimination fécale ou urinaire : est-elle contrôlée ou non ? Nécessite-t-elle des protections ou appareillages ? Ceux-ci
+doivent-ils être disponibles en permanence ? Entraînent-ils des tâches supplémentaires ?
+
+II-3. Incapacités révélées par certaines situations
+
+Le risque vital, l'évolutivité, des changements itératifs de thérapies, ainsi que des incapacités fluctuantes en fonction du
+temps ou du traitement, peuvent interdire la réalisation de certaines activités.
+
+La diminution de la résistance physique ou psychique, l'incapacité de maintenir une position ou de supporter le rythme d'une
+activité peuvent en restreindre la qualité ou la durée.
+
+De même, l'exposition non supportée à certains facteurs d'environnement : froid, chaleur, intempéries, poussière, agents
+chimiques, humidité, luminosité, agents infectieux.
+
+III. - Les contraintes
+
+Elles sont liées à l'affection causale elle-même ou à la nécessité d'un traitement qui peut être curatif ou n'agir que sur la
+compensation de la déficience. Ce qui en fait un élément constitutif de handicap est en général la nécessité de maintenir
+cette contrainte de manière prolongée, nécessitant des réaménagements parfois majeurs de la vie de la personne et
+susceptibles d'entraver gravement son insertion sociale et son indépendance personnelle.
+
+Tous les éléments listés ci-dessous de façon non exhaustive doivent s'analyser conjointement, car, dans de nombreux cas, ils
+se conjuguent et s'aggravent mutuellement :
+
+- contrainte géographique : nécessité de se maintenir en permanence à proximité d'un dispositif de soin ou d'assistance ;
+
+- contraintes liées à la nécessité de présence, voire à la dépendance éventuellement vitale, d'un appareillage complexe,
+nécessitant un apprentissage particulier, ou des aménagements de l'habitat ;
+
+- contraintes liées au mode d'administration du traitement à des impératifs dans les horaires, les dosages, la voie
+d'administration (injection, perfusion, aérosols...) ;
+
+- contrainte de répétition : un traitement complexe à assurer de manière quotidienne ou pluriquotidienne constitue une
+entrave très importante ;
+
+- contrainte liée au temps consacré au traitement : plus celui-ci est important, plus il empiète sur l'insertion et
+l'autonomie de la personne, qui est rendue ainsi indisponible pour les autres activités ;
+
+- contrainte de présence ou d'assistance d'un tiers : le recours nécessaire à un tiers est d'une lourdeur proportionnelle à
+la quantité de temps et à la technicité que ce tiers doit déployer pour la personne ;
+
+- contraintes d'apprentissage de techniques particulières ou de soins ;
+
+- contraintes liées aux interactions médicamenteuses pouvant conduire à ne pas compenser certaines déficiences ;
+
+- contraintes alimentaires : régime avec éviction totale ou partielle de certains aliments, nécessité de se procurer des
+produits particuliers, nécessité de fractionnement ou d'horaires atypiques des prises alimentaires ;
+
+- contraintes liées à la charge affective des troubles.
+
+IV. - Situation des enfants ou adolescents
+
+Les conséquences des déficiences viscérales et générales dans la vie des enfants ou adolescents doivent être analysées en
+référence à :
+
+- l'état normal de dépendance à sa famille d'un enfant ou adolescent sans déficience ;
+
+- la particularité des enfants et adolescents d'être en phase de développement aussi bien physique que psychique ;
+
+- la nécessité à cette période de la vie de faire des apprentissages, de toute nature, dans des délais et à un âge donné.
+
+Il conviendra donc d'être particulièrement attentif pour eux aux éléments suivants :
+
+- contraintes supplémentaires liées aux déficiences, incapacités et traitements pour la famille ;
+
+- contraintes éducatives supplémentaires liées (en particulier chez le grand enfant et l'adolescent) à la nécessité de le
+rendre autonome vis-à-vis de ses troubles et de leur prise en charge ;
+
+- entraves à l'apprentissage normal de l'autonomie, et aux acquisitions de toute nature, ainsi que les contraintes qui en
+découlent pour la famille afin d'en minimiser l'impact sur l'avenir de l'enfant ou adolescent.
+
+Section 3
+
+Guide pratique pour la détermination du taux d'incapacité
+
+On donne ci-après un certain nombre de repères qui, pour chacun d'entre eux, constitue un critère suffisant pour
+l'attribution d'un taux compris dans la fourchette considérée. Toutefois, ces listes ne sont pas exhaustives et il revient à
+la commission d'apprécier par analogie avec ces exemples les cas particuliers qui lui sont soumis.
+
+I. - Troubles légers entraînant une gêne, quelques interdits rares ou des troubles subjectifs sans incapacité réelle
+constatée dans la vie sociale, scolaire, professionnelle ou quotidienne (taux de 0 à 15 %)
+
+Gestion autonome des contraintes et compensation des déficiences par la personne elle-même éventuellement à l'aide d'un
+appareillage.
+
+Traitement au long cours ou suivi médical n'entravant pas l'intégration scolaire, la vie sociale, familiale, professionnelle.
+
+Régime n'entravant pas la prise de repas à l'extérieur, moyennant quelques aménagements mineurs et ne nécessitant pas la
+présence d'un tiers.
+
+II. - Troubles d'importance moyenne entraînant des interdits et quelques signes objectivables d'incapacité fonctionnelle
+permettant cependant le maintien de l'autonomie individuelle et de l'insertion dans une vie sociale, scolaire ou
+professionnelle dans les limites de la normale (taux 20 à 45 %)
+
+Incapacités compensables au moyen d'appareillages ou aides techniques, gérés par la personne elle-même, n'entravant pas la
+vie sociale, familiale, professionnelle ou l'intégration scolaire.
+
+Traitements assumés par la personne elle-même moyennant un apprentissage, sans asservissement à une machine fixe ou peu
+mobile, et sans contrainte de durée rendant la personne indisponible pour d'autres activités de la vie sociale, scolaire ou
+professionnelle.
+
+Rééducations n'entravant pas l'intégration scolaire, la vie sociale, familiale, professionnelle.
+
+Régime permettant la prise de repas à l'extérieur, moyennant des aménagements importants, ou l'apport de nutriments mais ne
+nécessitant pas la présence d'un tiers.
+
+Pour les enfants, contraintes éducatives restant en rapport avec l'âge, ou limitées à une aide supplémentaire compatible avec
+la vie familiale, sociale ou professionnelle habituelle de la personne qui l'apporte.
+
+III. - Troubles importants obligeant à des aménagements notables de la vie quotidienne et nécessitant des aides ou efforts
+particuliers pour l'insertion ou le maintien dans une vie sociale, scolaire ou professionnelle dans les limites de la
+normale. L'autonomie est cependant conservée pour les actes relevant de l'autonomie individuelle (taux 50 à 75 %)
+
+Incapacités contrôlables au moyen d'appareillages ou d'aides techniques permettant le maintien de l'autonomie individuelle.
+
+Contraintes telles que définies à la section 2 du présent chapitre nécessitant le recours à une aide apportée par un tiers
+pour assurer le maintien d'une activité sociale et familiale.
+
+Contraintes liées à la nécessité de traitements, rééducations, utilisation d'appareillage ou de machine permettant, au prix
+d'aménagements, le maintien d'une activité sociale et familiale, mais se révélant un obstacle à la vie professionnelle en
+milieu ordinaire non aménagé ou à l'intégration scolaire en classe ordinaire.
+
+Contraintes liées à l'acquisition et à la mise en oeuvre par la personne elle-même ou son entourage de compétences
+nécessaires à l'utilisation et la maintenance d'équipements techniques.
+
+Régime ne permettant la prise de repas à l'extérieur que moyennant des aménagements lourds ou non compatible avec le rythme
+de vie des individus de même classe d'âge sans déficience.
+
+Troubles et symptômes fréquents ou mal contrôlés, et entraînant des limitations importantes pour la vie sociale, y compris la
+nécessité d'aide pour des tâches ménagères, mais n'entraînant pas le confinement au domicile, ni la nécessité d'une
+assistance ou surveillance quotidienne par une tierce personne.
+
+IV. - Troubles graves ou majeurs entraînant la réduction de l'autonomie individuelle
+
+Le seuil de 80 % est ainsi atteint :
+
+Un taux égal ou supérieur à 80 % correspond à la réduction de l'autonomie individuelle de la personne telle que définie à
+l'introduction du présent guide barème. Cette réduction de l'autonomie peut être liée à une ou plusieurs incapacités telles
+que définies à la section 2 du présent chapitre, y compris si elles surviennent du fait de troubles et symptômes de survenue
+fréquente ou mal contrôlés, éventuellement en lien avec les conséquences d'un traitement. Ce taux peut également correspondre
+à une déficience sévère avec abolition totale d'une fonction.
+
+Deux cas de figure peuvent se présenter et donner lieu à l'attribution d'un taux de 80 % :
+
+- les incapacités sont difficilement ou non compensées par des appareillages, aides techniques ou traitements ;
+
+- les incapacités ne sont compensées, y compris par une aide humaine, qu'au prix de contraintes importantes telles que
+décrites à la section 2 du présent chapitre.
+
+Seul un état végétatif chronique autorise l'attribution d'un taux d'incapacité de 100 %.
+
+CHAPITRE VII
+
+DÉFICIENCES DE L'APPAREIL LOCOMOTEUR
+
+RÈGLES GÉNÉRALES
+
+1 - ÉVALUER LES DÉFICIENCES MOTRICES
 
 Pour déterminer le taux d'une déficience motrice, il faut considérer la lésion (déficience) et son retentissement
 (incapacités) et non pas l'étiologie ; celle-ci (malformation, accident, maladie, etc.) peut en effet être différente (ou
-multiple) pour une même déficience. 
+multiple) pour une même déficience.
 
 La ou (les) déficience (s) doivent être suffisamment durable (s) pour retentir sur la vie sociale et professionnelle, mais
 elles peuvent encore être évolutives au moment de l'évaluation. Dans tous les cas, l'expert apprécie la situation au moment
-de l'examen. 
+de l'examen.
 
-2-DÉFICIENCES ASSOCIÉES 
+2 - DÉFICIENCES ASSOCIÉES
 
 Sauf pour les troubles sensitifs, dont l'existence amènera à majorer de 5 p. 100 à 15 p. 100 les taux dans le cadre du
 chapitre : Déficiences motrices ou paralytiques, on devra systématiquement évaluer et cumuler les déficiences associées aux
-déficiences motrices (en particulier dans les pathologies complexes et / ou disséminées telles que accidents vasculaires,
-tétraplégie, sclérose en plaques...). 
+déficiences motrices (en particulier dans les pathologies complexes et/ ou disséminées telles que accidents vasculaires,
+tétraplégie, sclérose en plaques...).
 
-Pour mémoire les déficiences associées aux déficiences motrices les plus fréquentes sont : 
+Pour mémoire les déficiences associées aux déficiences motrices les plus fréquentes sont :
 
-génito-sexuelles et sphinctériennes (chapitre VI, sections 3 et 4) ; 
+génito-sexuelles et sphinctériennes (chapitre VI, sections 3 et 4) ;
 
-respiratoires (chapitre VI, section 2) ; 
+respiratoires (chapitre VI, section 2) ;
 
-du langage et de la parole (chapitre IV) ; 
+du langage et de la parole (chapitre IV) ;
 
-de la fonction d'alimentation (déglutition..., chapitre VI, section 3) ; 
+de la fonction d'alimentation (déglutition..., chapitre VI, section 3) ;
 
-sensorielles (appareil oculaire, chapitre V ; ou auditif, chapitre III) ; 
+sensorielles (appareil oculaire, chapitre V ; ou auditif, chapitre III) ;
 
-comitiales (chapitre I er, section 3) ; 
+comitiales (chapitre I er, section 3) ;
 
-cardio-vasculaires (pour les myopathies par exemple..., chapitre VI, section 1) ; 
+cardio-vasculaires (pour les myopathies par exemple..., chapitre VI, section 1) ;
 
-intellectuelles et / ou psychiques (chapitres I er et II) ; 
+intellectuelles et/ ou psychiques (chapitres I er et II) ;
 
 neurovégétatives (dysrégulation thermique, hypotention artérielle orthostatique) en fonction de leur intensité et de leur
-retentissement. 
+retentissement.
 
 Il faudra également tenir compte des symptômes tels que douleur, ou fatigabilité (propres à certaines affections) en majorant
-le taux d'incapacité en fonction de leur retentissement fonctionnel. 
+le taux d'incapacité en fonction de leur retentissement fonctionnel.
 
-3-APPAREILLAGE 
+3 - APPAREILLAGE
 
 Les taux d'incapacité sont appréciés avant appareillage car les fourchettes proposées prennent déjà en compte les progrès
-réalisés dans le domaine médical et prothétique. 
+réalisés dans le domaine médical et prothétique.
 
 Toutefois l'expert sera amené à utiliser la partie haute de la fourchette indicative ou à majorer les taux lorsque l'appareil
 est mal supporté (douleurs, excoriations fréquentes), ne peut être utilisé que de façon intermittente ou dans certaines
-conditions seulement, ainsi que dans les cas où la prise en charge au titre légal n'est pas totale. 
+conditions seulement, ainsi que dans les cas où la prise en charge au titre légal n'est pas totale.
 
-4-RETENTISSEMENT SOCIOPROFESSIONNEL : ACTES ESSENTIELS ET COURANTS 
+4 - RETENTISSEMENT SOCIOPROFESSIONNEL : ACTES ESSENTIELS ET COURANTS
 
-Le retentissement sur la vie sociale, professionnelle et domestique doit constituer une référence constante pour l'expert ; 
+Le retentissement sur la vie sociale, professionnelle et domestique doit constituer une référence constante pour l'expert ;
 
 toute (s) déficience (s) entraînant la dépendance d'un tiers pour la réalisation d'un ou plusieurs actes essentiels de la vie
-doit être considérée (s) comme une déficience sévère (supérieure ou égale à 80 p. 100). 
+doit être considérée (s) comme une déficience sévère (supérieure ou égale à 80 p. 100).
 
-Ces actes essentiels sont notamment : 
+Ces actes essentiels sont notamment :
 
-les transferts (lever et coucher ; w.-c. ; bain ou douche) ; 
+les transferts (lever et coucher ; w.-c. ; bain ou douche) ;
 
-la toilette du corps et les soins d'apparence ; 
+la toilette du corps et les soins d'apparence ;
 
-l'habillage / déshabillage et la mise en place des éventuels appareillages ; 
+l'habillage/ déshabillage et la mise en place des éventuels appareillages ;
 
-la prise des repas ; 
+la prise des repas ;
 
-les déplacements (marche ou fauteuil roulant). 
+les déplacements (marche ou fauteuil roulant).
 
 La perte de la marche constitue de fait un critère de sévérité de déficience ; mais lorsque la marche, ou la déambulation,
-est possible, il faut apprécier le périmètre de la marche et les aides nécessaires. 
+est possible, il faut apprécier le périmètre de la marche et les aides nécessaires.
 
-Nota.-Le chapitre 7 : Déficience de l'appareil locomoteur, est divisé en cinq sous-chapitres qui ne s'excluent pas, et
+Nota. - Le chapitre 7 : Déficience de l'appareil locomoteur, est divisé en cinq sous-chapitres qui ne s'excluent pas, et
 l'expert s'attachera à apprécier chaque type de déficience séparément (ex. : tenue de la tête, paralysie des membres).
 
-I-DÉFICIENCES DE LA TÊTE 
+I - DÉFICIENCES DE LA TÊTE
 
 On prendra en compte la possibilité de tenue de la tête (déficit moteur, mouvements anormaux...), le retentissement sur la
 mastication, la retenue de salive et les douleurs associées. Le taux variera à l'intérieur de la fourchette en fonction de
-l'importance de chaque élément et de leur éventuelle association. 
+l'importance de chaque élément et de leur éventuelle association.
 
 Les troubles de l'élocution seront appréciés au chapitre 4 ; les problèmes oculaires au chapitre 5 ; les autres troubles de
 la fonction d'alimentation au chapitre 5, section 3. Le retentissement sur la marche sera appréciée séparément, sauf si les
-déficiences de la tête sont isolées et perturbent la déambulation (déficience importante). 
+déficiences de la tête sont isolées et perturbent la déambulation (déficience importante).
 
-1-DÉFICIENCE LÉGÈRE (TAUX : 1 À 20 P. 100) 
+1 - DÉFICIENCE LÉGÈRE (TAUX : 1 À 20 P. 100)
 
-Troubles discrets sans retentissement notable sur l'alimentation, le port de tête, la retenue de salive... 
+Troubles discrets sans retentissement notable sur l'alimentation, le port de tête, la retenue de salive...
 
-2-DÉFICIENCE MODÉRÉE (TAUX : 20 À 40 P. 100) 
+2 - DÉFICIENCE MODÉRÉE (TAUX : 20 À 40 P. 100)
 
-Troubles modérés mais gênant l'alimentation, le port de tête, la retenue de la salive... 
+Troubles modérés mais gênant l'alimentation, le port de tête, la retenue de la salive...
 
-3-DÉFICIENCE IMPORTANTE (TAUX : 50 À 70 P. 100) 
+3 - DÉFICIENCE IMPORTANTE (TAUX : 50 À 70 P. 100)
 
-Troubles gênant de façon importante ou empêchant un des éléments retenus. 
+Troubles gênant de façon importante ou empêchant un des éléments retenus.
 
 Exemple :
 
-- alimentation liquide car mastication impossible ; tenue de tête impossible... (si dépendance d'un tiers : 80 p. 100). 
+- alimentation liquide car mastication impossible ; tenue de tête impossible... (si dépendance d'un tiers : 80 p. 100).
 
-II-DÉFICIENCES DU TRONC 
+II - DÉFICIENCES DU TRONC
 
 Les déficiences du tronc comprennent, quelle qu'en soit l'étiologie (neurologique, rhumatismale, orthopédique, etc.) les
 déficiences motrices du tronc, les troubles de la statique et du tonus, les déviations du rachis, les déficiences discales et
 vertébrales... Le retentissement tiendra compte des douleurs, de la raideur, de la déviation-déformation, de l'étendue des
-lésions. 
+lésions.
 
-Le retentissement cardio-respiratoire éventuel sera apprécié à part (chapitre VI, section 1 et / ou 2) ; le retentissement
-sur la marche sera apprécié séparément sauf si les déficiences du tronc sont isolées (retentissement sur la marche =
-déficience importante ou sévère). 
+Le retentissement cardio-respiratoire éventuel sera apprécié à part (chapitre VI, section 1 et/ ou 2) ; le retentissement sur
+la marche sera apprécié séparément sauf si les déficiences du tronc sont isolées (retentissement sur la marche = déficience
+importante ou sévère).
 
-1-DÉFICIENCE LÉGÈRE (TAUX : 1 À 20 P. 100) 
+1 - DÉFICIENCE LÉGÈRE (TAUX : 1 À 20 P. 100)
 
 Sans retentissement sur la vie sociale, professionnelle et domestique ou sur la réalisation des actes essentiels de la vie
-courante. 
+courante.
 
 Exemple :
 
-- lombalgies simples, déviation minime. 
+- lombalgies simples, déviation minime.
 
-2-DÉFICIENCE MODÉRÉE (TAUX : 20 À 40 P. 100) 
+2 - DÉFICIENCE MODÉRÉE (TAUX : 20 À 40 P. 100)
 
 Ayant un retentissement modéré sur la vie sociale, professionnelle ou domestique ou gênant la réalisation des actes
-essentiels de la vie courante. 
+essentiels de la vie courante.
 
 Exemple :
 
 - lombalgies chroniques ou lombo-sciatalgies gênantes (port de charges) sans raideur importante ou sans retentissement
-professionnel notable, déviation modérée. 
+professionnel notable, déviation modérée.
 
-3-DÉFICIENCE IMPORTANT (TAUX : 50 À 75 P. 100) 
+3 - DÉFICIENCE IMPORTANT (TAUX : 50 À 75 P. 100)
 
 Ayant un retentissement important sur la vie sociale, professionnelle et domestique ou limitant la réalisation de certains
-actes essentiels de la vie courante. 
+actes essentiels de la vie courante.
 
 Exemple :
 
-- raideur et / ou déviation importante, ou reclassement professionnel nécessaire. 
+- raideur et/ ou déviation importante, ou reclassement professionnel nécessaire.
 
-4-DÉFICIENCE SÉVÈRE (TAUX : 80 À 85 P. 100) 
+4 - DÉFICIENCE SÉVÈRE (TAUX : 80 À 85 P. 100)
 
-Rendant les déplacements très difficiles ou impossibles ou empêchant la réalisation d'un ou plusieurs actes essentiels. 
+Rendant les déplacements très difficiles ou impossibles ou empêchant la réalisation d'un ou plusieurs actes essentiels.
 
-III-DÉFICIENCES MÉCANIQUES DES MEMBRES 
+III - DÉFICIENCES MÉCANIQUES DES MEMBRES
 
 Comprend : les raideurs, ankyloses, rétractions (dont cicatricielles), laxités, quelle qu'en soit l'étiologie. On tiendra
-compte du membre dominant ou non en cas d'atteinte unilatérale. 
+compte du membre dominant ou non en cas d'atteinte unilatérale.
 
 Le retentissement sera tout particulièrement apprécié par les difficultés voire l'impossibilité de réaliser seul les actes
-essentiels de la vie. 
+essentiels de la vie.
 
-1-DÉFICIENCE LÉGÈRE (TAUX : 1 À 20 P. 100) 
+1 - DÉFICIENCE LÉGÈRE (TAUX : 1 À 20 P. 100)
 
-Sans retentissement sur la vie sociale, professionnelle et domestique, sur la réalisation des actes de la vie courante. 
+Sans retentissement sur la vie sociale, professionnelle et domestique, sur la réalisation des actes de la vie courante.
 
 Exemple :
 
 - raideur des doigts (selon degré, doigt et mouvement), du poignet, de la prono-supination ; certaines raideurs légères de
-l'épaule, de la cheville, du genou, ou de la hanche. 
+l'épaule, de la cheville, du genou, ou de la hanche.
 
-2-DÉFICIENCE MODÉRÉE (TAUX : 20 À 40 P. 100) 
+2 - DÉFICIENCE MODÉRÉE (TAUX : 20 À 40 P. 100)
 
 Gênant la réalisation de certaines activités de la vie courante, ou ayant un retentissement modéré sur la vie sociale,
-professionnelle et domestique. 
+professionnelle et domestique.
 
 Exemple :
 
 - certaines raideurs du coude, de l'épaule, du poignet, du genou (en particulier avec déviation gênante), de la hanche, de la
-cheville et du pied (déformation majeure appareillée par chaussure orthopédique : 40 p. 100). 
+cheville et du pied (déformation majeure appareillée par chaussure orthopédique : 40 p. 100).
 
-3-DÉFICIENCE IMPORTANTE (TAUX : 50 À 75 P. 100) 
+3 - DÉFICIENCE IMPORTANTE (TAUX : 50 À 75 P. 100)
 
 Limitant la réalisation des activités de la vie courante ou ayant un retentissement important sur la vie sociale,
-professionnelle ou domestique. 
+professionnelle ou domestique.
 
 Exemple :
 
-- enraidissement complet de l'épaule, de la main et du poignet, du genou ou d'une hanche. 
+- enraidissement complet de l'épaule, de la main et du poignet, du genou ou d'une hanche.
 
-4-DÉFICIENCE SÉVÈRE (TAUX : 80 À 90 P. 100) 
+4 - DÉFICIENCE SÉVÈRE (TAUX : 80 À 90 P. 100)
 
 Rendant les déplacements très difficiles ou impossibles ou empêchant certaines activés de la vie courante ou empêchant la
-réalisation d'un ou plusieurs actes essentiels. 
+réalisation d'un ou plusieurs actes essentiels.
 
-Exemple : blocage de plusieurs grosses articulations. 
+Exemple : blocage de plusieurs grosses articulations.
 
-IV-DÉFICIENCES MOTRICES OU PARALYTIQUES DES MEMBRES 
+IV - DÉFICIENCES MOTRICES OU PARALYTIQUES DES MEMBRES
 
 Les déficiences motrices ou paralytiques comprennent, quelle que soit l'étiologie, tous les troubles moteurs, qu'ils soient
-d'origine centrale et / ou périphériques : paralysie, troubles de la commande, incoordination (dont cérébelleuse), dyskinésie
-volitionnelle d'attitude, tremblements, mouvements anormaux (chorée-athétose), troubles du tonus, spasticité / contractures,
-déficit musculaire...). 
+d'origine centrale et/ ou périphériques : paralysie, troubles de la commande, incoordination (dont cérébelleuse), dyskinésie
+volitionnelle d'attitude, tremblements, mouvements anormaux (chorée-athétose), troubles du tonus, spasticité/ contractures,
+déficit musculaire...).
 
 Les troubles sensitifs associés superficiels ou profonds (hypoesthésies, anesthésies, dysesthésies...) et assimilés
 (astéréognosies) feront majorer les taux en fonction de leur importance et de leur localisation (mais par exemple) mais
-peuvent être pris en compte à part entière s'ils sont isolés ou prédominants. 
+peuvent être pris en compte à part entière s'ils sont isolés ou prédominants.
 
-Exemple : certains syndromes de la queue-de-cheval, neuropathie sensitive. 
+Exemple : certains syndromes de la queue-de-cheval, neuropathie sensitive.
 
-1-DÉFICIENCE LÉGÈRE (TAUX : 1 À 20 P. 100) 
+1 - DÉFICIENCE LÉGÈRE (TAUX : 1 À 20 P. 100)
 
-Sans retentissement sur la vie sociale, professionnelle et domestique ou sur la réalisation des actes de la vie courante. 
+Sans retentissement sur la vie sociale, professionnelle et domestique ou sur la réalisation des actes de la vie courante.
 
 Exemple :
 
-- tremblement de repos, certains troubles sensitifs isolés. 
+- tremblement de repos, certains troubles sensitifs isolés.
 
-2-DÉFICIENCE MODÉRÉE (TAUX : 20 À 40 P. 100) 
+2 - DÉFICIENCE MODÉRÉE (TAUX : 20 À 40 P. 100)
 
 Gênant la réalisation de certaines activités de la vie courante ou ayant un retentissement modéré sur la vie sociale,
-professionnelle et domestique. 
+professionnelle et domestique.
 
 Exemple :
 
 - paralysie d'un nerf périphérique du membre supérieur, hémiplégie fruste, trouble de l'équilibre ou incoordination modérée,
-paralysie du sciatique poplité externe... 
+paralysie du sciatique poplité externe...
 
-3-DÉFICIENCE IMPORTANTE (TAUX : 50 À 75 P. 100) 
+3 - DÉFICIENCE IMPORTANTE (TAUX : 50 À 75 P. 100)
 
 Limitant la réalisation de certaines activités de la vie courante ou ayant un retentissement important sur la vie sociale,
-professionnelle et domestique. 
+professionnelle et domestique.
 
 Exemple :
 
 - athétose importante, paralysie complète du plexus brachial, hémiplégie ou paraplégie motrice incomplète permettant une
-marche satisfaisante et indépendante. 
+marche satisfaisante et indépendante.
 
-4-DÉFICIENCE SÉVÈRE (TAUX : 80 À 90 P. 100) 
+4 - DÉFICIENCE SÉVÈRE (TAUX : 80 À 90 P. 100)
 
 Rendant les déplacements très difficiles ou impossibles ou empêchant certaines activités de la vie courante ou empêchant la
-réalisation d'un ou plusieurs actes essentiels. 
+réalisation d'un ou plusieurs actes essentiels.
 
 Exemple :
 
 - para-ou tétraplégie complète sur le plan moteur, hémiplégie massive, athétose sévère, grands syndromes cérébelleux des
 quatre membres.
 
-V-DÉFICIENCES PAR ALTÉRATION DES MEMBRES 
+V - DÉFICIENCES PAR ALTÉRATION DES MEMBRES
 
 Inclus : amputation, raccourcissement ; dans le cas d'une lésion acquise, on prendra en compte l'atteinte du membre dominant,
-appréciée plus favorablement que celle de l'autre membre. 
+appréciée plus favorablement que celle de l'autre membre.
 
-1-DÉFICIENCE LÉGÈRE (TAUX : 1 À 20 P. 100) 
+1 - DÉFICIENCE LÉGÈRE (TAUX : 1 À 20 P. 100)
 
-Sans retentissement sur la vie sociale, professionnelle et domestique ou sur la réalisation des actes de la vie courante. 
+Sans retentissement sur la vie sociale, professionnelle et domestique ou sur la réalisation des actes de la vie courante.
 
 Exemple :
 
-- amputations partielles ou isolées des doigts ou des orteils, raccourcissement minime... 
+- amputations partielles ou isolées des doigts ou des orteils, raccourcissement minime...
 
-2-DÉFICIENCE MODÉRÉE (TAUX : 20 À 40 P. 100) 
+2 - DÉFICIENCE MODÉRÉE (TAUX : 20 À 40 P. 100)
 
 Gênant la réalisation de certaines activités de la vie courante ou ayant un retentissement modéré sur la vie sociale,
-professionnelle ou domestique. 
+professionnelle ou domestique.
 
 Exemple :
 
 - amputation d'un pouce, ou du gros orteil ou de plusieurs doigts ou orteils, de l'avant-pied, raccourcissement gênant
-(boiterie). 
+(boiterie).
 
-3-DÉFICIENCE IMPORTANTE (TAUX : 50 À 75 P. 100) 
+3 - DÉFICIENCE IMPORTANTE (TAUX : 50 À 75 P. 100)
 
 Limitant la réalisation de certaines activités de la vie courante ou ayant un retentissement important sur la vie sociale
-professionnelle ou domestique. 
+professionnelle ou domestique.
 
 Exemple :
 
-- amputation de jambe ou de cuisse (appareillée), ou de l'avant-bras, du coude ou de l'épaule, unilatérale côté non
-dominant. 
+- amputation de jambe ou de cuisse (appareillée), ou de l'avant-bras, du coude ou de l'épaule, unilatérale côté non dominant.
 
-4-DÉFICIENCE SÉVÈRE (TAUX : 80 À 90 P. 100) 
+4 - DÉFICIENCE SÉVÈRE (TAUX : 80 À 90 P. 100)
 
-Rendant les déplacements très difficiles ou impossibles ou empêchant la réalisation d'un ou plusieurs actes essentiels. 
+Rendant les déplacements très difficiles ou impossibles ou empêchant la réalisation d'un ou plusieurs actes essentiels.
 
 Exemple :
 
-- désarticulation de hanche, d'épaule ou du coude dominant ; ou amputation bilatérale des membres supérieurs. 
+- désarticulation de hanche, d'épaule ou du coude dominant ; ou amputation bilatérale des membres supérieurs.
 
-CHAPITRE VIII 
+CHAPITRE VIII
 
-DÉFICIENCES ESTHÉTIQUES 
+DÉFICIENCES ESTHÉTIQUES
 
 Ce chapitre vise à prendre en compte les problèmes d'adaptation sociale rencontrés par les sujets souffrant d'anomalies
-majeures de leur apparence physique, à l'exclusion de l'incapacité fonctionnelle qui pourrait être associée. 
+majeures de leur apparence physique, à l'exclusion de l'incapacité fonctionnelle qui pourrait être associée.
 
 Lorsque ces problèmes morphologiques s'accompagnent d'incapacité fonctionnelle, il conviendra de se reporter au chapitre
-correspondant à la fonction intéressée : 
+correspondant à la fonction intéressée :
 
 Exemples :
 
 - amputation : voir déficiences motrices ;
 
-- énucléation : voir déficiences visuelles. 
+- énucléation : voir déficiences visuelles.
 
-1-DÉFICIENCE ESTHÉTIQUE LÉGÈRE (TAUX : 1 À 10 P. 100) 
+1 - DÉFICIENCE ESTHÉTIQUE LÉGÈRE (TAUX : 1 À 10 P. 100)
 
 Entraînant une gêne et quelques interdits rares mais pas de retentissement notable dans la vie sociale ou professionnelle
-habituelle. 
+habituelle.
 
 Exemples :
 
 - séquelles de brûlure ou cicatrices étendues respectant globalement les parties habituellement découvertes du corps (main,
-face, cou). 
+face, cou).
 
-2-DÉFICIENCE ESTHÉTIQUE MOYENNE (TAUX : 15 À 35 P. 100) 
+2 - DÉFICIENCE ESTHÉTIQUE MOYENNE (TAUX : 15 À 35 P. 100)
 
 Pouvant avoir un retentissement sur la vie sociale et professionnelle du sujet et pouvant entraîner des interdits multiples
-(relations publiques). 
+(relations publiques).
 
 Exemple :
 
 - séquelles de brûlure ou cicatrices étendues atteignant les parties découvertes, en respectant globalement la morphologie
-générale et la mimique faciale. 
+générale et la mimique faciale.
 
-3-DÉFICIENCE ESTHÉTIQUE IMPORTANTE (TAUX : 50 À 60 P. 100) 
+3 - DÉFICIENCE ESTHÉTIQUE IMPORTANTE (TAUX : 50 À 60 P. 100)
 
-Entravant considérablement toute la vie sociale pour le sujet. 
+Entravant considérablement toute la vie sociale pour le sujet.
 
 Exemple :
 
 - séquelles de brûlures ou cicatrices de la face entraînant une défiguration complète par atteinte majeure de la morphologie
-et des orifices, et apportant des troubles notables à la mimique faciale (paupières essentiellement puis bouche, nez). 
+et des orifices, et apportant des troubles notables à la mimique faciale (paupières essentiellement puis bouche, nez).
 
-4-DÉFICIENCE ESTHÉTIQUE SÉVÈRE (TAUX : 65 À 85 P. 100) 
+4 - DÉFICIENCE ESTHÉTIQUE SÉVÈRE (TAUX : 65 À 85 P. 100)
 
 Exemple :
 
@@ -4542,4 +4375,9 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2007-1574 du 6 novembre 2007 - art. 1 (V)
+  - Décret n°2007-1574 du 6 novembre 2007 -  Annexes (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L114-1 (V)
+  - Code de l'action sociale et des familles - art. L241-5 (VT)
