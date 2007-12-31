@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-12-29
+Version Consolidée au 2008-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-9)](#2)
@@ -25751,17 +25751,12 @@ _Cite_:
 ###### Article L314-6
 
 Les conventions collectives de travail, conventions d'entreprise ou d'établissement et accords de retraite applicables aux
-salariés des établissements de santé et des établissements et services sociaux et médico-sociaux à but non lucratif dont les
-dépenses de fonctionnement sont, en vertu de dispositions législatives ou réglementaires, supportées, en tout ou partie,
-directement ou indirectement, soit par des personnes morales de droit public, soit par des organismes de sécurité sociale, ne
-prennent effet qu'après agrément donné par le ministre compétent après avis d'une commission où sont représentés des élus
-locaux et dans des conditions fixées par voie réglementaire. Ces conventions ou accords s'imposent aux autorités compétentes
-en matière de tarification.
-
-Toutefois, en ce qui concerne les établissements de santé, seules les conventions collectives de travail et accords de
-retraite conclus au niveau national font l'objet d'un agrément ministériel. Dans ce cas, l'agrément porte sur le coût total
-de l'engagement financier évalué au niveau national. Les accords de travail conclus au niveau de chaque établissement ne sont
-pas soumis à agrément et ne sont pas opposables à l'autorité de tarification.
+salariés des établissements et services sociaux et médico-sociaux à but non lucratif dont les dépenses de fonctionnement
+sont, en vertu de dispositions législatives ou réglementaires, supportées, en tout ou partie, directement ou indirectement,
+soit par des personnes morales de droit public, soit par des organismes de sécurité sociale, ne prennent effet qu'après
+agrément donné par le ministre compétent après avis d'une commission où sont représentés des élus locaux et dans des
+conditions fixées par voie réglementaire. Ces conventions ou accords s'imposent aux autorités compétentes en matière de
+tarification.
 
 Les ministres chargés de la sécurité sociale et de l'action sociale établissent annuellement, avant le 1er mars de l'année en
 cours, un rapport relatif aux agréments des conventions et accords mentionnés à l'alinéa précédent, pour l'année écoulée, et
@@ -25771,13 +25766,7 @@ financeurs et aux modalités de prise en charge des personnes, qui sont opposabl
 susmentionnées.
 
 Ce rapport est transmis au Parlement, au comité des finances locales et aux partenaires sociaux concernés selon des modalités
-fixées par décret. Ce rapport précise le coût total de l'engagement financier évalué au niveau national et opposable aux
-parties signataires des conventions collectives de travail et accords de retraite applicables aux salariés des établissements
-de santé privés pour l'année en cours.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -25816,7 +25805,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1112 du 1 septembre 2005 - art. 3 () JORF 6 septembre 2005
+  - Loi n°2006-1640 du 21 décembre 2006 - art. 69 (V) JORF 22 décembre 2006 en vigueur le 1er janvier 2008
 
 
 ###### Article L314-7
