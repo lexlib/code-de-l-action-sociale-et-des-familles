@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2008-01-31
+Version Consolidée au 2008-02-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-9)](#2)
@@ -42004,9 +42004,14 @@ _Cité par_:
 
 ###### Article R146-28
 
-L'équipe pluridisciplinaire évalue les besoins de compensation de la personne handicapée en tenant compte des souhaits de la
-personne handicapée, formalisés dans son projet de vie. La maison départementale des personnes handicapées apporte son aide,
-sur leur demande, à la personne handicapée, ou à son représentant légal, pour la confection de ce projet de vie.
+L'équipe pluridisciplinaire évalue les besoins de compensation de la personne handicapée en tenant compte de ses souhaits,
+formalisés dans un projet de vie. Les références mentionnées à l'article L. 146-8 pour l'appréciation de ces besoins sont
+précisées dans un guide d'évaluation prenant en compte l'ensemble de la situation notamment matérielle, familiale, sanitaire,
+scolaire, professionnelle et psychologique de la personne handicapée. Le modèle de ce guide d'évaluation est déterminé par un
+arrêté du ministre chargé des personnes handicapées. 
+
+La maison départementale des personnes handicapées apporte son aide, sur leur demande, à la personne handicapée ou à son
+représentant légal, pour la confection du projet de vie prévu à l'alinéa précédent.
 
 L'équipe pluridisciplinaire détermine, le cas échéant, un taux d'incapacité permanente en application du guide-barème pour
 l'évaluation des déficiences et incapacités des personnes handicapées figurant à l'annexe 2-4 au décret n° 2004-1136 du 21
@@ -42015,17 +42020,10 @@ référentiels prévus par des réglementations spécifiques pour l'accès à ce
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
 _Cite_:
 
-  - Décret n°2004-1136 2004-10-21 annexe 2-4
-
-_Créé par_:
-
-  - Décret n°2005-1587 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+  - Décret n°2004-1136 du 21 octobre 2004 (V)
+  - Code de l'action sociale et des familles - art. L146-8
 
 _Cité par_:
 
@@ -42036,6 +42034,10 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R146-31-1 (V)
   - Code de l'action sociale et des familles - art. R146-31-3 (V)
   - Code de l'éducation - art. R351-22 (V)
+
+_Modifié par_:
+
+  - Décret n°2008-110 du 6 février 2008 - art. 1
 
 
 ###### Article R146-29
