@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2008-02-16
+Version Consolidée au 2008-03-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-9)](#2)
@@ -30837,15 +30837,15 @@ _Cité par_:
 
 ###### Article L422-1
 
-Les articles L. 773-3 à L. 773-11, L. 773-17 à L. 773-23 et L. 773-25 à L. 773-28 du code du travail s'appliquent aux
+Les articles L. 423-3 à L. 423-13, L. 423-15, L. 423-17 à L. 423-22, L. 423-27 à L. 423-33 et L. 423-35 s'appliquent aux
 assistants maternels et aux assistants familiaux employés par des personnes morales de droit public.
 
-Lorsque les assistants familiaux sont employés par le département, les indemnités mentionnées à l'article L. 773-26 du code
-du travail sont fixées par délibération du conseil général.
+Lorsque les assistants familiaux sont employés par le département, les indemnités mentionnées à l'article L. 423-30 sont
+fixées par délibération du conseil général.
 
 **Nota:**
 
-
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -30856,19 +30856,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 IV, V JORF 28 juin 2005
-  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
-  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
-
-_Cite_:
-
-  - Code du travail - art. L773-26 (M)
-  - Code du travail L773-3 à L773-11, L773-17 à L773-23, L773-25 à L773-28, L773-26
+  - Ordonnance 2007-329 2007-03-12 art. 5 3°, 4° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
 
 _Anciens textes_:
 
   - Code de la famille et de l'aide sociale. - art. 123-5 (M)
   - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L423-15 (VD)
+  - Code de l'action sociale et des familles - art. L423-30 (VD)
+  - Code de l'action sociale et des familles - art. L423-35 (VD)
+  - Code de l'action sociale et des familles L423-3 à L423-13, L423-15, L423-17 à L423-22, L423-27 à L423-33, L423-35, L423-30
 
 
 ###### Article L422-2
@@ -30948,12 +30948,12 @@ Ces personnes s'engagent à recevoir immédiatement les enfants présentés par 
 convenu avec lui.
 
 En contrepartie, elles perçoivent, durant les périodes où aucun enfant ne leur est confié, une indemnité de disponibilité
-dont le montant minimum, supérieur à celui de l'indemnité prévue par l'article L. 773-9 du code du travail, est fixé par
-décret en référence au salaire minimum interprofessionnel de croissance.
+dont le montant minimum, supérieur à celui de l'indemnité prévue par l'article L. 423-20, est fixé par décret en référence au
+salaire minimum interprofessionnel de croissance.
 
 **Nota:**
 
-
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -30970,18 +30970,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 IV, VIII JORF 28 juin 2005
-  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
-  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
-
-_Cite_:
-
-  - Code du travail - art. L773-9 (T)
+  - Ordonnance 2007-329 2007-03-12 art. 5 5° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
 
 _Anciens textes_:
 
   - Code de la famille et de l'aide sociale. - art. 123-8 (M)
   - Code de la famille et de l'aide sociale. - art. 123-8 (Ab)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L423-20 (VD)
 
 
 ###### Article L422-5
