@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2008-04-01
+Version Consolidée au 2008-04-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L581-1)](#1)
     - [Livre Ier : Dispositions générales (art. L111-1 à L14-10-9)](#2)
@@ -53587,9 +53587,9 @@ _Cité par_:
 ###### Article R232-32
 
 Lorsque le bénéficiaire de l'allocation personnalisée d'autonomie est hospitalisé dans un établissement de santé pour
-recevoir des soins de courte durée, de suite ou de réadaptation mentionnés aux a et b du 1° de l'article L. 6111-2 du code de
+recevoir des soins de courte durée, de suite et de réadaptation mentionnés aux a et b du 1° de l'article L. 6111-2 du code de
 la santé publique, le service de la prestation est maintenu pendant les trente premiers jours d'hospitalisation ; au-delà, le
-service de l'allocation est suspendu.
+service de l'allocation est suspendu. 
 
 Le service de l'allocation est repris, sans nouvelle demande, à compter du premier jour du mois au cours duquel l'intéressé
 n'est plus hospitalisé dans un des établissements mentionnés au premier alinéa.
@@ -53600,9 +53600,13 @@ _Anciens textes_:
 
   - Décret n°2001-1085 du 20 novembre 2001 - art. 12 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-1136 2004-10-21
+  - Décret n°2008-377 du 17 avril 2008 - art.  1
+
+_Cite_:
+
+  - Code de la santé publique - art. L6111-2
 
 
 ##### Paragraphe 2 : Dispositions particulières à l'allocation à domicile<a id=367></a>
@@ -55276,17 +55280,18 @@ _Cite_:
 Le coût du transport collectif des enfants ou adolescents handicapés pour se rendre dans les établissements d'éducation
 mentionnés à l'article L. 321-1 du code de la sécurité sociale fonctionnant en externat ou semi-internat et en revenir est
 inclus dans les dépenses d'exploitation, quelles que soient les modalités de leur distribution, lorsque ces établissements
-entrent dans l'une des catégories suivantes :
+entrent dans l'une des catégories suivantes : 
 
-1° Les maisons de réadaptation fonctionnelle ;
+1° Les établissements de santé autorisés à dispenser des soins de suite et de réadaptation aux enfants et adolescents en
+application de l'article R. 6123-120 du code de la santé publique ; 
 
-2° Les établissements pour enfant inadaptés ;
+2° Les établissements pour enfant inadaptés ; 
 
-3° Les établissements recevant des mineurs infirmes moteurs cérébraux ;
+3° Les établissements recevant des mineurs infirmes moteurs cérébraux ; 
 
-4° Les établissements recevant des enfants ou adolescents atteints d'infirmités motrices ;
+4° Les établissements recevant des enfants ou adolescents atteints d'infirmités motrices ; 
 
-5° Les établissements recevant des enfants ou adolescents atteints de déficiences sensorielles.
+5° Les établissements recevant des enfants ou adolescents atteints de déficiences sensorielles. 
 
 Il est pris en charge à ce titre par les organismes de sécurité sociale et, éventuellement, par l'aide sociale, à la
 condition que les conditions d'exécution du transport collectif tenant compte notamment du caractère des établissements et de
@@ -55298,13 +55303,14 @@ _Anciens textes_:
 
   - Décret n°77-540 du 27 mai 1977 - art. 1 (Ab)
 
-_Codifié par_:
-
-  - Décret n°2004-1136 2004-10-21
-
 _Modifié par_:
 
-  - Décret n°2005-1589 du 19 décembre 2005 - art. 2 () JORF 20 décembre 2005
+  - Décret n°2008-376 du 17 avril 2008 - art. 2 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R6123-120 (V)
+  - Code de la sécurité sociale. - art. L321-1
 
 _Cité par_:
 
