@@ -182,7 +182,7 @@ Lutter contre l'exclusion bancaire</td>
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
 (1) Le taux de pauvreté monétaire ancré dans le temps est la proportion de personnes vivant dans des ménages dont le revenu,
 net des impôts directs par unité de consommation (niveau de vie), est inférieur à un montant équivalent à 60 % du niveau de
@@ -287,7 +287,7 @@ maladie universelle complémentaire et celui déclaré par les bénéficiaires d
 remboursement des organismes d'assurance maladie complémentaire est le montant restant à la charge de ces ménages par rapport
 à leur revenu moyen par unité de consommation. 
 
-(27) Le nombre de ménages surendettés est le nombre de ménages dont la situation, selon l'article L. 330-1 du code de la
+(27) Le nombre de ménages surendettés est le nombre de ménages dont la situation, selon l'article L. 711-1 du code de la
 consommation, est caractérisée par l'impossibilité manifeste pour le débiteur de bonne foi de faire face à l'ensemble de ses
 dettes non professionnelles exigibles et à échoir. 
 
@@ -304,16 +304,16 @@ la population.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2009-554 du 20 mai 2009 - art.
-
 _Cité par_:
 
   - Décret n°2009-554 du 20 mai 2009 - art. 2 (V)
   - Code de l'action sociale et des familles - art. R542-6 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
+
 _Cite_:
 
-  - Code de la consommation - art. L330-1 (Ab)
+  - Code de la consommation - art. L711-1 (V)
   - Code de l'action sociale et des familles - art. R115-5
