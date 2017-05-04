@@ -405,8 +405,10 @@ autorisés ou de téléassistance.
 5.4.2. La personne morale comportant le cas échéant plusieurs établissements adhère à la charte nationale qualité des
 services à la personne. 
 
-5.4.3. Le gestionnaire procède au moins une fois par an à des contrôles internes portant sur l'application du cahier des
-charges national. Ces contrôles couvrent notamment la mise en œuvre de la charte nationale qualité. 
+5.4.3. Par dérogation au point 5.4.2, l'adhésion à la charte nationale qualité est acquise lorsque les établissements ont
+fait procéder à une certification volontaire par des organismes mentionnés à l'article L. 433-4 du code de la consommation.
+Cette certification doit être fondée sur un référentiel ayant fait l'objet d'un arrêté de reconnaissance d'équivalence avec
+les annexes 3-0 et 3-10 du code de l'action sociale et des familles. 
 
 5.4.4. Le gestionnaire fait procéder au moins une fois par an à une enquête auprès des personnes accompagnées sur leur
 perception de la qualité des interventions. 
@@ -438,12 +440,7 @@ opposables aux contrats conclus entre la personne accompagnée et le service d'a
 
 _Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
-  - Décret n°2016-884 du 29 juin 2016 - art. 2 (V)
-
-_Créé par_:
-
-  - Décret n°2016-502 du 22 avril 2016 - art.
+  - Décret n°2017-705 du 2 mai 2017 - art. 1
 
 _Cite_:
 
@@ -456,13 +453,14 @@ _Cite_:
   - Code de la consommation - art. L221-8 (V)
   - Code de la consommation - art. L221-9 (V)
   - Code de la consommation - art. L232-1 (V)
+  - Code de la consommation - art. L433-4 (V)
   - Code de la consommation - art. R221-1 (V)
   - Code du travail - art. D7233-1 (V)
   - Code de la santé publique - art. L1110-4 (V)
   - Code de l'action sociale et des familles - art. D312-176-10 (V)
   - Code de l'action sociale et des familles - art. D312-176-6 (V)
   - Code de l'action sociale et des familles - art. D312-6 (V)
-  - Code de l'action sociale et des familles - art. L113-1-3 (V)
+  - Code de l'action sociale et des familles - art. L113-1-3
   - Code de l'action sociale et des familles - art. L146-8 (V)
   - Code de l'action sociale et des familles - art. L226-2-1 (V)
   - Code de l'action sociale et des familles - art. L226-2-2 (V)
@@ -470,7 +468,8 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L311-3 (V)
   - Code de l'action sociale et des familles - art. L311-4 (V)
   - Code de l'action sociale et des familles - art. L311-5 (V)
-  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de l'action sociale et des familles - art. L311-5-1 (V)
+  - Code de l'action sociale et des familles - art. L312-1
   - Code de l'action sociale et des familles - art. L313-11-1 (V)
 
 _Cité par_:
