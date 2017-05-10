@@ -1,6 +1,6 @@
 # Article Annexe 2-1
 
-GUIDE D'ÉVALUATION DE LA PERSONNE ÂGÉE EN PERTE D'AUTONOMIE
+Grille nationale AGGIR et son guide de remplissage
 
 <table align="center" border="1" cellpadding="0" cellspacing="1">
   <tbody>
@@ -276,7 +276,7 @@ COHERENCE :
     <tr>
       <td>
 
-converser et/ou se comporter de façon sensée
+converser et/ ou se comporter de façon sensée
 
 </td>
     </tr>
@@ -481,7 +481,7 @@ TRANSPORT :
     <tr>
       <td>
 
-prendre et/ou commander un moyen de transport
+prendre et/ ou commander un moyen de transport
 
 </td>
     </tr>
@@ -1047,29 +1047,26 @@ OBSERVATIONS DE L'EQUIPE MEDICO-SOCIALE
   </tbody>
 </table>
 
-Guide de remplissage de la grille nationale AGGIR
+GUIDE DE REMPLISSAGE DE LA GRILLE AGGIR
 
-Le modèle AGGIR, Autonomie Gérontologique et Groupes lso-Ressources, évalue les activités effectuées ou non par la personne
-seule, et permet de définir des "groupes iso-ressources" rassemblant des individus ayant des niveaux proches de besoins
-d'aides pour accomplir les actes essentiels de la vie quotidienne.
+Le modèle AGGIR, Autonomie gérontologique et groupes iso-ressources, évalue le niveau de réalisation d'activités de
+différentes natures (activités domestiques, sociales, corporelles et mentales) effectuées par une personne âgée seule, sans
+aides humaines, mais le cas échéant avec des aides techniques, quel que soit son lieu de vie, à domicile comme en
+établissement.
 
-La personne, avec l'avancée en âge, est susceptible de présenter une diminution de ses activités domestiques et sociales
-imposant un accompagnement et des aides sociales, une diminution de ses activités corporelles et mentales nécessitant des
-soins de base ou nursing et une poly-pathologie nécessitant des soins de santé ou soins médico-techniques. Le champ du modèle
-AGGIR se limite aux activités domestiques, sociales, corporelles et mentales et exclut les pathologies qui relèvent d'un
-autre outil d'évaluation.
+Il permet une description synthétique des difficultés rencontrées par une personne dans la réalisation de différentes
+activités de la vie courante à partir des questions suivantes : la personne fait-elle ? Si non, pourquoi ? Le peut-elle ? Le
+veut-elle ?
 
-A un moment donné, une personne peut présenter une affection évolutive sans handicaps, présenter une affection évolutive et
-un handicap, être handicapée sans pathologie évolutive, ou le plus souvent ne présenter ni affection évolutive et ni
-handicaps.
+Ce modèle permet de définir des “ groupes iso-ressources ” utilisés pour déterminer l'éligibilité à l'allocation
+personnalisée d'autonomie à domicile comme en établissement.
 
-Le modèle AGGIR n'est qu'un des éléments de l'ensemble des informations (histoire, état de santé, contexte psychologique,
-environnement physique, humain et matériel...) indispensable à la mise en place d'un plan d'aides et de soins personnalisés.
+En établissement d'hébergement pour personnes âgées dépendantes, le modèle AGGIR est complété par le modèle Pathos qui évalue
+les niveaux de soins nécessaires.
 
-Il constitue un bon instrument de description synthétique des problèmes qui se posent dans les différentes activités de la
-vie courante d'une personne, permettant de se poser les bonnes questions : la personne fait-elle ? Si non pourquoi ? Le peut-
-elle ? Le veut-elle ?... C'est la description des activités mentales, corporelles, motrices, domestiques et sociales qui
-permet de déterminer les compensations, les aides (matérielles, animales, humaines) et les services à mettre en place.
+A domicile, le modèle AGGIR constitue l'une des dimensions du référentiel d'évaluation multidimensionnelle, prévu à l'article
+L. 232-6, et contribue ainsi, avec les autres dimensions, à l'évaluation de la situation et des besoins de la personne âgée,
+préalable à l'élaboration d'un plan d'aide.
 
 Les activités analysées dans le modèle AGGIR
 
@@ -5076,10 +5073,6 @@ domestiques.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2008-821 du 21 août 2008 - art.
-
 _Cité par_:
 
   - Décret n°2013-1090 du 2 décembre 2013 - art. 3 (V)
@@ -5087,3 +5080,11 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R232-3 (V)
   - Code de l'action sociale et des familles - art. R232-41 (V)
   - Code de l'action sociale et des familles - art. R314-186-2 (M)
+
+_Modifié par_:
+
+  - Décret n°2017-882 du 9 mai 2017 - art. 5
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L232-6
