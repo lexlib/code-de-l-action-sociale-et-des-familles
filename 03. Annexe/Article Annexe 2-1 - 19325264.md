@@ -1,8 +1,8 @@
 # Article Annexe 2-1
 
-GUIDE D'ÉVALUATION DE LA PERSONNE ÂGÉE EN PERTE D'AUTONOMIE
+Grille nationale AGGIR et son guide de remplissage
 
-<table border="1" align="center" cellspacing="1" cellpadding="0">
+<table cellspacing="1" cellpadding="0" align="center" border="1">
   <tbody>
     <tr>
       <td>
@@ -89,7 +89,7 @@ Médecin traitant :
 
 .
 
-<table border="1" cellspacing="1" cellpadding="0" align="center">
+<table border="1" cellpadding="0" align="center" cellspacing="1">
   <thead>
     <tr>
       <td colspan="4">
@@ -255,7 +255,7 @@ autres (précisez)
 
 GRILLE NATIONALE AGGIR
 
-<table cellspacing="1" cellpadding="0" border="1" align="center">
+<table align="center" cellspacing="1" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td colspan="2">
@@ -276,7 +276,7 @@ COHERENCE :
     <tr>
       <td>
 
-converser et/ou se comporter de façon sensée
+converser et/ ou se comporter de façon sensée
 
 </td>
     </tr>
@@ -411,7 +411,7 @@ utiliser les moyens de communication, téléphone, sonnette, alarme...
 
 .
 
-<table border="1" align="center" cellpadding="0" cellspacing="1">
+<table cellspacing="1" cellpadding="0" border="1" align="center">
   <thead>
     <tr>
       <td colspan="2">
@@ -481,7 +481,7 @@ TRANSPORT :
     <tr>
       <td>
 
-prendre et/ou commander un moyen de transport
+prendre et/ ou commander un moyen de transport
 
 </td>
     </tr>
@@ -532,7 +532,7 @@ activités sportives, culturelles, sociales, de loisir ou de passe-temps
 
 GROUPE ISO-RESSOURCES
 
-<table border="1" cellspacing="1" align="center" cellpadding="0">
+<table cellspacing="1" border="1" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td colspan="3">
@@ -634,7 +634,7 @@ les vacances
 
 HABITAT
 
-<table border="1" align="center" cellpadding="0" cellspacing="1">
+<table align="center" cellspacing="1" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td rowspan="5">
@@ -811,7 +811,7 @@ logement insalubre
 
 .
 
-<table cellspacing="1" border="1" align="center" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="1" align="center">
   <thead>
     <tr>
       <td colspan="3">
@@ -1035,7 +1035,7 @@ autres (précisez)
   </tbody>
 </table>
 
-<table align="center" border="1" cellpadding="0">
+<table border="1" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td>
@@ -1047,36 +1047,33 @@ OBSERVATIONS DE L'EQUIPE MEDICO-SOCIALE
   </tbody>
 </table>
 
-Guide de remplissage de la grille nationale AGGIR
+GUIDE DE REMPLISSAGE DE LA GRILLE AGGIR
 
-Le modèle AGGIR, Autonomie Gérontologique et Groupes lso-Ressources, évalue les activités effectuées ou non par la personne
-seule, et permet de définir des "groupes iso-ressources" rassemblant des individus ayant des niveaux proches de besoins
-d'aides pour accomplir les actes essentiels de la vie quotidienne.
+Le modèle AGGIR, Autonomie gérontologique et groupes iso-ressources, évalue le niveau de réalisation d'activités de
+différentes natures (activités domestiques, sociales, corporelles et mentales) effectuées par une personne âgée seule, sans
+aides humaines, mais le cas échéant avec des aides techniques, quel que soit son lieu de vie, à domicile comme en
+établissement.
 
-La personne, avec l'avancée en âge, est susceptible de présenter une diminution de ses activités domestiques et sociales
-imposant un accompagnement et des aides sociales, une diminution de ses activités corporelles et mentales nécessitant des
-soins de base ou nursing et une poly-pathologie nécessitant des soins de santé ou soins médico-techniques. Le champ du modèle
-AGGIR se limite aux activités domestiques, sociales, corporelles et mentales et exclut les pathologies qui relèvent d'un
-autre outil d'évaluation.
+Il permet une description synthétique des difficultés rencontrées par une personne dans la réalisation de différentes
+activités de la vie courante à partir des questions suivantes : la personne fait-elle ? Si non, pourquoi ? Le peut-elle ? Le
+veut-elle ?
 
-A un moment donné, une personne peut présenter une affection évolutive sans handicaps, présenter une affection évolutive et
-un handicap, être handicapée sans pathologie évolutive, ou le plus souvent ne présenter ni affection évolutive et ni
-handicaps.
+Ce modèle permet de définir des “ groupes iso-ressources ” utilisés pour déterminer l'éligibilité à l'allocation
+personnalisée d'autonomie à domicile comme en établissement.
 
-Le modèle AGGIR n'est qu'un des éléments de l'ensemble des informations (histoire, état de santé, contexte psychologique,
-environnement physique, humain et matériel...) indispensable à la mise en place d'un plan d'aides et de soins personnalisés.
+En établissement d'hébergement pour personnes âgées dépendantes, le modèle AGGIR est complété par le modèle Pathos qui évalue
+les niveaux de soins nécessaires.
 
-Il constitue un bon instrument de description synthétique des problèmes qui se posent dans les différentes activités de la
-vie courante d'une personne, permettant de se poser les bonnes questions : la personne fait-elle ? Si non pourquoi ? Le peut-
-elle ? Le veut-elle ?... C'est la description des activités mentales, corporelles, motrices, domestiques et sociales qui
-permet de déterminer les compensations, les aides (matérielles, animales, humaines) et les services à mettre en place.
+A domicile, le modèle AGGIR constitue l'une des dimensions du référentiel d'évaluation multidimensionnelle, prévu à l'article
+L. 232-6, et contribue ainsi, avec les autres dimensions, à l'évaluation de la situation et des besoins de la personne âgée,
+préalable à l'élaboration d'un plan d'aide.
 
 Les activités analysées dans le modèle AGGIR
 
 Le modèle AGGIR comporte 10 variables d'activité corporelle et mentale (dites discriminantes) et 7 variables d'activité
 domestique et sociale (dites illustratives) :
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -1229,7 +1226,7 @@ difficulté pour les déplacements à la condition que ces déplacements répond
 Pour chacune des variables et sous variables il convient d'évaluer adverbe par adverbe chaque activité, puis seulement dans
 un deuxième temps, en fonction de la réponse aux adverbes, de coder la variable par A, B ou C.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td rowspan="4">
@@ -1496,7 +1493,7 @@ on observe des personnes ne faisant pas les transferts mais qui, une fois levée
 Un matériel adapté peut permettre d'assurer les transferts en toute indépendance : lit à hauteur variable, potences, sièges
 adaptés...
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -1539,7 +1536,7 @@ doit intervenir ou être présent pour tous les transferts.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -1830,7 +1827,7 @@ réelles à ce niveau (l'intervention de la pédicure n'est pas évaluée ici).
 
 Les questions sont identiques pour chacune des deux sous-variables :
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table cellpadding="0" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -1873,7 +1870,7 @@ en totalité et à chaque fois.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -1975,7 +1972,7 @@ CODAGE FINAL
 Si les modalités des deux sous-variables Toilette du haut et Toilette du bas sont A, la modalité de Toilette est A, si elles
 sont C, la modalité de Toilette est C, dans tous les autres cas, la modalité de Toilette est B.
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -2053,7 +2050,7 @@ Elle se décompose en deux parties : l'élimination urinaire et l'élimination f
 
 Les questions sont identiques pour chacune des deux sous-variables :
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -2096,7 +2093,7 @@ totalité et à chaque fois.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -2199,7 +2196,7 @@ Si les modalités de Elimination urinaire et de Elimination anale sont A, la mod
 Elimination est C si la modalité de Elimination urinaire OU si la modalité de Elimination anale est C. Dans tous les autres
 cas la modalité est B.
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -2360,7 +2357,7 @@ excluant donc les bas de contentions ayant fait l'objet d'une prescription médi
 
 Les questions sont identiques pour chacune des trois sous-variables :
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -2403,7 +2400,7 @@ en totalité et à chaque fois.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -2509,7 +2506,7 @@ CODAGE FINAL
 Si les modalités des trois sous-variables Habillage du haut, Habillage moyen et Habillage du bas sont A, la modalité de
 Habillage est A, si elles sont C, la modalité de Habillage est C, dans tous les autres cas, la modalité de Habillage est B.
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -2578,7 +2575,7 @@ Cette variable ne porte pas sur la vaisselle qui est prise en compte dans les ac
 pris en compte dans la variable Achats, ni sur le respect des régimes ordonnancés évalué dans la variable Suivi du
 traitement.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -2737,7 +2734,7 @@ Pour une personne qui est servie à la salle à manger, dans sa chambre ou dans 
 commence au moment où elle prépare les aliments, tels qu'ils sont conditionnés, avant de les porter à sa bouche et de les
 avaler.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -2781,7 +2778,7 @@ Un tiers assume cette activité en totalité et à chaque repas.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -2881,7 +2878,7 @@ C'est porter les aliments et les boissons à sa bouche et avaler.
 Exceptionnellement, une personne âgée peut être porteuse d'une sonde gastrique et le fait d'en assumer ou non la gestion est
 évalué dans cette variable.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -2924,7 +2921,7 @@ du repas y compris les boissons.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -3123,7 +3120,7 @@ Code □
 
 C'est respecter l'ordonnance du médecin et gérer soi-même son traitement.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -3166,7 +3163,7 @@ le suivi du traitement.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table cellpadding="0" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -3284,7 +3281,7 @@ qui est propre et ordonné mais selon d'autres règles culturelles.
 Etant donné la complexité, le volume et l'importance des activités entrant dans ce domaine, il n'est pas surprenant qu'elles
 ne soient pas toutes réalisées à un âge avancé.
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -3327,7 +3324,7 @@ l'entourage ou des professionnels.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -3427,7 +3424,7 @@ code B.
 C'est utiliser un moyen de communication à distance : téléphone, alarme, sonnette, télé-alarme... dans le but d'alerter en
 cas de besoin.
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table cellpadding="0" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -3470,7 +3467,7 @@ d'alerte fiable est absent.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -3578,7 +3575,7 @@ pas se déplacer à l'extérieur.
 
 L'utilisation des moyens de transport est appréciée par la variable Transports.
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -3720,7 +3717,7 @@ code B.
 
 C'est utiliser volontairement un moyen de transport collectif ou individuel.
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -3763,7 +3760,7 @@ difficilement.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -3867,7 +3864,7 @@ PRÉCISIONS
 
 Il ne s'agit pas d'évaluer la qualité culturelle, intellectuelle ou physique des activités.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -3909,7 +3906,7 @@ Elle n'occupe jamais son temps seule, même partiellement, sans sollicitation et
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -4009,7 +4006,7 @@ code B.
 
 C'est l'acquisition volontaire de biens, de manière directe ou par correspondance.
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -4052,7 +4049,7 @@ difficultés.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -4162,7 +4159,7 @@ PRÉCISIONS
 
 Les achats sont évalués dans une autre rubrique (Achats)
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -4205,7 +4202,7 @@ totalité par des tiers.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -4319,7 +4316,7 @@ L'orientation se décompose donc en deux sous-variables :
 
 Orientation dans le temps
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -4362,7 +4359,7 @@ le temps.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -4501,7 +4498,7 @@ Elle ne sait jamais où elle se trouve quel que soit le lieu.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table cellpadding="0" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -4604,7 +4601,7 @@ Si les modalités des deux sous-variables Orientation dans le temps et Orientati
 Orientation est A. Si l'une des deux sous-variables est C, la modalité de Orientation est C. Dans les autres cas, la modalité
 est B.
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -4686,7 +4683,7 @@ Communication
 Cette sous-variable évalue si la personne a un système de communication fiable et suffisamment complexe pour communiquer dans
 la vie quotidienne avec autrui.
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -4728,7 +4725,7 @@ Elle ne le fait jamais seule, même partiellement. Sa communication avec autrui 
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table cellpadding="0" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -4829,7 +4826,7 @@ tendance visant à nuire à l'autre, à l'humilier ou à le détruire et/ou ne p
 contre elle-même, si elle réagit de façon adaptée devant une situation dangereuse pour elle même ou pour les autres et si
 elle ajuste ses réactions aux lois et aux conventions sociales de courtoisie habituelle dans notre société.
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -4872,7 +4869,7 @@ dans notre société.
 Une réponse positive à "Ne fait pas" correspond au codage C et une réponse négative impose de documenter les adverbes ci-
 dessous.
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -4975,7 +4972,7 @@ CODAGE FINAL :
 Si les modalités des deux sous-variables Communication et Comportement sont A, la modalité de Cohérence est A. Si l'une des
 deux sous-variables est C, la modalité de Cohérence est C. Dans les autres cas, la modalité de Cohérence est B.
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -5076,10 +5073,6 @@ domestiques.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2008-821 du 21 août 2008 - art.
-
 _Cité par_:
 
   - Décret n°2013-1090 du 2 décembre 2013 - art. 3 (V)
@@ -5087,3 +5080,11 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R232-3 (V)
   - Code de l'action sociale et des familles - art. R232-41 (V)
   - Code de l'action sociale et des familles - art. R314-186-2 (M)
+
+_Modifié par_:
+
+  - Décret n°2017-882 du 9 mai 2017 - art. 5
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L232-6
