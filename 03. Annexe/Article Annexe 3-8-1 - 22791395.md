@@ -523,7 +523,7 @@ Litiges
 En cas de litige, les parties au contrat recherchent un accord amiable en ayant recours, le cas échéant, aux services du
 tiers régulateur.
 
-Le contentieux est ouvert devant le tribunal d'instance du lieu de résidence de l'accueillant familial.
+Le contentieux est ouvert devant le tribunal judiciaire du lieu de résidence de l'accueillant familial.
 
 Article 12
 
@@ -635,11 +635,16 @@ Le remplaçant
 
 (*) En cas d'agrément d'un couple, les deux membres doivent signer.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - RECTIFICATION: Décret n°2010-928 du 3 août 2010, v. init.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 

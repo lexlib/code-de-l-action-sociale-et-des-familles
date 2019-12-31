@@ -87,9 +87,7 @@ A temps partiel (2)</td>
 
 (1) Préciser le motif de l'accueil temporaire : vacances, retour d'hospitalisation, congés de l'accueillant familial...
 
-(2) Préciser si l'accueil à temps partiel est un accueil de jour, séquentiel : de semaine hors week-end, de week-end...
-
-</td>
+(2) Préciser si l'accueil à temps partiel est un accueil de jour, séquentiel : de semaine hors week-end, de week-end...</td>
     </tr>
   </tbody>
 </table>
@@ -325,7 +323,7 @@ La personne morale employeur de l'accueillant familial gère les différends qui
 familial et la personne accueillie sur les modalités d'accueil. La personne morale employeur informe le conseil général
 lorsque ce différend entre dans le champ d'application de l'agrément.
 
-Le tribunal d'instance est compétent pour les litiges relatifs au présent contrat entre l'accueillant familial et la personne
+Le tribunal judiciaire est compétent pour les litiges relatifs au présent contrat entre l'accueillant familial et la personne
 accueillie.
 
 B. - Relations entre la personne accueillie et la personne morale, employeur de l'accueillant familial (le cas échéant)
@@ -507,7 +505,7 @@ due jusqu'à la date de libération de la pièce mise à disposition (4).
 (3) Les déplacements assurés par l'accueillant familial sont précisés en annexe. (4) La pièce mise à disposition est libérée
 dans un délai maximum de 15 jours.
 
-<font color="#000000" size="1">Article 10 </font>
+<font color="#000000">Article 10 </font>
 
 Responsabilité
 
@@ -529,7 +527,7 @@ Article 12
 Litiges entre la personne morale et la personne accueillie
 
 En cas de litige portant sur les conditions financières et matérielles prévues au présent contrat entre la personne
-accueillie et la personne morale employeur, le contentieux est porté devant le tribunal d'instance du lieu d'accueil.
+accueillie et la personne morale employeur, le contentieux est porté devant le tribunal judiciaire du lieu d'accueil.
 
 C.-Disposition finale
 
@@ -639,11 +637,16 @@ La personne accueillie
 
 Le remplaçant
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - RECTIFICATION: Décret n°2010-928 du 3 août 2010, v. init.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
