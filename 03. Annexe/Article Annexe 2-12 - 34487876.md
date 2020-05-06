@@ -125,8 +125,9 @@ En fonction des autres signataires, la convention cadre peut comporter les dispo
 **Le pilotage local :**
 
 La convention cadre prévoit les modalités de gouvernance et de pilotage de cette action. Ce pilotage peut s'inscrire dans les
-missions du groupe technique départemental prévu à l'article D. 312-10-13 du CASF. Dans ce cas, une commission dédiée,
-réunissant les signataires de la convention cadre et les représentants des usagers et de leurs familles, est instituée.
+missions du comité départemental de suivi de l'école inclusive prévu à l'article D. 312-10-13 du CASF. Dans ce cas, une
+commission dédiée, réunissant les signataires de la convention cadre et les représentants des usagers et de leurs familles,
+est instituée.
 
 _La mobilisation d'au moins trois modalités d'accompagnement (internat, accueil de jour, SESSAD)_
 
@@ -400,26 +401,18 @@ gestion de la prestation.
 _Cite_:
 
   - Loi n°2002-2 du 2 janvier 2002
-  - Loi n°2016-41 du 26 janvier 2016 - art. 91
-  - Code de l'éducation - art. D351-10
-  - Code de l'éducation - art. D351-10-1
+  - Code de l'éducation
   - Code de l'éducation - art. D351-10-2
-  - Code de l'éducation - art. D351-10-3
   - Code de l'éducation - art. D351-6
   - Code de l'éducation - art. L112-2-1
-  - Code de l'action sociale et des familles - art. Annexe 2-13
-  - Code de l'action sociale et des familles - art. D312-10-13
-  - Code de l'action sociale et des familles - art. D312-59-1
-  - Code de l'action sociale et des familles - art. D312-59-5
-  - Code de l'action sociale et des familles - art. L114-1-1
-  - Code de l'action sociale et des familles - art. L241-6
+  - Code de la sécurité sociale.
+  - Code de l'action sociale et des familles
   - Code de l'action sociale et des familles - art. L312-1
   - Code de l'action sociale et des familles - art. L312-7-1
-  - Code de l'action sociale et des familles - art. L313-12-2
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-620 du 24 avril 2017 - art.
+  - Décret n°2020-515 du 4 mai 2020 - art. 2
 
 _Cité par_:
 
